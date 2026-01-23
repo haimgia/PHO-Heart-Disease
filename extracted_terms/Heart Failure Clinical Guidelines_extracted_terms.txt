@@ -1,0 +1,5301 @@
+Page 1 Extracted Terms:
+- Heart Failure  
+- Heart disease  
+- Cardiovascular disease  
+- AHA (American Heart Association)  
+- ACC (American College of Cardiology)  
+- HFSA (Heart Failure Society of America)  
+- American Heart Association/American College of Cardiology/Heart Failure Society of America (AHA/ACC/HFSA)  
+- 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure  
+- 2013 ACCF/AHA Guideline for the Management of Heart Failure  
+- 2017 ACC/AHA/HFSA Focused Update of the 2013 Guideline  
+- Clinical Practice Guidelines  
+- Evidence‑based recommendations  
+- Patient‑centric recommendations  
+- Prevention of heart failure  
+- Diagnosis of heart failure  
+- Management of heart failure  
+- Morbidity and mortality related to heart failure  
+- Quality of care in heart failure  
+- Economic analysis of heart failure treatments  
+- Clinical trials and research studies in heart failure  
+
+
+
+
+Page 2 Extracted Terms:
+- heart failure  
+- heart failure with reduced ejection fraction (HFrEF)  
+- heart failure with preserved ejection fraction (HFpEF)  
+- heart failure with mildly reduced ejection fraction (HFmrEF)  
+- systolic heart failure  
+- chronic heart failure  
+- acute decompensated heart failure  
+- cardiogenic shock  
+- cardiac failure  
+- heart failure rehabilitation  
+- beta blockers  
+- mineralocorticoid receptor antagonists (MRAs)  
+- ACE inhibitors (ACEi)  
+- angiotensin receptor blockers (ARBs)  
+- angiotensin‑neprilysin receptor antagonist (ARNi)  
+- sacubitril/valsartan  
+- sodium‑glucose cotransporter‑2 inhibitors (SGLT2i)  
+- cardiac amyloidosis  
+- atrial fibrillation  
+- congestive heart failure  
+- guideline‑directed medical therapy (GDMT)  
+- cardiomyopathy  
+- valvular heart disease  
+- mitral regurgitation  
+- cardiac imaging (echocardiography, MRI, CT, etc.)  
+- invasive cardiac evaluation (catheterization)  
+- biomarkers for heart failure (BNP, NT‑proBNP)  
+- diuretics and decongestion strategies  
+- hydralazine and isosorbide dinitrate  
+- ivabradine  
+- digoxin  
+- soluble guanylyl‑cyclase stimulators  
+- implantable cardioverter‑defibrillators (ICDs)  
+- cardiac resynchronization therapy (CRTs)  
+- revascularization for coronary artery disease (CAD)  
+- right‑heart pressure assessment  
+- exercise and functional capacity testing (6‑minute walk, CPET)  
+- cardiac rehabilitation  
+- dietary sodium restriction  
+- self‑care support in heart failure  
+- Stage A (at‑risk) heart failure  
+- Stage B (pre‑clinical HF)  
+- Stage C (symptomatic HF)  
+- heart failure with mildly reduced ejection fraction (HFmrEF)  
+- heart failure with improved ejection fraction (HFimpHF)  
+- HF risk scoring  
+- wearable and remote monitoring technologies  
+- wearables, telemonitoring, device monitoring  
+- cardiogenic shock management  
+- cardiac amyloidosis management  
+- cardio‑oncology considerations  
+- social determinants of health (contextual factor)  
+- palliative care for advanced heart failure  
+
+
+
+Page 3 Extracted Terms:
+**Key heart‑disease terms identified in the guideline excerpt**
+
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with mildly reduced ejection fraction (HFmrEF)  
+- Preserved EF (HFpEF)  
+- Ejection fraction (EF)  
+- Systolic/diastolic function  
+- Cardiac amyloidosis (amyloid heart disease)  
+- Screening for serum and urine monoclonal light chains  
+- Bone scintigraphy (for amyloidosis)  
+- Genetic sequencing (for amyloidosis)  
+- Tetramer stabilizer therapy (for amyloidosis)  
+- Anticoagulation (for amyloidosis)  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2i)  
+- ARA–neprilysin inhibitor (ARNi)  
+- Angiotensin‑converting enzyme inhibitor (ACEi)  
+- Angiotensin receptor blocker (ARB)  
+- Mineralocorticoid receptor antagonist (MRA)  
+- β‑blockers  
+- Nitrates (routine use contraindicated, class III)  
+- Phosphodiesterase‑5 inhibitors (class III)  
+- Natriuretic peptides (BNP, NT‑proBNP)  
+- Hemodynamic measurement (invasive filling pressures)  
+- Non‑invasive filling pressure assessment (diastolic imaging)  
+- Advanced HF (Stage D)  
+- Mechanical circulatory support (e.g., LVAD)  
+- Inotropic support (e.g., dobutamine, milrinone)  
+- Cardiac transplantation  
+- Cardiogenic shock  
+- Venous thromboembolism (VTE) prophylaxis  
+- Atrial fibrillation (AF) management  
+- Cardio‑oncology (cancer therapy‑related cardiac disease)  
+- Heart failure during pregnancy  
+- Palliative and supportive care (advanced HF)  
+- Primary prevention for HF stages A/B  
+- Quality metrics and patient‑reported outcomes  
+- Evidence gaps and future research directions  
+
+These terms encompass the diagnostic, therapeutic, and management concepts related to heart disease outlined in the provided guideline text.
+
+Page 4 Extracted Terms:
+- Heart Failure (HF)  
+- “At risk” for HF (Stage A)  
+- Pre‑HF (Stage B)  
+- Iron deficiency  
+- Anemia  
+- Hypertension  
+- Sleep disorders  
+- Type 2 diabetes  
+- Atrial fibrillation  
+- Coronary artery disease  
+- Malignancy  
+- Cardiovascular disease (CVD)  
+- AHA/ACC/HFSA Heart Failure Guideline  
+- Clinical practice guidelines  
+- Cardiovascular health  
+- Shared decision‑making  
+- Patient engagement  
+- Evidence‑based methodologies  
+- Value assessment of drug/device/intervention  
+
+Page 5 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Heart failure  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with mildly reduced ejection fraction  
+- Systolic heart failure  
+- Diastolic (preserved‑ejection) heart failure  
+- Chronic heart failure  
+- Acute decompensated heart failure  
+- Cardiogenic shock  
+- Cardiac amyloidosis  
+- Valvular heart disease  
+- Mitral regurgitation  
+- Cardiomyopathy (general)  
+- Cardiomyopathy in pregnancy  
+- Right‑heart pressure / right‑ventricular dysfunction  
+- Atrial fibrillation  
+- Congestive heart failure  
+- Reduced ejection fraction  
+- Guideline‑directed medical therapy (GDMT)  
+- Beta‑blockers  
+- Mineralocorticoid‑receptor antagonists  
+- ACE‑inhibitors  
+- Angiotensin‑and‑neprilysin receptor antagonist (sacubitril/valsartan)  
+- Angiotensin‑receptor antagonist  
+- Sodium‑glucose co‑transporter‑2 (SGLT2) inhibitors  
+- Diabetes mellitus (as a comorbid condition in heart disease)  
+- Palliative care (in the context of advanced heart failure)
+
+These terms capture the principal cardiac conditions, therapeutic categories, and relevant comorbidities highlighted in the guideline excerpt.
+
+Page 6 Extracted Terms:
+- Heart Failure (HF)  
+- Stage C heart failure  
+- Stage D heart failure  
+- Prevention of heart failure  
+- New heart failure treatment strategies (SGLT2 inhibitors, ARNI)  
+- Atrial fibrillation (AF)  
+- Mitral regurgitation (MR)  
+- Mitral valve (MV) clipping  
+- MV transcatheter edge‑to‑edge repair  
+- Cardiac amyloidosis  
+- Cardio‑oncology  
+- Implantable devices  
+- Left ventricular assist device (LVAD)  
+- Angiotensin‑converting enzyme inhibitor (ACEi)  
+- Acute coronary syndrome (ACS)  
+- Angiotensin‑receptor neprilysin inhibitor (ARNI)  
+- Angiotensin (II) receptor blocker (ARB)  
+- Amyloid cardiomyopathy (AL‑CM)  
+- Transthyretin amyloid cardiomyopathy (ATTR‑CM)  
+- Variant transthyretin amyloidosis (ATTRv)  
+- Wild‑type transthyretin amyloidosis (ATTRwt)  
+- B‑type natriuretic peptide (BNP)  
+- Coronary artery bypass graft (CABG)  
+- Coronary artery disease (CAD)  
+- Cardiac contractility modulation (CCM)  
+- Congestive heart failure (CHF)  
+- Cardiovascular magnetic resonance (CMR)  
+- Cardiopulmonary exercise test (CPET)  
+- Cardiac resynchronization therapy (CRT)  
+- CRT‑D (CRT with defibrillation)  
+- CRT‑P (CRT with pacemaker)  
+- Central venous pressure (CVP)  
+- Direct‑acting oral anticoagulants (DOAC)  
+- Electrocardiogram (ECG)  
+- Ejection fraction (EF)  
+- Heart failure with improved ejection fraction (HFimpEF)  
+- Heart failure with mildly reduced ejection fraction (HFmrEF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Left bundle branch block (LBBB)  
+- Left ventricle (LV)  
+- Left ventricular assist device (LVAD)  
+- Left ventricular end‑diastolic volume (LVEDV)  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular hypertrophy (LVH)  
+- Guideline‑directed medical therapy (GDMT)
+
+Page 7 Extracted Terms:
+- Heart Failure (HF)  
+- Structural heart disease  
+- Cardiomyopathies  
+- Stages of HF (Stage A, Stage B, Stage C, Stage D)  
+- ACC/AHA stages of HF  
+- New York Heart Association (NYHA) Classification  
+- NYHA functional classes (I, II, III, IV)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- HF with reduced ejection fraction (HFrEF)  
+- HF with preserved ejection fraction (HFpEF)  
+- Biomarkers (e.g., NT‑proBNP, other natriuretic peptides)  
+- Elevated filling pressures  
+- Mechanical circulatory support (MCS)  
+- Myocardial infarction (MI)  
+- Mitral regurgitation (MR)  
+- Mitral valve (MV)  
+- Mineralocorticoid receptor antagonist (MRA)  
+- Non‑steroidal anti‑inflammatory drug (NSAID)  
+- Nonsustained ventricular tachycardia (NSVT)  
+- Renin‑angiotensin‑aldosterone system (RAAS)  
+- RAAS inhibitors (RAASi)  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2i)  
+- Transcatheter mitral edge‑to‑edge repair (TEER)  
+- Transthoracic echocardiogram (TTE)  
+- Ventricular arrhythmia (VA)  
+- Ventricular fibrillation (VF)  
+- Ventricular tachycardia (VT)  
+- Valvular heart disease (VHD)  
+- Right atrial (RA)  
+- Right ventricular (RV)  
+- Pulmonary artery (PA)  
+- Pulmonary capillary wedge pressure (PCWP)  
+- Oxygen consumption/oxygen uptake (VO₂)  
+- Sudden cardiac death (SCD)  
+- Quality‑adjusted life year (QALY)  
+- Quality of life (QOL)  
+- Randomized controlled trial (RCT)  
+- Single photon emission CT (SPECT)  
+- Positron emission tomography (PET)  
+- Technetium‑pyrophosphate (¹⁰¹⁹Tc‑PYP)  
+- Peroxisome proliferator‑activated receptor γ (PPAR‑γ)  
+- Polyunsaturated fatty acid (PUFA)
+
+Page 8 Extracted Terms:
+- Coronary Artery Bypass Graft Surgery  
+- Coronary Artery Revascularization  
+- Percutaneous Coronary Intervention  
+- Valvular Heart Disease  
+- Hypertrophic Cardiomyopathy  
+- Cardiovascular Disease  
+- Atrial Fibrillation  
+- High Blood Pressure (Hypertension)  
+- Heart Failure  
+- New Pharmacological Therapy for Heart Failure  
+- Stable Ischemic Heart Disease  
+- Atherosclerotic Cardiovascular Risk  
+- Blood Cholesterol  
+- Lifestyle Management to Reduce Cardiovascular Risk  
+- Overweight and Obesity in Adults  
+- Management of Blood Cholesterol  
+- Assessment of Cardiovascular Risk  
+- ST‑Elevation Myocardial Infarction  
+- Device‑Based Therapy of Cardiac Rhythm Abnormalities  
+- Cardiac Amyloidosis  
+- Chest Pain  
+- Primary Prevention of Cardiovascular Diseases  
+- Diabetes Mellitus (cardiovascular risk)  
+- Post–Cardiac Arrest Care  
+
+Page 9 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with mid‑range ejection fraction (HFmrEF)  
+- Left ventricular ejection fraction (LVEF)  
+- Natriuretic peptide  
+- LV (left ventricular) filling pressures  
+- Cardiac dysfunction  
+- Clinical signs and symptoms of heart failure  
+- Diagnostic specificity  
+- Objective measures of cardiac dysfunction  
+- Elevated natriuretic peptide levels  
+- Exercise‑provoked (fluid‑challenge) LV pressure assessment  
+
+Page 10 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with mildly reduced ejection fraction (HFmrEF)  
+- Heart failure – recovered ejection fraction (HF‑recovered EF)  
+- Ejection fraction (EF) / Left ventricular ejection fraction (LVEF)  
+- B-type natriuretic peptide (BNP) / Natriuretic peptides  
+- Cardiac troponin (cardiac biomarkers of injury)  
+- Left ventricular (LV) chamber dilatation  
+- Ventricular systolic function  
+- Ventricular diastolic function  
+- Ventricular hypertrophy  
+- Chamber enlargement  
+- Wall motion abnormalities  
+- Valvular heart disease  
+- Structural heart disease  
+- Increased filling pressures  
+- Invasive hemodynamic measurements  
+- Noninvasive imaging (e.g., Doppler echocardiography)  
+- Doppler echocardiography  
+- Guideline‑directed medical therapy (GDMT)  
+- American College of Cardiology (ACC) – Heart failure stages  
+- American Heart Association (AHA) – Heart failure stages  
+- ACC/AHA stages of HF (Stages A, B, C, D)  
+- Stage A: At risk for HF (risk factors, no symptoms)  
+- Stage B: Pre‑HF (evidence of structural or functional abnormality without symptoms)  
+- Stage C: Symptomatic HF (symptoms plus structural disease)  
+- Stage D: Advanced HF (marked symptoms, recurrent hospitalizations)  
+- Risk factors for HF  
+- Hypertension  
+- Atherosclerotic cardiovascular disease (CVD)  
+- Diabetes mellitus  
+- Metabolic syndrome  
+- Obesity  
+- Exposure to cardiotoxic agents  
+- Genetic variants for cardiomyopathy  
+- Positive family history of cardiomyopathy  
+- Cardiac biomarkers of stretch or injury  
+- Chronic kidney disease (CKD)  
+- Pulmonary embolism (PE)  
+- Myopericarditis  
+
+These terms capture the key concepts, classifications, diagnostic measures, risk factors, and therapeutic categories related to heart disease as presented in the guideline text.
+
+Page 11 Extracted Terms:
+**Key terms related to heart disease**
+
+- Heart failure (HF)  
+- Left ventricular ejection fraction (LVEF)  
+- HF with reduced EF (HFrEF)  
+- HF with mildly reduced EF (HFmrEF)  
+- HF with preserved EF (HFpEF)  
+- HF with improved EF (HFimpEF)  
+- Guideline‑directed medical therapy (GDMT)  
+- Natriuretic peptides  
+- E/e′ ratio (diastolic function parameter)  
+- Left atrial size / left atrial volume index  
+- Left ventricular (LV) mass / LV mass index  
+- Pulmonary capillary wedge pressure  
+- LV end‑diastolic pressure  
+- Pulmonary artery (PA) pressures  
+- Stroke volume  
+- Cardiac output  
+- H₂FPEF score (diagnostic composite score for HFpEF)  
+- Obesity (as a risk factor)  
+- Atrial fibrillation (AF)  
+- Age >60 years  
+- Antihypertensive medication burden (≥2 drugs)  
+- PA systolic pressure >35 mm Hg  
+- Diagnostic algorithm for HF classification  
+- Structural heart disease  
+- Diastolic dysfunction  
+- Exercise stress testing (echocardiographic evaluation)  
+- Invasive hemodynamic measurement (rest or exercise)  
+- Stage C heart failure  
+- Heart failure remission  
+- Left ventricular (LV) structural/functional alterations  
+- Echocardiographic diastolic parameters  
+- Pulmonary artery systolic pressure  
+- H₂FPEF score components (obesity, AF, age, antihypertensive meds, E/e′, PA pressure)
+
+Page 12 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with mildly reduced ejection fraction (HFmrEF)  
+- Heart failure with improved ejection fraction (HFimpEF)  
+- H2FPEF score  
+- Left ventricular ejection fraction (LVEF)  
+- Echocardiography / exercise echocardiogram  
+- Cardiac catheterization  
+- Dyspnea / exertional dyspnea  
+- AHA/ACC/HFSA Heart Failure Guideline  
+- European Society of Cardiology diagnostic algorithm  
+- Obesity  
+- Hypertension  
+- Diabetes  
+- Atrial fibrillation (AF)  
+- Cardiac ischemia  
+- Heart valve disease  
+- Biomarker domain  
+- Functional domain  
+- Morphological domain  
+- Diagnostic laboratory tests  
+- Electrocardiogram (ECG)  
+- Mortality from heart failure  
+- Hospitalization for heart failure
+
+Page 13 Extracted Terms:
+- Heart failure (HF)  
+- HFrEF (heart failure with reduced ejection fraction)  
+- HFpEF (heart failure with preserved ejection fraction)  
+- HFmrEF (heart failure with mildly reduced ejection fraction)  
+- Ejection fraction (EF)  
+- Left ventricular ejection fraction (LVEF)  
+- B‑type natriuretic peptide (BNP)  
+- N‑terminal pro‑B natriuretic peptide (NT‑proBNP)  
+- Cardiomyopathy / cardiomyopathies  
+- Cardiotoxicity  
+- Hypertension  
+- Obesity  
+- Prediabetes  
+- Diabetes  
+- Atherosclerotic cardiovascular disease (CVD)  
+- Mortality rate (age‑adjusted death rate)  
+- Hospitalization rate (HF hospitalizations)  
+- Incidence of heart failure  
+- Diagnostic algorithm for HF  
+- Electrocardiogram (ECG)  
+- Racial/ethnic disparities in heart‑failure outcomes (e.g., non‑Hispanic Black, non‑Hispanic White, Hispanic, Asian/Pacific Islander)
+
+Page 14 Extracted Terms:
+- Heart failure (HF)  
+- Stage A HF  
+- Stage B HF  
+- Ischemic heart disease  
+- Myocardial infarction (MI)  
+- Hypertension  
+- Valvular heart disease (VHD)  
+- Familial cardiomyopathies  
+- Genetic cardiomyopathies  
+- Amyloidosis  
+- Cardiotoxicity (e.g., chemotherapy, cancer treatment)  
+- Alcohol abuse  
+- Cocaine abuse  
+- Methamphetamine abuse  
+- Tachycardia  
+- Right‑ventricular (RV) pacing  
+- Stress‑induced cardiomyopathy (Takotsubo)  
+- Peripartum cardiomyopathy  
+- Myocarditis  
+- Autoimmune causes (e.g., rheumatologic disease)  
+- Sarcoidosis  
+- Iron overload  
+- Hemochromatosis  
+- Thyroid disease  
+- Endocrine/metabolic conditions (diabetes, obesity, acromegaly, pheochromocytoma)  
+- COVID‑19‑related myocardial injury  
+- Cardiac imaging  
+- Cardiac biomarkers  
+- Myocardial injury  
+- Cardiac maladaptive structural changes  
+- Advanced HF  
+- Clinical congestion  
+- Jugular venous pressure (JVP)  
+- Ejection fraction (EF)  
+- HF staging  
+- Cardiac rhythm‑related causes (tachycardia, premature ventricular contractions)  
+- Chemotherapy cardiotoxicity  
+- Rheumatologic or autoimmune disease  
+- Infiltrative cardiac disease (amyloid, sarcoid, hemochromatosis)
+
+Page 15 Extracted Terms:
+- Heart Failure (HF)  
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- Distention  
+- Orthopnea  
+- Bendopnea  
+- Square‑wave response to the Valsalva maneuver  
+- Leg edema  
+- Clinical congestion  
+- Diuretics (titration)  
+- PARADIGM‑HF trial  
+- LCZ696 (Sacubitril/Valsartan)  
+- Enalapril  
+- Kansas City Cardiomyopathy Questionnaire (KCCQ)  
+- Natriuretic peptides  
+- MAGGIC risk score  
+- Mechanical Circulatory Support (MCS)  
+- Cardiac transplantation  
+- Advanced heart failure  
+- Familial cardiomyopathy  
+- Idiopathic dilated cardiomyopathy (DCM)  
+- Genetic basis of cardiomyopathy  
+- Muscular dystrophy  
+- Pacemaker  
+- Defibrillator  
+- Heart transplant list  
+- 3‑generation family pedigree  
+- Gadolinium enhancement (cardiac MRI)  
+- Major adverse cardiac events (MACE)  
+- Cascade screening  
+- Guideline‑directed medical therapy (GDMT)  
+- Amyloid heart disease  
+- Transthyretin amyloidosis  
+- Light chain (AL) amyloidosis  
+- Sarcoidosis‑related HF  
+- Hemochromatosis‑related HF  
+- Hypothyroidism‑related HF  
+- Hyperthyroidism‑related HF  
+- Acromegaly‑related HF  
+- Connective tissue disease‑related HF  
+- Tachycardia‑induced cardiomyopathy  
+- High‑output heart failure  
+- Arteriovenous fistula‑related HF  
+- Myocardial ischemia  
+- Pulmonary embolism  
+- Systemic infection  
+- Nonsteroidal anti‑inflammatory drugs (NSAIDs)  
+- Chronic right‑ventricular (RV) pacing  
+- Amiodarone (bradycardia, RV pacing)  
+- Social determinants of health (housing stability, food security, transportation)
+
+Page 16 Extracted Terms:
+**Heart‑disease related terms extracted from the text**
+
+- Heart failure (HF)  
+- Ischemic cardiomyopathy  
+- Cardiac amyloidosis  
+- Sarcoidosis  
+- Hemochromatosis  
+- HIV‑associated cardiac disease  
+- COVID‑19 related cardiac involvement  
+- Chagas disease (cardiac form)  
+- Hypothyroidism (cardiac effects)  
+- Hyperthyroidism (cardiac effects)  
+- Acromegaly (cardiac effects)  
+- Connective‑tissue disorders (e.g., systemic sclerosis, systemic lupus)  
+- Tachycardia‑induced cardiomyopathy  
+- Takotsubo (stress‑induced) cardiomyopathy  
+- Peripartum cardiomyopathy  
+- Cancer‑therapy–related cardiotoxicity  
+- Substance‑abuse–related cardiomyopathy  
+- Atrial fibrillation (AF)  
+- Acute coronary syndromes (ACS)  
+- Valvular heart disease (VHD)  
+- Left ventricular hypertrophy (LVH)  
+- Right‑ventricular heart failure (RV HF)  
+- Pulmonary embolism (pulmonary embolic–related cardiac strain)  
+- Pulmonary arterial hypertension (pulmonary hypertension)  
+- Obstructive sleep apnea (pulmonary/ cardiac impact)  
+- Severe pneumonia (cardiovascular comorbidity)  
+- Bacterial sepsis (cardiovascular impact)  
+- Severe burns (cardiovascular impact)  
+- Renal failure (cardiovascular comorbidity)  
+- Anemia (cardiovascular impact)  
+- Elevated natriuretic peptides (BNP/NT‑proBNP)
+
+These terms encompass the principal cardiac conditions, comorbidities, and disease‑related syndromes referenced in the guideline text.
+
+Page 17 Extracted Terms:
+- B‑type natriuretic peptide (BNP)  
+- N‑terminal prohormone of B‑type natriuretic peptide (NT‑proBNP)  
+- Heart failure (HF)  
+- Chronic heart failure  
+- Hospitalized heart failure  
+- Risk stratification in heart failure  
+- Prognosis of heart failure  
+- Left ventricular (LV) dysfunction  
+- New‑onset heart failure  
+- Predictive biomarkers for heart failure  
+- Natriuretic peptide biomarkers  
+- Cardiovascular disease (CVD)  
+- Cardiovascular specialist  
+- Team‑based heart‑failure care  
+- Prevention of heart failure  
+- Screening for heart failure (STOP‑HF)  
+- Renin‑angiotensin‑aldosterone system (RAAS) antagonists  
+- Beta blockers  
+- Acute decompensated heart failure  
+- Cardiac events  
+- All‑cause mortality (in heart failure context)  
+- Cardiovascular death  
+- Major cardiovascular events  
+- Post‑discharge prognosis  
+- Readmission for heart failure  
+- Echocardiography (for LV assessment)  
+- Healthy lifestyle behaviors (in heart‑failure management)  
+- Glycemic control (in diabetic patients with elevated NT‑proBNP)  
+- Blood pressure/Hypertension (risk factor for HF)  
+- Diabetes mellitus (risk factor for HF)  
+- Vascular disease (risk factor for HF)  
+- Obesity (reduces BNP/NT‑proBNP levels, impacting HF diagnosis)  
+- Oxidative stress biomarkers (related to heart failure prognosis)  
+- Inflammation biomarkers (related to heart failure prognosis)  
+- Matrix remodeling biomarkers (related to heart failure prognosis)  
+
+*(All terms are extracted or inferred from the guideline text and are central to heart‑disease evaluation, diagnosis, risk stratification, and management.)*
+
+Page 18 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+1. BNP  
+2. NT‑proBNP  
+3. Heart failure (HF)  
+4. Genetic cardiomyopathy  
+5. Inherited cardiomyopathies  
+6. Dilated cardiomyopathy (DCM)  
+7. Left ventricular (LV) hypertrophy  
+8. LV non‑compaction  
+9. Right ventricular (RV) thinning/fatty replacement  
+10. 12‑lead ECG findings (high/low voltage, conduction abnormalities, repolarization changes)  
+11. Long QT syndrome  
+12. Brugada syndrome  
+13. Nonsustained ventricular tachycardia (NSVT)  
+14. Premature ventricular contraction (PVC)  
+15. Sustained ventricular tachycardia/fibrillation  
+16. Implantable cardioverter‑defibrillator (ICD)  
+17. Sudden death (primary prevention)  
+18. Atrial fibrillation (AF) – early‑onset, “lone” AF  
+19. Conduction disease (early onset)  
+20. Pacemaker implantation (before age 65)  
+21. Coronary artery disease (CAD)  
+22. Genetic screening / testing  
+23. Genetic counseling  
+24. Guideline‑directed medical therapy (GDMT)  
+25. Exercise limitation (for hypertrophic cardiomyopathy)  
+26. Skeletal myopathy  
+27. Neuropathy  
+28. Cutaneous stigmata  
+29. Dysmorphic features  
+30. Mental retardation  
+31. Congenital deafness  
+32. Neurofibromatosis  
+33. Renal failure with neuropathy  
+34. Systemic syndromes associated with cardiomyopathy (e.g., limb‑girdle dystrophy, Duchenne/Becker muscular dystrophy, Emory‑Dreifuss)  
+35. Cardiac morphology  
+36. Family history (3‑generation pedigree)  
+37. ECG conduction and repolarization abnormalities  
+38. Defibrillator for primary prevention of sudden death  
+39. Periodic echocardiographic and electrocardiographic screening for relatives  
+40. Phenotype–genotype correlation in cardiomyopathy  
+
+These terms capture the primary heart‑disease concepts, diagnostic markers, therapeutic interventions, and genetic considerations discussed in the guideline excerpt.
+
+Page 19 Extracted Terms:
+**Key terms related to heart disease**
+
+- Heart failure (HF)  
+- Acute decompensated heart failure  
+- New‑onset heart failure  
+- Dilated cardiomyopathy (DCM)  
+- Restrictive cardiomyopathy  
+- Hypertrophic cardiomyopathy  
+- Peripartum cardiomyopathy  
+- Alcoholic cardiomyopathy  
+- Arrhythmogenic cardiomyopathy  
+- Arrhythmogenic right‑ventricular cardiomyopathy (ARVC)  
+- Conduction block  
+- Atrial arrhythmias (e.g., atrial fibrillation)  
+- Ventricular arrhythmias  
+- Sudden cardiac death  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Left ventricular ejection fraction (LVEF)  
+- Transthoracic echocardiography (TTE)  
+- Cardiac magnetic resonance imaging (CMR)  
+- Cardiac computed tomography (CT)  
+- Radionuclide imaging  
+- Single‑photon emission computed tomography (SPECT)  
+- Positron emission tomography (PET)  
+- Coronary artery disease (CAD)  
+- Coronary revascularization (PCI/CABG)  
+- Non‑invasive stress imaging  
+- Ischemic heart disease  
+- Left ventricular remodeling  
+- Clinical guideline‑recommended therapy (GDMT)  
+- Chest X‑ray (cardiac size, pulmonary congestion)  
+- Cardiac imaging (diagnostic and serial assessment)  
+- Genetic variants in titin (TTN)  
+- Genetic variants in lamin A/C  
+- Desmosomal protein mutations (e.g., PKP2, DSG2)  
+- Filamin‑C mutations  
+- Fabry’s disease cardiomyopathy  
+- Enzyme replacement therapy (agalsidase β)  
+- Migalastat (small‑molecule therapy for Fabry)  
+- Primary prevention ICD criteria (LVEF > 0.35, <3 months of GDMT)  
+- Exercise restriction in desmosomal cardiomyopathy  
+- Ventricular remodeling acceleration (due to exercise)  
+- Genetic confirmation of cardiomyopathy  
+- Structural remodeling assessment  
+- Valvular function evaluation  
+- Echocardiogram adequacy  
+- Functional and structural cardiac assessment  
+- LVEF measurement in various modalities (echo, CMR, CT, radionuclide)
+
+Page 20 Extracted Terms:
+**Key terms related to heart disease**
+
+- Heart Failure (HF)  
+- Chest X‑ray  
+- Cardiomegaly  
+- Pulmonary venous congestion  
+- Interstitial edema  
+- Alveolar edema  
+- Transthoracic Echocardiography (TTE)  
+- Echocardiography  
+- Myocardium (myocardial structure/function)  
+- Heart valves  
+- Pericardium  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Ventricular dimensions  
+- Ventricular volumes  
+- Chamber geometry  
+- Regional wall motion  
+- Right Ventricular (RV) size  
+- Right Ventricular function  
+- Atrial size  
+- Diastolic function  
+- Left Ventricular filling  
+- Left atrial pressure  
+- Tricuspid valve regurgitant gradient  
+- Inferior vena cava (IVC) diameter  
+- Systolic pulmonary artery pressure (PA pressure)  
+- Central venous pressure (CVP)  
+- Global longitudinal strain (GLS)  
+- Subclinical LV systolic dysfunction  
+- Point‑of‑care cardiac ultrasound  
+- Serial echocardiograms  
+- Structural remodeling  
+- Valvular function  
+- Revascularization  
+- Device therapies (e.g., pacemakers, ICD, CRT)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Cardiac Resynchronization Therapy (CRT)  
+- Left Ventricular (LV) systolic dysfunction  
+- Chronic tachycardia  
+- Thyroid disease (as HF precipitant)  
+- Dilated cardiomyopathy  
+- Peripartum cardiomyopathy  
+- Myocarditis  
+- Systemic inflammatory responses  
+- Chemotherapy‑associated cardiotoxicity  
+- Cardiac Magnetic Resonance (CMR)  
+- Left ventricular mass  
+- Cardiac volumes  
+- Electrocardiographic‑gated cardiac CT  
+- Radionuclide ventriculography (RVG)  
+- Late Gadolinium Enhancement (LGE)  
+- Myocardial fibrosis  
+- Acute Myocardial Infarction (MI)  
+- Chronic Myocardial Infarction (MI)  
+- Coronary Artery Disease (CAD)  
+- Infiltrative cardiomyopathies  
+- Sarcoidosis  
+- Fabry disease  
+- Chagas disease  
+- Noncompaction cardiomyopathy  
+- Iron overload  
+- Amyloidosis  
+- T1 mapping  
+- T2 mapping  
+- Myocardial strain imaging  
+
+
+Page 21 Extracted Terms:
+Heart failure (HF)  
+Coronary artery disease (CAD)  
+Myocardial ischemia  
+Revascularization, coronary revascularization  
+Endomyocardial biopsy  
+Right heart catheterization  
+Invasive hemodynamic monitoring  
+Noninvasive stress imaging  
+Echocardiography  
+Nuclear scintigraphy  
+SPECT (single‑photon emission computed tomography)  
+CMR (cardiac magnetic resonance imaging)  
+PET (positron emission tomography)  
+Viability imaging  
+Myocardial viability  
+STICH trial (Surgical Treatment for Ischemic Heart Failure)  
+Cardiogenic shock  
+Nonischemic cardiomyopathy  
+Ischemic cardiomyopathy  
+Obstructive CAD  
+Amyloidosis  
+Light‑chain (AL) amyloidosis  
+Transthyretin amyloidosis (ATTR)  
+Myocarditis  
+Giant cell myocarditis  
+Cardiac rejection  
+Interstitial space characteristics  
+Extracellular volume fraction  
+Delayed hyperenhancement  
+Cardiac infiltration (myocardial)
+
+Page 22 Extracted Terms:
+- Heart Failure (HF)  
+- Acute heart failure (acute HF)  
+- Right‑heart catheterization  
+- Pulmonary artery (PA) catheterization  
+- PA catheter monitoring  
+- Hemodynamic evaluation/monitoring  
+- ESCAPE trial  
+- NYHA class III heart failure  
+- NYHA class II–IV heart failure  
+- Natriuretic peptide levels  
+- Guideline‑directed medical therapy (GDMT)  
+- CardioMEMS implantable PA pressure sensor  
+- CHAMPION trial  
+- GUIDE‑HF study  
+- Implanted electronic devices (ICDs, CRT‑Ds)  
+- Remote monitoring / telemonitoring  
+- Wearables (remote monitoring devices)  
+- Cardiac tamponade  
+- Perforation (of myocardium)  
+- Thrombus formation  
+- Fluid status  
+- Perfusion  
+- Pulmonary vascular resistance  
+- Systemic vascular resistance  
+- Systolic blood pressure (SBP)  
+- Renal function  
+- Pulmonary capillary wedge pressure  
+- Left ventricular ejection fraction (LVEF)  
+- Beta‑blockers  
+- Angiotensin‑converting enzyme inhibitors (ACEi)  
+- Angiotensin receptor blockers (ARBs)  
+- Vasoactive agents  
+- Invasive hemodynamic measurements  
+- Endomyocardial biopsy (risk)  
+- Clinical guidelines (AHA/ACC/HFSA)
+
+Page 23 Extracted Terms:
+- Heart failure (HF)  
+- CardioMEMS device  
+- CardioMEMS implantation and monitoring  
+- Cardiopulmonary exercise testing (CPET)  
+- NYHA functional classification (I–IV)  
+- Left ventricular assist device (LVAD)  
+- Heart transplantation  
+- Dysphnea (dyspnea)  
+- 6‑minute walk test  
+- Peak VO₂ (peak oxygen consumption/uptake)  
+- Peak VO₂ ≤ 14 mL/kg/min (transplant cutoff)  
+- Peak VO₂ ≤ 12 mL/kg/min with beta‑blocker therapy (transplant cutoff)  
+- Beta‑blockers  
+- Survival (mortality, 1‑ and 2‑year survival)  
+- Quality‑adjusted life year (QALY)  
+- Cost‑effectiveness  
+- Economic value of CardioMEMS  
+- Cost estimates  
+- Model duration  
+- Quality of life (QOL) data  
+- GUIDE‑HF trial  
+- American Heart Association (AHA)  
+- American College of Cardiology (ACC)  
+- Heart Failure Society of America (HFSA)  
+- Clinical benefit  
+- Exercise intolerance  
+- Functional capacity  
+- Advanced treatments (e.g., LVAD, heart transplant)  
+- Prognosis in HF  
+- Clinical guidelines  
+- Functional impairment  
+- Exercise testing as a standardized, reliable measure  
+- Clinical documentation of NYHA class  
+- Candidate selection for drug/device therapy  
+- Treatment eligibility criteria  
+- Functional limitation grading  
+- Reproducibility issues with NYHA classification  
+- Risk stratification using CPET variables  
+
+These terms capture the key heart‑disease–related concepts, diagnostics, therapies, and outcomes discussed in the guideline excerpt.
+
+Page 24 Extracted Terms:
+- AHA/ACC/HFSA Heart Failure Guideline  
+- NYHA class III  
+- NYHA class IV  
+- 3‑year survival free of heart transplant  
+- Dyspnea  
+- Cardiopulmonary Exercise Test (CPET)  
+- Treadmill exercise test  
+- Stationary bicycle exercise test  
+- Ventilatory gas exchange measurements  
+- Oxygen uptake (VO₂)  
+- Carbon dioxide output  
+- Ventilation  
+- Exercise capacity  
+- Cardiopulmonary responses  
+- Metabolic abnormalities  
+- Deconditioning  
+- HF Risk Scoring  
+- Multivariable risk scores  
+- Mortality  
+- Hospitalization  
+- Readmission for heart failure  
+- Incident heart failure (HF)  
+- Advanced heart failure therapies  
+- Biomarker testing  
+- Risk stratification  
+- Seattle Heart Failure Model  
+- Heart Failure Survival Score  
+- MAGGIC (Meta‑analysis Global Group in Chronic Heart Failure)  
+- CHARM Risk Score (Candesartan in Heart failure‑Assessed Reduction in Mortality and Morbidity)  
+- CORONA Risk Score (Controlled Rosuvastatin Multinational Trial in Heart Failure)  
+- PARADIGM‑HF  
+- HF‑ACTION (Heart Failure: A Controlled Trial Investigating Outcomes of Exercise Training)  
+- GUIDE‑IT (Guiding Evidence‑Based Therapy Using Biomarker‑Intensified Treatment)  
+- I‑PRESERVE Score (Irbesartan in Heart Failure with Preserved Ejection Fraction Study)  
+- TOPCAT (Treatment of Preserved Cardiac Function Heart Failure with an Aldosterone Antagonist)  
+- ADHERE Classification (Acute Decompensated Heart Failure National Registry)  
+- Regression Tree (CART) Model  
+- AHA Get With The Guidelines Score  
+- EFFECT Risk Score (Enhanced Feedback for Effective Cardiac Treatment)  
+- ESCAPE Risk Model (Evaluation Study of Congestive Heart Failure and Pulmonary Artery Catheterization Effectiveness)  
+- AHA (American Heart Association)  
+- ACC (American College of Cardiology)  
+- HFSA (Heart Failure Society of America)  
+- HF (heart failure)  
+- HFpEF (heart failure with preserved ejection fraction)  
+- HFrEF (heart failure with reduced ejection fraction)  
+- ARIC (Atherosclerosis Risk in Communities)  
+
+These terms capture the key concepts related to heart disease as presented in the excerpt.
+
+Page 25 Extracted Terms:
+- Heart failure (HF)  
+- Systolic heart failure (HFrEF)  
+- Diastolic heart failure (HFpEF)  
+- Ejection fraction (EF)  
+- Left ventricular (LV) dysfunction  
+- LV systolic dysfunction  
+- LV diastolic dysfunction  
+- Seattle Heart Failure Model  
+- Heart Failure Survival Score  
+- MAGGIC score  
+- Multivariate risk scores  
+- Natriuretic peptide biomarker  
+- B-type natriuretic peptide (BNP)  
+- N-terminal pro-BNP (NT‑proBNP)  
+- Sodium‑glucose co‑transporter‑2 inhibitors (SGLT2i)  
+- Hypertension  
+- Blood pressure (BP)  
+- Systolic blood pressure (SBP)  
+- Diastolic blood pressure (DBP)  
+- Type 2 diabetes mellitus (T2DM)  
+- Cardiovascular disease (CVD)  
+- High cardiovascular risk  
+- Smoking cessation  
+- Obesity / weight control  
+- Regular physical activity  
+- Healthy dietary patterns  
+- Lifestyle modifications  
+- Primary prevention  
+- Secondary prevention  
+- Guideline‑directed medical therapy (GDMT)  
+- AHA/ACC heart failure guideline  
+- HFSA (Heart Failure Society of America)  
+- Clinical risk prediction models  
+- Collaborative care / team‑based care  
+- Cardiovascular specialist  
+- SPRINT trial  
+
+
+Page 26 Extracted Terms:
+- Heart Failure (HF)  
+- Left Ventricular Systolic Dysfunction  
+- Left Ventricular Ejection Fraction (LVEF)  
+- B-type Natriuretic Peptide (BNP) Testing  
+- St Vincent’s Screening to Prevent Heart Failure (STOP-HF)  
+- Angiotensin‑Converting Enzyme Inhibitor (ACEi)  
+- Angiotensin Receptor Blocker (ARB)  
+- Sodium‑Glucose Cotransporter‑2 Inhibitor (SGLT2i)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Myocardial Infarction (MI)  
+- Cardiovascular Disease (CVD)  
+- Hypertension  
+- Diabetes  
+- Vascular Disease  
+- Pre‑HF (Stage B)  
+- Risk Stage A (Patients at Risk of HF)  
+- Blood Pressure (BP)  
+- Mediterranean Diet  
+- DASH Diet (Dietary Approaches to Stop Hypertension)  
+- Plant‑Based Diet  
+- Whole‑Grain Diet  
+- AHA/ACC/HFSA Heart Failure Guideline  
+- Class of Recommendation (COR)  
+- Composite Endpoint  
+- Asymptomatic LV Dysfunction  
+- Healthy Dietary Patterns  
+
+Page 27 Extracted Terms:
+- Heart failure (HF)  
+- Stage A HF  
+- Stage B HF (pre‑HF)  
+- Symptomatic HF  
+- Asymptomatic LV systolic dysfunction  
+- Asymptomatic LV diastolic dysfunction  
+- Left ventricular ejection fraction (LVEF)  
+- LVEF ≤ 40 %  
+- LVEF ≤ 30 %  
+- LVEF < 50 %  
+- New‑onset myocardial infarction (MI)  
+- Acute coronary syndrome (ACS)  
+- NT‑proBNP  
+- Renin–angiotensin–aldosterone system (RAAS) antagonists  
+- Angiotensin‑converting enzyme inhibitors (ACEi)  
+- Angiotensin II receptor blockers (ARB)  
+- Beta‑blockers  
+- Guideline‑directed medical therapy (GDMT)  
+- Statins  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Sudden cardiac death (SCD)  
+- NYHA class I  
+- Thiazolidinediones  
+- Nondihydropyridine calcium‑channel blockers  
+- QRS duration  
+- Diabetes mellitus  
+- Obesity  
+- Hypertension  
+- Framingham Heart Failure Risk Score  
+- Health ABC Heart Failure Score  
+- ARIC Risk Score (Atherosclerosis Risk in Communities)  
+- PCP‑HF (Pooled Cohort Equations to Prevent HF)  
+- Electronic health records (EHR)  
+- Machine learning in risk prediction  
+- Cardiovascular events  
+- Mortality reduction  
+- Risk prediction models  
+- Population‑based cohorts  
+- Clinical practice guidelines (AHA/ACC/HFSA)
+
+Page 28 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Stage B heart failure  
+- Myocardial infarction (MI)  
+- Acute MI / acute myocardial infarction  
+- ST‑elevation myocardial infarction (STEMI)  
+- Non–ST‑elevation acute coronary syndrome (NST‑ACS) / acute coronary syndrome (ACS)  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular dysfunction / LV dysfunction / left ventricular systolic dysfunction  
+- Maladaptive cardiac remodeling  
+- Pulmonary congestion  
+- Mineralocorticoid receptor antagonist (MRA)  
+- Angiotensin‑receptor‑neprilysin inhibitor (ARNi) – e.g., sacubitril/valsartan  
+- Angiotensin‑converting enzyme inhibitor (ACEi) – e.g., ramipril, enalapril, captopril  
+- Angiotensin‑II receptor blocker (ARB) – e.g., valsartan, losartan  
+- Beta‑blocker – e.g., carvedilol, other β‑adrenergic antagonists  
+- Statin therapy / statins  
+- Guideline‑directed medical therapy (GDMT)  
+- Coronary revascularization (percutaneous coronary intervention, PCI)  
+- Coronary artery bypass graft surgery (CABG)  
+- Valvular heart disease – valve replacement or repair for significant stenosis or regurgitation  
+- Congenital heart disease (CHD)  
+- Clinical trials / randomized controlled trials (RCTs) – e.g., SOLVD, VALIANT, OPTIMAAL, PARADISE‑MI  
+- Guidelines – AHA/ACC/HFSA, ACCF/AHA, ACC/AHA/SCAI, ACC/AHA/STI, etc.  
+- Cardiovascular disease (CVD) / cardiovascular risk  
+- Angioedema (as a drug‑related adverse effect)
+
+Page 29 Extracted Terms:
+- Framingham studies  
+- Left ventricular ejection fraction (LVEF)  
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Sudden cardiac death (SCD)  
+- Myocardial infarction (MI)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Beta‑blockers  
+- Angiotensin‑converting‑enzyme inhibitor (enalapril)  
+- Thiazolidinediones (pioglitazone, rosiglitazone)  
+- Fluid retention / edema  
+- New York Heart Association (NYHA) class I‑II  
+- Nondihydropyridine calcium‑channel blockers (diltiazem, verapamil)  
+- Non‑pharmacologic interventions  
+- Self‑care support for heart failure  
+- Multidisciplinary care teams  
+- Guideline‑directed medical therapy (GDMT)  
+- Vaccination against respiratory illnesses  
+- Depression (as a risk factor for poor self‑care)  
+- Social isolation (as a risk factor for poor self‑care)  
+- Frailty (as a risk factor for poor self‑care)  
+- Low health literacy (as a risk factor for poor self‑care)
+
+Page 30 Extracted Terms:
+Heart failure (HF)  
+Heart failure with reduced ejection fraction (HFrEF)  
+HF hospitalization  
+All‑cause mortality  
+All‑cause readmission  
+Cardiac death  
+Self‑care  
+Multidisciplinary team follow‑up  
+Case management  
+Pharmacist involvement  
+Multidisciplinary interventions  
+Medication adherence  
+Structured telephone support  
+Mobile‑health–delivered educational interventions  
+Transitional‑care services program  
+Angiotensin‑converting enzyme inhibitor (ACEi)  
+Angiotensin receptor blocker (ARB)  
+Angiotensin receptor‑neprilysin inhibitor (ARNi)  
+Cardiac resynchronization therapy (CRT)  
+Guideline‑directed medical therapy (GDMT)  
+Implantable cardioverter‑defibrillator (ICD)  
+Hydralazine and isosorbide dinitrate (hydral‑nitrates)  
+Mechanical circulatory support (MCS)  
+Left ventricular ejection fraction (LVEF)  
+Mineralocorticoid receptor antagonist (MRA)  
+Normal sinus rhythm (NSR)  
+New York Heart Association (NYHA)  
+Sodium‑glucose cotransporter‑2 inhibitor (SGLT2i)  
+Left bundle branch block (LBBB)
+
+Page 31 Extracted Terms:
+**Key terms related to heart disease**
+
+- Heart Failure (HF)  
+- HFrEF (Heart Failure with reduced Ejection Fraction)  
+- HFpEF (Heart Failure with preserved Ejection Fraction)  
+- NYHA functional class  
+- Constrictive/Constricted symptoms (symptoms of congestion)  
+- Sodium restriction / Dietary sodium restriction  
+- DASH diet (Dietary Approaches to Stop Hypertension)  
+- Leg edema  
+- Weight/fluid overload  
+- Congestion  
+- Diuretic use  
+- Hospitalization / Hospitalisations  
+- Rehospitalization  
+- Mortality  
+- All‑cause mortality  
+- Cardiovascular mortality  
+- Adverse cardiovascular events  
+- Influenza vaccination  
+- Pneumococcal vaccination  
+- COVID‑19 vaccination (SARS‑CoV‑2)  
+- Self‑care education / Self‑care  
+- Depression (as a risk factor)  
+- Social isolation  
+- Frailty  
+- Health literacy / Health numeracy  
+- Nutritional adequacy  
+- Macronutrient intake  
+- Micronutrient intake  
+- Iron supplementation  
+- Thiamine supplementation  
+- Zinc supplementation  
+- Vitamin D supplementation  
+- Multivitamin supplementation  
+- Registered dietitian / Nurse‑coached dietetic intervention  
+- Clinical outcomes  
+- Clinical benefit / Clinical stability  
+- Prospective Comparison of ARNi with ACEi to Determine Impact on Global Mortality and Morbidity in Heart Failure (PARADIGM‑HF)  
+- Cardiovascular Health Study  
+- Composite of mortality and cardiovascular hospitalizations  
+
+(Note: The list prioritizes terminology directly associated with heart disease, its management, outcomes, and related interventions.)
+
+Page 32 Extracted Terms:
+- Heart Failure (HF)  
+- Stage C Heart Failure  
+- Cardiac Rehabilitation  
+- Exercise Training / Exercise Prescription  
+- Physical Activity  
+- Functional Status  
+- Exercise Performance  
+- Quality of Life (QOL)  
+- B‑type Natriuretic Peptide (BNP)  
+- Sodium Intake / Dietary Sodium  
+- Urinary Sodium  
+- HF Self‑Care  
+- AHA/ACC/HFSA Heart Failure Guideline (contextual reference)
+
+Page 33 Extracted Terms:
+- Heart Failure (HF)  
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- Heart Failure with Preserved Ejection Fraction (HFpEF)  
+- Cardiac Rehabilitation  
+- Exercise Training (supervised, graded)  
+- Functional Capacity  
+- Exercise Performance / Tolerance  
+- Quality of Life (QoL)  
+- Cardiovascular (CVD) Mortality  
+- Hospitalization (all‑cause, HF‑specific)  
+- NYHA Class II & III  
+- Left Ventricular Ejection Fraction (LVEF) ≤ 35%  
+- Diuretics  
+  - Loop Diuretics (bumetanide, furosemide, torsemide)  
+  - Thiazide Diuretics (metolazone, chlorthalidone, hydrochlorothiazide)  
+  - Potassium‑sparing Diuretics (spironolactone)  
+- Congestion  
+- Fluid Retention / Edema  
+- Electrolyte Abnormalities  
+- Endothelial Function  
+- Catecholamine Spillover  
+- Peripheral Oxygen Extraction  
+- Peak Oxygen Consumption (VO₂ peak)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Mineralocorticoid Receptor Antagonists (MRAs)  
+- Vasopressin Antagonists  
+- Hyponatremia  
+- Loop of Henle  
+- Distal Convoluting Tubule  
+- Collecting Duct  
+- Clinical Evidence of Fluid Retention  
+- Euvolemia
+
+
+Page 34 Extracted Terms:
+**Key heart‑disease terms identified in the text**
+
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- New York Heart Association (NYHA) class II–III  
+- Congestion / volume overload  
+- Serum sodium  
+- Urinary sodium excretion  
+- Physical signs of fluid retention  
+- Quality of life (QOL)  
+- Exercise tolerance  
+- Hospitalization for HF  
+- All‑cause 30‑day mortality  
+- Diuretics  
+- Loop diuretics  
+- Furosemide  
+- Bumetanide  
+- Torsemide  
+- Metolazone (thiazide‑like diuretic)  
+- Thiazide diuretics (chlorthiazide, chlorthalidone, hydrochlorothiazide, indapamide)  
+- Diuretic resistance  
+- Intravenous diuretics (bolus or continuous infusion)  
+- Combination diuretic therapy  
+- Renin–angiotensin system inhibition  
+- Angiotensin‑converting‑enzyme inhibitor (ACEi)  
+- Angiotensin‑II receptor blocker (ARB)  
+- Angiotensin‑receptor neprilysin inhibitor (ARNi)  
+- DOSE trial (Diuretic Optimization Strategies Evaluation)  
+- OPTIMIZE‑HF registry  
+- Oral bioavailability  
+- Hypokalemia  
+- Hyponatremia  
+- Worsening renal function  
+- Cough (ACEi side effect)  
+- Angioedema (contraindication to ACEi/ARNi)  
+- High‐value economic therapy  
+- Safety and harm statements (e.g., ARNi/ACEi overlap within 36 h)
+
+Page 35 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Heart Failure (HF)  
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- New York Heart Association (NYHA) Class II symptoms  
+- New York Heart Association (NYHA) Class III symptoms  
+- Angiotensin‑Converting Enzyme Inhibitor (ACEi)  
+- Angiotensin‑Receptor Blocker (ARB)  
+- Angiotensin‑Receptor Neprilysin Inhibitor (ARNi)  
+- Sacubitril–valsartan (ARNi)  
+- Enalapril (ACEi)  
+- Natriuretic peptides (e.g., BNP, NT‑proBNP)  
+- Bradykinin  
+- Adrenomedullin  
+- Vasoactive peptides  
+- LV remodeling (left‑ventricular remodeling)  
+- NT‑proBNP (biomarker)  
+- Hypotension (symptomatic)  
+- Angioedema  
+- Renal function (renal insufficiency)  
+- Hyperkalemia (serum potassium >5.0 mEq/L)  
+- Hospitalization for heart failure  
+- Acute decompensated heart failure  
+- Chronic symptomatic heart failure  
+- PIONEER‑HF trial  
+- TRANSITION trial  
+- PARADIGM‑HF trial  
+- PARADISE‑MI trial  
+- Cardiac death (cardiovascular death)  
+- HF hospitalization (re‑hospitalization)  
+- LVEF ≤ 40 % (left‑ventricular ejection fraction)  
+- Pulmonary congestion  
+- Coronary artery disease (CAD)  
+- Diabetes mellitus (as a risk factor)  
+- Myocardial infarction (MI)  
+- Early post‑MI period  
+- Hemodynamics  
+- Mortality reduction  
+- Morbidity reduction  
+- Clinical deterioration (after abrupt ACEi withdrawal)  
+- Symptomatic improvement  
+- Clinical deterioration (after abrupt ACE inhibition withdrawal)  
+- Symptom‑guided titration  
+- Maximally tolerated doses (of ACEi/ARB/ARNi)  
+- Clinical guidelines (AHA/ACC/HFSA)  
+- Guideline‑specific trial endpoints  
+- Prospective Randomized Controlled Trial (RCT)  
+- Composite endpoint (cardiovascular death or HF hospitalization)  
+
+These terms collectively capture the clinical entities, pharmacologic agents, biomarkers, therapeutic goals, and key trials referenced in the guideline excerpt.
+
+Page 36 Extracted Terms:
+- AHA/ACC/HFSA Heart Failure Guideline  
+- Heart Failure (HF)  
+- Heart Failure with reduced ejection fraction (HFrEF)  
+- Chronic heart failure (HF)  
+- Neurohormonal  
+- Renin‑angiotensin system  
+- Angiotensin‑converting enzyme inhibitor (ACEi)  
+- Angiotensin‑receptor blocker (ARB)  
+- Angiotensin‑receptor neprilysin inhibitor (ARNi)  
+- Enalapril  
+- Sacubitril‑valsartan (valsartan‑based ARNi)  
+- Valsartan  
+- Val-HeFT (Valsartan Heart Failure Trial)  
+- ELITE (Evaluation of Losartan in the Elderly) study  
+- SOLVD (Studies of Left Ventricular Dysfunction)  
+- PARADIGM‑HF (Prospective Comparison of ARNI with ACE inhibitor in Heart Failure)  
+- PIONEER‑HF (Prospective Study of ARNI in Acute Heart Failure)  
+- Omapatrilat (neprilysin inhibitor/ACEi combination)  
+- Neprilysin inhibitor  
+- Bradykinin  
+- Angioedema  
+- Hypertension (arterial hypertension)  
+- Low systemic blood pressure  
+- Renal insufficiency  
+- Serum potassium (hyper‑kalaemia)  
+- LV dysfunction  
+- LV remodeling  
+- Hospitalization  
+- Mortality  
+- Cost‑effectiveness analysis  
+- Quality‑adjusted life year (QALY)  
+- Clinical trial outcomes  
+- Economic value  
+- Treatment cost per QALY  
+- Guideline benchmarks (value thresholds)
+
+Page 37 Extracted Terms:
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure (HF)  
+- β‑blockers  
+- Bisoprolol  
+- Carvedilol  
+- Sustained‑release metoprolol succinate  
+- Mortality  
+- Hospitalization  
+- Left ventricular ejection fraction (LVEF)  
+- Coronary artery disease (CAD)  
+- Diabetes mellitus  
+- Atrial fibrillation (AF)  
+- Major cardiovascular events  
+- β‑blocker dosing, sequencing, and uptitration  
+- Mineralocorticoid receptor antagonists (MRAs)  
+- Spironolactone  
+- Eplerenone  
+- Hyperkalemia  
+- Life‑threatening hyperkalemia  
+- Renal insufficiency  
+- Estimated glomerular filtration rate (eGFR)  
+- Serum potassium  
+- NYHA class II‑IV symptoms  
+- Sudden cardiac death (SCD)  
+- Angiotensin‑converting enzyme inhibitors (ACEi)  
+- Angiotensin receptor blockers (ARB)  
+- Bradykinin  
+- Angioedema  
+
+
+
+Page 38 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Left ventricular ejection fraction (LVEF)  
+- Mineralocorticoid receptor antagonist (MRA)  
+- Eplerenone  
+- Spironolactone  
+- Randomized Aldactone Evaluation Study (RALES)  
+- Eplerenone Post‑Acute Myocardial Infarction Heart Failure Evaluation Study (EPHESUS)  
+- Eplerenone in Mild Patients Hospitalization and Survival Study in Heart Failure (EMPHASIS‑HF)  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2i)  
+- Dapagliflozin  
+- Empagliflozin  
+- DAPA‑HF trial (Dapagliflozin and Prevention of Adverse Outcomes in Heart Failure)  
+- EMPEROR‑Reduced trial (EMPagliflozin Outcomes Trial in Patients With Chronic Heart Failure With Reduced Ejection Fraction)  
+- Hyperkalemia  
+- Estimated glomerular filtration rate (eGFR)  
+- Angiotensin‑converting enzyme inhibitor (ACEi)  
+- Angiotensin receptor blocker (ARB)  
+- Angiotensin receptor‑neprilysin inhibitor (ARNi)  
+- PARADIGM‑HF trial (Prospective Comparison of Angiotensin II Antagonist–Drug Interventions in the Management of Heart Failure)  
+- PIONEER‑HF trial (Phase II/III study evaluating novel therapies in decompensated heart failure)  
+- Potassium binders (patiromer, sodium zirconium cyclosilicate)  
+- Cardiovascular mortality  
+- Hospitalization for heart failure  
+- Acute myocardial infarction (MI)  
+- Type 2 diabetes mellitus  
+- Quality‑adjusted life year (QALY)  
+- Economic value of therapy  
+- AHA/ACC/HFSA Heart Failure Guideline  
+
+These terms capture the key concepts, therapies, trials, and clinical outcomes discussed in the guideline excerpt.
+
+Page 39 Extracted Terms:
+- Heart Failure with Reduced Ejection Fraction (HFrEF)
+- Left Ventricle Ejection Fraction (LVEF ≤ 40%)
+- New York Heart Association (NYHA) Functional Class II, III, IV
+- Natriuretic peptides (BNP/NT‑proBNP)
+- SGLT2 inhibitors (SGLT2i)
+- Dapagliflozin
+- Empagliflozin
+- Sotagliflozin
+- Hydralazine
+- Isosorbide dinitrate
+- Composite endpoint of cardiovascular death or heart‑failure hospitalization
+- Cardiovascular death
+- All‑cause mortality
+- Heart‑failure (HF) hospitalization
+- eGFR (estimated glomerular filtration rate)
+- Chronic kidney disease (CKD) / renal insufficiency
+- Euglycemic ketoacidosis
+- Genital infections
+- Soft‑tissue infections
+- Volume depletion
+- DAPA‑HF trial
+- EMPEROR‑Reduced trial
+- SOLOIST‑WHF trial
+- V‑HeFT I (Vasodilator Heart Failure Trial)
+- A‑HeFT (African‑American Heart Failure Trial)
+- Guideline‑Directed Medical Therapy (GDMT)
+- Angiotensin‑converting enzyme inhibitor (ACEi)
+- Angiotensin receptor blocker (ARB)
+- Beta‑blocker
+- Mineralocorticoid receptor antagonist (MRA)
+- Angiotensin receptor‑neprilysin inhibitor (ARNi)
+- Quality‑Adjusted Life Year (QALY)
+- Cost‑effectiveness analysis
+- African American population (race‑specific therapy)
+- Heart‑failure biomarker (Natriuretic peptides)
+- Heart‑failure morbidity and mortality
+- Heart‑failure symptom improvement
+
+
+
+Page 40 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Left ventricular ejection fraction (LVEF)  
+- Vasodilator therapy (hydralazine)  
+- Isosorbide dinitrate (ISO)  
+- Hydralazine‑isosorbide dinitrate combination  
+- Angiotensin‑converting enzyme inhibitor (ACEi)  
+- Angiotensin receptor blocker (ARB)  
+- Angiotensin receptor‑neprilysin inhibitor (ARNi)  
+- Beta‑blocker  
+- Mineralocorticoid receptor antagonist (MRA)  
+- Renin‑angiotensin‑aldosterone system inhibitor (RAASi)  
+- Digoxin  
+- Diuretic  
+- Renal insufficiency (as risk factor for HF)  
+- Hyperkalemia (serum potassium ≥ 5.5 mEq/L)  
+- Potassium binders (patiromer, sodium zirconium cyclosilicate)  
+- Omega‑3 polyunsaturated fatty acids (omega‑3 PUFA)  
+- Eicosapentaenoic acid (EPA)  
+- Docosahexaenoic acid (DHA)  
+- GISSI‑HF trial  
+- REDUCE‑IT trial  
+- Mortality (all‑cause, cardiovascular, sudden cardiac death)  
+- Cardiovascular events (fatal and non‑fatal, hospitalizations)  
+- Cardiovascular disease (CVD)  
+- Heart failure class II‑IV symptoms  
+- Cardiovascular hospitalization  
+
+These terms represent the core heart‑disease concepts discussed in the guideline text.
+
+Page 41 Extracted Terms:
+- Heart Failure (HF)  
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- Chronic Heart Failure (CHF)  
+- Hyperkalemia  
+- Renin‑Angiotensin‑Aldosterone System Inhibitors (RAASi)  
+- Patiromer (potassium binder)  
+- Sodium Zirconium Cyclosilicate (SZC)  
+- PEARL‑HF trial  
+- HARMONIZE trial  
+- Warfarin  
+- Aspirin  
+- Clopidogrel  
+- Rivaroxaban  
+- Antithrombotic therapy  
+- Anticoagulation  
+- Thromboembolic events  
+- Venous Thromboembolism (VTE)  
+- Atrial Fibrillation (AF)  
+- Cardioembolic source  
+- Myocardial Infarction (MI)  
+- Stroke (ischemic, intracerebral hemorrhage)  
+- Non‑fatal MI  
+- Non‑fatal stroke  
+- Coronary revascularization  
+- Unstable Angina  
+- Omega‑3 Polyunsaturated Fatty Acids (PUFA)  
+- Eicosapentaenoic Acid (EPA)  
+- Dipeptidyl Peptidase‑4 (DPP‑4) Inhibitors (saxagliptin, alogliptin)  
+- Thiazolidinediones (TZDs)  
+- Calcium Channel Blockers (dihydropyridine, nondihydropyridine)  
+- Class IC Antiarrhythmic Medications  
+- Dronedarone  
+- Non‑steroidal Anti‑Inflammatory Drugs (NSAIDs)  
+- Vitamins and Nutritional Supplements  
+- Hormonal Therapy  
+- Ventricular Arrhythmias  
+- Mortality  
+- Cardiovascular Death  
+- Cardio‑renal Benefit  
+- Fecal Excretion (potassium)
+
+Page 42 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Nonischemic cardiomyopathy  
+- LV afterload  
+- Calcium channel blockers  
+- Second‑generation dihydropyridine calcium channel blockers  
+- Amlodipine  
+- Felodipine  
+- Diltiazem (nondihydropyridine calcium channel blocker)  
+- Verapamil (nondihydropyridine calcium channel blocker)  
+- PRAISE‑1 (Prospective Randomized Amlodipine Survival Evaluation‑1)  
+- PRAISE‑2 (Prospective Randomized Amlodipine Survival Evaluation‑2)  
+- Coenzyme Q₁₀  
+- Q‑SYMBIO (Coenzyme Q₁₀ as adjunctive treatment of chronic heart failure)  
+- NYHA functional classification  
+- Major adverse cardiovascular events (MACE)  
+- Brain‑natriuretic peptide (BNP)  
+- Guideline‑directed medical therapy (GDMT)  
+- Vitamin D  
+- Thiamine  
+- Carnitine  
+- Taurine  
+- Vitamin E  
+- Testosterone therapy  
+- Growth hormone therapy  
+- Thyroid hormone therapy  
+- Non‑steroidal anti‑inflammatory drugs (NSAIDs)  
+- Cyclo‑oxygenase (COX) inhibitors  
+- COX‑2 selective inhibitors  
+- Thiazolidinediones  
+- Saxagliptin  
+- Alogliptin  
+- Flecainide  
+- Disopyramide  
+- Sotalol  
+- Dronedarone  
+- Alpha‑1 adrenergic blockers  
+- Doxazosin  
+- Nifedipine  
+
+Page 43 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Cardiomyopathy  
+- Acute myocardial infarction (MI)  
+- Recurrent heart failure  
+- Structural heart disease  
+- Ventricular arrhythmias  
+- Atrial‑ventricular arrhythmias (refractory)  
+- Guideline‑directed medical therapy (GDMT)  
+- Anti‑arrhythmic drug classes  
+- Class IC anti‑arrhythmics (e.g., encainide, flecainide)  
+- Class III anti‑arrhythmics (e.g., dronedarone, sotalol)  
+- Class IA anti‑arrhythmics (e.g., quinidine)  
+- Class IB anti‑arrhythmics (e.g., mexiletine)  
+- Specific anti‑arrhythmic agents  
+  - Diltiazem  
+  - Encainide  
+  - Flecainide  
+  - Dronedarone  
+  - Sotalol  
+  - Amiodarone  
+  - Dofetilide  
+  - Quinidine  
+  - Mexiletine  
+- Systolic heart failure trials  
+  - CAST (Cardiac Arrhythmia Suppression Trial)  
+  - ANDROMEDA (Anti‑arrhythmic Trial with Dronedarone)  
+  - SWORD (Survival With Oral D‑sotalol)  
+- Thiazolidinediones (e.g., rosiglitazone, pioglitazone)  
+- Peroxisome proliferator‑activated receptor‑γ (PPAR‑γ)  
+- Sodium‑water retention in heart failure  
+- Nitro‑sodic‑acid‑dependent peptides (DPP‑4) inhibitors  
+  - Saxagliptin  
+  - Alogliptin  
+  - Sitagliptin  
+  - Linagliptin  
+- Non‑steroidal anti‑inflammatory drugs (NSAIDs)  
+- Implantable cardioverter‑defibrillators (ICDs)  
+- Hospitalization for heart failure  
+- Cardiovascular mortality  
+- All‑cause mortality reduction with GDMT  
+- ACE inhibitors (ACEi)  
+- Angiotensin receptor blockers (ARB)  
+- Angiotensin receptor‑neprilysin inhibitors (ARNi)  
+- β‑blockers  
+- Diuretic therapy and sodium‑resorption suppression  
+- Glycemic control agents affecting HF risk (metformin, insulin, sulfonylureas)  
+- Fluid‑retention risk factors in diabetes treatment  
+- Titration and uptitration of guideline‑directed therapy  
+
+---
+
+Page 44 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Ejection fraction (EF)  
+- Angiotensin‑converting enzyme inhibitor (ACEi) – e.g., captopril, enalapril, fosinopril, lisinopril, perindopril, quinapril, ramipril, trandolapril  
+- Angiotensin‑receptor blocker (ARB) – e.g., candesartan, losartan, valsartan  
+- Angiotensin‑receptor neprilysin inhibitor (ARNi) – sacubitril‑valsartan  
+- Beta‑blocker – e.g., bisoprolol, carvedilol, metoprolol succinate (CR/XL)  
+- Mineralocorticoid‑receptor antagonist – e.g., spironolactone, eplerenone  
+- Sodium‑glucose cotransporter‑2 inhibitor (SGLT2i) – e.g., dapagliflozin, empagliflozin  
+- Isosorbide dinitrate  
+- Hydralazine  
+- Isosorbide dinitrate plus hydralazine (fixed‑dose combination)  
+- Ivabradine (I‑channel inhibitor)  
+- Vericiguat (soluble guanylate cyclase stimulator)  
+- Digoxin (cardiac glycoside)  
+- Clinical benefit / dose‑response relationship in heart failure therapies  
+- Target dose vs. lower dose of HFrEF medications  
+
+
+
+Page 45 Extracted Terms:
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- Stage C Heart Failure  
+- New York Heart Association (NYHA) Class II–III  
+- Left Ventricular Ejection Fraction (LVEF) ≤ 35 %  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- β‑blockers  
+- Angiotensin‑Converting Enzyme Inhibitors (ACEi)  
+- Angiotensin Receptor Blockers (ARB)  
+- Angiotensin Receptor Neprilysin Inhibitors (ARNi)  
+- Sodium‑Glucose Cotransporter‑2 Inhibitors (SGLT2i)  
+- Mineralocorticoid Receptor Antagonists (MRA)  
+- Ivabradine  
+- Hydralazine + Nitrate therapy  
+- Cardiac Resynchronization Therapy (CRT)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Heart Rate (≥ 70 bpm at rest)  
+- Sinus Rhythm  
+- Blood Pressure monitoring  
+- Electrolyte monitoring  
+- Renal function monitoring  
+- Cardiovascular death  
+- Heart Failure hospitalization  
+- Relative Risk Reduction (RRR)  
+- Number Needed to Treat (NNT)
+
+Page 46 Extracted Terms:
+**Key Heart Disease–Related Terms Extracted**
+
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Left ventricular ejection fraction (LVEF) ≤ 35%  
+- New York Heart Association (NYHA) class II–III  
+- Hospitalization (HF hospitalization, HFH)  
+- Cardiovascular death  
+- Guideline‑directed medical therapy (GDMT)  
+- Beta‑blocker therapy (optimal doses, uptitration)  
+- Ivabradine therapy (targeting heart rate ≥ 70 bpm)  
+- Digoxin (low dose initiation, serum concentration monitoring)  
+- Renin‑angiotensin‑aldosterone system inhibitors (RAASi)  
+- Mitral valve regurgitation (MR)  
+- Normal sinus rhythm (NSR)  
+- Shift trial (SHIFT) – a clinical trial on HFrEF  
+- AHA/ACC/HFSA Heart Failure Guideline  
+- Clinical outcomes: mortality, morbidity, QOL, exercise tolerance  
+- Biomarkers: natriuretic peptide (NP)  
+- Cardiac imaging metrics: left ventricular end‑systolic dimension (LVESD)  
+
+These terms capture the most clinically and guideline‑relevant concepts related to heart disease found in the provided text.
+
+Page 47 Extracted Terms:
+- **Heart Failure (HF)**
+- **Heart Failure with Reduced Ejection Fraction (HFrEF)**
+- **Vericiguat**
+- **Soluble Guanylate Cyclase (sGC) Stimulator**
+- **Soluble Guanylyl Cyclase Stimulator**
+- **GDMT (Guideline‑Directed Medical Therapy)**
+- **Digoxin**
+- **LVEF (Left Ventricular Ejection Fraction)**
+- **NYHA Class (New York Heart Association Functional Classification)**
+- **BNP (Brain Natriuretic Peptide)**
+- **NT‑proBNP (N‑terminal pro B‑type Natriuretic Peptide)**
+- **VICTORIA Trial**
+- **ICD (Implantable Cardioverter‑Defibrillator)**
+- **CRT (Cardiac Resynchronization Therapy)**
+- **DCM (Dilated Cardiomyopathy)**
+- **MI (Myocardial Infarction)**
+- **SCD (Sudden Cardiac Death)**
+- **LBBB (Left Bundle Branch Block)**
+- **QRS duration**
+- **Non‑LBBB pattern**
+- **NT‑proBNP level ≥ 5314 pg/mL (high‑risk subgroup)**
+- **SBP < 100 mm Hg (systolic blood pressure)**
+- **eGFR < 15 mL/min/1.73 m² (estimated glomerular filtration rate)**
+- **High‑value clinical interventions**
+
+Page 48 Extracted Terms:
+- LVEF  
+- sinus rhythm  
+- left bundle branch block (LBBB)  
+- QRS duration  
+- NYHA class  
+- guideline‑directed medical therapy (GDMT)  
+- cardiac resynchronization therapy (CRT)  
+- atrial fibrillation (AF)  
+- ventricular pacing  
+- implantable cardioverter‑defibrillator (ICD)  
+- sudden cardiac death (SCD)  
+- ischemic cardiomyopathy  
+- non‑ischemic cardiomyopathy  
+- arrhythmogenic cardiomyopathy  
+- heart failure (HF)  
+- mortality  
+- hospitalizations  
+- quality of life (QOL)  
+- non‑LBBB pattern  
+- QRS duration <120 ms  
+- QRS duration <150 ms  
+- frailty (impacting survival <1 year)  
+- resuscitated cardiac arrest  
+- antiarrhythmics  
+- defibrillators  
+- trial names and acronyms:  
+  - AVID (Antiarrhythmics versus Implantable Defibrillators trial)  
+  - CASH (Cardiac Arrest Study Hamburg)  
+  - CIDS (Canadian Implantable Defibrillator Studies)  
+  - MADIT (Multicenter Automated Defibrillator Implantation Trial)  
+  - MADIT‑II (Multicenter Automatic Defibrillator Implantation Trial II)  
+  - MUSTT (Multicenter UnSustained Tachycardia Trial)  
+  - DEFINT (Defibrillators in Non‑Ischemic Cardiomyopathy Treatment Evaluation)  
+  - SCD‑HEFT (Sudden Cardiac Death in Heart Failure Trial)  
+  - DANISH (Defibrillator Implantation in Patients with Non‑ischemic Systolic Heart Failure)  
+- ICD implantation for primary prevention  
+- CRT‑D (CRT with defibrillation)  
+- ICD and CRT indications  
+- survival benefit / cost‑effectiveness ratios (e.g., <$60,000 per year of life added)  
+- life expectancy increase (>1.4 years)  
+- coronary artery bypass graft (CABG) Patch trial (contrast with ICD benefit)
+
+Page 49 Extracted Terms:
+- Heart Failure (HF)  
+- Congestive Heart Failure (CHF)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- New York Heart Association (NYHA) class I–IV  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Cardiac Resynchronization Therapy (CRT)  
+- CRT‑D (CRT with defibrillator)  
+- CRT‑P (CRT pacemaker)  
+- MADIT‑II trial  
+- MADIT‑CRT trial  
+- COMPANION trial  
+- CARE‑HF trial  
+- REVERSE trial  
+- RAFT trial  
+- HFrEF (Heart Failure with reduced Ejection Fraction)  
+- Cardiomyopathy  
+- Left Bundle Branch Block (LBBB / LBBB)  
+- Right Ventricular (RV)  
+- Left Ventricular (LV)  
+- QRS duration  
+- Atrial Fibrillation (AF)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- 6‑minute walk test  
+- Quality of Life (QOL)  
+- Primary endpoint of death or hospitalization  
+- Composite HF endpoint
+
+Page 50 Extracted Terms:
+- Cardiac Resynchronization Therapy (CRT)  
+- Left Bundle Branch Block (LBBB)  
+- Non‑Left Bundle Branch Block (non‑LBBB)  
+- QRS duration & QRS width (>130 ms, >150 ms)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Biventricular pacing  
+- Right Ventricular (RV) pacing  
+- Ventricular pacing burden (>40 %)  
+- Chronic heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- New York Heart Association (NYHA) functional classes I–IV  
+- Atrial fibrillation (AF)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Guideline‑directed medical therapy (GDMT)  
+- Ischemic heart disease  
+- Non‑ischemic cardiomyopathy  
+- Cardiomyopathy (general)  
+- Sudden cardiac death  
+- Cardiac transplantation  
+- Natriuretic peptide (NP)  
+- Mitral valve (MV)  
+- Mitral regurgitation (MR)  
+- Pulmonary artery systolic pressure (PASP)  
+- Normal sinus rhythm (NSR)  
+- 6‑minute walk test  
+- Left Ventricular End‑Systolic Dimension (LVESD)  
+- Key CRT trials: COMPANION, MADIT‑CRT, REVERSE, BLOCK‑HF, CARE‑HF, RAFT, MUSTIC‑AF, SPARE, PAVE  
+- Economic value indicators: cost per QALY, incremental cost‑effectiveness ratio (ICER)
+
+Page 51 Extracted Terms:
+- Heart Failure (HF)  
+- HFrEF (Heart Failure with reduced Ejection Fraction)  
+- HFpEF (Heart Failure with preserved Ejection Fraction)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- New York Heart Association (NYHA) functional class III/IV  
+- QRS duration (narrow QRS, <120 ms; 120–130 ms; non‑LBBB 120–149 ms)  
+- Cardiac Resynchronization Therapy (CRT)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Baroreceptor Stimulation (carotid artery)  
+- Vagus Nerve Stimulation (VNS)  
+- Spinal Cord Stimulation (SCS)  
+- Left Bundle Branch Block (LBBB) pacing  
+- His Bundle pacing  
+- Cardiac Contractility Modulation (CCM)  
+- Coronary Artery Disease (CAD)  
+- Revascularization  
+- Coronary Artery Bypass Grafting (CABG)  
+- Percutaneous Coronary Intervention (PCI)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Left Ventricular (LV) dysfunction  
+- Mechanical dyssynchrony (detected by echocardiography)  
+- Mortality (all‑cause, cardiovascular, HF‑specific)  
+- Hospitalization (all‑cause, cardiovascular, HF)  
+- Quality of Life (QOL)  
+- NT‑proBNP (biomarker for HF severity)
+
+Page 52 Extracted Terms:
+- Heart Failure (HF)  
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- Left Ventricular (LV) Dysfunction  
+- Left Ventricular Ejection Fraction (EF)  
+- Ischemic Cardiomyopathy  
+- Coronary Artery Bypass Grafting (CABG)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Left Ventricular End‑Systolic Dimension (LVESD)  
+- Pulmonary Artery Systolic Pressure  
+- Right Ventricular (RV) Failure  
+- Pulmonary Hypertension  
+- Valvular Heart Disease (VHD)  
+- Severe Aortic Stenosis  
+- Aortic Regurgitation  
+- Mitral Regurgitation (MR) – secondary  
+- Tricuspid Regurgitation (TR) – secondary  
+- Transcatheter Aortic Valve Implantation (TAVI)  
+- Transcatheter Aortic Valve Replacement (TAVR)  
+- TAVR UNLOAD Trial  
+- Transcatheter Mitral Valve Edge‑to‑Edge Repair (TEER) – MitraClip  
+- COAPT Trial  
+- MITRA‑FR Trial  
+- Surgical Ventricular Remodeling  
+- LV Remodeling (proportionate vs. disproportionate MR)  
+- Multidisciplinary Heart Failure Team  
+- Cardiac Imaging (including transesophageal echocardiography)
+
+Page 53 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Secondary mitral regurgitation (MR)  
+- Guideline‑directed medical therapy (GDMT)  
+- Renin–angiotensin‑aldosterone system (RAAS) inhibition  
+- Beta‑blockers  
+- Biventricular pacing (cardiac resynchronization therapy)  
+- Sacubitril‑valsartan  
+- Effective regurgitant area (ERO)  
+- Regurgitant volume (RVol)  
+- Regurgitant fraction (RF)  
+- Transcatheter edge‑to‑edge repair (TEER)  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular end‑systolic diameter (LVESD)  
+- Pulmonary artery systolic pressure (PASP)  
+- Atrial fibrillation (AF)  
+- Coronary artery bypass graft (CABG)  
+- New York Heart Association (NYHA) class  
+- COAPT trial  
+- Mitral valve (MV)  
+- Left ventricle (LV)  
+- Mitral valve replacement (MV replacement)  
+- Annuloplasty repair  
+- Cardiology (expertise in heart failure management)  
+- Shared decision‑making (for valve intervention)
+
+Page 54 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with mildly reduced ejection fraction (HFmrEF)  
+- Left ventricular ejection fraction (LVEF)  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2i)  
+- Empagliflozin  
+- β‑blockers (beta blockers)  
+- Angiotensin‑converting enzyme inhibitors (ACEi)  
+- Angiotensin receptor blockers (ARB)  
+- Angiotensin receptor‑neprilysin inhibitors (ARNi)  
+- Mineralocorticoid receptor antagonists (MRAs)  
+- Spironolactone  
+- Natriuretic peptides (BNP, NT‑proBNP)  
+- Cardio‑vascular mortality  
+- Heart‑failure hospitalization  
+- EmpEROR‑Preserved study  
+- PARAGON‑HF study  
+- BBmeta‑HF (beta‑blockers meta‑analysis)  
+- eGFR (estimated glomerular filtration rate)  
+- Quality of life (QOL)  
+- Symptomatic heart failure  
+- Post‑hoc analyses  
+- Subgroup analyses  
+- Composite endpoint (HF hospitalization or cardiovascular death)
+
+Page 55 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+1. Heart failure (HF)  
+2. Heart failure with reduced ejection fraction (HFrEF)  
+3. Heart failure with mid‑range ejection fraction (HFmrEF)  
+4. Heart failure with preserved ejection fraction (HFpEF)  
+5. Left ventricular ejection fraction (LVEF)  
+6. Left ventricular end‑diastolic volume (LVEDV)  
+7. Natriuretic peptides (BNP, NT‑proBNP)  
+8. Global cardiovascular health management therapy (GDMT)  
+9. Candesartan (anthro‑study CHARM)  
+10. Spirontolactone (TOPCAT)  
+11. Aldosterone antagonist therapy  
+12. Sodium–glucose cotransporter‑2 inhibitors (SGLT2i)  
+13. Mineralocorticoid receptor antagonists (MRAs)  
+14. Angiotensin‑receptor blocker (ARB)  
+15. Angiotensin‑receptor neprilysin inhibitor (ARNi)  
+16. Nitrates (pharmacologic therapy)  
+17. Phosphodiesterase‑5 inhibitors  
+18. Atrial fibrillation (AF) management  
+19. Diuretics and decongestion strategies  
+20. Coronary artery disease (CAD)  
+21. Sarcoidosis  
+22. Amyloidosis  
+23. Kansas City Cardiomyopathy Questionnaire (KCCQ)  
+24. Cardiocardiomyopathy relapse  
+25. Cardiovascular death, cardiovascular mortality  
+26. Heart‑failure hospitalization  
+27. Reduced mortality in heart failure trials (CHA‑RM, TOPCAT)  
+28. LVEF trajectories and monitoring  
+29. Structural heart disease (Stage C HF)  
+30. Relapse/recurrence of heart failure  
+31. Blood pressure targets/management in HF  
+32. Hypertension in HFpEF  
+
+These terms capture the main cardiovascular conditions, therapeutic agents, clinical measures, and relevant research references discussed in the guideline excerpt.
+
+Page 56 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Left ventricular ejection fraction (LVEF)  
+- Natriuretic peptides (BNP, NT‑proBNP)  
+- Diuretics  
+- Amyloidosis (cardiac)  
+- Hypertension  
+- Diabetes mellitus  
+- Obesity  
+- Coronary artery disease (CAD)  
+- Chronic kidney disease (CKD)  
+- Atrial fibrillation (AF)  
+- Blood pressure control / management  
+- Renin–angiotensin–aldosterone system (RAAS) antagonists  
+  - Angiotensin‑converting enzyme inhibitors (ACEi)  
+  - Angiotensin receptor blockers (ARB)  
+  - Mineralocorticoid receptor antagonists (MRA)  
+  - Angiotensin receptor‑neprilysin inhibitors (ARNi)  
+- β‑blockers  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2i)  
+  - Empagliflozin (EMPEROR‑Preserved trial)  
+- Empa‑Cardio (context of SGLT2i trials)  
+- SPRINT (Systolic Blood Pressure Intervention) trial  
+- AHA/ACC/HFSA Heart Failure Guideline (2022)  
+- Heart failure mortality  
+- Heart failure hospitalizations  
+- Quality of life (QOL)  
+- Estimated glomerular filtration rate (eGFR)  
+- Chronic heart failure  
+- Cardiovascular events  
+- Rhythm and rate control in AF  
+- Clinical practice guideline for hypertension  
+- Comprehensive AF care in HFpEF  
+- Coronary artery disease management in HFpEF  
+- Exercise intolerance (chronotropic incompetence)  
+
+These are the principal terms related to heart disease that appear in the provided guideline excerpt.
+
+Page 57 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Atrial fibrillation (AF)  
+- β‑blockers (e.g., bisoprolol)  
+- Digoxin  
+- Mineralocorticoid receptor antagonists (MRAs) – spironolactone  
+- N‑terminal pro–brain natriuretic peptide (NT‑proBNP)  
+- Hyperkalemia  
+- Renal function / creatinine  
+- Estimated glomerular filtration rate (eGFR)  
+- Potassium levels  
+- Renin–angiotensin–aldosterone system (RAAS) inhibition  
+- Angiotensin receptor blockers (ARBs) – candesartan, valsartan  
+- Angiotensin receptor neprilysin inhibitor (ARNi) – sacubitril‑valsartan  
+- TOPCAT trial  
+- CHARM‑Preserved trial  
+- PARAMOUNT‑HF trial  
+- PARAGON‑HF trial  
+- Left‑ventricular ejection fraction (LVEF)  
+- Diastolic function  
+- Pulmonary congestion  
+- Exercise tolerance  
+- Nitrate therapy  
+- Cardiovascular death  
+- Heart‑failure hospitalization  
+- Composite endpoints (e.g., cardiovascular death or HF hospitalization)
+
+Page 58 Extracted Terms:
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Nitrates (e.g., isosorbide mononitrate)  
+- Phosphodiesterase‑5 inhibition (e.g., sildenafil)  
+- NT‑proBNP  
+- Cardiac amyloidosis  
+- Transthyretin amyloidosis (ATTR)  
+- ATTR wt (wild‑type ATTR)  
+- ATTR v (variant ATTR)  
+- Light‑chain amyloidosis (AL‑CM)  
+- Serum monoclonal light chains  
+- Serum free light chains (FLC)  
+- Immunofixation electrophoresis (IFE)  
+- Bone scintigraphy  
+- 99mTc‑PYP scan (technetium‑99m pyrophosphate)  
+- LV wall thickness ≥ 14 mm  
+- Electrocardiogram QRS voltage  
+- Apical sparing of LV longitudinal strain  
+- LV longitudinal strain  
+- Late gadolinium enhancement on cardiac MRI  
+- Cardiac MRI  
+- Aortic stenosis  
+- Carpal tunnel syndrome  
+- Lumbar spinal stenosis  
+- Autonomic neuropathy  
+- Sensory polyneuropathy  
+- Peak VO₂  
+- Exercise tolerance  
+- Oxygen consumption  
+- Dyspnea  
+- Fatigue  
+- Chest pain  
+- Quality of life (QOL)  
+- NEAT‑HFpEF trial  
+- RELAX trial  
+
+Page 59 Extracted Terms:
+**Key heart‑disease related terms extracted**
+
+- ATTR-CM (transthyretin amyloid cardiomyopathy)  
+- ATTRv (variant transthyretin amyloidosis)  
+- ATTRwt (wild‑type transthyretin amyloidosis)  
+- Amyloid cardiomyopathy (AL‑CM)  
+- Atrial fibrillation (AF)  
+- Congestive heart failure (CHF)  
+- Hypertension  
+- Diabetes mellitus  
+- Stroke  
+- Transient ischemic attack (TIA)  
+- Vascular disease  
+- Sex category (as part of CHA2DS2‑VASc score)  
+- ECG (electrocardiogram)  
+- H/CL (heart to contralateral chest ratio)  
+- HFrEF (heart failure with reduced ejection fraction)  
+- IFE (immunofixation electrophoresis)  
+- MRI (magnetic resonance imaging)  
+- NYHA (New York Heart Association) classification  
+- PYP (pyrophosphate) scintigraphy  
+- Tc (technetium) labeling  
+- TTR (transthyretin protein)  
+- Genetic sequencing of the TTR gene  
+- Genetic counseling  
+- Family screening  
+- Inotersen (drug for ATTRv)  
+- Patisiran (drug for ATTRv)  
+- AHA/ACC/HFSA Heart Failure Guideline 2022  
+
+These terms capture the central clinical concepts, diagnostic methods, therapeutic agents, and guideline frameworks discussed in the text.
+
+Page 60 Extracted Terms:
+- Cardiac amyloidosis  
+- ATTR‑CM (transthyretin cardiac amyloidosis)  
+- Wild‑type transthyretin (ATTRwt)  
+- Variant transthyretin (ATTRv)  
+- Transthyretin tetramer stabilizer  
+- Tafamidis  
+- New‑tarry “high‑value” cardiac therapeutic economics (QALY)  
+- Heart failure (HF)  
+- New York Heart Association (NYHA) class I–III symptoms  
+- G‑protein‑coupled receptor blockers (ARNi)  
+- Angiotensin‑converting enzyme inhibitor (ACEi)  
+- Angiotensin‑receptor blocker (ARB)  
+- β‑blocker  
+- Implantable cardio‑defibrillator (ICD)  
+- Cardiac resynchronization therapy (CRT)  
+- Autonomic dysfunction in amyloidosis  
+- Disease‑modifying therapies for ATTR – TTR silencers (inotersen, patisiran)  
+- Disease‑modifying therapies – TTR stabilizers (diflunisal, tafamidis)  
+- Disease‑modifying therapies – TTR disruptors (doxycycline, tauroursodeoxycholic acid [TUDCA], epigallocatechin‑3‑galate [EGCG])  
+- Light‑chain (AL) amyloidosis  
+- Cardiac involvement in AL amyloidosis  
+- Intracardiac thrombosis  
+- Atrial fibrillation (AF)  
+- Anticoagulation (direct oral anticoagulants [DOACs])  
+- CHA₂DS₂‑VASc score  
+- Left ventricular (LV) mass  
+- End‑stage renal function (eGFR < 25 mL/min/1.73 m²)  
+- Cardiovascular morbidity and mortality  
+- Cardiovascular‑related hospitalization  
+- Economic value of cardiovascular therapies (cost per QALY)
+
+Page 61 Extracted Terms:
+- Heart Failure (HF)  
+- Advanced Heart Failure (Stage D)  
+- LVAD (left ventricular assist device)  
+- Cardiac transplantation  
+- Palliative care  
+- Inotropes (intravenous)  
+- NYHA (New York Heart Association) class  
+- Natriuretic peptides (BNP/NT‑proBNP)  
+- End‑organ dysfunction  
+- Ejection fraction (EF / LVEF)  
+- Low EF threshold (≤35 %, ≤30 % in ESC criteria)  
+- High EF with diastolic dysfunction (≥40 %)  
+- Hospitalization for HF  
+- Edema despite diuretics  
+- Low systolic blood pressure (≤90 mm Hg)  
+- Elevated heart rate  
+- Prognostic medications (GDMT)  
+- GDMT (guideline‑directed medical therapy)  
+- INTERMACS profiles  
+- ESC (European Society of Cardiology)  
+- ATTR‑CM (transthyretin amyloid cardiomyopathy)  
+- Atrial fibrillation (AF)  
+- Warfarin  
+- Left atrial appendage closure devices  
+- Bleeding risk in HF patients  
+- AL amyloidosis  
+- Hemostatic abnormalities (coagulation factor deficiencies, hyperfibrinolysis, platelet dysfunction)  
+- TTR amyloidosis (transthyretin)  
+- Cardiogenic shock  
+- Malignant arrhythmias  
+- 6‑minute walk test distance  
+- Peak VO₂ (cardiac exercise capacity)
+
+Page 62 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Heart failure (HF)  
+- Advanced heart failure (Adv. HF)  
+- Hyponatremia  
+- Fluid restriction  
+- Congestive symptoms  
+- Diuretic‑refractory congestion  
+- New York Heart Association (NYHA) functional classification  
+- HFrEF – Heart Failure with reduced ejection fraction  
+- HFpEF – Heart Failure with preserved ejection fraction  
+- Quality of life (QOL)  
+- INTERMACS profiles (cardiogenic shock, inotropic dependence, etc.)  
+- Cardiogenic shock  
+- Inotropic/pressor support  
+- Orthopnea  
+- Shortness of breath / dyspnea  
+- Ascites  
+- Lower extremity edema  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Intravenous diuretics  
+- Ultrafiltration  
+- Mechanical circulatory support (e.g., temporary circulatory support devices)  
+- Arrhythmia (ventricular tachyarrhythmia, ICD shock)  
+- Clinical outcomes  
+- Patient‑reported outcomes  
+- Nutritional counseling (cachexia, malnutrition)  
+- Sodium restriction  
+- Decompensated heart failure  
+- Hospitalization & mortality rates (related to HF management)
+
+Page 63 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Heart Failure (HF)  
+- Advanced (Stage D) HF  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Mechanical Circulatory Support (MCS)  
+- Cardiac transplantation  
+- Inotropic support / inotropes  
+- Continuous intravenous inotropic therapy  
+- Palliative inotropic therapy  
+- Phosphodiesterase inhibition  
+- Adrenergic receptor stimulation  
+- Dopaminergic receptor stimulation  
+- Calcium sensitization  
+- End‑organ hypoperfusion  
+- Systolic dysfunction  
+- Low blood pressure (SBP ≤ 90 mm Hg)  
+- Low cardiac index  
+- New York Heart Association (NYHA) functional class III–IV  
+- Peak VO₂ (< 14 mL/kg/min or < 50 % predicted)  
+- 6‑minute walk test distance (< 300 m or inability to walk 1 block)  
+- Renin–Angiotensin–Aldosterone System inhibitors (RAASi)  
+- Beta‑blockers  
+- Diuretics (furosemide, metolazone)  
+- Diuretic escalation (> 160 mg/day furosemide equivalent)  
+- Ventricular arrhythmias / ICD shocks  
+- Cardiac cachexia  
+- Hyponatremia (serum sodium < 134 mEq/L)  
+- Declining renal function  
+- Declining hepatic function  
+- Pulmonary hypertension / right HF  
+- Predicted 1‑year mortality (> 20 %)  
+- MAGGIC (Meta‑analysis Global Group in Chronic Heart Failure)  
+- SHFM (Seattle Heart Failure Model)  
+- Cardiac Resynchronization Therapy (CRT)  
+- Inotrope dependence  
+- Low peak VO₂ (< 14–16 mL/kg/min)  
+- End‑organ dysfunction due to low cardiac output  
+- Irreversible hepatic disease  
+- Irreversible renal disease  
+- Irreversible neurological disease  
+- Age > 80 years (destination therapy)  
+- Peripheral vascular disease (PVD)  
+- Neurohormonal antagonists  
+- Social / psychosocial limitations  
+- Medication non‑adherence  
+- Active systemic infection  
+- Malnutrition / obesity  
+- Musculoskeletal limitations  
+- Active malignancy  
+- Substance abuse  
+- Cognitive / psychiatric impairment  
+- Lack of social support  
+- Implantable cardioverter‑defibrillator (ICD)  
+
+These terms capture the key concepts and clinical markers related to heart disease discussed in the guideline excerpt.
+
+Page 64 Extracted Terms:
+- Heart Failure (HF)  
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- Advanced HFrEF  
+- NYHA Class IV  
+- Inotropes  
+- Bridge Therapy  
+- Heart Transplantation  
+- Mechanical Circulatory Support (MCS)  
+- Durable LVAD  
+- Durable MCS  
+- Temporary MCS  
+- Percutaneous Ventricular Assist Devices (VAD)  
+- Extracorporeal Ventricular Assist Devices  
+- Bridge to Recovery  
+- Bridge to Decision  
+- Palliation  
+- Arrhythmias  
+- Inappropriate Shocks  
+- ICD (Implantable Cardioverter‑Defibrillator)  
+- Beta Blockers  
+- Myocardial Oxygen Demand  
+- Pulmonary Hypertension  
+- End‑Organ Perfusion  
+- Mortality  
+- Survival  
+- Quality of Life (QOL)  
+- Functional Status  
+- GDMT (Guideline‑Directed Medical Therapy)  
+- Hemodynamic Compromise  
+- Shock  
+- Intravenous Inotropic Agents  
+- Dopamine  
+- Dobutamine  
+- Milrinone  
+- Epinephrine  
+- Norepinephrine  
+- Adrenergic Agonists  
+- Phosphodiesterase 3 Inhibitors (PDE3)  
+- Vasopressors  
+- Monoamine Oxidase Inhibitor (MAO‑I)
+
+Page 65 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Pump mechanisms (mechanically assisted circulatory support)  
+- Ventricular assist devices (VADs) – specifically Left Ventricular Assist Devices (LVADs)  
+- Mechanical circulatory support (MCS)  
+- Durable MCS / Destination therapy  
+- Temporary MCS / Bridge therapy  
+- Inotropic therapy (intravenous inotropes)  
+- N-terminal pro–B-type natriuretic peptide (NT‑proBNP) – (implicit in HF assessment)  
+- New York Heart Association (NYHA) class IV  
+- INTERMACS profiles (1–7, Interagency Registry for Mechanically Assisted Circulatory Support)  
+- Pulmonary hypertension  
+- Central venous pressure  
+- Coagulopathy / anticoagulation management  
+- Pump thrombosis  
+- Hemolysis  
+- Ischemic neurologic events  
+- Anticoagulation monitoring (INR levels)  
+- Glycemic‑diabetes‑management therapy (GDMT) – (implicit in HF treatment)  
+- Cardiogenic shock  
+- Cardiac transplantation  
+- Bridge‑to‑transplant (BTT)  
+- Destination therapy (DT)  
+- Quality‑adjusted life‑year (QALY)  
+- Cost‑effectiveness / incremental cost‑effectiveness ratio (ICER)  
+- Hospital readmission / re‑hospitalization  
+- Percutaneous lead & external power supplies (device complications)  
+- Multidisciplinary heart‑failure team (cardiologist, surgeon, nurse, pharmacist, dietitian, palliative specialist, social worker)
+
+Page 66 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+- Advanced heart failure (HF)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Cardiac transplantation  
+- Left Ventricular Assist Device (LVAD)  
+- Mechanical Circulatory Support (MCS)  
+- Stage D heart failure  
+- Survival benefit  
+- Quality of life (QOL)  
+- Donor allocation policy  
+- Waitlist mortality  
+- Temporary circulatory support devices  
+- Multiorgan transplantation  
+- Congestion assessment  
+- Perfusion adequacy  
+- Cardiopulmonary exercise testing (CPET)  
+- Pulmonary hypertension  
+- Congenital heart disease  
+- Hypertrophic cardiomyopathy  
+- Muscular dystrophy (cardiac involvement)  
+- Sarcoidosis (cardiac involvement)  
+- Amyloidosis (cardiac involvement)  
+- Inotrope‑dependent advanced HF  
+- Cost‑effectiveness analysis  
+- Bridge‑to‑transplant strategy  
+- Bridge‑to‑decision strategy  
+- Destination therapy strategy  
+- Reversible factor management  
+- Volume status optimization  
+- Functional status improvement  
+- Health‑related quality of life  
+- Refractory heart failure  
+- Post‑transplant outcomes  
+
+These terms encompass the principal clinical conditions, therapeutic modalities, assessment tools, and outcome measures discussed in the guideline excerpts.
+
+Page 67 Extracted Terms:
+- Cardiogenic shock  
+- Heart failure (HF)  
+- Acute coronary syndrome (ACS)  
+- Revascularization  
+- Ischemia  
+- Arrhythmia / ventricular arrhythmia  
+- Tricuspid regurgitation (TR)  
+- Preserved left ventricular ejection fraction (LVEF)  
+- Reduced EF / HFrEF  
+- HFpEF (heart failure with preserved ejection fraction)  
+- Pulmonary edema  
+- Hypertension / uncontrolled hypertension  
+- Right‑sided filling pressures  
+- Left‑sided filling pressures  
+- Natriuretic peptides (e.g., BNP, NT‑proBNP)  
+- Congestion / decongestion  
+- Hypoperfusion (resting, low pulse pressure)  
+- Neurohormonal antagonists (e.g., ACEi, ARBs, beta‑blockers, MRAs)  
+- Diuretic therapy  
+- Guideline‑directed medical therapy (GDMT)  
+- Cardiac resynchronization therapy (CRT)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Anticoagulation for atrial fibrillation (AF)  
+- Anemia  
+- Hyper‑ or hypothyroidism  
+- Non‑steroidal anti‑inflammatory drug (NSAID) use  
+- Medications with negative inotropic effect (e.g., verapamil)  
+- Pulmonary or urinary tract infections (as precipitants of HF)  
+- Social determinants of health (impact on HF management)
+
+Page 68 Extracted Terms:
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Angiotensin‑converting enzyme inhibitor (ACEi)  
+- Angiotensin receptor blocker (ARB)  
+- Angiotensin receptor‑neprilysin inhibitor (ARNi)  
+- Beta‑blocker (β‑blocker)  
+- Mineralocorticoid receptor antagonist (MRA)  
+- Diuretic therapy  
+- Hospitalization for heart failure  
+- Post‑discharge mortality  
+- Hospital readmission  
+- Renal function (e.g., serum creatinine, eGFR)  
+- Systolic blood pressure (SBP)  
+- Estimated glomerular filtration rate (eGFR)  
+- Acute kidney injury (AKI)  
+- Cardiac output  
+- Cardiogenic shock  
+- Atrioventricular (AV) block  
+- Angioedema  
+- Oral GDMT  
+- Target GDMT dose  
+- Clinical stability  
+- Optimal dosing  
+- Mortality risk  
+- Rehospitalization risk  
+- OPTIMIZE‑HF study  
+- CHAMP‑HF registry  
+- PARADIGM‑HF trial  
+- SENIORS trial  
+- Val‑HeFT trial  
+- Carvedilol  
+- Nebivolol  
+- Spironolactone  
+- Sacubitril‑valsartan  
+- AHA/ACC/HFSA Heart Failure Guideline  
+- Get With The Guidelines–Heart Failure (GWTG‑HF) registry  
+- COACH study  
+- ARIC study (Atherosclerosis Risk in Communities)  
+- AHA (American Heart Association)  
+- ACC (American College of Cardiology)  
+- HFSA (Heart Failure Society of America)  
+- In‑hospital mortality  
+- Short‑term mortality  
+- Long‑term mortality  
+- Volume overload  
+- Suboptimal dose of GDMT
+
+
+Page 69 Extracted Terms:
+- AHA/ACC/HFSA Heart Failure Guideline  
+- Carvedilol  
+- Beta blockers  
+- ACEi‑ARB (angiotensin‑converting‑enzyme inhibitor / angiotensin‑II receptor blocker)  
+- MRA therapy (mineralocorticoid‑receptor antagonist)  
+- Spironolactone  
+- ARNi (angiotensin receptor‑neprilysin inhibitor)  
+- NT‑proBNP (N‑terminal pro‑B‑type natriuretic peptide)  
+- Worsening renal function  
+- Hyperkalemia  
+- Symptomatic hypotension  
+- Angioedema  
+- Oral GDMT (guideline‑directed medical therapy)  
+- HFrEF (heart failure with reduced ejection fraction)  
+- HF readmission / rehospitalization  
+- Decongestion strategy  
+- Loop diuretics (intravenous)  
+- Thiazide diuretic (add‑on)  
+- Furosemide (oral loop diuretic)  
+- GWTG‑HF (Get With The Guidelines‑Heart Failure)  
+- COACH trial  
+- PIONEER‑HF trial  
+- ARIC study  
+- SOLOIST‑WHF trial  
+- CHAMP‑HF study  
+- 30‑day mortality  
+- 1‑year mortality  
+- Target doses of beta blockers, ACEi‑ARB, ARNi, MRA  
+- Monotherapy, dual therapy, triple therapy (GDMT combinations)  
+- Clinical evidence of congestion  
+- Symptoms and rehospitalizations (mortality)
+
+Page 70 Extracted Terms:
+- Heart failure (HF)
+- Heart failure with reduced ejection fraction (HFrEF)
+- Congestion
+- Decompensated heart failure
+- Acute heart failure
+- Pulmonary congestion
+- Dyspnea
+- Right atrial pressure
+- Tricuspid regurgitation (TR)
+- Elevated filling pressures
+- Hypoperfusion
+- Renal dysfunction
+- Serum electrolytes
+- Urea nitrogen
+- Creatinine
+- Fluid input/output monitoring
+- Standing body weight
+- Intravenous loop diuretics
+- Diuretic dose escalation
+- Serial doubling of loop diuretics
+- Nephron blockade
+- Thiazide diuretic
+- Ultrafiltration
+- Intravenous nitroglycerin
+- Intravenous nitroprusside
+- ACE inhibitors (ACEi)
+- Angiotensin receptor blockers (ARBs)
+- Mineralocorticoid receptor antagonists (MRAs)
+- Beta‑blockers
+- ARNI (angiotensin receptor‑neprilysin inhibitor)
+- SGLT2 inhibitors (SGLT2i)
+- Inotropic support
+- Cardiogenic shock
+- Left ventricular ejection fraction (LVEF)
+- Low‑dose dopamine therapy
+- Ejection fraction (EF)
+- Diuretic optimization
+- Hospital readmission
+- Mortality
+- Clinical signs of congestion
+- Hospital discharge criteria
+- Continuous infusion vs. bolus diuretic administration
+- Fluid removal rate
+- Vascular access complications
+- Hypotension (systemic and pulmonary)
+- Hypotensive management in HF
+- Renal impairment monitoring
+- Fluid overload
+- Diuretic therapy monitoring
+- Guideline‑directed medical therapy for HF
+- CARRESS trial
+- ROSE trial
+- DOSE trial
+- Parenteral vasodilator therapy
+- Inotropic support trials
+- Cardiogenic shock management
+- Fluid balance management in HF
+- Electrolyte monitoring in diuretic therapy
+
+Page 71 Extracted Terms:
+- Heart failure (HF)
+- Acute decompensated heart failure
+- Pulmonary congestion
+- Loop diuretics
+- Hypertension
+- Coronary ischemia
+- Mitral regurgitation (MR)
+- Intravenous nitroglycerin
+- Tachyphylaxis
+- Sodium nitroprusside
+- Hypotension
+- Invasive hemodynamic monitoring
+- Arterial line
+- Intensive care setting
+- Thiocyanate toxicity
+- Cyanide toxicity
+- Renal insufficiency
+- Hepatic disease
+- Severe mitral valve (MV) regurgitation
+- Left ventricular (LV) dysfunction
+- Venous thromboembolism (VTE)
+- VTE prophylaxis
+- Low‑molecular‑weight heparin
+- Unfractionated heparin
+- Fondaparinux
+- Direct oral anticoagulants (DOACs)
+- Enoxaparin
+- Rivaroxaban
+- Aspirin
+- Bleeding complications
+- Renal function (creatinine clearance)
+- Obesity (dose adjustment)
+- Cardiogenic shock
+- Intravenous inotropic support
+- Systemic perfusion
+- End‑organ performance
+- Mechanical circulatory support (MCS)
+- Multidisciplinary shock team
+- Pulmonary artery (PA) line
+- Pulmonary artery pressure
+- Pulmonary embolism
+- Deep vein thrombosis (DVT)
+- Antithrombotic drugs
+- Acute illnesses
+- Severe respiratory diseases  
+
+Page 72 Extracted Terms:
+- Cardiogenic shock  
+- Cardiac output  
+- End‑organ dysfunction  
+- Hypotension  
+- Systolic blood pressure (SBP)  
+- Mean arterial pressure (MAP)  
+- End‑organ hypoperfusion  
+- Acute decompensation of chronic heart failure (HF)  
+- Acute myocardial dysfunction without prior HF  
+- Survivors of cardiac arrest  
+- Acute myocardial infarction (MI)  
+- Revascularization  
+- Invasive hemodynamic assessment  
+- Mechanical circulatory support (MCS)  
+- Pharmacologic therapies  
+- Cardiac index  
+- Pulmonary capillary wedge pressure (PCW)  
+- Pulmonary artery pulse index (PAPi)  
+- Central venous pressure (CVP)  
+- Cardiac power output (CPO)  
+- Shock index (HR/SBP)  
+- Right‑ventricular (RV) shock  
+- Pulmonary artery systolic pressure (PASP)  
+- Pulmonary artery diastolic pressure (PADP)  
+- Brain natriuretic peptide (BNP)  
+- Lactate (elevated lactate)  
+- Urine output (reduced urine output)  
+- Mentation (altered mentation)  
+- Cold extremities / livedo reticularis  
+- Metabolic complications (acidosis, liver function tests)  
+- SCAI cardiogenic shock stages (A–E)  
+- Hemodynamic criteria for shock (SBP <90 mm Hg, MAP <60 mm Hg, CI <2.2 L/min/m², PCW >15 mm Hg, CPO <0.6 W)  
+- Shock index >1.0  
+- Pulmonary artery pulsatility index (PAPi) <1.0  
+- Right‑ventricular measures (CVP >15 mm Hg, CVP‑PCW >0.6)  
+- Cardiogenic shock diagnostic criteria  
+- Acute coronary syndrome (ACS)  
+- Cardiac arrest 
+- Cardiac resuscitation (CPR) 
+- Pulseless electrical activity (PEA) 
+- Ventricular tachycardia (VT) 
+- Ventricular fibrillation (VF)
+
+Page 73 Extracted Terms:
+- Cardiogenic shock  
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Inotropic support  
+- Mechanical circulatory support (MCS)  
+- Invasive hemodynamic monitoring  
+- Pulmonary artery catheterization (PA catheter)  
+- End‑organ perfusion / end‑organ dysfunction  
+- Left ventricular assist device (LVAD)  
+- Heart transplant  
+- Revascularization (e.g., percutaneous coronary intervention)  
+- ST‑elevation myocardial infarction (STEMI)  
+- Myocarditis  
+- Arrhythmias  
+- Vasopressors  
+- Shock team  
+- Multidisciplinary care teams (HF, critical care, interventional cardiology, cardiac surgery)  
+- Palliative care  
+- Transitional care / discharge planning  
+- Hospitalization / readmission  
+- Evidence‑based therapy  
+- Clinical guidelines (AHA/ACC/HFSA)  
+- Hemodynamic benefits / data  
+- Cardiac output  
+- Blood pressure  
+- Organ hypoperfusion  
+- Pharmacologic therapy  
+- Mechanical therapy  
+- Temporary circulatory support devices  
+- Bridge‑to‑decision strategies  
+- Durable LVAD or transplant pathways  
+- End‑organ malperfusion  
+- Risk assessment and therapeutic decision‑making  
+- Early follow‑up (within 7 days of discharge)  
+- Benchmarking to performance measures  
+- Quality of care metrics  
+- Cardiovascular disease management programs  
+- Clinical statements and recommendations  
+- Hemodynamics (hemodynamic monitoring, monitoring of pulmonary pressures, systemic vascular resistance)
+
+Page 74 Extracted Terms:
+**Heart‑disease–related terms extracted from the text**
+
+1. Heart failure (HF)  
+2. HFrEF (heart‑failure with reduced ejection fraction)  
+3. HFpEF (heart‑failure with preserved ejection fraction)  
+4. Guideline‑directed medical therapy (GDMT)  
+5. Decompensation (HF decompensation)  
+6. Readmission / rehospitalization  
+7. Multidisciplinary care / team  
+8. Case management (case manager, nurse coordinator)  
+9. Cardiologists  
+10. HF nurses  
+11. Primary‑care clinicians  
+12. Pharmacists  
+13. Dietitians  
+14. Social workers  
+15. Community health workers  
+16. Disease‑management programs  
+17. Self‑management  
+18. Medication optimization / reconciliation  
+19. Device management (pacemakers, defibrillators, etc.)  
+20. Weight monitoring  
+21. Exercise counseling / rehabilitation  
+22. Dietary advice / restrictions  
+23. Cardiac rehabilitation  
+24. Discharge medications  
+25. Follow‑up appointments  
+26. Transition of care  
+27. Performance‑measure benchmarks (real‑time feedback)  
+28. Quality‑improvement programs  
+29. Electronic point‑of‑care reminders (for GDMT)  
+30. Outpatient follow‑up  
+31. Early post‑discharge follow‑up  
+32. Diuretics (titration, adjustment)  
+33. Electrolytes monitoring  
+34. Safety laboratory checks  
+35. Renal dysfunction (comorbidity)  
+36. Pulmonary disease (comorbidity)  
+37. Diabetes (comorbidity)  
+38. Mental health (comorbidity)  
+39. Substance‑use disorders (comorbidity)  
+40. Psychosocial support (limitations)  
+41. Health literacy (impaired)  
+42. Cognitive impairment  
+43. Additional surgical or device therapy  
+44. Palliative‑care referral  
+45. Hospice enrollment
+
+These are the key terms that relate to heart disease management and care outlined in the provided guideline excerpts.
+
+Page 75 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Neuro‑hormonal guideline‑directed medical therapy (GDMT)  
+- Intravenous iron replacement for iron deficiency in HF  
+- Erythropoietin‑stimulating agents (contraindicated in HF)  
+- Hypertension  
+- Ischemic heart disease (IHD)  
+- Diabetes mellitus type 2  
+- Anemia  
+- Chronic kidney disease (CKD)  
+- Chronic obstructive pulmonary disease (COPD)  
+- Atrial fibrillation (AF)  
+- Sleep‑disordered breathing  
+- Obstructive sleep apnea (OSA)  
+- Central sleep apnea (CSA)  
+- Continuous positive airway pressure (CPAP)  
+- Adaptive servo‑ventilation (avoided in CSA)  
+- Sodium‑glucose co‑transporter‑2 inhibitors (SGLT2i)  
+- Telemedicine/virtual visits for chronic HF management  
+- Functional status improvement  
+- Quality of life (QoL) enhancement  
+- Multimorbidity in HF (≥2 chronic conditions)  
+- Morbid obesity  
+- Frailty  
+- Malnutrition  
+- Depression (impacting HF prognosis)
+
+Page 76 Extracted Terms:
+- Heart Failure (HF)  
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- Angiotensin‑Converting Enzyme Inhibitors (ACEi)  
+- Angiotensin Receptor Blockers (ARB)  
+- Sodium‑Glucose Cotransporter‑2 Inhibitors (SGLT2i)  
+- Cardiac Resynchronization Therapy (CRT)  
+- Valvular Heart Disease (VHD)  
+- Atrial Fibrillation (AF)  
+- New York Heart Association (NYHA) Classification  
+- Left Ventricular Ejection Fraction (LVEF)  
+- CHA₂DS₂‑VASc Score (stroke‑risk assessment in AF)  
+- Continuous Positive Airway Pressure (CPAP) – for sleep apnea related to HF  
+- Ferric Carboxymaltose – iron therapy used in HF with iron deficiency  
+- Anemia – frequently present and prognostic in HF  
+- Chronic Kidney Disease (CKD) – closely linked comorbidity impacting HF management  
+
+(These terms capture the core heart‑disease concepts, associated therapies, diagnostic metrics, and key comorbidities discussed in the guideline text.)
+
+Page 77 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+- Heart Failure (HF)  
+- Chronic Heart Failure  
+- Heart Failure with reduced Ejection Fraction (HFrEF)  
+- Left Ventricular Ejection Fraction (EF)  
+- EF < 50 %  
+- EF ≤ 40 %  
+- New York Heart Association (NYHA) Class II, III, IV  
+- 6‑minute walk test  
+- Quality of Life (QOL)  
+- Iron Deficiency Anemia  
+- Oral iron supplementation  
+- Intravenous iron therapy  
+- Ferric carboxymaltose  
+- IRONOUT HF trial  
+- AFFIRM‑AHF trial  
+- Cardiovascular death  
+- Hospitalization for heart failure  
+- Anemia in heart failure  
+- Erythropoietin  
+- Erythropoietin‑stimulating agents (ESA)  
+- Darbepoetin α  
+- Thrombotic events (stroke, etc.)  
+- Hypertension  
+- Systolic blood pressure (SBP) < 120 mm Hg  
+- Low blood pressure in HFrEF  
+- Antihypertensive therapy  
+- Guideline‑directed medical therapy (GDMT)  
+- ACC/AHA hypertension guidelines  
+- Sleep disorders in heart failure  
+- Daytime sleepiness  
+- Obstructive sleep apnea (OSA)  
+- Central sleep apnea (CSA)  
+- Sleep study (polysomnography)  
+- Continuous positive airway pressure (CPAP)  
+- Nocturnal oxygenation  
+- B-type natriuretic peptide (BNP)  
+- Adaptive servo‑ventilation  
+- Mortality (all‑cause, cardiovascular)  
+- Diabetes mellitus  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2i)  
+- Canagliflozin  
+- Dapagliflozin  
+- Empagliflozin  
+- Sotagliflozin  
+- Major adverse cardiovascular events (MACE)  
+- DAPA‑HF trial  
+- EMPEROR‑Reduced trial  
+- All‑cause death  
+- Clinical guidelines (AHA/ACC/HFSA Heart Failure Guideline, ACC/AHA hypertension guideline)  
+- Clinical trials  
+- Meta‑analysis  
+
+These terms capture the principal concepts, conditions, interventions, and outcomes discussed in the text regarding heart disease.
+
+Page 78 Extracted Terms:
+- Heart failure  
+- HF  
+- Chronic heart failure  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Left ventricular ejection fraction (LVEF)  
+- Atrial fibrillation (AF)  
+- Permanent AF  
+- Persistent AF  
+- Paroxysmal AF  
+- AF ablation  
+- Antiarrhythmic therapy  
+- Amiodarone  
+- Atrioventricular nodal ablation  
+- Cardiac resynchronization therapy (CRT) device  
+- Permanent pacemaker  
+- CHA₂DS₂‑VASc score  
+- Anticoagulant therapy  
+- Direct oral anticoagulants (DOAC)  
+- Warfarin  
+- Apixaban  
+- Rivaroxaban  
+- Edoxaban  
+- Dabigatran  
+- SGLT2 inhibitors (SGLT2i)  
+- Dapagliflozin  
+- Empagliflozin  
+- Hospitalization for heart failure  
+- Mortality  
+- Stroke prevention  
+- Intracranial bleeding  
+- Major bleeding  
+- Genitourinary infections (risk factor)  
+- Renal outcomes  
+- NYHA functional class  
+- Ventricular rate control  
+- Rhythm control strategy  
+- Catheter ablation (AF)  
+- Cardiology guideline terminology  
+
+
+
+Page 79 Extracted Terms:
+- Heart Failure (HF)  
+- Atrial Fibrillation (AF)  
+- Rhythm control strategy  
+- Rate control strategy  
+- Catheter ablation  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Cardiac Resynchronization Therapy (CRT)  
+- Right‑Ventricular (RV) pacing  
+- Left‑Ventricular–Based Cardiac Stimulation (PAVE)  
+- Biventricular versus Right‑Ventricular Pacing (BLOCK‑HF)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- New York Heart Association (NYHA) class II‑IV  
+- Composite endpoint: death or rehospitalization  
+- Hazard ratios and relative risk reductions (e.g., 49%, 56%)  
+- CHA₂DS₂‑VASc score  
+- Hypercoagulable state in HF  
+- Stroke risk  
+- Systemic embolism  
+- Anticoagulation therapy  
+- Clinical trial meta‑analysis of rhythm vs. rate control  
+- Clinical statements and guidelines (AHA/ACC/HFSA 2022 HF Guideline)  
+- Health disparities / vulnerable populations  
+- Social determinants of health  
+- Hypertension prevalence in Black patients  
+- Polypharmacy, multimorbidity, cognitive decline, frailty  
+- Women’s heart failure presentation and outcomes  
+- Black patient HF incidence, hospitalization, mortality rates  
+- Implicit bias training in healthcare  
+- Implicit bias in clinical decision‑making  
+- Genotype or race‑based cardiovascular risk  
+- Clinical practice monitoring of health disparities  
+- Multidisciplinary management strategies for HF  
+- GDMT (guideline‑directed medical therapy)  
+- Stroke registry data in HF with AF  
+- HF as an independent risk factor for stroke, systemic embolism, mortality  
+
+(Note: terms are grouped thematically but all are listed individually.)
+
+Page 80 Extracted Terms:
+**Key heart‑disease–related terms extracted from the text**
+
+- Heart Failure (HF)  
+- Heart Failure with preserved ejection fraction (HFpEF)  
+- Heart Failure with reduced ejection fraction (HFrEF)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Left Ventricular Assist Device (LVAD)  
+- Chagas cardiomyopathy  
+- Cardiovascular disease (CVD)  
+- Transplant wait‑list mortality  
+- Age‑adjusted HF mortality  
+- Incident HF risk  
+- Non‑ischemic HF  
+- Ischemic HF  
+- Social isolation  
+- Caregiver support / caregiver stress  
+- Low household income / low socioeconomic status  
+- Neighborhood Deprivation Index (ADI)  
+- Diabetes mellitus  
+- Hypertension  
+- Obesity  
+- Anxiety  
+- Depression  
+- Female sex / women (sex‑specific differences)  
+- Older adults (≥ 80 years, ≥ 65 years)  
+- Low‑income populations  
+- Black/African‑American populations  
+- Hispanic/Latino populations  
+- Asian and Pacific Islander populations  
+- Native American and Alaskan Native populations  
+- Framingham Heart Study (FHS)  
+- Multi‑Ethnic Study of Atherosclerosis (MESA)  
+- Get With The Guidelines (GWTG) registry  
+- OPTMIZE‑HF registry (Organized Program To Initiate Lifesaving Treatment in Hospitalized Patients With Heart Failure)  
+- AHA/ACC/HFSA Heart Failure Guideline  
+- Hospitalization rates for HF  
+- Quality of Life (QOL) measures  
+- Mortality (short‑term, 1‑year, 5‑year, overall)  
+- Hazard Ratio (HR)  
+- Odds Ratio (OR)  
+- Predictive value of cardiac biomarkers for incident HF  
+
+These terms encompass the clinical conditions, therapies, risk factors, outcomes, population groups, and research/registry references that are central to heart disease discussion in the provided text.
+
+Page 81 Extracted Terms:
+**Key heart‑disease related terms**
+
+- Heart failure (HF)  
+- HF incidence  
+- HF mortality  
+- Heart transplantation  
+- Cardiovascular risk factors  
+- Cardiovascular complications of cancer therapy  
+- Cardiotoxic anticancer therapies  
+- Cardio‑oncology (practice of cardiovascular risk stratification in oncology)  
+- Cardiomyopathy (including cancer‑therapy–related cardiomyopathy)  
+- Left ventricular ejection fraction (LVEF)  
+- LV dysfunction  
+- Asymptomatic cardiomyopathy (EF < 50 %)  
+- Cardiac troponin  
+- Progressive heart failure  
+- Advanced heart failure therapies  
+- Beta‑blockers (β‑blockers)  
+- Angiotensin‑converting enzyme inhibitors (ACEi)  
+- Angiotensin‑II receptor blockers (ARB)  
+- Cardiac function monitoring  
+- Cardiac function baseline assessment  
+- Cardiogenic shock  
+- Primary prevention of drug‑induced cardiomyopathy  
+- Early detection of cardiomyopathy  
+- Multidisciplinary heart‑failure management  
+- CVD (cardiovascular disease)  
+- Integrated cardio‑oncology framework  
+- Cardio‑vascular risk stratification  
+- High‑quality, drug‑specific evidence for cardiotoxicity screening and monitoring  
+
+These terms capture the core concepts and therapies related to heart disease discussed in the provided text.
+
+Page 82 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Cardiotoxicity  
+- Cancer‑therapy‑related cardiomyopathy  
+- Cardiac dysfunction  
+- Left ventricular ejection fraction (LVEF)  
+- Neurohormonal blockade  
+- Guideline‑directed medical therapy (GDMT)  
+- Beta‑blockers  
+- Angiotensin‑converting enzyme inhibitors (ACEi)  
+- Angiotensin‑II receptor blockers (ARBs)  
+- Immune‑checkpoint–related myocarditis  
+- Anthracyclines  
+- Alkylating agents  
+- Antimicrotubule agents  
+- Antimetabolites  
+- Anti‑HER2 agents  
+- Tyrosine‑kinase inhibitors  
+- Immune‑checkpoint inhibitors  
+- Protease inhibitors  
+- Endocrine therapy  
+- Chimeric antigen receptor (CAR‑T) cell therapy  
+- Hematopoietic stem cell transplantation (HSCT)  
+- Chest radiation therapy  
+- Echocardiography  
+- Cardiac monitoring  
+- Cardiac imaging  
+- Pre‑therapy LVEF assessment  
+- Cardiac risk stratification  
+- Cardiovascular disease (CVD)  
+- Major adverse cardiovascular events (MACE)  
+- Cardiac safety assessment  
+- Standard heart‑failure therapies (e.g., diuretics, mineralocorticoid antagonists)  
+
+
+These terms encompass the core concepts and modalities related to heart disease discussions within the provided clinical guideline excerpt.
+
+Page 83 Extracted Terms:
+**Key heart‑disease terms extracted**
+
+- Heart failure  
+- Cardiomyopathy  
+- Cancer therapy‑related cardiomyopathy  
+- Left ventricular ejection fraction (LVEF)  
+- New York Heart Association (NYHA) class I–II  
+- Angiotensin‑converting enzyme inhibitors (ACEi)  
+- Angiotensin II receptor blockers (ARB)  
+- β‑blockers  
+- Spironolactone  
+- Carvedilol  
+- Nebivolol  
+- Anthracyclines  
+- Trastuzumab  
+- Serial LVEF monitoring  
+- Troponin  
+- Natriuretic peptides  
+- Coronary artery disease (CAD)  
+- Hypertension  
+- Diabetes mellitus  
+- Preexisting cardiomyopathy  
+- Previous anthracycline exposure  
+- Previous chest radiation  
+- Age ≥60 years  
+- Black race  
+- Elevated pre‑therapy troponin (≥14 ng/L or >0.07 ng/mL)  
+- ≥10 % LVEF decline to <50 %  
+- LVEF recovery  
+- Cardiac events (mortality, heart‑failure hospitalization)  
+- Echocardiography  
+- Cardiac risk stratification  
+- AHA/ACC/HFSA heart‑failure guideline  
+- Cancer‑therapy cardiotoxicity  
+- Biomarker‑guided therapy  
+- Subclinical cardiac injury  
+- Temporary/permanent interruption of cardiotoxic agents  
+
+These terms collectively capture the heart‑disease concepts discussed in the guideline excerpt.
+
+Page 84 Extracted Terms:
+Heart failure (HF)  
+Cardiomyopathy  
+Peripartum cardiomyopathy  
+Left ventricular ejection fraction (LVEF)  
+Left ventricular (LV) dilation  
+Left ventricular (LV) dysfunction  
+Right ventricular (RV) involvement  
+NYHA functional class  
+AHA/ACC/HFSA Heart Failure Guideline  
+Systolic dysfunction  
+Acute HF  
+Cardiogenic shock  
+Intracardiac thrombus  
+Thromboembolic events  
+Hypercoagulable state  
+Anticoagulation  
+Bromocriptine  
+Dopamine‑agonist therapy  
+GDMT (guideline‑directed medical therapy)  
+ACE inhibitor (ACEi)  
+Angiotensin receptor blocker (ARB)  
+Angiotensin receptor‑neprilysin inhibitor (ARNi)  
+Mineralocorticoid receptor antagonist (MRA)  
+SGLT2 inhibitor (SGLT2i)  
+Ivabradine  
+Vericiguat  
+Mechanical circulatory support  
+Left ventricular assist device (LVAD)  
+Heart transplant  
+Pregnancy in cardiomyopathy  
+Risk factors: maternal age >30 yr, African ancestry, multiparity, multigestation, preeclampsia/eclampsia, anemia, diabetes, obesity, prolonged tocolysis  
+ROPAC registry  
+CARPREG II score  
+Modified WHO risk classification  
+World Health Organization (WHO) risk score for pregnancy and cardiac disease
+
+Page 85 Extracted Terms:
+- AHA/ACC/HFSA Heart Failure Guideline  
+- Heart Failure (HF)  
+- Peripartum Cardiomyopathy (PPCM)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Right Ventricular (RV)  
+- Angiotensin‑converting Enzyme Inhibitor (ACEi)  
+- Angiotensin Receptor Blocker (ARB)  
+- Angiotensin Receptor‑Neprilysin Inhibitor (ARNi)  
+- Mineralocorticoid Receptor Antagonist (MRA)  
+- Sodium‑Glucose Cotransporter‑2 Inhibitor (SGLT2i)  
+- Beta‑Blocker (e.g., metoprolol, metoprolol succinate)  
+- Hydralazine  
+- Nitrates (e.g., nitroglycerin)  
+- Diuretics (e.g., furosemide)  
+- Anticoagulation (prophylactic or therapeutic)  
+- Bromocriptine  
+- Mechanical Circulatory Support (MCS)  
+- Cardiogenic Shock  
+- Decompensated Heart Failure  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- B‑natriuretic Peptide (BNP)  
+- N‑terminal pro‑B‑natriuretic Peptide (NT‑proBNP)  
+- Echocardiography (cardiac structure & function assessment)  
+- Pregnancy Cardiovascular Risk Tools  
+- Preconception Genetic Counseling & Testing for Heritable Cardiac Conditions  
+- Preeclampsia (shared risk with PPCM)  
+- Maternal‑Fetal Medicine Surveillance  
+- Breastfeeding‑safe Medications (ACEi, beta‑blockers, diuretics)  
+- ESC “BOARD” (Bromocriptine, Oral HF therapy, Anticoagulation, vaso‑Relaxing agents, Diuretics)  
+- Randomized Controlled Trial (RCT) evidence on PPCM and bromocriptine  
+- Clinical Statements & Guidelines (2022)  
+- Perinatal (Pregnancy Continuum) HF Management Strategies  
+- Multidisciplinary Collaborative Approach (cardiology, obstetrics, neonatology, genetics)
+
+Page 86 Extracted Terms:
+- Heart Failure (HF)  
+- Heart Failure with reduced ejection fraction (HFrEF)  
+- Heart Failure guidelines (AHA/ACC/HFSA, 2022)  
+- Pregnancy and Lactation Labeling Rule  
+- Angiotensin‑converting enzyme inhibitors (ACEi) – e.g., enalapril, captopril  
+- Angiotensin‑II receptor blockers (ARBs)  
+- Angiotensin receptor neprilysin inhibitors (ARNi)  
+- Ivabradine  
+- Spironolactone  
+- Eplerenone  
+- Loop diuretic (furosemide)  
+- Beta‑blockers (metoprolol, other)  
+- Hydralazine  
+- Nitrates  
+- Peripartum cardiomyopathy  
+- Left ventricular recovery (LV recovery)  
+- LactMed (Lactation Medications database)  
+- Performance measurement / quality metrics in heart failure care  
+- Process‑of‑care measures  
+- NYHA functional class I and III  
+- Patient registries for heart‑failure quality improvement  
+- Palliative and supportive care in heart failure  
+- Quality of life (QOL)  
+- Life‑extending therapies in HF  
+- Stage D heart failure  
+- Inotropic support  
+- Temporary mechanical support  
+- Advanced therapies (e.g., transplant, mechanical circulatory support)  
+- Multimorbidity, frailty, cognitive impairment in HF patients  
+- Shared decision‑making (multidisciplinary)  
+- Clinical practice guidelines (ACC/AHA)
+
+Page 87 Extracted Terms:
+- Heart Failure (HF)  
+- Heart Failure with reduced ejection fraction (HFrEF)  
+- Advanced Heart Failure (advanced HF)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Beta‑blocker therapy for HFrEF  
+- ACE inhibitor (ACEi) therapy for HFrEF  
+- Angiotensin‑receptor blocker (ARB) therapy for HFrEF  
+- Angiotensin‑receptor neprilysin inhibitor (ARNi) therapy for HFrEF  
+- Mineralocorticoid receptor antagonist (MRA) therapy for HFrEF  
+- Hydralazine and isosorbide dinitrate therapy for HFrEF in Black or African American patients  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Implantable Cardioverter‑Defibrillator (ICD) placement counseling for HFrEF  
+- Cardiac Resynchronization Therapy (CRT) implantation for HFrEF  
+- Palliative care for patients with HF  
+- Advance care planning / advance care directives in HF  
+- Hospice referral for advanced HF with <6 month survival  
+- Quality of Life (QOL) improvement in HF care  
+- Symptom assessment and monitoring in HF  
+- Symptom management in HF  
+- Patient self‑care education for HF  
+- Patient‑reported outcome and health status measurement in HF  
+- Exercise training referral for HF (inpatient and outpatient)  
+- HF registry participation  
+- Performance Measures (PM) for HF  
+- Quality Measures (QM) for HF  
+- Structural Measures (SM) for HF
+
+Page 88 Extracted Terms:
+- Heart Failure (HF)  
+- Congestive Heart Failure (CHF)  
+- Mechanical Circulatory Support (MCS)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Intravenous Inotropes  
+- Renal Replacement Therapy (used in advanced HF)  
+- Life‑sustaining therapies (initiation, continuation, deactivation)  
+- Palliative Care in HF  
+- Supportive Care in HF  
+- Psychological Distress (in the context of HF management)  
+- Family Caregiver support (in HF care)
+
+Page 89 Extracted Terms:
+- Heart Failure (HF)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Left Ventricular Assist Device (LVAD)  
+- Deactivation of ICD  
+- Palliative Care  
+- Hospice Care  
+- Advance Care Planning  
+- End‑of‑Life Care  
+- Symptom Management (dyspnea, fatigue, pain, nausea, depression, anxiety)  
+- Shared Decision‑Making  
+- High‑Quality Communication  
+- Caregiver Support  
+- Cardiovascular Mortality/Deaths  
+- Prognostic Discussions (“hope for the best, plan for the worst”)  
+- Surrogate Decision Maker  
+- Life‑Sustaining Treatments (hospitalization, tube feeding, medication)  
+- Palliative Care Interventions (e.g., PAL‑HF)  
+- Mortality Prediction / Risk Models  
+- Terminal Disease/End‑Stage HF  
+- Legal and Ethical Considerations (state laws, Medicare eligibility)
+
+Page 90 Extracted Terms:
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with mid‑range ejection fraction (HFmrEF)  
+- Heart failure with improved ejection fraction (HFimpEF)  
+- Myocarditis  
+- Myocardial injury  
+- COVID‑19‑associated cardiotoxicity  
+- Cardiomyopathies (e.g., peripartum cardiomyopathy, ATTR cardiomyopathy)  
+- Right‑ventricular (RV) failure  
+- Cardiorenal syndrome  
+- Diuretic resistance  
+- Precise and individualized HF management  
+- Biomarkers in HF therapy optimization  
+- Omics and molecular markers for HF diagnosis and prognosis  
+- Fluid restriction therapy  
+- Sodium restriction (dietary)  
+- Cardiac rehabilitation (HFpEF, HFmrEF)  
+- Hydralazine‑isosorbide therapy in HF (African American and non‑African American)  
+- Vericiguat for HFrEF with high natriuretic peptides  
+- Omecamtiv mecarbil for advanced (stage D) HFrEF  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2i) in HFpEF, HFmrEF, and HFrEF  
+- Dual SGLT2i/SGLT1i therapy in HF  
+- Non‑steroidal selective mineralocorticoid receptor antagonists (MRA) in HF  
+- Angiotensin receptor–neprilysin inhibition (ARNi) in pre‑HF (stage B) and HFrEF  
+- Pulmonary hypertension management (post‑ and precapillary)  
+- Fibrosis‑targeted therapies (e.g., pirfenidone) in HFpEF  
+- Potassium binders to optimize guideline‑directed medical therapy (GDMT)  
+- Blood pressure targets in established HF and hypertension  
+- Electrolyte management (hyper‑/hypokalemia) in HF  
+- Peripartum cardiomyopathy (cause and targeted therapies)  
+- Antioxidants, polyunsaturated fatty acids (PUFA) for atrial fibrillation risk in HF  
+- Advanced screening strategies for HF (cost‑effectiveness, risk prediction)  
+- Precision medicine/genetic testing in HF management  
+- Integrated systems biology models for HF diagnosis, prognosis, and therapy targeting.
+
+Page 91 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Heart failure (HF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with mildly reduced ejection fraction (HFmrEF)  
+- Heart failure with improved ejection fraction (HFimpEF)  
+- Ventricular tachyarrhythmias  
+- His‑bundle pacing  
+- Multisite pacing  
+- Cardiac contractility modulation  
+- Vagal nerve stimulation  
+- Autonomic modulation  
+- Renal denervation  
+- Splanchnic nerve ablation  
+- Interatrial shunt  
+- Pericardiectomy  
+- Baroreceptor stimulation  
+- Neuromodulation  
+- Tricuspid regurgitation  
+- Mechanical circulatory support (MCS)  
+- Cardiac transplantation  
+- Percutaneous interventions  
+- Transcatheter aortic valve implantation (TAVI)  
+- MitraClip (transcatheter mitral valve repair)  
+- Tricuspid valve intervention  
+- Valvular heart disease (VHD)  
+- Chronic kidney disease (CKD)  
+- Obesity  
+- Diabetes mellitus  
+- Depression  
+- Cognitive disorders  
+- Iron deficiency  
+- Pulmonary artery pressure monitoring catheter  
+- Remote monitoring  
+- Telehealth  
+- Digital health  
+- Artificial intelligence (AI)  
+- Adaptive trials  
+- Umbrella trials  
+- Basket trials  
+- Machine‑learning‑based trials  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2i)  
+- Sodium‑glucose cotransporter‑1 inhibitors (SGLT1i)  
+- Angiotensin receptor‑neprilysin inhibitor (ARNi)  
+- Mineralocorticoid receptor antagonist (MRA)  
+- Polyunsaturated fatty acids (PUFA)  
+- Guideline‑directed medical therapy (GDMT)  
+- Patient‑reported outcomes  
+- Quality of life (QOL)  
+- Left ventricle (LV)  
+- Right ventricle (RV)
+
+Page 92 Extracted Terms:
+- Heart Failure (HF)  
+- Patient‑Reported Outcomes (PROs)  
+- Health‑Related Quality of Life (QOL)  
+- Kansas City Cardiomyopathy Questionnaire (KCCQ)  
+- Minnesota Living with Heart Failure Questionnaire (MLHFQ)  
+- PROMIS‑Plus‑HF (Patient‑Reported Outcomes Measurement Information System‑Plus‑Heart Failure)  
+- New York Heart Association (NYHA) Functional Classification  
+- Cardiopulmonary Exercise Test (CPET)  
+- 6‑Minute Walk Test  
+- Hospitalization (HF‑related)  
+- Mortality (HF‑related)  
+- Symptom Burden  
+- Prognosis (HF)  
+- Diuretic Escalation (HF therapy)  
+- Medical Therapy Uptitration (HF)  
+- Guideline‑Recommended Therapies (mortality benefit)  
+- Population Health Management (HF risk stratification)  
+- Routine Patient‑Reported Health Status Assessment  
+- Clinical Outcomes (HF)  
+- Functional Status (HF)  
+- Quality of Treatment Decisions (HF)  
+- Healthcare System Data Burden (HF assessment)  
+- Evidence Gaps in HF Management  
+- Future Research Directions (HF)  
+- ACC/AHA/HFSA Heart Failure Guideline (HF)
+
+Page 93 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+- Heart failure  
+- Cardiovascular disease  
+- Primary prevention of cardiovascular disease  
+- Valvular heart disease  
+- Coronary artery disease  
+- Coronary artery revascularization  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass graft (CABG) surgery  
+- Clinical practice guidelines  
+- ACC/AHA guideline  
+- AHA/ACC/HFSA Heart Failure Guideline  
+- HFSA (Heart Failure Society of America) guideline  
+- SCAI (Society for Cardiovascular Angiography and Interventions) guidelines  
+- ACCF/AHA guideline  
+- Cardiovascular disease management  
+- Heart failure management  
+- Valvular disease management  
+- Coronary disease management  
+- Cardiovascular health  
+- Heart disease terminology  
+
+
+These terms capture the main clinical conditions, procedural interventions, and guideline frameworks discussed in the provided excerpt.
+
+Page 94 Extracted Terms:
+Heart Failure  
+ST‑elevation myocardial infarction (STEMI)  
+Myocardial infarction  
+Hypertrophic cardiomyopathy  
+Atrial fibrillation  
+Hypertension / high blood pressure  
+Blood cholesterol / dyslipidemia  
+Atherosclerotic cardiovascular disease / coronary artery disease  
+Stable ischemic heart disease  
+Cardiovascular risk assessment  
+Cardiac amyloidosis  
+Heart rhythm abnormalities (arrhythmia)  
+Device‑based cardiac therapy (e.g., pacemaker, ICD)  
+Post‑cardiac arrest care  
+Cardiopulmonary resuscitation (CPR)  
+Emergency cardiovascular care  
+Low‑risk chest pain evaluation  
+Diabetes‑related cardiovascular prevention  
+Secondary prevention in atherosclerotic disease  
+Primary prevention of cardiovascular disease  
+Cardiovascular functional class (e.g., NYHA)  
+New York Heart Association (NYHA) classification  
+
+Page 95 Extracted Terms:
+- Heart failure (HF)  
+- Left ventricular ejection fraction (LVEF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with recovered left ventricular ejection fraction (HFrecEF)  
+- Dilated cardiomyopathy  
+- Wild‑type transthyretin cardiac amyloidosis  
+- Light‑chain amyloidosis  
+- Congestion (clinical congestion, congestion on physical exam)  
+- Volume overload  
+- Loop diuretic dose  
+- Angiotensin‑converting enzyme inhibitors (ACEi)  
+- Spironolactone  
+- Dobutamine infusion (chronic dobutamine)  
+- Milrinone infusion  
+- Implantable cardioverter‑defibrillator (ICD) shocks  
+- Mortality (all‑cause, HF‑specific, short‑ and long‑term)  
+- Hospitalization and readmission (rehospitalization)  
+- Physical examination findings (weight change, exam signs of congestion)  
+- Exercise echocardiography  
+- Cardiac hemodynamics (exercise hemodynamics)  
+- H2F‑PEFF model (diagnostic algorithm)  
+- HFA‑PEFF diagnostic algorithm (Heart Failure Association – European Society of Cardiology)  
+- ESC guidelines (European Society of Cardiology)  
+- ACCF/AHA guideline (American College of Cardiology Foundation/American Heart Association)  
+- AHA/ACC/HFSA guideline (American Heart Association/American College of Cardiology/Heart Failure Society of America)  
+- Heart Failure Society of America (HFSA)  
+- Heart Failure Association (HFA) of the European Society of Cardiology (ESC)  
+- EU‑FP7 MEDIA study group (diastolic stress tests)  
+- American Heart Association (AHA)  
+- National trends in HF hospitalization and readmission  
+- Temporal trends in HF incidence and mortality  
+- Epidemiology of HF, HFrEF, and HFpEF  
+- Race and ethnicity in HF outcomes  
+- Cardiac‑inherited disease (family history approach)  
+- Epidemiological studies (Virani, Heidenreich, Dunlay, etc.)  
+- Clinical assessment and prognostic indicators (congestion, weight loss, diuretic dose, ICD shocks)    
+- Diagnostic algorithm for HF classification according to LVEF  
+- Acute and chronic heart failure diagnosis guidelines  
+- Predictive model for HFpEF (e.g., H2F‑PEFF).  
+
+Page 96 Extracted Terms:
+- Heart failure  
+- Elevated jugular venous pressure  
+- Third heart sound (S3)  
+- Hemodynamics  
+- Advanced heart failure  
+- Bendopnea  
+- Valsalva maneuver (biomarker)  
+- Cardiac amyloidosis  
+- Transthyretin cardiac amyloidosis (ATTR)  
+- Transthyretin amyloid (ATTR) subtype  
+- Dilated cardiomyopathy  
+- Restrictive cardiomyopathy  
+- Sarcoid cardiomyopathy (cardiac sarcoidosis)  
+- Myocarditis  
+- Inflammatory cardiomyopathy  
+- Peripartum cardiomyopathy  
+- Takotsubo (stress) cardiomyopathy  
+- Alcohol‑induced cardiac toxicity  
+- Cocaine‑associated cardiomyopathy  
+- Methamphetamine‑associated cardiomyopathy  
+- Anthracycline cardiotoxicity  
+- Troponin I (cardiac biomarkers)  
+- N‑terminal pro‑B‑type natriuretic peptide (NT‑proBNP)  
+- B‑type natriuretic peptide (BNP)  
+- Left ventricular dysfunction (ischemic)  
+- Ischemic cardiomyopathy  
+- Cardiovascular toxicity (due to cancer therapy)  
+- Cardiovascular complications of cancer therapy  
+- Cardiorheumatology (cardiac involvement in systemic rheumatic disease)  
+- Thyroid hormones and cardiovascular disease  
+- Heart failure in type 2 diabetes mellitus  
+- Pheochromocytoma‑associated cardiomyopathy  
+- Acromegaly‑associated heart failure  
+- Obesity paradox in heart failure  
+- Genotype and phenotype of cardiomyopathies  
+- Mechanical circulatory support (bridge‑to‑transplant)  
+- Heart transplantation outcomes in cardiomyopathy  
+- Acute COVID‑19 cardiovascular syndrome  
+- Biomarkers for risk stratification in heart disease  
+- Diagnostic and treatment strategies for specific dilated cardiomyopathies  
+- Clinical characteristics and management of Chagas cardiomyopathy  
+- Current evidence and future directions in myocarditis and inflammatory cardiomyopathy  
+
+(Each term represents a key concept or condition related to heart disease extracted from the guideline text.)
+
+Page 97 Extracted Terms:
+- Heart failure  
+- Acute heart failure  
+- Decompensated heart failure (ADHF)  
+- Chronic heart failure  
+- Advanced heart failure  
+- Reduced ejection fraction (HFrEF)  
+- Left ventricular failure (LVF)  
+- Natriuretic peptides  
+- B‑type natriuretic peptide (BNP)  
+- N‑terminus pro‑BNP (NT‑proBNP)  
+- Amino‑terminal pro‑BNP (NT‑proBNP)  
+- High‑sensitivity troponin T (hs‑TnT)  
+- High‑sensitivity cardiac troponin (hs‑cTn)  
+- Galectin‑3  
+- Soluble ST2 (sST2)  
+- Growth differentiation factor‑15 (GDF‑15)  
+- Obesity‑related suppression of BNP  
+- Atrial fibrillation as a comorbidity in HF  
+- Renal dysfunction in heart failure  
+- Congestive heart failure  
+- Diagnostic accuracy of BNP assays  
+- Prognostic value of BNP/NT‑proBNP ratios  
+- Biomarker‑guided therapy  
+- Rapid bedside BNP testing  
+- Emergency department decision‑making in HF  
+- Discharge risk scoring models (ELAN‑HF, ESCAPE)  
+- Readmission prediction for heart failure  
+- Mortality prediction in HF patients  
+- Troponin‑based rule‑out of acute cardiac insufficiency (TACIT)
+
+Page 98 Extracted Terms:
+- Heart failure  
+- Dilated cardiomyopathy  
+- Left ventricular dysfunction  
+- Right ventricular dysfunction  
+- Ventricular remodeling  
+- Ischemic heart disease  
+- Myocardial infarction  
+- Cardiac amyloidosis  
+- Anderson‑Fabry disease  
+- Arrhythmogenic right ventricular dysplasia/cardiomyopathy  
+- Myocardial viability  
+- Hibernating myocardium  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Wearable cardioverter‑defibrillator (WCD)  
+- B‑type natriuretic peptide (BNP)  
+- NT‑proBNP (N‑terminal pro‑B‑type natriuretic peptide)  
+- Echocardiography (2‑D, 3‑D, Doppler)  
+- Cardiovascular magnetic resonance (CMR)  
+- T1 mapping (non‑contrast)  
+- T2* MRI for myocardial iron overload  
+- Computed tomography (CT) cardiac imaging  
+- Low‑dose dual‑source CT for ventricular function  
+- Cardiac CT coronary angiography (CTA)  
+- Radionuclide ventriculography  
+- Dobutamine stress echocardiography  
+- Myocardial perfusion imaging (MPI)  
+- Positron emission tomography (PET) with FDG  
+- Cardiac structural assessment  
+- Cardiac functional assessment  
+- Genetic evaluation of cardiomyopathy  
+- Family history / pedigree analysis  
+- Genetic variation in dilated cardiomyopathy  
+- Titin truncations  
+- Arrhythmic phenotypes (genetic basis)  
+- Non‑invasive global and regional ventricular function  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular volumes  
+- Myocardial mass quantification  
+- Appropriate use criteria for multimodality imaging (ACC/AHA)  
+- Coronary artery disease (CAD) in heart failure  
+- Revascularization benefits (PCI, CABG)  
+- Myocardial hibernation  
+- Myocardial ischemia detection  
+- Cardiac mortality assessment  
+- Prognostic implications of imaging findings  
+- Cardiovascular imaging registry (EuroCMR)  
+
+These terms capture the major concepts related to heart disease discussed throughout the provided guidelines and referenced studies.
+
+Page 99 Extracted Terms:
+- Heart Failure  
+- Heart Failure with Preserved Ejection Fraction (HFpEF)  
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- Acute Decompensated Heart Failure  
+- Congestive Heart Failure  
+- Left Ventricular Dysfunction  
+- Left Ventricular Mass  
+- Left Ventricular Filling Pressures  
+- Systolic Function  
+- Diastolic Function  
+- Systolic Dysfunction  
+- Diastolic Dysfunction  
+- Ejection Fraction  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Left Ventricular Strain  
+- Global Longitudinal Strain  
+- Left Ventricular Longitudinal Strain  
+- Ventricular Volumes  
+- Ventricular Size  
+- Ventricular Remodeling  
+- Ventricular Function  
+- Pulmonary Congestion  
+- Functional Mitral Regurgitation  
+- Myocardial Infarction  
+- Coronary Artery Disease  
+- Myocardial Scar  
+- Dilated Cardiomyopathy  
+- Nonischemic Cardiomyopathy  
+- Cardiac Sarcoidosis  
+- Myocardial Fibrosis  
+- Diffuse Myocardial Fibrosis  
+- Extracellular Matrix Expansion  
+- Late Gadolinium Enhancement (LGE)  
+- Cardiac Magnetic Resonance Imaging (CMR)  
+- Cardiovascular Magnetic Resonance  
+- Delayed‑Enhancement Magnetic Resonance  
+- CMR Mapping  
+- Cardiac Resynchronization Therapy (CRT)  
+- Carvedilol  
+- Enalapril  
+- Empagliflozin  
+- Spironolactone  
+- B‑type Natriuretic Peptide (BNP)  
+- Hand‑Carried Echocardiography  
+- Point‑of‑Care Lung Ultrasound  
+- Echocardiographic Diastolic Parameters  
+- Cardiac Chamber Quantification  
+- SPECT Perfusion Imaging  
+- Cardiac Imaging  
+- Cardiac Ultrasound  
+- Heart Failure Guidelines  
+- Left Ventricular Longitudinal Strain (LVLS)  
+- Right Ventricular Dysfunction  
+- Left Ventricular Function Recovery  
+- Ejection Fraction Recovery  
+- Cardiovascular Outcomes  
+- Prognostic Indicators  
+- Myocardial Inflammation  
+- Myocardial Fibrosis Assessment  
+- Ventricular Scar Detection  
+- Cardiomyopathy Etiology  
+- Cardiac Magnetic Resonance Contrast  
+- Cardiovascular Magnetic Resonance Techniques  
+- Cardiac Magnetic Resonance in Acute Heart Failure  
+- Cardiac Magnetic Resonance in Chronic Heart Failure  
+- Echocardiographic Prognostic Implications  
+- Cardiac MRI Myocardial Mapping
+
+These terms capture the key heart‑disease concepts, diagnostic and therapeutic modalities, and prognostic indicators referenced within the provided clinical guideline text.
+
+Page 100 Extracted Terms:
+**Key terms related to heart disease**
+
+- Heart failure  
+- Chronic heart failure  
+- Acute decompensated heart failure  
+- Non‑ischemic dilated cardiomyopathy (non‑ischemic heart failure)  
+- Ischemic cardiomyopathy / ischemic left‑ventricular dysfunction  
+- Left‑ventricular dysfunction / ejection fraction  
+- Cardiac amyloidosis / transthyretin amyloid cardiomyopathy  
+- Congestive heart failure  
+- Coronary artery disease / ischemic heart disease  
+- Coronary revascularization / coronary artery bypass grafting  
+- Pulmonary artery catheterization / pulmonary artery pressure monitoring  
+- Pulmonary hypertension  
+- Remote patient monitoring / telemonitoring  
+- CardioMEMS implantable pulmonary‑artery pressure sensor  
+- Implantable cardioverter‑defibrillators (ICD)  
+- Biventricular defibrillators (CRT‑D)  
+- Cardiac magnetic resonance (CMR) imaging  
+- Late gadolinium enhancement (LGE)  
+- Endomyocardial biopsy  
+- Cardiovascular imaging / cardiovascular magnetic resonance  
+- Appropriate use criteria (AUC) for cardiac imaging and revascularization  
+- Randomized controlled trial (RCT)  
+- Non‑invasive imaging-assisted management  
+- Structured telephone support / telemedicine alerts  
+- Cost‑effectiveness analysis  
+- Clinical outcomes (mortality, hospitalization)  
+- New York Heart Association (NYHA) class  
+- Exercise capacity / functional capacity testing  
+
+These terms capture the principal disease entities, diagnostic technologies, therapeutic interventions, and outcome measures discussed in the cited guidelines and studies.
+
+Page 101 Extracted Terms:
+**Key terms related to heart disease found in the text**
+
+- Heart failure  
+- Systolic heart failure  
+- Preserved ejection fraction (HFpEF)  
+- Left ventricular dysfunction  
+- Cardiopulmonary exercise testing (CPET)  
+- Peak oxygen consumption (VO₂ peak)  
+- Six‑minute walk test (6MWT)  
+- Beta‑blocker therapy  
+- Cardiac transplantation  
+- Mechanical circulatory support  
+- Heart failure risk scoring  
+- Seattle Heart Failure Model  
+- GWTG‑heart failure risk score  
+- MAGGIC (Meta‑analysis Global Group in Chronic Heart Failure) risk calculator  
+- ESCAPE (Evaluation Study of Congestive Heart Failure and Pulmonary Artery Catheterization Effectiveness) risk model  
+- HF‑ACTION predictive risk score  
+- GUIDE‑IT predictive model  
+- I‑PRESERVE (Irbesartan in Heart Failure with Preserved Ejection Fraction) study  
+- Apolipoprotein A‑1  
+- High‑sensitivity C‑reactive protein (hs‑CRP)  
+- N‑terminal pro‑B‑type natriuretic peptide (NT‑proBNP)  
+- New York Heart Association (NYHA) functional classification  
+- Functional capacity  
+- Mortality  
+- Morbidity  
+- Readmission  
+- Dyspnea  
+- Inspiratory muscle strength  
+- Blood pressure (hypertension)  
+- Coronary artery disease  
+- Pulmonary hypertension  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2‑i) (mentioned in broader guideline context)
+
+Page 102 Extracted Terms:
+- Heart failure  
+- Hypertension  
+- Blood pressure  
+- Left ventricular dysfunction  
+- Left ventricular ejection fraction  
+- Atherosclerosis  
+- Coronary artery disease  
+- Myocardial infarction  
+- Ischemic heart disease  
+- Diabetes mellitus type 2  
+- SGLT2 inhibitor  
+- ACE inhibitor  
+- Angiotensin II receptor blocker  
+- Beta blocker  
+- Diuretic  
+- Statin  
+- Antiplatelet therapy  
+- Anticoagulant therapy  
+- Lifestyle modification  
+- Physical activity  
+- Sedentary time  
+- Mediterranean diet  
+- DASH diet  
+- Natriuretic peptide  
+- NT‑proBNP  
+- Risk prediction  
+- Framingham risk score  
+- ASCVD risk estimate  
+- Risk model  
+- Heart‑failure prevention  
+- Systolic blood pressure  
+- Isolated systolic hypertension  
+- Heart failure with preserved ejection fraction  
+- Heart failure with reduced ejection fraction  
+- Left‑ventricular remodeling  
+- Cardiovascular death  
+- Cardiovascular morbidity  
+- Heart‑failure hospitalization  
+- Cardiac structure  
+- Cardiac function  
+- Heart‑failure guidelines  
+- AHA/ACC/HFSA guideline  
+- ACC/AHA guideline  
+- Hypertension guideline  
+
+Page 103 Extracted Terms:
+- Atherosclerotic heart disease  
+- Aortic stenosis  
+- ARNI (angiotensin receptor‑neprilysin inhibitor)  
+- Angiotensin‑converting enzyme inhibitor (ACEI)  
+- Angiotensin‑II receptor blocker (ARB)  
+- Beta‑blocker  
+- Blood cholesterol management  
+- Cardiac remodeling  
+- Cardiomyopathy, idiopathic dilated  
+- Cardiovascular mortality  
+- Constrictive pericarditis  
+- Coronary artery bypass grafting (CABG)  
+- Coronary artery disease (CAD)  
+- Coronary artery revascularization  
+- Diastolic dysfunction  
+- Diastolic heart failure (HFpEF)  
+- Diastolic dysfunction, asymptomatic  
+- Diltiazem, calcium‑channel blocker  
+- Drug‑induced heart failure  
+- End‑organ damage, cardiac  
+- Ejection fraction (EF)  
+- Early aldosterone blockade  
+- Early eplerenone therapy  
+- Heart failure, stage B (pre‑symptomatic)  
+- Heart failure, stage C (symptomatic)  
+- Heart failure, stage D (advanced)  
+- Heart failure, with reduced ejection fraction (HFrEF)  
+- Heart failure, with preserved ejection fraction (HFpEF)  
+- Heart failure, with mid‑range ejection fraction (HFmrEF)  
+- Heart failure, prognostic markers  
+- Heart failure, secondary to myocardial infarction  
+- Heart failure, type 2 diabetes mellitus  
+- Heart function tests  
+- Heart transplantation candidates  
+- Heart transplant  
+- Heterogeneous myocardial infarction outcomes  
+- Hemodynamic monitoring  
+- Hypertrophic cardiomyopathy  
+- Hypertrophic cardiomyopathy  
+- Idiopathic dilated cardiomyopathy  
+- Left ventricular dysfunction, asymptomatic  
+- Left ventricular remodeling  
+- Left ventricular strain, speckle‑tracking echocardiography  
+- Left ventricular systolic dysfunction  
+- Left ventricular diastolic dysfunction  
+- Longitudinal strain by echocardiography  
+- Major adverse cardiovascular events (MACE)  
+- Metabolic syndrome, heart disease risk  
+- Myocardial infarction (MI)  
+- Myocardial infarction, ST‑elevation (STEMI)  
+- Myocardial infarction, non‑ST‑elevation (NSTEMI)  
+- Myocardial infarction, acute  
+- Myocardial infarction, chronic  
+- Myocardial infarction outcome measures  
+- Myocardial infarction, evidence‑based interventions  
+- Myocardial infarction, revascularization outcomes  
+- Multicenter clinical trials (e.g., CAPRICORN, ALBATROSS)  
+- New York Heart Association (NYHA) functional classification  
+- Non‑ischemic cardiomyopathy  
+- Oral glucose‑lowering agents in heart disease  
+- Pioglitazone  
+- Predictors of heart failure progression  
+- Prognostic implications of left‑ventricular strain  
+- Prevention of heart failure  
+- Primary prophylactic implantable cardio‑electrical defibrillator (ICD) implantation  
+- Primary percutaneous coronary intervention (PCI)  
+- Prognosis of asymptomatic left‑ventricular dysfunction  
+- Prognostic significance of heart failure stages  
+- Renin–angiotensin–aldosterone system (RAAS) blockade  
+- Risk of progression from left‑ventricular dysfunction to overt heart failure  
+- Rosiglitazone  
+- Systolic heart failure  
+- Tachycardia‑induced cardiomyopathy  
+- Thoracic aortic disease  
+- Thiazolidinediones (TZDs)  
+- Transcatheter aortic valve replacement (TAVR)  
+- Treatment guidelines for acute coronary syndromes (ACS)  
+- Treatment guidelines for ST‑elevation myocardial infarction (STEMI)  
+- Treatment guidelines for non‑ST‑elevation acute coronary syndromes (NST‑ACS)  
+- Treatment of asymptomatic left‑ventricular dysfunction  
+- Treatment of early post‑myocardial infarction heart failure  
+- Treatment of heart failure with preserved ejection fraction (HFpEF)  
+- Treatment of heart failure with mid‑range ejection fraction (HFmrEF)  
+- Treatment of post‑infarction remodeling  
+- Treatment of heart failure, multi‑drug strategies  
+- Treatment of diabetes in heart failure  
+- Treatment of metabolic disorders in heart disease  
+- Time‑to‑event analysis in cardiovascular trials  
+- Valvular heart disease, severe aortic stenosis  
+- Vasodilator therapy, nitrates  
+- Ventricular enlargement after myocardial infarction  
+- Ventricular remodeling, left and right  
+- Ventricular dysfunction, systolic and diastolic  
+- Vascular risk factors in heart disease  
+- Vasodilator therapy (e.g., verapamil)  
+- Wall‑stress reduction strategies  
+- Worsening heart failure symptoms  
+- Advanced heart failure interventions  
+- Anaphylactic reactions to beta‑blockers  
+- Antithrombotic therapy post‑MI  
+- Apical aneurysm after MI  
+- Arrhythmia management in heart failure  
+- Aortic valve repair and replacement  
+- Blood pressure control in heart disease  
+- Cardiac arrest resuscitation guidelines  
+- Cardiac imaging modalities (MRI, CT, PET)  
+- Cardiac output monitoring  
+- Cardio‑pulmonary exercise testing  
+- Cardio‑vascular exercise guidelines  
+- Cardio‑vascular disease burden  
+- Cardio‑vascular disease epidemiology  
+- Cardio‑vascular disease prevention strategies  
+- Cardio‑vascular disease risk scores (e.g., Framingham)  
+- Cardio‑vascular rehabilitation  
+- Cardio‑vascular surgery indications  
+- Cardio‑vascular outcomes in diabetes studies  
+- Cardio‑vascular outcomes in thiazolidinedione trials  
+- Cardio‑vascular outcomes in ACEI/ARB trials  
+- Cardio‑vascular outcomes in beta‑blocker trials  
+- Cardio‑vascular outcomes in calcium channel blocker trials  
+
+(Feel free to trim or refine the list to your specific focus area.)
+
+Page 104 Extracted Terms:
+- Heart failure  
+- Stable ischemic heart disease  
+- Coronary artery bypass graft surgery  
+- Valvular heart disease  
+- Congenital heart disease  
+- Self‑care support in heart failure  
+- Multidisciplinary interventions for heart failure  
+- Structured telephone support / telemonitoring  
+- Self‑management in heart failure patients  
+- Medication adherence interventions  
+- Influenza vaccination in heart failure  
+- SARS‑CoV‑2 vaccine effectiveness (high‑risk population)  
+- Cardiovascular disease / cardio‑vascular outcomes  
+- Stroke prevention in cardiovascular disease  
+- Depression and heart failure outcomes  
+- Social relationships and heart failure survival  
+- Frailty in chronic heart failure  
+- Health literacy in heart failure patients  
+- Team‑based care for cardiac comorbidities  
+- Advanced heart failure management  
+- mHealth education interventions for heart failure  
+- Patient‑centered transitional care for hospitalized heart failure  
+- Chronic heart failure (congestive heart failure)  
+- Cardiac rehabilitation  
+- Heart failure mortality & readmission rates  
+- Cardiovascular outcomes in heart failure populations  
+
+Page 105 Extracted Terms:
+- Heart failure
+- Chronic heart failure
+- Decompensated heart failure
+- Acute heart failure
+- Heart failure with reduced ejection fraction
+- Heart failure with preserved ejection fraction
+- Cardiac remodeling
+- Coronavirus disease‑2019 (COVID‑19)
+- Pre‑eclampsia
+- Post‑discharge risk
+- Cognitive impairment
+- Dementia
+- Depression
+- Substance abuse
+- Frailty
+- Food insecurity
+- Housing insecurity
+- Homelessness
+- Socioeconomic inequities
+- Intimate partner violence
+- Elder abuse
+- Abuse of vulnerable adults
+- Limited English proficiency
+- Health literacy
+- Social isolation
+- Dietary sodium restriction
+- Salt restriction
+- Fluid restriction
+- Low‑sodium diet
+- Moderate‑sodium diet
+- Mediterranean diet
+- Nutritional status
+- Micronutrient supplementation
+- Iron deficiency
+- Oral iron repletion
+- Thiamin supplementation
+- Zinc deficiency
+- Vitamin D supplementation
+- Micronutrient deficiency
+- Sodium intake
+- Sodium‑restricted diet
+- Cardiovascular disease
+- Cardiometabolic disease
+- Coronary artery disease
+- Percutaneous coronary intervention
+- Cardiac blood flow velocity
+- Clinical outcomes
+- Readmission burden
+- Home‑delivered meals
+- Food insecurity screeners
+- Cardiovascular health equity
+- Primary prevention
+- Secondary prevention
+- Dietary sodium content
+- SODIUM‑HF trial
+- Prohibit trial
+- MED‑AHF study
+- IRONOUT HF trial
+- Micronutrient‑deficiency screening
+- Fluid and sodium restriction protocols
+- Management of heart failure guidelines  
+
+
+Page 106 Extracted Terms:
+- Heart Failure (HF)  
+- Chronic Heart Failure  
+- Systolic Heart Failure  
+- Diastolic Heart Failure  
+- Reduced Ejection Fraction (HFrEF)  
+- Preserved Ejection Fraction (HFpEF)  
+- Cardiac Rehabilitation  
+- Exercise Training / Exercise Prescription  
+- Aerobic Interval Training  
+- Resistance Exercise  
+- Exercise Capacity  
+- Endurance Exercise  
+- Oxygen Uptake / Peak VO₂  
+- Quality of Life  
+- Diuretic Treatment  
+- Loop Diuretics (e.g., Furosemide, Torsemide, Torasemide)  
+- Thiazide‑type Diuretics  
+- Sodium Retention  
+- Diuretic Resistance  
+- Cardiorenal Syndrome  
+- Diuretic Synergism  
+- Renin–Angiotensin–Aldosterone System (RAAS) Inhibition  
+- Angiotensin‑Converting Enzyme Inhibitors (ACEi)  
+- Angiotensin Receptor Blockers (ARB)  
+- Angiotensin Receptor‑Neprilysin Inhibitors (ARNi)  
+- Sacubitril/Valsartan (Entresto)  
+- Enalapril  
+- Aortic Stiffness  
+- Endothelial Function  
+- Arterial Stiffness  
+- Cardiac Reverse Remodeling  
+- Diastolic Function  
+- Congestive Heart Failure (CHF)  
+- Acute Decompensated Heart Failure (ADHF)  
+- Hospital Discharge / Early After Discharge Management  
+- Bioavailability / Pharmacokinetics / Pharmacodynamics of Diuretics  
+- Cardiorespiratory Training  
+- Clinical Outcomes  
+- Meta‑analysis / Systematic Review  
+- Randomized Controlled Trial (RCT)  
+- Clinical Guidelines (AHA/ACC/HFSA, Dutch Practice Guideline)  
+- Heart Failure-ACTION Study  
+- ExTraMATCH Study  
+- Ex‑DHF Pilot Study  
+- 3T Trial (loop diuretic resistance)  
+- TRANSITION Study (sacubitril/valsartan initiation)  
+- TORIC Study (torasemide)  
+- Cooperative North Scandinavian Enalapril (CONSENSUS) Study  
+
+These terms capture the key heart‑disease concepts and interventions mentioned in the provided guideline excerpt.
+
+Page 107 Extracted Terms:
+**Heart‑disease related terms extracted from the text**  
+
+1. Heart failure (congestive heart failure)  
+2. Reduced left ventricular ejection fraction  
+3. Left ventricular dysfunction  
+4. Myocardial infarction  
+5. Angiotensin‑converting enzyme (ACE) inhibitor  
+6. Enalapril  
+7. Lisinopril  
+8. Captopril  
+9. Ramipril  
+10. Trandolapril  
+11. Valsartan  
+12. Losartan  
+13. Telmisartan  
+14. ARNI (angiotensin‑receptor‑neprilysin inhibitor)  
+15. Sacubitril/valsartan (LCZ‑696, LCZ‑696)  
+16. Omapatrilat  
+17. β‑blocker (beta‑blocker)  
+18. Metoprolol (CR/XL, extended‑release)  
+19. Bisoprolol  
+20. Carvedilol  
+21. Neprilysin inhibitor  
+22. Dual‑acting inhibitor of angiotensin II receptor and neprilysin  
+23. Angioedema (ACE‑inhibitor‑associated)  
+24. Renin‑angiotensin‑aldosterone system (RAAS)  
+25. Mortality and morbidity  
+26. Clinical outcomes (hospitalisation, survival)  
+27. Cost‑effectiveness  
+28. Randomised clinical trial  
+29. Pharmacologic management of heart failure  
+30. Left ventricular systolic dysfunction  
+31. Left ventricular mid‑range preserved ejection fraction  
+32. Renin‑angiotensin‑inhibitor safety  
+33. Blood‑pressure reduction  
+34. Antihypertensive therapy  
+35. Cardiovascular events  
+36. Vascular events  
+37. Pharmacogenomics (XPNPEP2 polymorphism)  
+38. Acute myocardial infarction with heart failure  
+39. Chronic heart failure  
+40. Hypertension  
+
+*(List provided as requested format – a simple list of terms.)*
+
+Page 108 Extracted Terms:
+- Heart failure  
+- Metoprolol CR/XL  
+- MERIT‑HF  
+- β‑blockers  
+- Atrial fibrillation  
+- Nebivolol  
+- SENIORS  
+- Bucindolol  
+- Carvedilol  
+- Metoprolol  
+- COMET  
+- Bisoprolol  
+- Enalapril  
+- CIBIS III  
+- Hydrocortisone  
+- Spironolactone  
+- Mineralocorticoid receptor antagonists (MRAs)  
+- Aldactone (spironolactone)  
+- Eplerenone  
+- Eplerenone Post‑Acute Myocardial Infarction Heart Failure Efficacy and Survival Study (EPHESUS)  
+- Angiotensin‑neprilysin inhibition (ARNI)  
+- Sacubitril/valsartan  
+- RLY5016 (polysorbate potassium binder)  
+- Sodium zirconium cyclosilicate (ZS‑9)  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2i)  
+- Dapagliflozin  
+- Empagliflozin  
+- Canagliflozin  
+- Sotagliflozin  
+- DAPA‑HF trial  
+- EMPEROR‑Reduced  
+- Hydralazine  
+- Isosorbide dinitrate  
+- Hydralazine‑isosorbide dinitrate (H‑ISDN)  
+- Hydralazine‑isosorbide dinitrate for black patients with heart failure  
+- n‑3 polyunsaturated fatty acids (omega‑3)  
+- GISSI‑HF trial  
+- Acute myocardial infarction  
+- Left ventricular dysfunction  
+- Left ventricular systolic dysfunction  
+- Reduced ejection fraction (HFrEF)  
+- Chronic congestive heart failure  
+- Cardiovascular hospital admission  
+- Mortality  
+- Hyperkalemia  
+- Cost‑effectiveness  
+- Veterans Administration Cooperative Study (VACS)  
+- Get With The Guidelines‑Heart Failure registry  
+
+*(These terms encompass clinical conditions, pharmacologic agents, therapeutic strategies, trials, and outcome measures relevant to heart disease.)*
+
+Page 109 Extracted Terms:
+- Heart Failure  
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- Congestive Heart Failure (CHF)  
+- Left Ventricular Dysfunction  
+- Ventricular Dysfunction  
+- Myocardial Infarction (MI)  
+- Acute Myocardial Infarction  
+- Coronary Artery Disease (CAD)  
+- Sinus Rhythm  
+- Hypertriglyceridemia  
+- Hyperkalemia  
+- Dyskinesia (mentioned in context of sodium zirconium cyclosilicate)  
+- Antithrombotic Therapy  
+- Anticoagulation (Warfarin)  
+- Aspirin Therapy  
+- Clopidogrel Therapy  
+- Rivaroxaban Therapy  
+- Calcium Channel Blockers (Amlodipine, Verapamil, Diltiazem)  
+- Sodium Zirconium Cyclosilicate (ZS‑9)  
+- Mineralocorticoid Receptor Antagonists  
+- Digoxin  
+- Omega‑3 Polyunsaturated Fatty Acids  
+- icosapent ethyl  
+- Vitamin D Supplementation  
+- Vitamin E Supplementation  
+- Coenzyme Q10  
+- Thiazolidinediones (Rosiglitazone, Pioglitazone, Ipratropium‑related agents)  
+- Dipeptidyl Peptidase‑4 (DPP‑4) Inhibitors (Saxagliptin, Alogliptin)  
+- Dronedarone  
+- Flecainide  
+- Encainide  
+- D‑sotalol  
+- Atrial arrhythmia‑related drugs (noting arrhythmia suppression trials)  
+- Cardiac Arrhythmia Suppression Trial (CATS)  
+- SWORD (Survival With Oral d‑Sotalol)  
+- SAVOR‑TIMI 53 (DPP‑4 inhibitor outcomes)  
+- EXAMINE (Alogliptin outcomes)  
+- AHA/ACC/HFSA Heart Failure Guideline  
+- GISSI‑Prevenzione Trial (n‑3 fatty acids & Vitamin E)  
+- REDUCE‑IT Trial (icosapent ethyl)  
+- WATCH Trial (Warfarin & antiplatelet therapy)  
+- PEARL‑HF Trial (RLY5016 potassium binder)  
+- HARMONIZE Trial (Sodium zirconium cyclosilicate)  
+- GISSI‑Prevenzione Trial (post‑MI outcomes)  
+- VITAL‑Heart Failure Trial (Vitamin D supplementation)  
+- Q‑SYMBIO Trial (Coenzyme Q10)  
+- Multicenter Diltiazem Post‑Infarction Trial  
+- Danish Verapamil Infarction Trial (DAVIT II)  
+- GIST (not present in list)  
+
+(Any duplicate or overlapping terms have been merged; the list captures all distinct concepts tied to heart‑disease pathophysiology, risk, or therapy that appear in the provided text.)
+
+Page 110 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Heart failure (HF)  
+- Congestive heart failure (CHF)  
+- Chronic heart failure (CHF)  
+- Systolic (reduced‑ejection‑fraction) heart failure  
+- Diastolic (preserved‑ejection‑fraction) heart failure  
+- Left‑ventricular ejection fraction (LVEF)  
+- Renin–angiotensin–aldosterone system (RAAS)  
+- β‑blockers (e.g., metoprolol, carvedilol, bisoprolol)  
+- Angiotensin‑converting‑enzyme inhibitors (ACEi) → enalapril, lisinopril, CIBIS‑II drug  
+- Angiotensin‑II receptor blockers (ARBs)  
+- Aldosterone antagonists → spironolactone, eplerenone  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2i)  
+  - Dapagliflozin  
+  - Empagliflozin  
+- Neurohormonal modulation (GDMT)  
+- Combination therapy (isosorbide dinitrate + hydralazine)  
+- Anti‑arrhythmic drugs → amiodarone, dofetilide  
+- Calcium‑channel blockers → amlodipine  
+- Angiotensin‑neprilysin inhibitors (ARNI) → sacubitril/valsartan  
+- Thyroid hormone replacement therapy (levothyroxine T4, triiodothyronine T3)  
+- Hormonal therapies → growth hormone, testosterone  
+- Nutraceuticals / supplements → coenzyme‑Q10, L‑carnitine, taurine, thiamine  
+- Cardiac biomarkers → NT‑proBNP, BNP  
+- Left‑ventricular dysfunction  
+- Myocardial infarction (MI) / acute coronary syndrome (ACS)  
+- Ventricular arrhythmias (sudden cardiac death risk)  
+- Type 2 diabetes mellitus (T2DM) – interaction with HF medications  
+- DPP‑4 inhibitors (saxagliptin, alogliptin, sitagliptin, linagliptin) – HF risk  
+- Obesity / cachexia / nutritional status – HF risk factors  
+
+These terms encapsulate the core concepts of cardiovascular pathology, therapeutic targets, and risk factors discussed in the cited clinical statements and guideline references.
+
+Page 111 Extracted Terms:
+- Heart failure  
+- Chronic heart failure (CHF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Left ventricular dysfunction  
+- Left ventricular systolic dysfunction  
+- Left ventricular ejection fraction (LVEF)  
+- Congestive heart failure (CHF)  
+- Atrial fibrillation (AF)  
+- Coronary artery disease (CAD)  
+- Myocardial infarction (MI)  
+- Non‑ischemic cardiomyopathy  
+- β‑blocker therapy  
+- Carvedilol  
+- Captopril  
+- Candesartan  
+- Enalapril  
+- Losartan  
+- Valsartan  
+- Aldosterone blockade (mineralocorticoid receptor antagonism)  
+- Sodium‑glucose cotransporter‑2 inhibitor (SGLT₂‑i) therapy  
+- Angiotensin‑converting enzyme inhibitor (ACE‑I)  
+- Angiotensin receptor blocker (ARB)  
+- Soluble guanylate cyclase stimulators  
+- Vericiguat  
+- Digoxin  
+- Ivabradine  
+- Cardiac resynchronization therapy (CRT)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Transcatheter mitral‑valve repair (TMVR)  
+- Mortality  
+- Morbidity  
+- Hospitalization  
+- Clinical outcome  
+- Quality of care  
+- Drug‑tolerability  
+- Dose‑response  
+- Ejection fraction improvement  
+- Ventricular remodeling  
+- Left ventricular enlargement  
+- Heart‑rate control  
+- Vasodilator therapy  
+- Neurohormonal blockade  
+- Antihypertensive therapy  
+- Chronic heart‑failure treatment guidelines  
+- AHA/ACC/HFSA Heart Failure Guideline  
+- DIG trial (Digitalis Investigation Group)  
+- SHIFT trial (Ivabradine treatment)  
+- BEAUTIFUL trial (Ivabradine in CAD with LV dysfunction)  
+- PROVED trial (Digoxin withdrawal in CHF)  
+- ATLAS study (Low vs high dose lisinopril)  
+- HEAAL study (Losartan dose comparison)  
+- SAVE study (Captopril after MI)  
+- CHARM‑Overall program (Candesartan in CHF)  
+- Valsartan Heart Failure Trial (VHT)  
+- Vericiguat trial (Vericiguat in HFrEF)  
+- Meta‑analysis studies  
+- Randomized controlled trials (RCTs)
+
+These terms capture the primary diseases, therapeutic agents, devices, clinical outcomes, and research/ guideline references discussed in the text.
+
+Page 112 Extracted Terms:
+- Heart Failure  
+- Congestive Heart Failure  
+- Dilated Cardiomyopathy  
+- Non‑ischemic Cardiomyopathy  
+- Ischemic Cardiomyopathy  
+- Myocardial Infarction  
+- Coronary Artery Disease  
+- Ventricular Arrhythmias  
+- Sudden Cardiac Death  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Cardiac Resynchronization Therapy (CRT)  
+- Biventricular Pacing / Biventricular Pacemaker  
+- Left Ventricular Systolic Dysfunction  
+- Left Ventricular Ejection Fraction  
+- QRS Morphology (e.g., Right Bundle Branch Block)  
+- QRS Duration  
+- Left Ventricular Remodeling  
+- Right Bundle Branch Block  
+- Symptomatic Heart Failure  
+- Mild/Moderate Heart Failure  
+- Asymptomatic Heart Failure  
+- AV Nodal Ablation / Left Ventricular‑Based Cardiac Stimulation  
+- Cost‑Effectiveness of Cardiac Devices  
+- Genetic Risk in Arrhythmic/Dilated Cardiomyopathy  
+- Risk Stratification for Sudden Cardiac Death  
+- Multicenter Automatic Defibrillator Implantation Trial (MADIT)  
+- Multicenter Un‑sustained Tachycardia Trial (MUST)  
+- Sudden Cardiac Death in Heart Failure Trial (SCD‑HeFT)  
+- COMPANION Trial  
+- REVERSE Study  
+- RAFT Study  
+- CARE‑HF Trial  
+- PAVE Study  
+- HRS Expert Consensus on Arrhythmogenic Cardiomyopathy  
+- ICD Cost‑Effectiveness  
+- CRT Cost‑Effectiveness  
+- QRS‑Based Outcome Prediction  
+- Cardiovascular Endothelial Nitric Oxide Pathway (includes guanylate cyclase, cGMP)  
+- Pharmacologic Antiarrhythmics (e.g., amiodarone, amiodarone vs ICD)  
+- Heart‑Failure Pharmacology (implied by trials addressing ICD/CRT in patients with reduced EF)
+
+Page 113 Extracted Terms:
+**Key heart‑disease related terms (from the provided guideline text)**  
+- AHA/ACC/HFSA Heart Failure Guideline  
+- AHA/ACC/HRS guideline for ventricular arrhythmias & prevention of sudden cardiac death  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Cardiac resynchronization therapy (CRT)  
+- Ventricular arrhythmias  
+- Sudden cardiac death (SCD)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Neurohormonal activation in heart failure  
+- Baroreflex activation therapy (BAT)  
+- Vagus nerve stimulation (VNS)  
+- His‑bundle pacing (His‑SP) / His‑bundle correction  
+- Biventricular (bi‑V) pacing  
+- Cardiac contractility modulation (CCM)  
+- Revascularization for coronary artery disease (CAD)  
+- Coronary artery bypass grafting (CABG)  
+- Percutaneous coronary intervention (PCI)  
+- Left‑main equivalent coronary artery disease  
+- Ischemic cardiomyopathy  
+- Left ventricular dysfunction / systolic dysfunction  
+- Left ventricular remodeling  
+- Mitral regurgitation (functional MR)  
+- Valvular heart disease (mitral, aortic)  
+- STICH trial (Surgical Treatment for Ischemic Heart Failure)  
+- CABG Patch Trial, STICH, REVIVED‑BCIS2, ESH, NARROW‑CRT, LESSER‑EARTH, SPARE, COMPANION, etc. (study identifiers)  
+- Cardiovascular outcome studies (e.g., CASS, STICH, REVIVED, ACC/AHA trials)  
+- Implantable electrical interventions (e.g., multipoint pacing, non‑excitatory electrical impulses)  
+- Coronary revascularization outcomes (e.g., survival advantage, quality‑of‑life, angina relief)  
+
+These terms capture the principal diseases, interventions, therapies, and clinical studies discussed in the excerpt.
+
+Page 114 Extracted Terms:
+- Heart failure  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with mildly reduced ejection fraction (HFmrEF)  
+- Heart failure with improved ejection fraction  
+- Cardiomyopathy  
+- Dilated cardiomyopathy  
+- Left ventricular dysfunction  
+- Systolic heart failure  
+- Left ventricular ejection fraction  
+- Left ventricular remodeling  
+- Ventricular remodeling  
+- Cardiac resynchronization therapy  
+- Cardiac contractility modulation  
+- β‑blocker therapy / β‑blockade  
+- Renin‑angiotensin system inhibitors  
+- Angiotensin receptor neprilysin inhibitor (ARNI)  
+- Sacubitril/valsartan  
+- Empagliflozin  
+- Neurohormonal therapy  
+- Cardiac rehabilitation  
+- High‑intensity exercise‑based cardiac rehabilitation  
+- Mitral regurgitation  
+- Functional mitral regurgitation  
+- Secondary mitral regurgitation  
+- Proportionate functional mitral regurgitation  
+- Disproportionate functional mitral regurgitation  
+- Percutaneous mitral valve repair (TMR)  
+- Surgical mitral valve repair  
+- Transcatheter aortic valve replacement (TAVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Surgical aortic valve replacement  
+- Aortic stenosis  
+- Low‑gradient aortic stenosis  
+- Low‑flow aortic stenosis  
+- Aortic regurgitation  
+- Severe aortic regurgitation  
+- Valvular heart disease  
+- Prosthetic valve  
+- Aortic valve intervention  
+- Aortic valve surgery  
+- Hemodynamic response  
+- Cardiac output  
+- Pharmacologic treatment  
+- Pericardial disease (implicit in heart failure context)
+
+Page 115 Extracted Terms:
+**Heart‑disease related terms extracted from the text**
+
+1. Heart failure  
+2. Heart failure with preserved ejection fraction (HFpEF)  
+3. Heart failure with reduced ejection fraction (HFrEF)  
+4. Left‑ventricular ejection fraction (LVEF)  
+5. Ejection fraction (EF)  
+6. Diastolic dysfunction / diastolic heart failure  
+7. Systolic hypertension  
+8. Hypertension / high blood pressure  
+9. Myocardial infarction  
+10. Atrial fibrillation  
+11. Coronary artery disease  
+12. Revascularisation (PCI/CABG)  
+13. Cardiac rehabilitation  
+14. β‑blockers (e.g., nebivolol, bisoprolol, digoxin‑related β‑blockade)  
+15. Angiotensin‑converting enzyme inhibitors (ACE‑I)  
+16. Angiotensin‑II receptor blockers (ARBs)  
+17. Aldosterone antagonists (e.g., spironolactone, eplerenone)  
+18. Spironolactone  
+19. Empagliflozin (SGLT2 inhibitor)  
+20. Sacubitril/valsartan (ARNI)  
+21. Candesartan (ARB)  
+22. Isosorbide mononitrate  
+23. Phosphodiesterase‑5 inhibitors (e.g., sildenafil)  
+24. Nebivolol  
+25. Digoxin  
+26. Brain natriuretic peptide (BNP)  
+27. N‑terminal pro‑BNP (NT‑proBNP)  
+28. Pleural effusion  
+29. Clinical trials & studies:  
+   - EMPEROR‑Preserved  
+   - EMPEROR‑Reduced  
+   - TOPCAT  
+   - PARADIGM‑HF  
+   - SPRINT  
+   - CHARM‑Preserved  
+   - SPRINT (intensive vs standard BP)  
+   - ALLHAT  
+   - PEP‑CHF  
+   - Packer et al. EMPEROR‑Preserved (2021)  
+   - Ather et al. (non‑cardiac comorbidities)  
+   - Soloman et al. (PARADIGM‑HF)  
+   - Zanchetti et al. (hypertension BP lowering)  
+30. Anti‑hypertensive drugs (e.g., diuretics, antihypertensives)  
+31. Endothelin system  
+32. Renin‑angiotensin system  
+33. Myocardial collagen turnover (diastolic HF evidence)  
+34. Coronary microvascular endothelial inflammation  
+35. Perindopril (in elderly HF)  
+
+*(All terms above are directly referenced or implied within the provided guideline citations and are core concepts in contemporary heart‑disease management.)*
+
+Page 116 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Heart failure (HF)  
+- Preserved ejection fraction (HFpEF)  
+- Reduced ejection fraction (HFrEF)  
+- Left ventricular ejection fraction (LVEF) – >40 %  
+- Beta‑blockers  
+- Renin‑angiotensin‑aldosterone system (RAAS) inhibitors  
+- Angiotensin receptor neprilysin inhibitor (ARNI)  
+- LCZ696 (LCZ)  
+- Sacubitril‑valsartan (LCZ‑DPPV)  
+- Isosorbide mononitrate  
+- Cardiac amyloidosis  
+- Transthyretin (TTR) amyloidosis  
+- Wild‑type/transthyretin‑derived amyloidosis  
+- Light‑chain (AL) amyloidosis  
+- Transthyretin‑related amyloidosis (ATTR)  
+- Cardiac imaging with planar technetium‑99m pyrophosphate (Tc‑99m‑PYP)  
+- Quantitative kappa and lambda free‑light‑chain assays  
+- Genetic testing for TTR mutation  
+- Tafamidis therapy  
+- Inotersen therapy  
+- Patisiran therapy (RNA interference)  
+- Diflunisal (repurposed)  
+- Doxycycline plus ursodeoxycholic acid (TAU)  
+- Green tea extract (observational therapy)  
+- Intracardiac thrombosis / embolism  
+- Anticoagulation therapy (in cardiac amyloidosis)  
+- Implantable cardioverter‑defibrillator (ICD) outcomes  
+- CHADS‑VASc score in TTR amyloidosis  
+- Left atrial appendage thrombus  
+- Advanced heart failure (stage D)  
+- INTERMACS profiles of advanced HF  
+- Specialist clinics for heart failure  
+- Medication adherence / non‑adherence in HF  
+- AHA/ACC/HFSA heart‑failure guideline statements  
+- ACC/AHA/HFSA focused updates (2017, 2013, 2010)  
+- Advanced heart‑failure position statements (European Society of Cardiology, American Heart Association)  
+- Heart‑failure management in adults (ACC/AHA 2005 updated)  
+
+These terms capture the core clinical conditions, diagnostic modalities, pharmacologic agents, and guideline frameworks discussed in the provided text.
+
+Page 117 Extracted Terms:
+- Heart failure  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Left ventricular assist device (LVAD)  
+- Heart transplantation  
+- Mechanical circulatory support  
+- Inotropic therapy  
+- Dobutamine  
+- Milrinone  
+- Pulmonary hypertension  
+- Congestion  
+- Elevated jugular venous pressure (JVP)  
+- Third heart sound (S3)  
+- Hyponatremia  
+- Sodium restriction  
+- Fluid restriction  
+- Cachexia  
+- Obesity  
+- Prognostic risk scores (e.g., Seattle Heart Failure Model, REMATCH, etc.)  
+- Acute decompensated heart failure  
+- Advanced heart failure (Stage D)  
+- Diuretic therapy  
+- Angiotensin‑converting‑enzyme inhibitors (ACEi)  
+- Angiotensin receptor blockers (ARBs)  
+- β‑adrenoceptor antagonists  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Defibrillator shocks  
+- Inotropic infusion  
+- Repeated hospitalizations  
+- Nutritional management (diet, sodium, fluid)
+
+Page 118 Extracted Terms:
+Heart failure  
+Severe heart failure  
+Acute heart failure  
+Chronic heart failure  
+Advanced heart failure  
+Inotropic therapy  
+Dobutamine infusion  
+Milrinone infusion  
+Levosimendan therapy  
+Beta‑blocker therapy  
+Calcium upregulation therapy  
+Gene therapy (cardiac)  
+Vasodilator therapy  
+Mechanical circulatory support (MCS)  
+Continuous‑flow device  
+Magnetically levitated left ventricular assist device (LVAD)  
+Heart‑Mate 3  
+Heart‑Ware ventricular assist system (HVAD)  
+Intrapericardial LVAD  
+Cardiogenic shock  
+Intra‑aortic balloon pump  
+Bridge to transplant  
+Bridge to recovery  
+Bridge to cure  
+Destination therapy  
+Pulmonary hypertension (Group 2)  
+Pulmonary vascular resistance  
+Right ventricular failure  
+Pump thrombus  
+Antithrombotic therapy  
+Neurologic events  
+Quality of life  
+Functional status  
+Cost‑effectiveness analysis  
+Frailty assessment  
+InterMACS profiling  
+INTERMACS profiles  
+Heart transplant waiting list  
+Survival outcomes  
+Long‑term outcomes  
+Clinical guidelines (heart failure)
+
+Page 119 Extracted Terms:
+- Heart failure  
+- Advanced heart failure  
+- End‑stage heart failure  
+- Left ventricular assist device (LVAD)  
+- Ventricular assist device (VAD)  
+- Continuous‑flow LVAD  
+- Mechanical circulatory support  
+- Cardiac transplantation  
+- Heart transplant  
+- Donor‑recipient size match  
+- Donor heart allocation  
+- UNOS (United Network for Organ Sharing)  
+- INTERMACS (Interagency Registry for Mechanically Assisted Circulatory Support)  
+- Right heart failure  
+- Pulmonary hypertension  
+- Congestive heart failure  
+- Cardio‑pulmonary exercise testing  
+- Peak VO₂ (peak oxygen uptake)  
+- VE/VCO₂ slope  
+- B‑type natriuretic peptide (BNP)  
+- Cardiac output  
+- Hemodynamics  
+- Cardiogenic shock  
+- Hypertrophic cardiomyopathy  
+- Transthyretin amyloid cardiomyopathy  
+- Cardiac amyloidosis  
+- Muscular dystrophy (cardiac involvement)  
+- Cardiac sarcoidosis  
+- Congenital heart disease (advanced therapies)  
+- Cardiac rehabilitation  
+- Exercise capacity  
+- Ventilatory efficiency  
+- Invasive hemodynamics  
+- Pre‑operative risk factors  
+- Post‑operative risk factors  
+- Neuro‑psychological complications  
+- Device bridging to transplant  
+- LVAD recovery  
+- Device indications  
+- Heart failure outcomes  
+- Quality of life  
+- Survival after transplantation  
+- Transplant center volume  
+- Recipient mortality  
+- Clinical guidelines  
+- AHA/ACC/HFSA guidelines  
+- ESCAPE trial (clinical assessment of hemodynamics)  
+- EVEREST trial (congestion in heart failure)  
+- PROTECT trial (renal function in acute HF)  
+- Cost‑effectiveness  
+- Beta‑adrenergic blocker therapy  
+- Heart transplant allocation policy changes  
+- Left ventricular assist device trends and outcomes  
+- Ventricular assist device therapy versus intensive medical therapy  
+- Acute decompensated heart failure hospitalizations  
+- Predictors of post‑discharge outcomes in acute heart failure  
+- Ventricular assist device as a bridge to transplant  
+- Donor heart allocation system (2018 revision)  
+- Clinical phenotype classification in heart failure  
+- Peak exercise oxygen consumption  
+- Hemodynamic assessment during heart failure management  
+- Cardiac function metrics (EF, stroke volume, etc.)  
+- Inpatient monitoring of heart failure  
+- Cardiac transplantation in patients with amyloidosis  
+- Transplant outcomes in hypertrophic cardiomyopathy  
+- Cardiac transplant in muscular dystrophy patients  
+- Transplant outcomes in cardiac sarcoidosis  
+- Transplant outcomes in congenital heart disease  
+- Long‑term outcomes after heart transplantation.
+
+Page 120 Extracted Terms:
+- Heart failure  
+- Acute heart failure  
+- Acute decompensated heart failure  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Fulminant myocarditis  
+- Ventricular arrhythmias  
+- β‑blocker (beta‑blocker) therapy  
+- Angiotensin‑converting enzyme inhibitor (ACE‑I)  
+- Angiotensin receptor blocker (ARB)  
+- Aldosterone antagonist (mineralocorticoid receptor blocker)  
+- Diuretic therapy  
+- Loop diuretic  
+- Ultrafiltration  
+- Guideline‑directed medical therapy (GDMT)  
+- Systolic blood pressure  
+- Blood pressure management  
+- Renal function (worsening renal function, tubule injury)  
+- Cardiorenal syndrome  
+- Congestion (in‑hospital and residual)  
+- Ejection fraction assessment  
+- Diuretic strategies (decongestion strategy)  
+- Convergent classification of heart failure (ejection fraction categories, clinical presentation)
+
+Page 121 Extracted Terms:
+**Key heart‑disease terms identified in the excerpt**
+
+- Heart failure
+- Acute decompensated heart failure
+- Chronic heart failure
+- Ventricular dysfunction (left‑ventricular systolic dysfunction)
+- Cardiogenic shock
+- Acute myocardial infarction
+- Venous thromboembolism (VTE) prophylaxis
+- Renal function / creatinine
+- Congestion / residual congestion
+- Inotropic agents (milrinone, dobutamine, dopamine, epinephrine, norepinephrine)
+- Vasodilators (nesiritide, nitroglycerin, nitroprusside, clevidipine)
+- Diuretics (furosemide, ultrafiltration, aquapheresis)
+- Mechanical circulatory support (Impella, short‑term mechanical support)
+- Anticoagulants / thromboprophylaxis (enoxaparin, unfractionated heparin, rivaroxaban, cerotaparin)
+- Thrombotic biomarkers
+- Left‑ventricle characteristics
+- Hemodynamic response / hemodynamics
+- Lactate metabolism
+- Mortality / survival outcomes
+- Rehospitalization
+- Prognostic significance
+- Aggressive decongestion
+- Dose‑response to low‑dose dopamine / nesiritide
+- Vascular tolerance (nitrate tolerance)
+- Hemodynamic effects of continuous infusion
+- Mechanical support utilization trends
+- Inotrope strategies
+- Pharmacologic therapy in heart failure guidelines
+- AHA/ACC/HFSA Heart Failure Guideline
+- AHA/ACC/HFSA 2022 Heart Failure Guideline
+- Acute heart failure with preserved vs. reduced ejection fraction
+
+These terms capture the clinical concepts, therapeutic agents, interventions, and outcome measures related to heart disease that appear throughout the provided guidelines and study references.
+
+Page 122 Extracted Terms:
+- Cardiogenic shock  
+- Mechanical circulatory support  
+- Intra‑aortic balloon pump (IABP)  
+- Impella device  
+- Ventricular assist device (VAD)  
+- TandemHeart  
+- Veno‑arterial extracorporeal membrane oxygenation (VA‑ECMO)  
+- Pulmonary artery catheter  
+- Acute myocardial infarction  
+- Heart failure (HF)  
+- Acute heart failure  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Cardiac shock care centers  
+- Shock team approach  
+- Cardiogenic shock protocols / shock protocols  
+- Transition / transitional care interventions  
+- Discharge education  
+- Hospital‑based discharge medication program  
+- Heart failure disease management  
+- Performance improvement initiative  
+- OPTIMIZE‑HF (Organized Program to Initiate Lifesaving Treatment in Hospitalized Patients With Heart Failure)  
+- Survival after veno‑arterial ECMO (SAVE) score  
+- National cardiogenic shock initiative  
+- Hemodynamic monitoring & profiling  
+- Acute management of cardiogenic shock
+
+
+Page 123 Extracted Terms:
+- Heart failure  
+- Acute myocardial infarction  
+- Pneumonia  
+- Transitions of care  
+- Evidence‑based pharmacotherapy  
+- 30‑day readmission  
+- Continuous positive airway pressure  
+- Adaptive servo‑ventilation  
+- Central sleep apnea  
+- Positive airway pressure therapy  
+- Iron deficiency  
+- Intravenous iron therapy (ferric carboxymaltose)  
+- Anemia  
+- Erythropoiesis‑stimulating therapy (darbepoetin alfa, erythropoietin)  
+- SGLT2 inhibitors (dapagliflozin, empagliflozin)  
+- Blood‑pressure management  
+- Intensive blood‑pressure control  
+- Depression in heart failure  
+- Major depression therapy (escitalopram, sertraline)  
+- Kidney disease / chronic kidney disease  
+- Polypharmacy  
+- Multimorbidity  
+- Clinical practice guideline implementation  
+- Heart‑failure readmission intervention (e.g., THRIVE, THRIVE)  
+- Variable early follow‑up  
+- ESCAPE risk model / discharge score  
+- Hospital performance metrics (30‑day all‑cause readmission)  
+- Management of comorbidities  
+- Exercise capacity  
+- Mortality risk  
+- Pharmacological interventions (e.g., iron, ACE inhibitors, beta‑blockers, ARNI)  
+- Clinical outcomes  
+- Meta‑analysis  
+- Randomized clinical trial  
+- Systematic review  
+- Evidence‑based interventions  
+- Quality improvement initiatives
+
+
+
+Page 124 Extracted Terms:
+Heart failure  
+Reduced ejection fraction heart failure  
+Preserved ejection fraction heart failure  
+Heart failure with mildly reduced ejection fraction (HFmrEF)  
+Systolic heart failure  
+Left ventricular systolic dysfunction  
+Dilated cardiomyopathy (implied in HF context)  
+Atrial fibrillation (AF)  
+Paroxysmal atrial fibrillation  
+Persistent atrial fibrillation  
+Permanent atrial fibrillation  
+Valvular atrial fibrillation (non‑valvular)  
+Atrial fibrillation‑associated thromboembolism  
+Thromboembolic risk  
+CHA₂DS₂-VASc score  
+Stroke prevention in AF  
+Anticoagulation therapy  
+Warfarin  
+Dabigatran  
+Rivaroxaban  
+Apixaban  
+Edoxaban  
+Novel oral anticoagulants (NOACs)  
+Anticoagulant therapy in heart failure  
+Rate control in AF  
+Rhythm control in AF  
+Catheter ablation for AF  
+Atrioventricular junction ablation  
+Cardiac resynchronization therapy (CRT)  
+Biventricular pacing  
+Right‑ventricular pacing  
+Left‑ventricular pacing  
+Cardiac pacing after AV nodal ablation  
+Cardiac tamponade (implied within HF context)  
+Electrical cardioversion  
+
+Blood pressure management  
+Hypertension  
+Intensive blood pressure lowering  
+ACC/AHA guideline for hypertension  
+
+Sleep‑disordered breathing  
+Central sleep apnea  
+Sleep‑apnea therapy  
+Continuous positive airway pressure (CPAP)  
+Positive airway pressure therapy  
+
+Diabetes mellitus (type 2)  
+Glycemic treatment strategies  
+Sodium‑glucose co‑transporter‑2 (SGLT2) inhibitors  
+Empagliflozin  
+Canagliflozin  
+Ipragliflozin  
+Sotagliflozin  
+Dapagliflozin  
+
+Cardiovascular endpoints  
+Mortality  
+Hospitalization for heart failure  
+Heart failure events  
+Morbidity  
+
+Clinical trials related to heart failure  
+DELIVER (dapagliflozin trial)  
+EMPEROR‑Preserved (empagliflozin trial)  
+SAD, etc. (implied in references)  
+
+Guideline documents  
+AHA/ACC/HFSA Heart Failure Guideline  
+ACC/AHA/NMA/PCNA hypertension guideline  
+ESC guideline for atrial fibrillation  
+AHA/ACC/HRS guideline for atrial fibrillation  
+
+Key biomarkers  
+Brain natriuretic peptide (BNP)  
+Natriuretic peptide levels  
+
+Metabolic therapies  
+Insulin resistance  
+Metformin (implied via glycemic control)
+
+Cardiac imaging (implied)  
+Ejection fraction measurement  
+Left ventricular dysfunction assessment  
+
+Page 125 Extracted Terms:
+Heart failure  
+Congestive heart failure  
+Heart failure hospitalization  
+Heart failure incidence  
+Heart failure survival  
+Heart failure mortality  
+Heart failure management  
+Heart failure guidelines  
+Heart failure clinics  
+Heart failure patients  
+Heart failure in older adults  
+Heart failure in women  
+Heart failure in black patients  
+Heart failure in Hispanic/Latino adults  
+Heart failure in American Indian/Alaska Native adults  
+Heart failure in Asian American/Pacific Islander adults  
+Heart failure risk  
+Heart failure disparities  
+Heart failure referrals  
+Heart failure outcomes  
+Implantable cardioverter‑defibrillator therapy  
+Cardioverter‑defibrillator therapy  
+Cardiac surgery  
+Cardiac rhythm  
+Cardiology  
+Cardiologists  
+Cardiovascular disease  
+Cardiovascular outcomes  
+Cardiovascular morbidity  
+Cardiovascular mortality  
+Cardiovascular health  
+Hypertension  
+High blood pressure  
+Diabetes  
+Diabetes in heart failure  
+Comorbidities  
+Socioeconomic status  
+Socioeconomic deprivation  
+Neighborhood deprivation  
+Racial disparities  
+Ethnic disparities  
+Sex differences  
+Gender disparities  
+Structural racism  
+Social determinants of health  
+Elderly  
+Older adults  
+Skilled nursing facility care  
+Chagas’ disease  
+Trypanosoma cruzi infection  
+Stroke  
+Ischemic stroke  
+Stroke in heart failure  
+High blood pressure prevention  
+Cardiovascular epidemiology  
+Cardiovascular epidemiology in diverse populations
+
+Page 126 Extracted Terms:
+- Heart disease  
+- Cardiovascular disease  
+- Heart failure  
+- Congestive heart failure  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Left ventricular assist device (LVAD)  
+- Heart transplantation / heart transplant  
+- Atrial fibrillation  
+- Cardiomyopathy  
+- Cardiotoxicity  
+- Anthracycline‑induced cardiomyopathy  
+- Trastuzumab‑related cardiotoxicity  
+- Trastuzumab‑associated heart failure  
+- Cardiac events  
+- Cardiovascular risk factors  
+- Ejection fraction  
+- Hypertension  
+- Stroke  
+- Cardiovascular clinical trials  
+- Advanced heart failure therapies  
+- Cardio‑oncology  
+- Chemotherapy‑related cardiac monitoring  
+- Cardiac monitoring  
+- Cardiovascular health disparities  
+- Cardiovascular epidemiology  
+- Cardiovascular morbidity  
+- Cardiovascular mortality  
+- Cardiac outcomes  
+- Cardiac monitoring via echocardiography  
+- Cardiac tolerance/long‑term cardiac tolerance  
+- Cardiovascular disease in specific populations (Hispanic, African American, Asian, South Asian, American Indian)  
+- Cardiovascular disease risk statistics  
+- Cardio‑oncological chemotherapy agents (anthracyclines, trastuzumab)  
+- Cardiac function assessment  
+- Cardiac imaging (echocardiography)  
+- Cardiac therapy adherence.
+
+Page 127 Extracted Terms:
+- Cardiovascular disease  
+- Heart failure (HF)  
+- Congestive heart failure  
+- Left ventricular dysfunction (LVD)  
+- Left ventricular ejection fraction (LVEF)  
+- Cardiomyopathy (anthracycline‑induced, trastuzumab‑induced, doxorubicin‑related)  
+- Trastuzumab cardiotoxicity  
+- Anthracycline‑induced cardiotoxicity  
+- Chemotherapy‑related cardiotoxicity  
+- Immune‑checkpoint‑inhibitor–induced myocarditis  
+- Cardiac dysfunction (clinical & subclinical)  
+- Cardio‑oncology / cardio‑oncological prevention  
+- Cardiac monitoring (baseline, longitudinal)  
+- Biochemical cardiac biomarkers  
+  - Troponin I  
+  - Troponin T  
+  - N‑terminal pro‑B type natriuretic peptide (NT‑proBNP)  
+- Myocardial performance index (MPI)  
+- Neurohormonal therapies for cardioprotection  
+  - Beta‑blockers (e.g., carvedilol, metoprolol)  
+  - Angiotensin‑converting‑enzyme inhibitors (ACEi, e.g., enalapril, lisinopril)  
+  - Angiotensin II receptor blockers (ARBs, e.g., candesartan)  
+  - Mineralocorticoid receptor antagonists (spironolactone)  
+- Preventive strategies (e.g., ACEi/ARB, β‑blockers, carvedilol, spironolactone)  
+- Cardiotoxicity risk stratification  
+- Cardiovascular hospitalizations  
+- Cardiovascular mortality  
+- Cardiac safety monitoring in cancer therapy  
+- Clinical guidelines for heart failure (AHA/ACC/HFSA)  
+
+These terms capture the core heart‑related concepts discussed across the cited clinical statements and studies.
+
+Page 128 Extracted Terms:
+- Cardiotoxicity  
+- Cardiac dysfunction  
+- Myocarditis  
+- Pericarditis  
+- Heart failure  
+- Cardiovascular complications  
+- Cardiovascular toxicity  
+- Cardiac adverse effects  
+- Cardiac safety  
+- Vascular toxicity  
+- Coronary artery stenosis  
+- Arrhythmia  
+- Cardiovascular events  
+- Ventricular dysfunction  
+- Left ventricular dysfunction  
+- Cardiac injury  
+- Myocardial damage  
+- Radiotherapy‑associated heart disease  
+- Anthracycline‑related cardiotoxicity  
+- Tyrosine kinase inhibitor‑associated cardiovascular toxicity  
+- BRAF‑inhibitor‑related cardiotoxicity  
+- Immune checkpoint‑inhibitor‑associated myocarditis  
+- Cardiac mortality  
+- Serious cardiac complications during transplantation  
+- Short‑term cardiac toxicity (post‑transplant)  
+- Long‑term heart failure after radiotherapy
+
+
+Page 129 Extracted Terms:
+- Heart failure  
+- Peripartum cardiomyopathy  
+- Dilated cardiomyopathy  
+- Pregnancy‑associated heart disease  
+- Postpartum cardiomyopathy  
+- Cardiovascular disease during pregnancy  
+- Pre‑pregnancy counseling for heart disease  
+- Maternal outcomes  
+- Fetal outcomes  
+- Maternal‑fetal outcomes  
+- Left ventricular ejection fraction  
+- Right ventricular dysfunction  
+- Cardiogenic shock  
+- Bromocriptine therapy  
+- Prolactin cleavage (cathepsin‑D cleaved prolactin)  
+- Genetic predisposition to cardiomyopathy  
+- Titin (TTN) gene mutations  
+- PTHLH gene locus (chromosome 12p11.22)  
+- Hypertensive diseases of pregnancy  
+- Preeclampsia  
+- Left ventricular recovery  
+- Clinical phenotyping of cardiomyopathy  
+- Risk prediction models for peripartum cardiomyopathy  
+- Registry data on peripartum cardiomyopathy  
+- ESC guidelines for cardiovascular disease in pregnancy  
+- AHA/ACC/HFSA heart‑failure guideline  
+- JACC state‑of‑the‑art review on cardiovascular drugs in pregnancy  
+- Scientific statement on dilated cardiomyopathy diagnostics and treatment  
+- Randomized controlled trials of bromocriptine in peripartum cardiomyopathy  
+- Meta‑synthesis of women’s experiences with cardiac disease in pregnancy  
+- Observational cohort studies on peripartum cardiomyopathy outcomes  
+- Clinical characteristics and outcomes in pregnancy‑associated heart failure.
+
+Page 130 Extracted Terms:
+peripartum cardiomyopathy  
+cardiovascular outcomes  
+pregnancy in women with cardiomyopathy  
+postpartum cardiovascular outcomes  
+inherited cardiomyopathies  
+pregnancy with heart failure  
+high‑risk cardiac disease in pregnancy  
+cardiac risk assessment  
+pregnancy outcomes in women with heart disease  
+congenital heart disease  
+left ventricular assist device  
+implantable cardioverter‑defibrillators  
+palliative care  
+hospice care  
+advance care planning  
+left ventricular recovery  
+cardiomyopathy and preeclampsia  
+B‑type natriuretic peptide  
+N‑terminal pro‑B‑type natriuretic peptide  
+Bromocriptine  
+breastfeeding in heart failure  
+heart failure  
+acute myocardial infarction  
+cardiovascular complications  
+cardiac disease in pregnancy  
+cardiovascular disease
+
+Page 131 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Heart failure  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Congestive heart failure  
+- Aortic valve replacement  
+- Transcatheter aortic valve replacement (TAVR)  
+- Mitral valve repair  
+- Left ventricular dysfunction  
+- Coronary artery bypass grafting (CABG)  
+- Myocardial infarction (AMI)  
+- Pulmonary artery hemodynamic monitoring  
+- Cardiac resynchronization therapy (CRT)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Atrial fibrillation  
+- Pulmonary‑vein isolation (for AF)  
+- Heart failure registry (e.g., CHAMP‑HF, EVEREST, I‑PRESERVE, SOLVD)  
+- Kansas City Cardiomyopathy Questionnaire (KCCQ)  
+- Minnesota Living with Heart Failure Questionnaire (MLHFQ)  
+- New York Heart Association (NYHA) functional classification  
+- Health‑related quality of life (HRQoL)  
+- Patient‑reported outcomes (PROs)  
+- Hospitalization risk  
+- Mortality risk  
+- Prognostic biomarkers  
+- Symptom burden  
+- Palliative care for heart disease  
+- Advance care planning  
+- End‑of‑life care  
+- Cardiovascular mortality  
+
+These terms capture the primary conditions, interventions, measurement tools, outcomes, and care concepts relevant to heart disease that appear throughout the referenced guideline and study citations.
+
+Page 132 Extracted Terms:
+- Heart Failure  
+- Heart Failure Guideline (AHA/ACC/HFSA)  
+- Advanced Heart Failure  
+- Heart Transplant  
+- Mechanical Circulatory Support (MCS)  
+- Cardiology  
+- Cardiovascular Medicine  
+- Heart Failure Society of America (HFSA)  
+- American Heart Association (AHA)  
+- American College of Cardiology (ACC)
+
+Page 133 Extracted Terms:
+- Heart Failure  
+- HF  
+- Heart Disease  
+- Cardiovascular  
+- Cardiology  
+- Cardiac  
+- Cardiac Electrophysiology  
+- Advanced Heart Failure  
+- Heart Failure Guideline  
+- Heart Failure Society of America (HFSA)  
+- Transplantation  
+- HFSA Heart Failure Guideline  
+- Cardiovascular Medicine  
+- Heart Failure Management  
+- Cardiology Department  
+- Cardiac Care
+
+Page 134 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+1. Heart Failure  
+2. Heart Disease  
+3. Cardiovascular Disease  
+4. Cardiovascular Medicine  
+5. Cardiology  
+6. Cardiomyopathy  
+7. 2022 AHA/ACC/HFSA Heart Failure Guideline  
+8. American Heart Association (AHA)  
+9. American College of Cardiology (ACC)  
+10. Heart Failure Society of America (HFSA)  
+11. Clinical Statements  
+12. Guideline Advisor  
+13. Committee Member  
+14. Clinical Trial Enroller  
+15. Device (as used in cardiac therapy)  
+16. Drug (as used in cardiac therapy)  
+17. Heart Failure Management  
+18. Cardiac Diagnostics  
+19. Cardiac Interventions  
+20. AHA/ACC/HFSA Guideline  
+
+*(The list captures the central cardiovascular topics, organizations, and clinical concepts referenced in the document.)*
+
+Page 135 Extracted Terms:
+- Heart failure  
+- Heart failure management  
+- Heart failure guideline  
+- AHA (American Heart Association)  
+- ACC (American College of Cardiology)  
+- HFSA (Heart Failure Society of America)  
+- Cardiovascular disease  
+- Cardiology  
+- Pulmonary hypertension  
+- Circulation (journal)  
+- Clinical practice guidelines  
+- Clinical statements  
+- Management of heart failure  
+- Heart disease  
+
+These terms capture the primary concepts related to heart disease discussed in the provided guideline excerpt.
+
+Page 136 Extracted Terms:
+- Heart Failure  
+- AHA (American Heart Association)  
+- ACC (American College of Cardiology)  
+- HFSA (Heart Failure Society of America)  
+- AHA/ACC/HFSA Heart Failure Guideline  
+- Circulation (cardiology journal)  
+- Heartflow (cardiovascular imaging/diagnostics platform)  
+- Medtronic (cardiovascular device manufacturer)  
+- NuPulse CV (cardiovascular technology)  
+- CVRx (cardiovascular research/therapy company)  
+- Cardiovascular  
+- Cardiovascular & Risk Reduction Center  
+- JAMA (medical journal covering cardiovascular topics)  
+- NIH (National Institutes of Health, many cardiovascular research programs)
+
+Page 137 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+- Heart failure  
+- HFSA (Heart Failure Society of America)  
+- AHA/ACC/HFSA Heart Failure Guideline  
+- AHA (American Heart Association)  
+- ACC (American College of Cardiology)  
+- Cardiology / Cardiovascular health  
+- Pulmonary hypertension  
+- Pulmonary Hypertension Association  
+- Cardiology Fellowship Program  
+- US Food and Drug Administration (FDA)  
+- Centers for Medicare & Medicaid Services (CMS)  
+- Medical device manufacturers related to cardiac care:  
+  - Abbott  
+  - Medtronic  
+  - Boston Scientific  
+  - Cardiora  
+  - CVRx  
+- Pharmaceutical companies with cardiac indications:  
+  - AbbVie (Bristol Myers Squibb)  
+  - Amgen  
+  - AstraZeneca Pharmaceuticals*  
+  - Bayer  
+  - Boehringer Ingelheim  
+  - GlaxoSmithKline  
+  - Eli Lilly  
+  - Merck  
+  - Pfizer  
+  - Sanofi  
+  - Novartis*  
+  - Novo Nordisk  
+  - United Therapeutics (Pulmonary Hypertension Association)  
+  - Janssen Pharmaceuticals  
+  - Myokardia  
+  - Ionis  
+  - Prothena  
+  - Regeneron  
+  - Shifamed  
+  - Tenax  
+  - Ironwood  
+  - Cytokinetics  
+  - Vascular/heart‑related biotech: Cytokinetics, CVRx, Cyclerion, etc.  
+- Regulatory/industry advisory organizations:  
+  - National Institutes of Health (NIH)  
+  - Clinical Practice Guidelines (Joint Committee)  
+- Specialty hospitals and academic centers in cardiology:  
+  - St. Vincent Hospital  
+  - Northwestern University  
+  - Yale University  
+  - University of Pennsylvania  
+  - University of North Carolina  
+  - University of Arizona  
+  - Mount Sinai  
+
+These terms encompass cardiovascular conditions, professional societies, regulatory bodies, medical device and pharmaceutical companies, and academic institutions that are directly relevant to the field of heart disease.
+
+Page 138 Extracted Terms:
+- Heart failure (HF)  
+- Structural heart disease  
+- Increased filling pressures  
+- Left atrial volume index (LAVI)  
+- Left ventricular mass index (LVMI)  
+- Relative wall thickness (RWT)  
+- Left ventricular wall thickness  
+- Left ventricular ejection fraction (LVEF)  
+- Global longitudinal strain (GLS)  
+- E/e′ ratio  
+- Septal e′ velocity  
+- Lateral e′ velocity  
+- Tricuspid regurgitation (TR) velocity  
+- Pulmonary artery systolic pressure (PASP)  
+- Brain natriuretic peptide (BNP)  
+- N‑terminal proBNP (NT‑proBNP)  
+- Atrial fibrillation (AF)  
+- Chronic kidney disease (CKD)  
+- Diagnostic biomarkers for heart failure  
+- Echocardiographic assessment (echo)  
+- Ventricular systolic function  
+- Ventricular diastolic function  
+- Diastolic dysfunction  
+- Thrombolysis in Myocardial Infarction (TIMI)  
+- Pulmonary Embolism Response Team (PERT)  
+
+These terms capture the key concepts and measurements relevant to heart disease discussed in the provided guideline excerpt.
+

@@ -1,0 +1,2592 @@
+Page 1 Extracted Terms:
+- Atrial fibrillation  
+- Atrial arrhythmia  
+- Heart rhythm  
+- Cardiovascular disease  
+- Arrhythmia (general)  
+- Clinical Practice Guidelines for cardiovascular conditions  
+- Diagnosis and management of atrial fibrillation  
+- Heart Rhythm Society (related to cardiac rhythm disorders)
+
+Page 2 Extracted Terms:
+**Key terms related to heart disease**
+
+- Atrial fibrillation  
+- Atrial flutter  
+- Atrial arrhythmia (classification, electrical & structural remodeling)  
+- Arrhythmia management (catheter ablation, pulmonary vein isolation, surgical ablation)  
+
+- Acute coronary syndrome  
+- Coronary artery disease / coronary heart disease  
+- Myocardial infarction  
+- Percutaneous coronary intervention (PCI)  
+- Stents (end‑to‑end, drug‑eluting)  
+
+- Heart failure (HF)  
+- Hypertension  
+- Diabetes mellitus  
+- Obesity / overweight  
+- Sleep apnea  
+- Alcohol consumption  
+- Smoking cessation  
+- Caffeine consumption  
+- Diet / dietary supplementation  
+
+- Anticoagulation/Antithrombotic therapy  
+  - Oral anticoagulants (apixaban, dabigatran, edoxaban, rivaroxaban, warfarin)  
+  - Reversal agents (idarucizumab)  
+  - Antiplatelet agents  
+
+- Left atrial appendage (LAA)  
+  - LAA occlusion / exclusion / excision (percutaneous and surgical)  
+
+- Thromboembolism / Stroke  
+  - Stroke of undetermined cause  
+  - Silent/cryptogenic AF  
+  - Risk stratification (e.g., CHA₂DS₂‑VASc related concepts)  
+
+- Non‑pharmacologic stroke prevention  
+  - Device‑detected atrial high‑rate episodes  
+
+- Risk factor modification / lifestyle changes  
+  - Weight loss, physical fitness  
+
+- Clinical evaluation & risk stratification  
+  - Rhythm monitoring tools  
+  - Basic clinical assessment  
+
+- Management of comorbidities  
+  - Blood pressure control, glycemic control, lipid management (implied)  
+
+- Prevention strategies  
+  - Primary and secondary prevention of AF and cardiovascular disease  
+  - Comprehensive care models  
+
+These terms capture the core cardiovascular concepts, conditions, therapies, and risk‑management strategies referenced throughout the guideline text.
+
+Page 3 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Acute coronary syndrome (ACS)  
+- Percutaneous coronary intervention (PCI)  
+- Chronic coronary disease (CCD)  
+- Peripheral artery disease (PAD)  
+- Chronic kidney disease (CKD)/kidney failure  
+- Valvular heart disease (VHD)  
+- Atypical arrhythmias  
+- Rate control  
+- Rhythm control  
+- Electrical cardioversion  
+- Pharmacologic cardioversion  
+- Antiarrhythmic drugs  
+- Catheter ablation (AF)  
+- Surgical ablation  
+- Pacemakers (PM)  
+- Implantable cardioverter‑defibrillators (ICDs)  
+- Heart failure (HF)  
+- Hypertrophic cardiomyopathy (HCM)  
+- Adult congenital heart disease (ACHD)  
+- Cardiac surgery (post‑operative AF)  
+- Critical care (AF in critical illness)  
+- Hyperthyroidism (AF trigger)  
+- Pulmonary disease (AF precipitant)  
+- Pregnancy (AF management)  
+- Cardio‑oncology (AF and cancer therapy)  
+- Liver disease (anticoagulation considerations)  
+- Bleeding risk with anticoagulants  
+- Thromboembolism prevention  
+- Anticoagulation strategy  
+- Periprocedural management  
+- Early onset AF (genetic testing)  
+- Obesity-related AF  
+- WPW syndrome and pre‑excitation  
+- Prevention and treatment of post‑operative AF  
+- Acute medical illness or surgery (AF context)  
+
+These terms capture the core clinical concepts and patient populations discussed in the guideline excerpt.
+
+Page 4 Extracted Terms:
+**Key Heart‑Disease–Related Terms Extracted**
+
+- Atrial fibrillation (AF)  
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Left atrial appendage occlusion (LAAO)  
+- Catheter ablation of AF  
+- Early rhythm control  
+- Drug therapy for rhythm control  
+- Clinical risk scores (e.g., CHA₂DS₂‑VASc)  
+- Stroke and systemic embolism risk  
+- Thromboembolic event risk  
+- Device‑detected AF  
+- Implantable cardiac devices (e.g., pacemakers, defibrillators)  
+- Wearable cardiac monitors  
+- Obesity, weight loss (as AF risk modifiers)  
+- Physical activity (as AF risk modifier)  
+- Smoking cessation (as AF risk modifier)  
+- Alcohol moderation (as AF risk modifier)  
+- Hypertension (as AF risk modifier)  
+- Other comorbidities (e.g., diabetes, chronic kidney disease)  
+- AF burden (inflammation or arrhythmia load)  
+- Sex (non‑modifiable risk factor)  
+- Blood pressure control (dynamic risk factor)  
+- Ischemic stroke (AF‑related outcome)  
+- Clinical practice guidelines (ACC/AHA)  
+
+*(These terms capture the key concepts and therapeutic/factorial elements discussed in the guideline excerpt that are directly related to heart disease and its management.)*
+
+Page 5 Extracted Terms:
+- Atrial fibrillation  
+- Cardiovascular disease  
+- Heart disease  
+- Cardiac arrhythmia  
+- Guideline‑directed management and therapy (GDMT)  
+- Diagnostic testing  
+- Pharmacological therapy  
+- Procedural treatment  
+- Drug treatment regimens  
+- Medical devices  
+- Randomized controlled trials (RCTs)  
+- Systematic reviews  
+- Evidence‑based guidelines  
+- Shared decision‑making  
+- Patient engagement  
+- Adherence to recommendations  
+- ACC/AHA Joint Committee on Clinical Practice Guidelines  
+- Clinical implementation  
+- Evidence review committees
+
+Page 6 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Atrial fibrillation  
+- Heart defects  
+- Congenital heart disease  
+- Cardiomyopathy – hypertrophic  
+- Heart failure  
+- Heart valve diseases  
+- Chronic coronary syndromes  
+- Left atrial appendage occlusion / exclusion  
+- Cardiac surgical procedures  
+- Catheter ablation  
+- Electrical cardioversion  
+- Coronary artery revascularization  
+- Stroke prevention (stroke & transient ischemic attack)  
+- Management of heart failure  
+- Management of arrhythmias in pregnancy  
+- Management of adults with congenital heart disease  
+- Diagnosis and treatment of hypertrophic cardiomyopathy  
+- Management of valvular heart disease  
+- Evaluation and diagnosis of chest pain  
+- Anticoagulants  
+- Rhythm monitoring / rhythm control  
+- Rate control  
+- Thromboembolism  
+- Wolff‑Parkinson‑White syndrome  
+- Genetics (cardiovascular genetics)  
+- Risk factors: smoking, alcohol, caffeine, sleep, diet, fitness, obesity, diabetes, chronic kidney disease  
+- Social determinants of health  
+
+These terms capture the conditions, interventions, management strategies, and risk factors related to heart disease discussed in the guideline.
+
+Page 7 Extracted Terms:
+- ACE (angiotensin‑converting enzyme)  
+- ACHD (adult congenital heart disease)  
+- ACS (acute coronary syndrome)  
+- AF (atrial fibrillation)  
+- AFL (atrial flutter)  
+- AHRE (atrial high‑rate episodes)  
+- ARB (angiotensin receptor blocker)  
+- AT (atrial tachycardia)  
+- AVNA (atrioventricular nodal ablation)  
+- BiVP (biventricular pacing)  
+- BTK (Bruton’s tyrosine kinase)  
+- CABG (coronary artery bypass graft surgery)  
+- CAD (coronary artery disease)  
+- CCD (chronic coronary disease)  
+- BP (blood pressure)  
+- BMI (body mass index)  
+- bpm (beats per minute)  
+- AP (accessory pathway)  
+- APT (antiplatelet therapy)  
+
+(Note: the expanded phrases themselves also serve as key heart‑disease terms.)
+
+Page 8 Extracted Terms:
+**Key terms related to heart disease**
+
+- Atrial fibrillation (AF)  
+- Congestive heart failure (CHF)  
+- Heart failure (HF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Valvular heart disease (VHD)  
+- Ventricular fibrillation (VF)  
+- Ventricular tachycardia (VT)  
+- Wolff‑Parkinson‑White (WPW)  
+- Peri‑atrial appendage occlusion (LAAO)  
+- Cardiac resynchronization therapy (CRT)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Percutaneous coronary intervention (PCI)  
+- Percutaneous left atrial appendage occlusion (pLAAO)  
+- Pulmonary venous isolation (PVI)  
+- Pulmonary embolism (PE)  
+- Pulmonary hypertension (PH)  
+- Pulmonary hypertension with pulmonary vascular disease (PHPVD)  
+- Coronary heart disease (CHD)  
+- Coronary artery procedures / interventions (e.g., coronary artery bypass)  
+- Coronary artery disease (CAD) – implicit in CHD  
+- Atherosclerosis / plaque (inferred from CVD)  
+- Left atrium (LA)  
+- Left atrial appendage (LAA)  
+- Small left‑ventricular systolic dysfunction (implied by LVEF)  
+- Left ventricular ejection fraction (LVEF)  
+- Coronary artery disease (CAD) (mentioned in context of PAD)  
+- Peripheral artery disease (PAD) – risk factor for CVD  
+- Right ventricle / right ventricular pacing (RVP)  
+- Renin‑angiotensin‑aldosterone system (RAAS) – modulates heart failure  
+- Mineralocorticoid receptor antagonist (MRA) – therapy for HF  
+- Direct oral anticoagulant (DOAC) – used in AF management  
+- Oral anticoagulant (OAC) therapy  
+- Vitamin K antagonist (VKA) – warfarin, etc.  
+- Class of Recommendation (COR) – guideline grading of therapies  
+- Level of Evidence (LOE) – guideline grading of therapies  
+- Guideline‑directed medical therapy (GDMT) – for HF/AF  
+- Sleep‑disordered breathing (SDB) – risk factor for AF/CHF  
+- Shared decision‑making (SDM) – process in managing heart disease  
+- Social determinants of health (SDOH) – influence on cardiovascular risk  
+- Quality of life (QOL) – outcome measure in heart disease  
+- Hazard ratio (HR) – statistical metric in trials  
+- Randomized controlled trial (RCT) – study design in cardiology  
+
+(These terms collectively capture the major clinical, therapeutic, and guideline concepts pertaining to heart disease within the provided text.)
+
+Page 9 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Stroke  
+- Myocardial infarction (MI)  
+- Sudden cardiac death  
+- Heart failure (HF)  
+- Peripheral artery disease (PAD)
+
+Page 10 Extracted Terms:
+- Atrial fibrillation  
+- Atrial arrhythmias  
+- Atrial tachycardia (AT)  
+- AF burden  
+- Stroke risk assessment  
+- Symptom management (rate‑ and rhythm‑control strategies)  
+- Rate control  
+- Rhythm control  
+- Comorbidities  
+- Modifiable risk factors  
+- Behavioral change  
+- Screening (for all risk factors)  
+- Head‑2‑toes (risk‑factor screening tool)  
+- SOS (symptom management framework)  
+- 4 As (access to all aspects of care)  
+- Microreentry circuit  
+- Macroreentrant atrial arrhythmia  
+- Focal atrial tachycardia  
+- Multifocal atrial tachycardia  
+- Atrial activation sequence  
+- P‑wave morphology  
+- Left atrium  
+- Right atrium  
+- Prevalence of atrial fibrillation  
+- Medicare beneficiaries  
+- Age group  
+- Sex  
+- Race
+
+Page 11 Extracted Terms:
+- Atrial fibrillation (AF)
+- Atrial flutter (AFL)
+- Macroreentrant arrhythmia
+- Tricuspid annulus
+- Cavotricuspid isthmus (CTI)
+- Sawtooth flutter waves
+- Atrial rhythm
+- Sinoatrial node
+- Ectopic action potentials
+- Pulmonary veins (PVs)
+- Interstitial fibrosis
+- Reentrant activity
+- Atrial tachycardia
+- Electrical remodeling
+- Calcium handling
+- Action potential
+- Electrocardiogram (ECG)
+- Global Burden of Disease (GBD)
+- American Heart Association (AHA)
+
+Page 12 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Incident AF  
+- Risk of AF  
+- Life‑style, risk‑factor management (LRFM) program  
+- Advancing age  
+- Smoking  
+- Physical activity / sedentary lifestyle  
+- Exercise (including elite/extreme exercise)  
+- Alcohol consumption  
+- Weight  
+- Body‑mass index (BMI)  
+- Obesity  
+- Weight loss in AF patients  
+- Bariatric surgery  
+- Height  
+- Hypertension  
+- Blood pressure (BP)  
+- Systolic blood pressure (SBP)  
+- Diastolic blood pressure (DBP)  
+- Renal denervation  
+- Mineral‑corticoid receptor antagonists  
+- BP control (post‑ablation)  
+- Intensive BP control (SBP <120 mm Hg)  
+- Resting heart rate (J‑shaped association)  
+- Pulse pressure  
+- Cardiac ablation (procedures targeting AF)
+
+Page 13 Extracted Terms:
+**Key terms related to heart disease:**
+
+- Atrial fibrillation (AF)  
+- Diabetes mellitus  
+- Heart failure (HF)  
+- Coronary artery disease (CAD)  
+- Myocardial infarction (MI)  
+- Valvular heart disease (VHD)  
+- Cardiac surgery  
+- Coronary artery bypass graft (CABG)  
+- Post‑operative atrial fibrillation (postop AF)  
+- Chronic kidney disease (CKD) (cardiovascular comorbidity)  
+- Obstructive sleep apnea (OSA) (cardiovascular risk)  
+- Thyroid disease – hyperthyroidism (cardiovascular effect)  
+- Sepsis (systemic inflammation impacting heart)  
+- Blood glucose / glycemic control  
+- Prophylactic amiodarone  
+- β‑blockers  
+- Posterior left pericardiotomy (surgical technique)
+
+Page 14 Extracted Terms:
+- Atrial fibrillation (AF)  
+- PR interval  
+- PR interval prolongation  
+- Polygenic risk score  
+- Left ventricular hypertrophy (LVH)  
+- BNP (B‑type natriuretic peptide)  
+- Natriuretic peptides  
+- C‑reactive protein (CRP)  
+- Interleukin‑6 (IL‑6)  
+- Tumor necrosis factor‑α (TNF‑α)  
+- DUSP13  
+- FKBP7  
+- Spondin‑1  
+- IL‑6R  
+- TNFS12  
+- Lipoprotein(a) (Lp(a))  
+- Left atrial (LA) size  
+- LA anterior‑posterior dimension  
+- LA end‑diastolic volume  
+- LA emptying fraction  
+- LA ejection fraction  
+- Left ventricular posterior wall thickness  
+- Genetic susceptibility to AF  
+- Education (social determinant)  
+- Income (social determinant)  
+- BMI (body mass index)  
+- Type 2 diabetes  
+- Systolic blood pressure (SBP)  
+- Smoking  
+- Social determinants of health  
+- LA reduction surgery  
+- Cardiac surgery  
+- AF ablation procedures
+
+Page 15 Extracted Terms:
+Atrial fibrillation  
+Atrial arrhythmia progression  
+Atrial conduction velocity  
+Atrial conduction block  
+Atrial reentry  
+L‑type Ca²⁺ current  
+IK1 current  
+Connexin remodeling  
+Gap junctions  
+Left atrial (LA)  
+Right atrial (RA)  
+Heart failure (HF)  
+Valve disease (VHD)  
+Coronary artery disease (CAD)  
+Hypertrophic cardiomyopathy (HCM)  
+Neuromuscular disorders  
+Thyroid disease  
+Atherosclerotic cardiovascular disease (ASCVD)  
+Body mass index (BMI)  
+Brain natriuretic peptide (BNP)  
+Blood pressure (BP) – systolic (SBP) and diastolic (DBP)  
+Coronary artery bypass graft surgery (CABG)  
+Chronic kidney disease (CKD)  
+Electrocardiogram (ECG)  
+Hazard ratio (HR)  
+Left ventricular (LV)  
+Left ventricular hypertrophy (LVH)  
+Obstructive sleep apnea (OSA)  
+Valvular heart disease (VHD)
+
+Page 16 Extracted Terms:
+**Key Terms Related to Heart Disease Extracted from the Text**
+
+1. Atrial fibrillation (AF)  
+2. Atrial cardiomyopathy  
+3. Atrial structural remodeling  
+4. Atrial electrical remodeling  
+5. Sarcoplasmic reticulum calcium‑ATPase (SERCA)  
+6. Phospholamban  
+7. Sarcolipin  
+8. Late sodium current (I<sub>Na,late</sub>)  
+9. Cardiac glycosides  
+10. Sodium‑calcium exchanger (NCX)  
+11. Calcium‑calmodulin‑dependent protein kinase II (CaMKII)  
+12. Ryanodine receptor 2 (RyR2)  
+13. Delayed afterdepolarizations (DADs)  
+14. Premature atrial contractions (PACs)  
+15. Left atrial (LA) volume  
+16. N‑terminal pro‑brain natriuretic peptide (NT‑proBNP)  
+17. Myofibroblast activation  
+18. Collagen deposition (fibrosis)  
+19. Fibrofatty deposits  
+20. Altered ion‑channel expression  
+21. Calcium signaling dysregulation  
+22. Inflammatory infiltrates  
+23. Myeloperoxidase (MPO) activity  
+24. Von Willebrand factor (vWF)  
+25. Vascular cell adhesion molecule‑1 (VCAM‑1)  
+26. Monocyte chemoattractant protein‑1 (MCP‑1)  
+27. Thrombus formation  
+28. Cerebral stroke (as a thrombotic complication)  
+29. Atrial dilation  
+30. Atrial myocyte hypertrophy  
+31. Extracellular matrix remodeling  
+32. Vascular dysfunction  
+33. Atrial ectopy  
+34. Effective refractory period (ERP)  
+35. Conduction velocity / dispersion of repolarization  
+36. Reentry circuits  
+37. Pulmonary veins (PV)  
+38. Pulmonary vein isolation (PVI)  
+39. Action potential alternans  
+40. Oxidative stress  
+41. Inflammatory signaling pathways  
+
+These terms encapsulate the major pathophysiologic entities, biomarkers, cellular mechanisms, and clinical manifestations discussed in the provided guideline excerpt.
+
+Page 17 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Clinical atrial fibrillation  
+- Subclinical atrial fibrillation  
+- Atrial high‑rate episode  
+- AF burden  
+- First documented AF  
+- Paroxysmal atrial fibrillation  
+- Persistent atrial fibrillation  
+- Long‑standing persistent atrial fibrillation  
+- Permanent atrial fibrillation  
+- Valvular atrial fibrillation  
+- Non‑valvular atrial fibrillation  
+- Lone atrial fibrillation  
+- Supraventricular tachyarrhythmia  
+- Irregular R‑R intervals  
+- P waves  
+- Fibrillatory waves  
+- 12‑lead electrocardiogram (ECG)  
+- Rhythm strip  
+- Wearable cardiac monitor  
+- Intracardiac electrogram  
+- Implanted cardioverter‑defibrillator (ICD)  
+- Pacemaker  
+- Implantable loop recorder  
+- Upstream pathways  
+- Inflammation  
+- Oxidative stress  
+- Fibrosis  
+- Calcium handling  
+- Genetic factors  
+- Metabolic factors  
+- Obesity  
+- Renin‑angiotensin‑aldosterone system (RAAS)  
+- Angiotensin‑converting enzyme (ACE) inhibitor  
+- Angiotensin‑II receptor blocker (ARB)  
+- Blood pressure  
+- Vascular smooth‑muscle constriction  
+- Atrial interstitial collagen  
+- Reactive oxygen species  
+- Sympathetic nervous system  
+- Calcium‑dependent calmodulin kinase II  
+- Ryanodine receptor phosphorylation  
+- Late sodium current (INa,L)  
+- Calcium current amplitude  
+- Reactive lipid products (isolevuglandins)  
+- Nuclear factor‑κB (NF‑κB)  
+- NLRP3 inflammasome  
+- Mitochondrial stress  
+- Myofilament protein degradation  
+- Atrial contractility  
+- Thromboembolism risk  
+- Stroke risk reduction  
+- Vitamin K antagonists  
+- Non‑Vitamin K antagonist oral anticoagulants (NOACs)  
+- Native valvular heart disease  
+- Mitral stenosis  
+- Prosthetic heart valves  
+- Moderate to severe valvular disease
+
+Page 18 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Systemic inflammatory activation  
+- Non‑surgical atrial fibrillation  
+- NLRP3 inflammasome  
+- NLRP3 knockdown  
+- AF inducibility  
+- AF pathophysiology  
+- Persistence of atrial fibrillation  
+- Substrate for AF  
+- Refractory period  
+- Conduction velocity  
+- Heterogeneous conduction velocity  
+- Repolarization duration  
+- Fibrotic atria  
+- Fatty atria  
+- Interstitial fibrosis  
+- Adipose infiltration  
+- Electrophysiologic remodeling  
+- Autonomic Nervous System (ANS)  
+- Sympathetic efferent stimulation  
+- Noradrenaline  
+- β‑adrenergic receptors  
+- L‑type calcium channels  
+- Delayed afterdepolarization  
+- Calcium overload  
+- Ryanodine receptor dysfunction  
+- Parasympathetic stimulation  
+- Atrial effective refractory period  
+- IKACh  
+- Acetylcholine‑receptor‑mediated inward rectifying potassium channel  
+- Sympathetic activity  
+- Parasympathetic activity  
+- Atrial flutter  
+- Macroreentrant atrial tachycardia  
+- Reverse typical flutter  
+- Lower‑loop flutter  
+- Low right atrial isthmus  
+- Left mitral isthmus flutter  
+- Scar‑mediated reentrant tachycardia  
+- Cardiac surgery  
+- 2023 Guideline for the Diagnosis and Management of Atrial Fibrillation
+
+Page 19 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Autonomic nervous system (ANS) dysfunction  
+- Autonomic afferent reflex deficiencies  
+- Cardiac volume changes  
+- Sympathetic activity  
+- Atrial sympathetic hyperinnervation  
+- Atrial parasympathetic hyperinnervation  
+- Spatial heterogeneity of atrial tissue  
+- Electrical fractionation in the atria  
+- Altered atrial electrophysiology  
+- AF substrate (reentry substrate)  
+- Modifiable AF risk factors  
+- Blood volume and pressure homeostasis disturbances  
+- Heart failure (HF)  
+- Atrial dilatation (atrial remodeling)  
+- Genetic predisposition to AF  
+- TTN loss‑of‑function variants  
+- MYH7 and MYH6 variants  
+- LMNA variants  
+- KCNQ1 variants  
+- Inherited cardiomyopathy genes  
+- Arrhythmia‑syndrome genes  
+- Myocardial structural proteins  
+- Ion channel genes  
+- Premature atrial contraction (PAC)  
+- NLRP3 (NOD‑, LRR‑, and pyrin domain‑containing protein 3)  
+- Renin‑angiotensin‑aldosterone system (RAAS)  
+- Reentrant arrhythmic activity (arrhythmic triggers)
+
+Page 20 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Stroke  
+- Anticoagulation therapy  
+- Rhythm control strategy  
+- Rate control strategy  
+- Catheter ablation  
+- Left atrium (LA)  
+- Heart rate variability (HRV)  
+- Autonomic nervous system (ANS)  
+- Heart failure (HF)  
+- Guideline‑directed medical therapy (GDMT)  
+- Stroke‑risk reduction therapies  
+- Quality of life (QOL)  
+- Adverse cardiovascular outcomes  
+
+Page 21 Extracted Terms:
+**Key Heart‑Disease Terms**
+
+1. Atrial Fibrillation (AF)  
+2. Catheter Ablation  
+3. Rhythm Control Therapy  
+4. Rate Control Therapy  
+5. Catheter Ablation vs Antiarrhythmic Drugs  
+6. Direct Oral Anticoagulants (DOAC)  
+7. Oral Anticoagulation (OAC)  
+8. Stroke (ischemic stroke, thromboembolic events)  
+9. Heart Failure (HF) – including systolic HF  
+10. Coronary Artery Disease (CAD)  
+11. Chronic Obstructive Pulmonary Disease (COPD)  
+12. Hypertension  
+13. Elderly (age ≥ 75 years)  
+14. Percutaneous Left Atrial Appendage Occlusion (LAAO)  
+15. CHARGE‑AF Risk Prediction Model  
+16. C2HEST Score (coronary artery disease, COPD, hypertension, elderly, systolic HF, thoracic aortic enlargement)  
+17. Cardiac Risk Stratification  
+18. Population Screening for AF  
+19. Cardioversion  
+20. Anticoagulation Decision Aid (clinical tool)  
+
+These terms capture the primary cardiovascular conditions, procedures, therapies, risk models, and decision‑support tools discussed in the guidelines.
+
+Page 22 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Arrhythmias  
+- Wolff‑Parkinson‑White (WPW) syndrome  
+- Bradycardia  
+- QT interval prolongation  
+- Cardiac structure  
+- Transthoracic echocardiography  
+- Echocardiography (echo)  
+- Chamber size  
+- Cardiac function (systolic, diastolic)  
+- Valve function  
+- Valvular pathology  
+- Coronary artery disease (CAD)  
+- Chronic obstructive pulmonary disease (COPD)  
+- Hypertension  
+- Elderly (age ≥ 75 y)  
+- Systolic heart failure (HF)  
+- Thyroid disease (hyperthyroidism)  
+- Myocardial infarction (MI)  
+- Myocardial ischemia  
+- Acute coronary syndrome (ACS)  
+- Pulmonary embolism (PE)  
+- Stroke (ischemic and hemorrhagic)  
+- Systemic embolism  
+- Thromboembolism risk  
+- Bleeding risk  
+- Hemorrhage risk  
+- Hazard ratio (HR)  
+- Risk stratification  
+- CHARGE‑AF risk score  
+- C2HEST risk score  
+- Artificial‑intelligence (AI) algorithm for AF detection  
+- Smartwatch‑based AF screening app  
+- Electrocardiographic monitoring (intermittent, continuous)  
+- Consumer‑based ECG devices  
+- Short‑term cardiac monitoring  
+- Cost‑effective screening  
+
+These terms capture the major heart‑disease concepts and tools discussed in the guideline excerpt.
+
+Page 23 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Left ventricular ejection fraction (LVEF)  
+- Right ventricular (RV) pressure  
+- Anti‑arrhythmic drug therapy  
+- Catheter ablation  
+- Strain imaging  
+- Infiltrative cardiomyopathy  
+- Amyloidosis  
+- Echocardiography  
+- Left atrial (LA) size  
+- Left atrial function  
+- Left atrial compliance  
+- AF recurrence  
+- Left atrial strain (LA strain)  
+- Left atrial volume (LA volume)  
+- Chronic kidney disease (CKD)  
+- Liver dysfunction  
+- Hyperthyroidism  
+- Electrolyte abnormalities  
+- Myocardial ischemia  
+- Acute coronary syndrome (ACS)  
+- Pulmonary embolism (PE)  
+- Myocardial stress imaging  
+- Ischemic myocardium  
+- Revascularization  
+- Rhythm monitoring  
+- Intracardiac rhythm device  
+- Atrial pacemaker lead  
+- Implantable cardiac monitor (ICM) / implantable loop recorder  
+- Cardiac rhythm management device (CRMD) with atrial lead (e.g., pacemaker, defibrillator)  
+- Handheld electrocardiogram (ECG)  
+- Smartwatch ECG  
+- Photoplethysmography (PPG)  
+- Automated algorithms for AF detection  
+- AF frequency, duration, and burden  
+- Stroke risk assessment  
+- Bleeding risk assessment  
+- Valvular disease (significant valvular disease)
+
+Page 24 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Electrocardiographic tracings  
+- Photoplethysmography  
+- Smartphones  
+- Smartwatches  
+- Cardiac rhythm devices with atrial lead  
+- Stroke  
+- Anticoagulation  
+- Oral anticoagulation  
+- Implantable cardiac monitors  
+- External cardiac monitors  
+- Cardioversion  
+- AF ablation  
+- Quality of life (QOL)  
+- Lifestyle and risk factor modification (LRFM)  
+- Obesity  
+- Physical inactivity  
+- Unhealthy alcohol consumption  
+- Binge drinking  
+- Smoking  
+- Diabetes mellitus  
+- Hypertension (high blood pressure)  
+- Cannabis use  
+- Cocaine use  
+- Methamphetamine use  
+- Opiate use  
+- High‑intensity endurance training  
+- High‑volume exercise (≥3 h/day)  
+- High‑intensity vigorous activity  
+- High‑rate episodes detected by devices  
+- Device‑detected atrial high‑rate episodes  
+- Monitoring period  
+- Sensitivity of AF detection  
+- Accuracy of automated algorithms  
+- Intracardiac tracings  
+- Frequency of AF  
+- Duration of AF  
+- Burden of AF  
+- Risk prediction models for AF  
+- Genetic risk factors for AF  
+- Family history of AF  
+- Cardiovascular health  
+- Ideal weight / weight loss strategy  
+- Smoking cessation counseling  
+- Alcohol moderation (≤1 standard drink/day)  
+- Glucose control (diabetes management)  
+- Blood pressure control (GDMT)  
+- Cardiovascular risk factors  
+- Observational study evidence on AF risk  
+- J‑curve risk of vigorous activity  
+- Linear relationship between alcohol consumption and AF risk.
+
+Page 25 Extracted Terms:
+Atrial fibrillation (AF)  
+Atrial myocardium  
+Obesity  
+Body mass index (BMI)  
+Weight loss  
+Type 1 diabetes  
+Type 2 diabetes  
+Hypertension  
+Blood‑pressure control  
+Cardiovascular disease (CVD)  
+Sinus rhythm  
+Postoperative atrial fibrillation (post‑operative AF)  
+Post‑ablation atrial fibrillation (post‑ablation AF)  
+Arrhythmia burden  
+Functional capacity  
+Quality of life (QoL)  
+Health‑related QoL  
+Aerobic exercise  
+Physical fitness  
+Cardiopulmonary fitness  
+Exercise prescription  
+Bariatric surgery  
+Secondary prevention  
+Risk factors  
+Smoking cessation  
+Incidence of AF  
+AF symptoms  
+AF recurrence  
+AF progression to persistent AF  
+Reversal of AF type  
+Attributable risk for AF  
+Intensive BP control  
+Lifestyle‑risk‑factor‑management (LRFM)  
+Structured weight‑loss program  
+Moderate‑to‑vigorous intensity exercise  
+210‑minute‑per‑week target  
+Ventricular‑rate control during exercise
+
+
+Page 26 Extracted Terms:
+- Atrial fibrillation (AF)  
+- AF recurrence  
+- AF burden  
+- AF symptoms  
+- Paroxysmal AF  
+- Persistent AF  
+- Arrhythmia recurrence  
+- Cardiac rehabilitation  
+- Exercise training  
+- High‑intensity aerobic exercise  
+- Moderate‑intensity activity  
+- Ablation (AF ablation)  
+- Catheter ablation  
+- Warfarin  
+- Therapeutic range  
+- Cardiovascular risk factors  
+- Smoking cessation  
+- Tobacco cessation  
+- Smoking  
+- Alcohol consumption  
+- Alcohol abstinence / reduction  
+- Caffeine consumption  
+- Caffeine abstention  
+- Stroke  
+- Heart failure (HF)  
+- Hospitalization  
+- All‑cause mortality  
+- Cardiovascular complications  
+- Behavioral interventions  
+- Pharmacotherapy  
+- Guideline‑directed medical therapy (GDMT)
+
+Page 27 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Cardiovascular disease  
+- Hypertension (high blood pressure)  
+- Cardiovascular mortality  
+- Sudden cardiac death  
+- Blood pressure (BP) control  
+- Stroke (cerebro‑vascular event)  
+- Bleeding (anticoagulation‑related)  
+- Arterial disease (atherosclerosis)  
+- Diabetes mellitus (type 2)  
+- Glycemic control  
+- Direct oral anticoagulants (DOACs)  
+- Warfarin  
+- Catheter ablation for AF  
+- Pulmonary vein isolation (PVI)  
+- Renal denervation  
+- Mineralocorticoid receptor antagonists (MRAs)  
+- ACE inhibitors (angiotensin‑converting enzyme inhibitors)  
+- Angiotensin II receptor blockers (ARBs)  
+- Integrated lifestyle‑risk‑factor‑modification programs (LRFM)  
+- Arrhythmia‑free survival  
+- AF burden  
+- AF recurrence  
+- Caffeine consumption (effects on AF)  
+- Omega‑3 fatty acids  
+- Vitamin D supplementation (peri‑operative)  
+- Ascorbic acid (vitamin C)  
+- Weight management  
+- Low‑carbohydrate diet (risk of AF)  
+- Dietary supplements (omega‑3, vitamin D, vitamin C)
+
+Page 28 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Obstructive sleep apnea (OSA)  
+- Sleep‑disordered breathing (SDB)  
+- Incident atrial fibrillation  
+- AF recurrence  
+- AF burden  
+- Cardioversion  
+- Catheter ablation  
+- Pulmonary vein isolation (PVI)  
+- Thromboembolism  
+- Stroke  
+- Heart failure (HF)  
+- Left ventricular ejection fraction (LVEF)  
+- Epworth Sleepiness Scale  
+- Obesity  
+- Alcohol use  
+- Low‑risk factor management (LRFM)  
+- Anticoagulation therapy  
+- Mineralocorticoid receptor antagonists  
+- Statins  
+- Angiotensin‑converting enzyme inhibitors (ACE‑inhibitors)  
+- Angiotensin receptor blockers (ARBs)  
+- Cardiac rehabilitation  
+- Comprehensive heart‑disease care  
+- Integrated multidisciplinary care  
+- Nurse‑led AF clinics  
+- Clinical care pathways  
+- Clinical decision support systems  
+- Cardiovascular outcomes  
+- All‑cause mortality  
+- Cardiovascular risk factors  
+- Sleep‑disordered breathing screening  
+- Rhythm‑control strategies  
+- Rate‑control strategies.
+
+Page 29 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Thromboembolism  
+- Stroke (including transient ischemic attack)  
+- Anticoagulation therapy  
+- Bleeding risk  
+- CHA2DS2‑VASc score  
+- HAS‑BLED score  
+- CHADS2 score  
+- ATRIA risk score  
+- GARFIELD‑AF risk score  
+- Congestive heart failure  
+- Hypertension  
+- Advanced age (≥65 years, ≥75 years)  
+- Diabetes mellitus  
+- Renal disease  
+- Hepatic / liver disease  
+- Anemia  
+- Malignancy  
+- Alcohol / ethanol abuse  
+- Platelet count or function abnormalities  
+- Genetic factors influencing bleeding  
+- Re‑bleeding risk  
+- INR instability (labile INR)  
+- Risk stratification  
+- Clinical decision support (CDS)  
+- Mobile health technology (mHealth)  
+- Stroke prevention strategies  
+- Thromboembolic events  
+- Stroke/TIA
+- Cerebrovascular disease  
+- Cardiovascular disease  
+- Heart disease  
+- Clinical risk scoring  
+- Risk discrimination (c‑index)  
+- Bleeding risk scoring  
+- Clinical outcomes in AF management
+
+Page 30 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Congestive heart failure  
+- Left atrial appendage (LAA)  
+- Left atrium (LA)  
+- Ischemic stroke (cerebrovascular accident)  
+- Hemorrhagic stroke/bleeding  
+- Anticoagulant therapy  
+- Direct oral anticoagulants (DOACs)  
+- Vitamin K antagonists (VKAs)  
+- CHA2DS2‑VASc risk score  
+- ATRIA risk score  
+- GARFIELD‑AF risk score  
+- HAS‑BLED bleeding risk score  
+- HEMORR2HAGES bleeding risk score  
+- Anti‑platelet medications  
+- Non‑steroidal anti‑inflammatory drugs (NSAIDs)  
+- Left atrial thrombus  
+- Atrial thromboembolism  
+- Antithrombotic treatment  
+- Atrial fibrillation burden  
+- Electrocardiographic features (e.g., atrial ectopy)  
+- Biologic markers for cardiac risk (e.g., proBNP)  
+- Blood pressure control (hypertension)  
+- Cardiovascular risk factors (diabetes mellitus, vascular disease)
+
+Page 31 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Stroke  
+- Thromboembolic events  
+- Oral anticoagulation  
+- HAS‑BLED score  
+- HEMORR2HAGES score  
+- ATRIA score  
+- Risk score  
+- Bleeding risk  
+- Stroke risk  
+- Net clinical benefit  
+- Risk‑based selection  
+- Paroxysmal AF  
+- Persistent AF  
+- Long‑standing persistent AF  
+- Permanent AF  
+- Reassessment interval  
+- Thromboembolism  
+- Stroke prevention  
+- Anticoagulation therapy
+
+Page 32 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Stroke  
+- Systemic embolism  
+- Congestive heart failure (CHF)  
+- Heart failure  
+- Oral anticoagulation  
+- Warfarin  
+- Direct oral anticoagulants (DOACs)  
+- Anticoagulation therapy  
+- CHADS2 score  
+- CHA₂DS₂‑VASc score  
+- ATRIA score  
+- GARFIELD‑AF score  
+- MCHA₂DS₂‑VASc score  
+- International normalized ratio (INR)  
+- Bleeding risk  
+- Renal function  
+- Glomerular filtration rate (GFR)  
+- Proteinuria  
+- Hypertension  
+- Diabetes mellitus  
+- Vascular disease  
+- Age (risk factor)  
+- Sex (female)  
+- Transient ischemic attack (TIA)  
+- Mortality  
+- Quality of life (QOL)  
+- Cardiac arrhythmia  
+- Cardiovascular disease  
+- Clinical safety
+
+Page 33 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Mitral stenosis  
+- Mechanical heart valve  
+- Oral anticoagulants (OAC)  
+- Direct oral anticoagulants (DOACs) – apixaban, dabigatran, edoxaban, rivaroxaban  
+- Warfarin  
+- International Normalized Ratio (INR)  
+- Thromboembolism  
+- Stroke (ischemic)  
+- Systemic embolism  
+- Intracranial hemorrhage (ICH)  
+- Gastrointestinal bleeding  
+- Antithrombotic therapy  
+- Aspirin  
+- Clopidogrel  
+- CHA2DS2‑VASc score  
+- Heart failure (HF)  
+- Right‑sided heart failure signs – elevated central venous pressure, hepatomegaly, dependent edema  
+- Left‑sided heart failure signs – exertional dyspnea, cough, fatigue, orthopnea, paroxysmal nocturnal dyspnea, cardiac enlargement, rales, gallop rhythm, pulmonary venous congestion  
+- Hypertension  
+- Diabetes mellitus  
+- Age ≥65 years  
+- Age ≥75 years  
+- Obesity (BMI ≥ 30 kg/m²)  
+- Hypertrophic cardiomyopathy (HCM)  
+- Estimated glomerular filtration rate (eGFR) < 45 mL/min/1.73 m²  
+- Proteinuria > 150 mg/24 h  
+- Enlarged left atrial (LA) volume ≥ 73 mL  
+- LA diameter ≥ 4.7 cm  
+- Ischemic stroke  
+- Transient ischemic attack (TIA)  
+- Peripheral embolism  
+- Pulmonary embolism (PE)  
+- Coronary artery disease (CAD) – prior myocardial infarction, angina pectoris, percutaneous coronary intervention (PCI), coronary artery bypass grafting (CABG)  
+- Peripheral vascular disease – intermittent claudication, vascular surgery or intervention (abdominal aorta, lower extremity vessels)  
+- Arterial and venous thrombosis.
+
+Page 34 Extracted Terms:
+- Atrial fibrillation  
+- Atrial flutter  
+- Valvular heart disease  
+- Left ventricular dysfunction  
+- Congestive heart failure  
+- Hypertension  
+- Diabetes mellitus  
+- Stroke  
+- Transient ischemic attack (TIA)  
+- Thromboembolism  
+- Systemic embolism  
+- Intracranial hemorrhage (ICH)  
+- Factor Xa inhibitors  
+- Vitamin K antagonists (e.g., warfarin)  
+- Direct oral anticoagulants (DOACs)  
+- Anticoagulation therapy  
+- Antiplatelet therapy  
+- CHA₂DS₂‑VASc risk score  
+- CHADS₂ risk score  
+- ATRIA risk score  
+- GARFIELD‑AF (risk score)  
+- Risk stratification  
+- Female sex (as risk modifier)  
+- Age ≥ 75 years  
+- Age 65–74 years  
+- Anemia (as risk factor)  
+- Renal disease (as risk factor)  
+- Prior bleeding (as risk factor)  
+- Vascular disease  
+- Stroke prevention  
+- Thromboembolic event rates  
+- Anticoagulant‑vs‑antiplatelet comparison  
+- Stroke‑risk scores  
+- Anticoagulant‑selection guidelines for valvular heart disease  
+- Atrial fibrillation‑valvular heart disease management  
+- Atrial fibrillation‑atrial flutter co‑management  
+- Stroke‑risk assessment  
+- Antithrombotic selection in valvular heart disease.
+
+Page 35 Extracted Terms:
+- Atrial fibrillation  
+- Stroke  
+- Systemic embolism  
+- Anticoagulation  
+- Warfarin (vitamin K antagonist)  
+- Direct oral anticoagulants (DOACs)  
+- Dabigatran  
+- Apixaban  
+- Rivaroxaban  
+- Edoxaban  
+- CHADS₂ score  
+- Intracranial hemorrhage (ICH)  
+- Major bleeding  
+- Hypertrophic cardiomyopathy  
+- Mitral stenosis  
+- Mechanical heart valve  
+- Valvular heart disease (VHD)  
+- Aortic stenosis  
+- Aortic regurgitation  
+- Mitral regurgitation  
+- Bioprosthetic valve  
+- Valve repair  
+- Antiplatelet therapy (APT)  
+- Aspirin  
+- Clopidogrel  
+- Coronary artery disease (CAD)  
+- Vascular disease  
+- Myocardial infarction (MI)  
+- Stroke risk threshold  
+- Time in therapeutic range (TTR)  
+- Meta‑analysis  
+- Randomized controlled trial (RCT)  
+- Clinical guideline  
+- Stroke prevention in atrial fibrillation  
+- VKA (vitamin K antagonist)  
+- DOAC‑warfarin comparison  
+- Therapeutic INR  
+- Stroke risk stratification  
+- Embolic stroke prevention  
+- Antithrombotic strategy  
+- Stroke and systemic embolism risk  
+- Stroke rate in AF trials  
+- Antiplatelet vs anticoagulant efficacy  
+- Stroke prevention guidelines in AF  
+
+(These terms capture the key heart‑disease concepts, conditions, risk assessments, treatments, and guideline references presented in the text.)
+
+Page 36 Extracted Terms:
+- Atrial Fibrillation (AF)  
+- Stroke (cardioembolic, non‑cardioembolic)  
+- Anticoagulants  
+- Direct Oral Anticoagulants (DOACs)  
+- Warfarin  
+- International Normalized Ratio (INR)  
+- Time in Therapeutic Range (TTR)  
+- Thromboembolism  
+- Major bleeding  
+- Intracerebral Hemorrhage (ICH)  
+- Peripheral embolization  
+- Cardioembolic stroke  
+- Stroke prevention  
+- Antithrombotic therapy  
+- Drug interactions (CYP3A4, P‑glycoprotein)  
+- Renal function (creatinine clearance)  
+- Hepatic function  
+- Mechanical heart valves  
+- Anticoagulant dosing  
+- Aspirin therapy for AF  
+- Drug‑driven bleeding risk  
+- Bleeding risk assessment  
+- Medication adherence  
+- Adverse effects of anticoagulation  
+
+Page 37 Extracted Terms:
+Atrial Fibrillation  
+OAC (Oral Anticoagulant)  
+Anticoagulant Therapy  
+Warfarin  
+Vitamin K Antagonist  
+Direct Thrombin Inhibitor  
+Factor Xa Inhibitor  
+Dabigatran  
+Rivaroxaban  
+Apixaban  
+Edoxaban  
+CYP2C9  
+CYP1A2  
+CYP3A4  
+CYP3A5  
+p‑Glycoprotein  
+CrCl (Creatinine Clearance)  
+Renal Dosing Adjustment  
+INR (International Normalized Ratio)  
+Drug Interaction Management (CYP3A4 / p‑Glycoprotein)
+
+Page 38 Extracted Terms:
+- Atrial fibrillation (AF), non‑valvular AF  
+- Silent atrial fibrillation  
+- Stroke, ischemic stroke  
+- Transient ischemic attack (TIA)  
+- Systemic embolism  
+- Thromboembolism, thromboembolic events  
+- Direct oral anticoagulants (DOACs)  
+- Warfarin (vitamin K antagonist, VKA)  
+- International Normalised Ratio (INR)  
+- INR monitoring, INR control, therapeutic INR goal  
+- CYP3A4 / P‑glycoprotein–inducing agents  
+- Mechanical heart valve  
+- Moderate‑severe mitral stenosis  
+- Anticoagulant drug‑drug interactions  
+- Antiepileptic drugs (CYP‑inducing)  
+- Non‑steroidal anti‑inflammatory drugs (NSAIDs)  
+- Selective serotonin reuptake inhibitors (SSRIs)  
+- Antimicrobial agents  
+- Antiplatelet therapy (APT)  
+- Implantable loop recorder  
+- Cardiac monitoring for AF detection  
+- Off‑label DOAC dosing (underdosing, overdosing)  
+- Bleeding risk (clinically relevant bleeding, major bleeding)  
+- Net clinical outcome, all‑cause mortality related to anticoagulation  
+- Oral anticoagulant (OAC)  
+- Child‑Pugh scoring (liver function impact on anticoagulant dosing)
+
+Page 39 Extracted Terms:
+- Atrial Fibrillation  
+- Direct Oral Anticoagulant (DOAC)  
+- HAS-BLED score  
+- Uncontrolled hypertension  
+- Renal function (serum creatinine, dialysis, kidney transplant)  
+- Hepatic function (bilirubin, ALT/AST/AP, cirrhosis)  
+- Stroke (hemorrhagic or ischemic)  
+- Bleeding history or predisposition  
+- Labile INR (time in therapeutic range)  
+- Elderly age (≥65 years)  
+- Antiplatelet agents  
+- Non‑steroidal anti‑inflammatory drugs (NSAIDs)  
+- Excessive alcohol intake (≥8 units/week)  
+- Child‑Pugh score (liver disease severity)  
+- Encephalopathy  
+- Ascites  
+- Total bilirubin  
+- Albumin  
+- INR (international normalized ratio)  
+- Creatinine clearance (CrCL) based on actual body weight  
+- International Normalized Ratio (INR)  
+- Cirrhosis  
+- Liver disease severity (Child‑Pugh A, B, C)
+
+Page 40 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Occult atrial fibrillation  
+- Cryptogenic stroke  
+- Transient ischemic attack (TIA)  
+- Antiplatelet therapy (APT)  
+- Anticoagulation (oral anticoagulants)  
+- CHA₂DS₂‑VASc score  
+- Systemic embolism  
+- Device‑detected atrial high‑rate episode (AHRE)  
+- Implantable loop recorder  
+- External loop recorder  
+- Holter monitoring  
+- Cardiac monitoring  
+- Extended cardiac monitoring  
+- Implantable electronic device  
+- Stroke risk reduction  
+- Embolic stroke  
+- Stroke risk factors  
+- Cardiovascular implantable electronic device (CIED)  
+- Risk‑based decision framework (shared decision making, SDM)  
+- Clinical guidelines  
+- Randomized controlled trials (RCTs)  
+- EMRACTICE, CRYSTAL‑AF, FIND‑AF, PER DIEM, ASSERT (trial names)
+
+Page 41 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Subclinical atrial fibrillation (SCAF)  
+- Atrial high‑rate episode (AHRE)  
+- Stroke (thrombo‑embolism)  
+- Myocardial infarction  
+- Heart failure  
+- Coronary artery disease  
+- Oral anticoagulation (OAC)  
+- Non‑Vitamin K antagonist oral anticoagulants (NOACs)  
+- Apixaban  
+- Rivaroxaban  
+- CHA₂DS₂‑VASc score  
+- Sex modifier (female sex)  
+- Rhythm monitoring (continuous)  
+- Device‑detected subclinical AF  
+- Stroke risk assessment  
+- ECG (electrocardiogram)  
+- Anticoagulation strategy  
+- INTERVENTION trials (ARTESiA, COMMANDER HF, COMPASS, NOAH)  
+- Stroke‑risk threshold (e.g., >1 % per year, ≥3.8)  
+- Subclinical AF duration (>24 h, >23.5 h, >6 min‑24 h)
+
+Page 42 Extracted Terms:
+**Key Heart‑Disease Terms Identified**
+
+- Atrial fibrillation (AF)  
+- Atrial flutter (AFL)  
+- Subclinical atrial fibrillation (subclinical AF)  
+- Atrial high‑rate episodes (AHREs)  
+- Stroke (ischemic stroke)  
+- Systemic embolism  
+- Transient ischemic attack (TIA) – implied in stroke discussion  
+- Major bleeding  
+- Oral anticoagulation (OAC)  
+- Warfarin  
+- Direct oral anticoagulants (DOACs)  
+- Antiplatelet therapy (e.g., Plavix) – referenced in ASAP study  
+- Left atrial appendage (LAA)  
+- Left atrial appendage occlusion (LAAO)  
+- Percutaneous LAA occlusion (pLAAO)  
+- Surgical LAA occlusion (LAAO)  
+- Watchman device (standard and Watchman FLX)  
+- Implantable cardioverter‑defibrillators (ICDs)  
+- Pacemakers  
+- CHA₂DS₂‑VASc score  
+- CHADS₂ score  
+- Sex‑modified CHA₂DS₂‑VASc score  
+- Non‑valvular atrial fibrillation  
+- High‑risk of stroke  
+- Moderate‑to‑high risk of stroke  
+- High risk of major bleeding  
+- Contraindication to long‑term OAC  
+- Nonreversible cause of OAC contraindication  
+- Procedural success rate  
+- Procedural risk (procedure‑related complications)  
+- Systemic embolism prevention (embolization)  
+- Embolic risk reduction  
+- Stroke risk reduction  
+
+These terms capture the core cardiovascular conditions, interventions, risk stratification tools, and therapeutic strategies discussed in the guideline excerpt.
+
+Page 43 Extracted Terms:
+- Atrial fibrillation  
+- Left atrial appendage  
+- Left atrial appendage occlusion (LAAO)  
+- Surgical left atrial appendage occlusion (S‑LAAO)  
+- WATCHMAN device  
+- Oral anticoagulation  
+- Warfarin  
+- Direct oral anticoagulants (DOACs)  
+- Anticoagulant therapy  
+- Stroke  
+- Transient ischemic attack (TIA)  
+- Systemic embolism  
+- Cardiovascular death  
+- All‑cause mortality  
+- Major bleeding  
+- Minor bleeding  
+- CHA2DS2‑VASc score  
+- Coronary artery bypass graft (CABG)  
+- Valve surgery  
+- Cardiac surgery  
+- Thromboembolism  
+- Suture line  
+- Trans‑esophageal echocardiography (TEE)  
+- Procedure‑related complications  
+- LAAOS III (Left Atrial Appendage Occlusion Study)  
+- PROTECT AF trial  
+- PREVAIL trial  
+- PRAGUE‑17 trial  
+- Antithrombotic regimen  
+- Intracranial bleeding  
+- Gastrointestinal bleeding  
+- Pulmonary bleeding  
+- Genitourinary bleeding  
+- Stroke prevention strategies  
+- Anticoagulant stewardship  
+- Non‑valvular atrial fibrillation  
+- LAA exclusion/excision  
+- Implant success  
+- Device‑related complications
+
+Page 44 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Left atrial appendage (LAA)  
+- Surgical left atrial appendage occlusion (S‑LAAO)  
+- LAAOS III trial  
+- LAA closure techniques (amputation, stapler, double‑layer linear, device)  
+- CHA₂DS₂‑VASc score  
+- Oral anticoagulation (OAC)  
+- Dabigatran  
+- Idarucizumab  
+- Activated prothrombin complex concentrate (PCC)  
+- Factor Xa inhibitors (apixaban, rivaroxaban, edoxaban)  
+- Andexanet alfa  
+- Stroke  
+- Systemic embolism  
+- Thromboembolism  
+- CABG (coronary artery bypass grafting)  
+- Valve surgery (mechanical, bioprosthetic)  
+- Mechanical valve surgery  
+- Transplant surgery  
+- Off‑pump bypass  
+- Left ventricular assist device (LVAD)  
+- Congenital heart disease (CHD)  
+- Cross‑clamp time  
+- Bypass time  
+- Chest tube output  
+- Peri‑operative bleeding  
+- Transesophageal echocardiography (TEE)  
+- Ischemic events  
+- Mortality  
+- Meta‑analysis  
+- Randomized controlled trials (RCTs)  
+- Systematic review  
+- LAACS study (Left Atrial Appendage Closure with Surgery)
+
+Page 45 Extracted Terms:
+- Atrial fibrillation  
+- Anticoagulation therapy  
+- Warfarin  
+- Direct oral anticoagulants (DOACs)  
+  - Dabigatran  
+  - Apixaban  
+  - Rivaroxaban  
+  - Edoxaban  
+- Vitamin K  
+- 4‑factor prothrombin complex concentrate (PCC)  
+- Activated prothrombin complex concentrate (aPCC)  
+- Idarucizumab (dabigatran reversal agent)  
+- Andexanet alfa (factor Xa inhibitor reversal agent)  
+- International Normalized Ratio (INR)  
+- Prothrombin time (PT)  
+- Activated partial thromboplastin time (aPTT)  
+- Ecarin clotting time  
+- Thrombin time  
+- Factor Xa inhibition  
+- Hemostasis  
+- Major bleeding  
+- Life‑threatening bleeding  
+- Gastrointestinal bleeding  
+- Reversal agents  
+- Fresh frozen plasma  
+- Hemodialysis (for dabigatran elimination)  
+- Activated charcoal (for OAC ingestion)  
+- Bleeding risk assessment  
+- Thromboembolic events  
+- Shared decision making (SDM)  
+- Multidisciplinary team approach  
+- Emergency department visit for OAC-related bleeding  
+- Stroke risk in atrial fibrillation  
+- Cardiovascular complications of anticoagulation  
+- Cardiac rhythm disorders (in the context of AF)
+
+Page 46 Extracted Terms:
+**Key terms related to heart disease**
+
+- Atrial fibrillation  
+- Venous thromboembolism  
+- Arterial thromboembolism  
+- Myocardial infarction  
+- Ischemic stroke  
+- Cardiac arrest  
+- Sudden death  
+- Reversal of anticoagulation (for heart‑related indications)  
+- 4‑factor prothrombin complex concentrate (PCC)  
+- Activated PCC  
+- Idarucizumab (dabigatran reversal)  
+- Andexanet alfa (factor Xa inhibitor reversal)  
+- Apixaban  
+- Rivaroxaban  
+- Dabigatran  
+- Vitamin K administration (for VKA reversal)  
+- Warfarin  
+- Vitamin K antagonists (VKA)  
+- INR (International Normalized Ratio)  
+- Coagulation factors II, VII, IX, X  
+- Factor Xa inhibitors  
+- Factor IX (units)  
+- aPTT (activated partial thromboplastin time)  
+- Thrombophilia (implied by procoagulant therapy)  
+- Acute major bleeding (life‑threatening, emergency surgery)  
+- Prophylaxis of bleeding in hemophilia (impacts cardiac surgical risk)  
+- Black box warning for life‑threatening adverse events (arterial/venous thromboembolism, myocardial infarction, ischemic stroke, cardiac arrest)  
+
+These terms encompass the main clinical entities, medications, and laboratory measures described in the guideline excerpt that are directly relevant to cardiovascular (heart) disease.
+
+Page 47 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Anticoagulation therapy  
+- Warfarin  
+- Direct oral anticoagulants (DOACs)  
+- Dabigatran  
+- Rivaroxaban  
+- Apixaban  
+- Edoxaban  
+- Mechanical heart valve  
+- Rheumatic heart disease  
+- Intracranial hemorrhage (ICH)  
+- Cerebral amyloid angiopathy  
+- Left atrial appendage occlusion (LAAO)  
+- Thromboembolic events  
+- Stroke (ischemic stroke)  
+- Cerebrovascular events  
+- Major bleeding  
+- Gastrointestinal bleeding  
+- Intracerebral hemorrhage  
+- Intracranial bleeding  
+- Anticoagulant resumption  
+- Timing of anticoagulant restart  
+- Anticoagulant-sparing strategies  
+- Recurrent ICH  
+- Oral anticoagulant discontinuation  
+- Recurrent gastrointestinal bleeding  
+- Bleeding risk assessment  
+- Anticoagulation risk–benefit assessment  
+- Bleeding events per year (in trials)  
+- Hazard ratio (HR)  
+- Relative risk (RR)  
+
+
+
+Page 48 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Mechanical heart valves  
+- Rheumatic valvular disease  
+- Anticoagulation therapy  
+- Thromboembolic complications  
+- Embolic events  
+- Left atrial appendage (LAA) closure  
+- Mechanical valve-related embolic risk  
+- Embolic event risk per year (e.g., >5% per year)  
+- Mechanical valve type‑dependent thrombogenicity (e.g., 4%–23% per year)
+
+Page 49 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Valve disease  
+- Mechanical heart valve  
+- Rheumatic valve disease  
+- Anticoagulation therapy  
+- Vitamin K antagonist (VKA; e.g., warfarin)  
+- Direct oral anticoagulants (DOACs)  
+- Thromboembolism / thromboembolic complications  
+- Left atrial appendage (LAA) closure  
+- Stroke (ischemic stroke, hemorrhagic stroke)  
+- Systemic embolism  
+- Intraparenchymal hemorrhage (ICH)  
+- CHA2DS2‑VASc score (including congestive heart failure)  
+- Congestive heart failure  
+- Cardiac thrombus formation  
+
+These terms capture the primary heart‑disease concepts addressed in the cited guidelines.
+
+Page 50 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Warfarin  
+- Direct oral anticoagulants (DOACs)  
+- Periprocedural anticoagulation management  
+- Thromboembolism / thromboembolic risk  
+- Bridging anticoagulation  
+- Heparin (including low‑molecular‑weight heparin)  
+- Pacemaker implantation  
+- Implantable cardioverter‑defibrillator (ICD) implantation or generator change  
+- Mechanical heart valve  
+- Stroke  
+- Transient ischemic attack (TIA)  
+- CHA₂DS₂‑VASc score  
+- CHADS₂ score  
+- High bleeding‑risk procedures (e.g., cardiac, orthopedic, neurosurgical, transvenous lead extraction)  
+- Low bleeding‑risk procedures (e.g., endoscopic, dental extraction, ophthalmologic, percutaneous catheterization)  
+- Cardiac catheterization  
+- Transvenous lead extraction  
+- Neuraxial anesthesia / spinal surgery  
+- Renal dysfunction (creatinine clearance – CrCl)  
+- Hepatic dysfunction  
+- Anemia  
+- Antiplatelet therapy  
+- Non‑steroidal anti‑inflammatory drugs (NSAIDs)  
+- Intravenous anticoagulation interruption timing (e.g., days of hold for specific DOACs)  
+- Apixaban  
+- Dabigatran  
+- Edoxaban  
+- Rivaroxaban  
+- International Normalized Ratio (INR) target values  
+- Resumption of anticoagulation post‑procedure (timing relative to bleeding risk)
+
+Page 51 Extracted Terms:
+- Atrial fibrillation  
+- Congestive heart failure  
+- Heart failure  
+- Stroke  
+- Transient ischemic attack (TIA)  
+- Thromboembolism / thromboembolic events  
+- Direct oral anticoagulant (DOAC)  
+- Warfarin (Coumadin)  
+- Mechanical valve  
+- Pacemaker  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Pocket hematoma  
+- Lead extraction procedure  
+- Bleeding risk (low‑bleeding‑risk procedures, high‑bleeding‑risk procedures)  
+- Bridging anticoagulation  
+- Periprocedural anticoagulation management  
+- CHADS2 score  
+- CHA₂DS₂‑VASc score  
+- Perioperative Anticoagulation Use for Surgery Evaluation (PAUSE) cohort  
+- BRUISE‑CONTROL study  
+- Anticoagulation interruption (brief interruption)  
+- Uninterrupted anticoagulation  
+
+
+
+Page 52 Extracted Terms:
+**Key heart‑disease terms extracted from the guidelines**
+
+- Atrial fibrillation (AF)  
+- Atrial flutter (AFL)  
+- Coronary artery disease (CAD)  
+- Acute coronary syndrome (ACS)  
+- Percutaneous coronary intervention (PCI)  
+- Dual antithrombotic therapy  
+- Triple therapy (OAC + P2Y12 inhibitor + aspirin)  
+- Aspirin  
+- P2Y12 inhibitor (e.g., clopidogrel, ticagrelor, prasugrel)  
+- Antiplatelet therapy (APT)  
+- Direct oral anticoagulants (DOACs)  
+  - Apixaban  
+  - Dabigatran  
+  - Rivaroxaban  
+  - Edoxaban  
+- Vitamin K antagonists (VKAs)  
+  - Warfarin  
+- Bridging anticoagulation (pre‑ and post‑procedure)  
+- Mechanical heart valves  
+- Valvular heart disease  
+- Stent implantation  
+- Thromboembolism (e.g., stroke, systemic embolism)  
+- Stroke prevention in AF  
+- Bleeding risk assessment (low‑ vs high‑risk procedures)  
+- Periprocedural events  
+- Anticoagulation interruption and resumption timing  
+- Post‑operative bridging  
+- Low‑molecular‑weight heparin (LMWH)  
+  - Dalteparin  
+- International Normalized Ratio (INR)  
+- Clinically relevant bleeding  
+- Paroxysmal atrial flutter  
+- Cardiac rhythm management  
+- Cardiovascular disease (general umbrella term)
+
+Page 53 Extracted Terms:
+- Atrial fibrillation  
+- Coronary artery disease  
+- Chronic coronary disease  
+- Percutaneous coronary intervention (PCI)  
+- Stent thrombosis  
+- Antiplatelet therapy (APT)  
+- Aspirin  
+- P2Y12 inhibitor  
+- Direct oral anticoagulant (DOAC)  
+- Vitamin K antagonist (VKA)  
+- Dual antithrombotic therapy (DAT)  
+- Triple antithrombotic therapy (TAT)  
+- Clinically relevant bleeding  
+- Major bleeding  
+- Ischemic events  
+- Stroke  
+- Systemic embolism  
+- Mechanical valve  
+- Complex revascularization  
+- Multivessel PCI  
+- Rivaroxaban  
+- Dabigatran  
+- Apixaban  
+- Edoxaban  
+- PIONEER AF‑PCI  
+- RE‑DUAL PCI  
+- AUGUSTUS  
+- ENTRUST‑AF PCI  
+- WOEST  
+- Meta‑analysis  
+- International Society on Thrombosis and Haemostasis (ISTH)  
+- Number needed to treat (NNT)  
+- Noninferior (study outcome)  
+- Risk of bleeding  
+- Risk of stent thrombosis  
+- Antithrombotic regimen  
+- Oral anticoagulation monotherapy  
+- Combination therapy of OAC and single APT  
+- Aspirin placebo  
+- Recurrent cardiovascular events  
+- 1‑year post‑revascularization period  
+
+
+
+
+Page 54 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Coronary artery disease (CAD)  
+- Coronary revascularization (including coronary stenting)  
+- Oral anticoagulation (OAC)  
+- Rivaroxaban  
+- Dual therapy (OAC plus antiplatelet therapy)  
+- Antiplatelet therapy (APT)  
+- Stent thrombosis  
+- Peripheral artery disease (PAD)  
+- Myocardial infarction (MI)  
+- Stroke (cerebrovascular accident)  
+- Systemic embolism  
+- Unstable angina  
+- Vascular death  
+- Major bleeding (intracranial hemorrhage, life‑threatening hemorrhage)  
+- Intracranial hemorrhage (ICH)  
+- Direct oral anticoagulants (DOACs)  
+- Warfarin  
+- ENGAGE AF‑TIMI 48 trial  
+- ARISTOTLE trial  
+- ROCKET AF trial  
+- WAVE (Warfarin‑Antiplatelet Vascular Evaluation) trial  
+- Dual antiplatelet therapy (DAT)  
+- Antiplatelet monotherapy  
+- Lower extremity revascularization  
+- Acute limb ischemia  
+- Critical limb ischemia  
+- Amputation  
+- Major adverse cardiac events (MACE)  
+- Composite outcome (stroke, systemic embolism, MI, unstable angina requiring revascularization, death from any cause)  
+- Revascularization (in PAD and CAD contexts)  
+- Inter­mediate‑to‑high risk of stroke (in AF patients)
+
+Page 55 Extracted Terms:
+- Atrial Fibrillation (AF)  
+- Stroke (ischemic stroke)  
+- Anticoagulation  
+- Oral Anticoagulants (OAC)  
+- Warfarin  
+- Direct Oral Anticoagulants (DOACs)  
+- Apixaban  
+- Rivaroxaban  
+- Dabigatran  
+- Dual therapy (OAC + APT)  
+- Antiplatelet therapy (APT)  
+- Aspirin  
+- Major adverse cardiac events (MACE)  
+- Major bleeding  
+- Bleeding risk  
+- Thromboembolism  
+- Left atrial appendage occlusion (LAAO)  
+- End‑stage renal disease (ESRD)  
+- Dialysis / Hemodialysis  
+- Calciphylaxis  
+- Time in therapeutic range (TTR)  
+- International Normalized Ratio (INR)  
+- Renal function (eGFR, CrCl) – risk modifiers for cardiac outcomes  
+- Cardiac anticoagulation therapy  
+- Cardiovascular risk in CKD  
+
+These terms capture the key heart‑disease concepts referenced in the guideline text.
+
+Page 56 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Valvular heart disease (VHD)  
+- Rheumatic mitral stenosis  
+- Moderate or greater mitral stenosis  
+- Mechanical heart valve  
+- Mechanical aortic valve  
+- Mechanical mitral valve  
+- Mitral regurgitation  
+- Aortic stenosis  
+- Bioprosthetic valve  
+- Valve repair  
+- Anticoagulation therapy  
+- Warfarin (vitamin K antagonist)  
+- Direct oral anticoagulants (DOACs) – e.g., apixaban, dabigatran, edoxaban, rivaroxaban  
+- Vitamin K antagonists (VKAs)  
+- Stroke  
+- Systemic thromboembolism  
+- Myocardial infarction (MI)  
+- Thromboembolic events  
+- CHA₂DS₂‑VASc score  
+- INVICTUS clinical trial  
+- ENGAGE AF trial  
+- ARISTOTLE trial  
+- ROCKET‑AF trial  
+- RE‑ALIGN trial  
+- PROACT‑Xa trial  
+- Creatinine clearance (CrCl)  
+- Renal function (e.g., dosage adjustments for DOACs)
+
+Page 57 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Atrial flutter (AFL) – typical (CTI‑dependent) and atypical (non‑CTI)  
+- Atrial tachycardia (AT)  
+- Atrial arrhythmia  
+- Anticoagulation therapy  
+- Thromboembolic risk  
+- Stroke (ischemic)  
+- Thrombus formation (LA thrombus, LAA thrombus)  
+- Left atrial (LA)  
+- Left atrial appendage (LAA)  
+- Cardiac cardioversion  
+- Catheter ablation  
+- CTI (cavotricuspid isthmus) ablation  
+- Atrial stunning (LA/LAA)  
+- Pulmonary venous‑related factors (e.g., chronic obstructive pulmonary disease – COPD)  
+- Heart failure (HF)  
+- Risk assessment for stroke (≥2 % annual risk)  
+- Silent atrial fibrillation (AF) detection/monitoring  
+- Electro‑cardiographic (ECG) criteria for AFL/AF  
+- Echo‑contrast / spontaneous echo contrast (SEC)  
+- Hemodynamic and structural remodeling (LA enlargement, scar tissue)  
+- Guideline‑based recommendations for anticoagulation duration (≥4 weeks post‑procedure)  
+- Catheter ablation outcomes (success, recurrence)  
+
+These terms capture the key cardiovascular concepts discussed in the guideline excerpt regarding atrial arrhythmias and their management.
+
+Page 58 Extracted Terms:
+**Key terms related to heart disease**
+
+- Atrial fibrillation (AF)  
+- Atrial flutter (AFL)  
+- Oral anticoagulation  
+- Thromboembolism  
+- Stroke  
+- Systemic thromboembolism  
+- Cavotricuspid isthmus (CTI)  
+- Catheter ablation  
+- AF ablation  
+- AFL ablation  
+- Left atrial (LA) enlargement  
+- Interatrial conduction time  
+- Prolonged HV interval  
+- Chronic obstructive pulmonary disease (COPD)  
+- Obstructive sleep apnea  
+- HATCH score (Hypertension, Age ≥75 years, TIA or stroke, COPD, Heart failure)  
+- Hypertension  
+- Transient ischemic attack (TIA)  
+- Heart failure  
+- Implantable cardiac monitor  
+- Ambulatory monitor  
+- Wearable device  
+- Cryptogenic stroke  
+- Inducible AF  
+- Thromboembolic event rate  
+- Ablation success rate  
+- Monitoring (intermittent, continuous)  
+- Stroke risk assessment  
+- New‑onset AF  
+- Permanent AF  
+- Paroxysmal AF  
+- Persistent AF  
+- Permanent AFL (for completeness)
+
+Page 59 Extracted Terms:
+**Key heart‑disease related terms from the guideline**
+
+- Atrial fibrillation (AF)  
+- Heart failure (HF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Left ventricular ejection fraction (LVEF)  
+- Cardiovascular morbidity  
+- Cardiovascular mortality  
+- Cardiovascular causes of death  
+- Stroke  
+- Systemic embolism  
+- Cardiac resynchronization therapy (CRT)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Sick sinus syndrome  
+- Tachycardia–bradycardia (sick sinus) syndrome  
+- Rate control (strategies, targets, intensity)  
+- Rhythm control (strategies, outcomes)  
+- RACE II study  
+- AFFIRM study  
+- HOT CAFE trial  
+- ORBIT‑AF trial  
+- All‑cause mortality  
+- Cardiac mortality  
+- Non‑invasive management (rate‑control pharmacology)  
+
+These terms capture the central heart‑disease concepts and outcomes discussed in the guideline.
+
+Page 60 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Rapid ventricular response (RVR)  
+- Left ventricular systolic dysfunction (LVSD)  
+- Heart failure (HF)  
+- HFrEF (heart failure with reduced ejection fraction)  
+- B‑mode/β‑blockers  
+- Nondihydropyridine calcium‑channel blockers  
+- Diltiazem  
+- Verapamil  
+- Digoxin  
+- Amiodarone  
+- Intravenous magnesium  
+- Intravenous rate‑control agents  
+- Acute rate control  
+- Long‑term rate control  
+- Ejection fraction (EF >40%)  
+- Tachycardia‑induced cardiomyopathy  
+- Cardioversion  
+- Stroke prevention in AF  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Cardiac resynchronization therapy (CRT)  
+- Biventricular pacing  
+- Myocardial recovery  
+- Tachycardia‑bradycardia syndrome  
+- Sick sinus syndrome  
+- Decompensated heart failure  
+- Hypotension (related to rate‑control therapy)
+
+Page 61 Extracted Terms:
+- Atrial fibrillation  
+- Rapid ventricular response  
+- Intravenous diltiazem  
+- Intravenous digoxin  
+- Intravenous amiodarone  
+- Intravenous magnesium  
+- Beta blockers  
+- Metoprolol tartrate  
+- Metoprolol succinate  
+- Atenolol  
+- Bisoprolol  
+- Carvedilol  
+- Esmolol  
+- Nadolol  
+- Propranolol  
+- Nondihydropyridine calcium‑channel blockers  
+- Diltiazem (oral)  
+- Verapamil  
+- Digitalis glycoside (digoxin)  
+- Amiodarone (oral)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure  
+- Antiarrhythmics  
+- Rate control  
+- Ventricular rate  
+- Arrhythmias  
+- Coronary artery bypass graft (CABG)
+
+Page 62 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Rapid ventricular response (RVR)  
+- Rate control  
+- Rhythm control  
+- Intravenous magnesium  
+- Standard rate‑control methods (beta blockers, diltiazem, verapamil, digoxin)  
+- Intravenous amiodarone  
+- Intravenous diltiazem  
+- Intravenous metoprolol  
+- Heart rate (HR)  
+- Hemodynamic stability (blood pressure, BP)  
+- Hypotension  
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Left ventricular ejection fraction (LVEF)  
+- Acute kidney injury (AKI)  
+- Inotropic support  
+- Negative inotropic effect  
+- AV nodal blocker  
+- Intensive care unit (ICU) setting  
+- Pulmonary oxygen requirement  
+- Mortality (in‑hospital)  
+- LV dysfunction  
+- Left ventricle (LV)
+
+Page 63 Extracted Terms:
+**Key terms related to heart disease**
+
+- Atrial fibrillation (AF)  
+- Long‑term rate control  
+- Beta blockers  
+- Nondihydropyridine calcium channel blockers  
+  - Verapamil  
+  - Diltiazem  
+- Digoxin  
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Left ventricular ejection fraction (LVEF)  
+- Dronedarone  
+- Cardiovascular events  
+- Ventricular rate control  
+- Electrocardiographic abnormalities  
+- Serum digoxin concentration / therapeutic range  
+- Digoxin toxicity  
+- DIG (Digitalis Investigation Group) trial  
+- RATE‑AF trial  
+- N‑terminal pro‑brain natriuretic peptide (NT‑proBNP)  
+- Chronic rate control  
+- Pre‑excitation (in the context of ventricular rate control)  
+- Reactive airway disease (as a comorbidity affecting drug choice)  
+- Hemodynamics (e.g., heart rate, blood pressure)  
+- Hospitalization and all‑cause mortality outcomes  
+
+These terms capture the main clinical concepts and interventions discussed in the guideline excerpt.
+
+Page 64 Extracted Terms:
+Atrial fibrillation  
+Heart failure  
+Heart failure with reduced ejection fraction (HFrEF)  
+Left ventricular ejection fraction (LVEF)  
+Myocardial infarction (MI)  
+Congestive heart failure (CHF)  
+Digoxin  
+Diltiazem  
+Dronedarone  
+Arrhythmia  
+Stroke  
+Ventricular response / ventricular rate  
+Ventricular dysfunction  
+Pacemaker implantation  
+Atrioventricular nodal ablation (AVNA)  
+Conduction system pacing  
+His bundle pacing  
+Left bundle branch area pacing  
+Non‑dihydropyridine calcium channel blocker (NDCC)  
+Ventricular tachycardia  
+Mortality  
+Resting heart rate  
+Meta‑analysis of digoxin use  
+PALLAS study  
+ERATO trial  
+
+Page 65 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Atrioventricular nodal ablation (AVNA)  
+- Right ventricular pacing (RVP)  
+- Bi‑ventricular pacing (BiVP)  
+- His bundle pacing  
+- Left bundle branch area pacing  
+- Pacemaker implantation  
+- Heart failure (HF)  
+- Sudden cardiac death  
+- Ventricular fibrillation (VF)  
+- Malignant arrhythmias  
+- QT interval prolongation  
+- Ejection fraction (EF)  
+- New York Heart Association (NYHA) class II/III  
+- Lead dislodgement / lead failure  
+- Pneumothorax  
+- Anti‑arrhythmic drug therapy  
+- Stroke risk  
+- 6‑minute walk test (functional capacity)  
+- Quality‑of‑life outcomes  
+- Hospitalization (HF‑related)  
+- Survival / all‑cause mortality  
+- Rate control strategies (medical vs device)
+
+Page 66 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Atrial fibrillation (AF)  
+- Persistent atrial fibrillation  
+- High‑burden atrial fibrillation  
+- Symptomatic atrial fibrillation  
+- Rhythm control  
+- Rate control  
+- Antiarrhythmic drugs (AADs)  
+- AF ablation  
+- Heart failure (HF)  
+- Left ventricular (LV) function  
+- Ejection fraction (EF)  
+- Reduced LVEF / reduced LV function  
+- Ischemia  
+- Stroke  
+- Mortality  
+- Hospitalization for heart failure  
+- Cardiac hospitalization  
+- AF burden  
+- Rapid ventricular rates  
+- Left bundle‑area pacing  
+- His bundle pacing  
+- Conduction‑system pacing  
+- Atrioventricular nodal ablation (AVNA)  
+- EAST‑AFNET 4 trial  
+- RACE II study  
+
+These terms capture the primary cardiovascular concepts and interventions discussed in the guideline excerpt.
+
+Page 67 Extracted Terms:
+- Atrial fibrillation  
+- Rhythm control  
+- Rate control  
+- Cardiovascular death  
+- Ischemic stroke  
+- Hospitalization for ischemia  
+- Heart failure (HF)  
+- AF‑CHF (Atrial Fibrillation and Congestive Heart Failure) trial  
+- Left ventricular (LV) function  
+- Catheter ablation  
+- Composite primary endpoint  
+- Mortality rate  
+- Sinus rhythm  
+- Amiodarone  
+- Antiarrhythmic drugs  
+- CABANA trial (Catheter Ablation vs Antiarrhythmic Drug Therapy)  
+- EAST‑AFNET 4 trial  
+- Cardiovascular mortality  
+- Quality of life (QOL)  
+- Emergency department visits  
+- Health care resource utilization  
+- Acute ischemic syndrome  
+- Clinical outcomes  
+- Left atrium (LA)  
+- Atrioventricular (AV)  
+
+(Note: Terms are listed as key concepts related to heart disease found in the provided text.)
+
+Page 68 Extracted Terms:
+- Atrial fibrillation (AF)  
+- CASTLE‑AF trial  
+- AF‑CHF study  
+- Rhythm control strategy  
+- Rate control strategy  
+- Left ventricular dysfunction  
+- Heart failure (HF)  
+- Asymptomatic AF  
+- Symptomatic AF  
+- Stroke  
+- Cardiovascular death  
+- Hospitalization for heart failure  
+- Catheter ablation  
+- EAST‑AFNET 4 study  
+- AF progression  
+- AF burden  
+- Left atrial (LA) size  
+- Heart rate  
+- Modifiable risk factors  
+- Circulation (journal reference for guideline)
+
+Page 69 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Mitral regurgitation  
+- Tricuspid regurgitation  
+- Left atrial (LA) size  
+- Left atrial appendage (LAA)  
+- Left atrial appendage occlusion (LAAO)  
+- Cardioversion (electrical and pharmacological)  
+- Thromboembolism  
+- Anticoagulation  
+- Direct oral anticoagulants (DOACs)  
+- Vitamin K antagonists (VKAs)  
+- Heart failure (HF)  
+- Cognitive impairment  
+- Dementia  
+- Atrial myopathy  
+- Atrial stunning  
+- Acute rhythm control  
+- Hemodynamic instability  
+- CHA2DS2‑VASc score  
+- Intracardiac thrombus  
+- Atrial mechanical dysfunction (loss of atrial kick, dyssynchrony)
+
+Page 70 Extracted Terms:
+- Atrial fibrillation  
+- Cardioversion  
+- Anticoagulation (therapeutic, VKAs, DOACs)  
+- Thromboembolism / thromboembolic risk  
+- Intracardiac thrombus  
+- Cardiac computed tomography (delayed contrast‑enhanced imaging)  
+- Transesophageal echocardiography (TEE)  
+- Atrial dysfunction  
+- Atrial stunning  
+- Mechanical atrial systole  
+- Left atrial appendage occlusion (LAAO)  
+- Early recurrence of atrial fibrillation  
+- Hemodynamically stable atrial fibrillation  
+- Post‑cardioversion anticoagulation period  
+- Clinical variables influencing atrial recovery  
+- Thromboembolic events within 30 days of cardioversion
+
+Page 71 Extracted Terms:
+- Atrial fibrillation  
+- Atrial flutter  
+- Non‑valvular atrial fibrillation  
+- Intracardiac thrombus  
+- Left atrial appendage (LAA) thrombus  
+- Left atrial appendage occlusion (LAAO)  
+- Percutaneous LAAO (pLAAO)  
+- Watchman device  
+- Lariat procedure  
+- Residual leak  
+- Device‑related thrombosis  
+- Stroke  
+- Systemic embolism  
+- Thromboembolism  
+- Anticoagulation therapy  
+- Anticoagulant‑naïve patients  
+- Vitamin K antagonist (VKA)  
+- Rivaroxaban  
+- Oral anticoagulation (OAC)  
+- Transesophageal echocardiography (TEE)  
+- Computed tomography (CT/CTA)  
+- CHA₂DS₂‑VASc score  
+- Cardioversion (electrical cardioversion)  
+- Pericardioversion anticoagulation  
+- Post‑cardioversion thromboembolic risk  
+- Subtherapeutic anticoagulant levels  
+- Drug adherence/compliance  
+- Drug absorption and drug interactions  
+- CLOT‑AF registry  
+- X‑TRA study  
+- Incidence of thromboembolic events  
+- Anticoagulant dosing appropriateness  
+- Anticoagulant compliance assessment  
+
+
+
+Page 72 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Ventricular fibrillation (VF)  
+- Sinus rhythm  
+- Electrical cardioversion  
+- Pharmacological cardioversion  
+- CHA₂DS₂‑VASc score  
+- Pericardioversion thromboembolic event/risk  
+- Biphasic energy (≥200 J)  
+- Energy delivery synchronization to QRS  
+- Electrode vector optimization  
+- Transthoracic impedance  
+- Manual pressure augmentation  
+- Left atrial (LA) size  
+- Hemodynamic instability / instability  
+- Acute rhythm control  
+- Antiarrhythmic drugs (AADs)  
+- Sedation  
+- FinCV study  
+- RAFF2 study  
+- Acute rhythm-control strategy  
+- Rhythm‑control strategy  
+- High‑risk scoring  
+- Success of sinus rhythm restoration  
+- Recurrence of atrial fibrillation (AF)  
+- Cardioversion energy  
+- Direct current cardioversion (DCCV)
+
+Page 73 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Hemodynamically stable AF  
+- Electrical cardioversion  
+- Unsynchronized vs. synchronized cardioversion  
+- Ventricular fibrillation (VF)  
+- QRS complex  
+- Biphasic waveform  
+- Monophasic waveform  
+- Sinus rhythm  
+- Trans‑tracheal impedance  
+- Defibrillator (dual‑device use)  
+- Pharmacologic cardioversion  
+- Ibutilide  
+- Amiodarone (intravenous)  
+- Flecainide (pill‑in‑the‑pocket)  
+- Propafenone (pill‑in‑the‑pocket)  
+- Procainamide (intravenous)  
+- Atrioventricular nodal blocking agent  
+- Left ventricular ejection fraction (LVEF)  
+- Heart failure with reduced EF (HFrEF)  
+- QT interval prolongation  
+- Torsades de pointes  
+- Persistent vs. new‑onset AF  
+- Energy escalation (high‐fixed vs. low‑escalating)  
+- Electrode vector orientation (anterior‑posterior, anterior‑lateral)  
+- Transthoracic impedance  
+- Obesity related cardioversion challenges  
+- Thromboembolic complications  
+- Hemodynamic complications of cardioversion  
+- Anesthesia effects during cardioversion  
+- Pharmacologic agents for rhythm control  
+- Monitoring for rhythm conversion  
+- “Pill‑in‑the‑pocket” approach  
+- Pharmacologic cardioversion timing (8–12 h for amiodarone)  
+
+
+
+Page 74 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Atrial flutter  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Cardioversion (electrical and pharmacological)  
+- Antiarrhythmic drugs  
+  - Amiodarone  
+  - Flecainide  
+  - Propafenone  
+  - Ibutilide  
+  - Procainamide  
+  - Sotalol  
+- Intravenous (IV) drug administration  
+- Oral drug administration  
+- Ventricular tachycardia (VT)  
+- Torsades de pointes (TdP)  
+- Bradycardia  
+- Hypotension  
+- Atrioventricular (AV) block  
+- QT interval prolongation  
+- Agranulocytosis  
+- Neutropenia  
+- Thrombocytopenia  
+- Rash  
+- Dizziness  
+- Dyspnea  
+- Nausea  
+- Visual disturbances  
+- Taste disturbances  
+- N-acetylprocainamide (NAPA)
+
+Page 75 Extracted Terms:
+**Key heart‑disease terms extracted**
+
+- Atrial fibrillation (AF)  
+- Atrial flutter (AFL)  
+- Sinus rhythm  
+- Cardioversion  
+- Direct current (DC) cardioversion / electrical cardioversion  
+- Pharmacological cardioversion  
+- Wait‑and‑watch strategy  
+- Ibutilide  
+- Intravenous amiodarone  
+- Procainamide  
+- Torsades de pointes  
+- QT interval prolongation / extended QT interval  
+- Left ventricular ejection fraction (LVEF)  
+- Reduced LVEF (≤40 %)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Magnesium infusion  
+- Electrocardiographic monitoring  
+- Cardiac resuscitation  
+- Post‑conversion bradycardia  
+- Cardiac arrhythmia  
+- Heart failure  
+- Ventricular dysfunction  
+
+These terms collectively cover the principal concepts of heart disease and arrhythmia management discussed in the excerpt.
+
+Page 76 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Sinus rhythm / conversion to sinus rhythm  
+- Long‑term maintenance of sinus rhythm  
+- Antiarrhythmic drugs  
+- Flecainide  
+- Propafenone  
+- Dofetilide  
+- Amiodarone (low‑dose)  
+- Dronedarone  
+- Sotalol  
+- Procainamide (intravenous)  
+- Ibutilide  
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF, ≤40 %)  
+- Left ventricular (LV) dysfunction / severe LV dysfunction  
+- Myocardial infarction (MI)  
+- Structural heart disease  
+- Ventricular scar or fibrosis  
+- QT interval (prolongation, monitoring)  
+- Torsades de pointes  
+- Proarrhythmia  
+- Mortality (increased risk)  
+- Decompensated heart failure  
+- New‑York Heart Association (NYHA) class III/IV  
+- Hypotension (clinically significant)  
+- Hypokalemia  
+- Hypomagnesemia  
+- Bradycardia  
+- Kidney function (renal dosing)  
+- Serum potassium concentration  
+- Serum magnesium concentration  
+- β‑blocker therapy  
+- Calcium channel blocker (non‑dihydropyridine)  
+- Arrhythmia management strategies (pill‑in‑the‑pocket, catheter ablation)  
+- Conversion rates (e.g., 58–68 % for flecainide, 45–57 % for propafenone)  
+
+These terms capture the clinical concepts, interventions, and risk factors discussed in the guideline excerpt.
+
+Page 77 Extracted Terms:
+Atrial fibrillation (AF)  
+Atrial flutter  
+Heart failure (HF)  
+Heart failure with reduced ejection fraction (HFrEF)  
+Sinus rhythm  
+Maintenance of sinus rhythm  
+Antiarrhythmic agents  
+Amiodarone  
+Dofetilide  
+Sotalol  
+Flecainide  
+Propafenone  
+Dronedarone  
+Beta blocker  
+Atrioventricular nodal blocking agent  
+Supraventricular tachycardia (SVT)  
+Torsades de pointes  
+QT interval prolongation  
+Pulmonary fibrosis  
+Hypothyroidism  
+Hyperthyroidism  
+Elevated transaminases  
+Hepatotoxicity  
+Photosensitivity  
+Corneal microdeposits  
+Optic neuropathy  
+Peripheral neuropathy  
+Sinus bradycardia  
+Arrhythmia  
+AF recurrence  
+AF recurrence prevention  
+Structural heart disease  
+Scar  
+Fibrosis  
+Myocardial infarction (MI)  
+Flec-SL trial  
+SAFIRE-D study  
+EURIDIS trial  
+ADONIS trial  
+SAFE‑T trial  
+CTAF trial  
+Dofetilide loading / reloading  
+Creatinine clearance (CrCl)  
+Cardiac resuscitation  
+Continuous electrocardiographic monitoring
+
+Page 78 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Sotalol  
+- Sinus rhythm  
+- SAFE‑T  
+- All‑cause mortality  
+- Advanced heart failure (HF)  
+- Preserved heart function  
+- Creatinine clearance (CrCl)  
+- Continuous electrocardiographic monitoring  
+- Cardiac resuscitation  
+- FDA‑approved intravenous sotalol formulation  
+- CAST (Cardiac Arrhythmia Suppression Trial)  
+- Vaughan‑Williams Class IC antiarrhythmic agents  
+- Flecainide  
+- Encainide  
+- Mortality rate  
+- Recent myocardial infarction (MI)  
+- Left ventricular ejection fraction (LVEF) < 50%  
+- CAST‑II  
+- Moricizine  
+- CASH (Cardiac Arrest Study Hamburg)  
+- Propafenone  
+- Structural heart disease  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Worsening HF  
+- ANDROMEDA (Antiarrhythmic Trial with Dronedarone in Moderate to Severe CHF Evaluating Morbidity Decrease)  
+- Dronedarone  
+- Hospitalization attributable to HF  
+- Arrhythmic death  
+- New or worsening HF  
+- New York Heart Association functional class (NYHA FC)  
+- Intravenous (IV)  
+- Left ventricle (LV)  
+- Left ventricular ejection fraction (LVEF)  
+- Myocardial infarction (MI)  
+- New York Heart Association functional class (NYHA FC)
+
+Page 79 Extracted Terms:
+Heart failure (HF)  
+Class III HF  
+Class IV HF  
+NYHA class II  
+NYHA class III  
+NYHA class IV  
+Heart failure with reduced ejection fraction (HFrEF)  
+Atrial fibrillation (AF)  
+Atrial flutter (AFL)  
+Dronedarone  
+Dofetilide  
+Sotalol  
+Amiodarone  
+Flecainide  
+Propafenone  
+Antiarrhythmic agents  
+Class III antiarrhythmic drug  
+Class I antiarrhythmic drug  
+Bradyarrhythmia  
+Tachyarrhythmia  
+Proarrhythmia  
+Torsades de pointes  
+QTc prolongation  
+Ventricular fibrillation (VF)  
+Continuous electrocardiographic monitoring  
+Cardiac resuscitation  
+Creatinine clearance (CrCl)
+
+Page 80 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Sinus rhythm maintenance  
+- Amiodarone  
+- Dofetilide  
+- Dronedarone  
+- IKr (rapid delayed rectifier potassium current)  
+- IKs (slow delayed rectifier potassium current)  
+- INa (sodium current)  
+- IKur (ultra‑rapid delayed rectifier potassium current)  
+- Ito (transient outward potassium current)  
+- ICa‑L (L‑type calcium current)  
+- IKACh (acetylcholine‑activated potassium current)  
+- Non‑competitive β‑blocker activity  
+- AV block  
+- Bradycardia  
+- Corneal microdeposits  
+- Transaminase elevation  
+- Hepatotoxicity  
+- Hyperthyroidism  
+- Hypothyroidism  
+- Nausea  
+- QT‑prolongation  
+- Torsades de pointes (TdP)  
+- Peripheral neuropathy  
+- Photosensitivity  
+- Pulmonary fibrosis  
+- Skin pigmentation (blue‑gray)  
+- CYP2C9 inhibition (moderate)  
+- CYP2D6 inhibition (weak)  
+- CYP3A inhibition (moderate)  
+- Cytochrome P450 interactions (e.g., warfarin, lovastatin, simvastatin)  
+- P‑gp inhibition (increasing digoxin exposure)  
+- Renal excretion via renal cation transport system  
+- Dofetilide contraindications: cimetidine, dolutegravir, ketoconazole, megestrol, prochlorperazine, trimethoprim, verapamil, hydrochlorothiazide with triamterene  
+- Dronedarone substrate and inhibitor of CYP3A and CYP2D6  
+- Dronedarone substrate and inhibitor of P‑gp  
+- Increased dronedarone plasma levels with grapefruit juice  
+- Decreased dronedarone plasma levels by CYP3A inducers (St. John’s wort, rifampin, phenytoin)  
+- Abrupt discontinuation complications (e.g., sudden onset AF)  
+- Clinical guideline reference: 2023 Guideline for the Diagnosis and Management of Atrial Fibrillation (Circulation 2024)
+
+Page 81 Extracted Terms:
+- Atrial fibrillation (AF)  
+- Atrial flutter (AFL)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Proarrhythmia  
+- Hypotension  
+- Bradycardia  
+- Syncope  
+- Permanent pacemaker  
+- Antiarrhythmic drug  
+- Class IC agent  
+- PITP strategy (high‑dose class IC therapy)  
+- Flecainide  
+- Propafenone  
+- Sotalol  
+- CYP2D6 metabolism  
+- QT interval prolongation  
+- Torsades de pointes (TdP)  
+- Ventricular tachycardia (VT)  
+- Bradyarrhythmia  
+- AV nodal blocker  
+- Sinus rhythm restoration  
+- Cardioversion  
+- Inotropic/chronotropic safety monitoring  
+- Drug–drug interactions (e.g., with amiodarone, fluoxetine, paroxetine, digoxin, warfarin, statins)  
+- Renal clearance (CrCl) and dosing adjustments  
+- Extended‑release formulation (ER)  
+- Liver and kidney elimination pathways  
+- Inhibition of INa (sodium current)  
+- Inhibition of IKr (potassium current)  
+- Late INa augmentation (sotalol)  
+- Pulmonary bronchospasm (sotalol adverse effect)  
+- Diarrhea, fatigue, nausea (sotalol adverse events)  
+- Visual disturbances (flecainide/propafenone)  
+- Taste disturbances (propafenone)  
+- Exacerbation of HFrEF (antiarrhythmic adverse effect)  
+- QT prolongation‑related arrhythmogenic risk  
+
+*(All terms are directly referenced in the guideline text and pertain to heart‑related disease concepts, therapies, and safety considerations.)*
+

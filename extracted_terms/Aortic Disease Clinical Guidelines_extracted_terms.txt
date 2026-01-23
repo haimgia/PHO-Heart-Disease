@@ -1,0 +1,4992 @@
+Page 1 Extracted Terms:
+- ACC/AHA Guideline  
+- Diagnosis and Management  
+- Aortic Disease  
+- Asymptomatic presentation  
+- Stable symptomatic presentation  
+- Acute aortic syndromes  
+- Genetic evaluation  
+- Family screening  
+- Medical therapy  
+- Endovascular treatment  
+- Surgical treatment  
+- Long‑term surveillance  
+- Thoracic aortic disease  
+- Peripheral artery disease  
+- Bicuspid aortic valve disease  
+- Aortic aneurysm  
+- Aortic dissection  
+- Aortic root and ascending aorta  
+- Descending aorta  
+- Endovascular stent graft  
+- Cardiac imaging (CT, MRI, echocardiography)  
+- Risk stratification  
+- Surgical repair and replacement  
+- Connective tissue disorders (Marfan, Loeys‑Dietz, etc.)  
+- Hypertension management (beta‑blockers, ACEi/ARB)  
+- Lifestyle modification for aortic disease  
+- Genetic counseling for inherited aortopathies  
+- Surveillance imaging schedule  
+- Cardiovascular surgical specialties  
+- Interventional radiology in aortic disease management  
+- Vascular medicine in aortic disease follow‑up  
+
+Page 2 Extracted Terms:
+- Aortic aneurysm  
+- Abdominal aortic aneurysm (AAA)  
+- Thoracic aortic aneurysm (TAA)  
+- Thoracoabdominal aortic aneurysm (TAAA)  
+- Aortic dissection  
+- Acute aortic syndrome (AAS)  
+- Intramural hematoma (IMH)  
+- Penetrating atherosclerotic ulcer (PAU)  
+- Aortitis  
+- Aortopathy  
+- Bicuspid aortic valve (BAV)  
+- Blunt traumatic aortic injury  
+- Endovascular aortic repair (EVAR)  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Heritable thoracic aortic disease  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Malperfusion syndrome  
+- Endoleak  
+- Aortic arch aneurysm  
+- Descending thoracic aortic aneurysm  
+- Surgical management of aortic aneurysm  
+- Endovascular management of aortic aneurysm  
+- Cardiac surgery  
+- Vascular surgery  
+- Acute type A aortic dissection  
+- Acute type B aortic dissection  
+- Multidisciplinary aortic team  
+- Shared decision‑making  
+- Imaging techniques (CT, MRI, echocardiography, intravascular ultrasound, abdominal ultrasound)  
+- Risk‑factor modification (blood‑pressure control, medication)  
+- Screening for abdominal aortic aneurysm  
+- Surveillance after aortic repair  
+- Natural history of aortic aneurysm  
+- Medical management of sporadic or degenerative aortic aneurysm  
+- Genetic aortopathies  
+- Surveillance for medical management  
+- Management of acute aortic dissection (surgical vs endovascular)  
+- Management of intramural hematoma (acute and subsequent)  
+- Complications of aortic disease (malperfusion, rupture)  
+
+These terms capture the key concepts related to heart and aortic disease presented in the guideline.
+
+Page 3 Extracted Terms:
+- Aortic Disease  
+- Aortic Aneurysm  
+- Aortic Dissection  
+- Intramural Hematoma (IMH)  
+- Penetrating Atherosclerotic Ulcer (PAU)  
+- Traumatic Aortic Injury  
+- Blunt Traumatic Thoracic Aortic Injury (BTTAI)  
+- Blunt Traumatic Abdominal Aortic Injury (BAAI)  
+- Aortic Root  
+- Ascending Aortic Aneurysm  
+- Atherosclerotic Disease  
+- Aortic Thrombus  
+- Aortic Occlusion  
+- Porcelain Aorta  
+- Coarctation of the Aorta  
+- Congenital Aortic Arch Abnormalities  
+- Takayasu Arteritis  
+- Giant Cell Arteritis (GCA)  
+- Infectious Aortitis  
+- Native Aortic Infection  
+- Prosthetic Aortic Graft Infection  
+- Pregnancy‑associated Aortic Disease  
+- Delivery Management in Aortopathy  
+- Multidisciplinary Aortic Team  
+- Shared Decision‑Making  
+- Computed Tomography (CT)  
+- Magnetic Resonance Imaging (MRI)  
+- Echocardiography  
+- Endovascular Repair  
+- Open Surgical Repair  
+- Surveillance Imaging  
+- Biomarkers  
+- Genetic Factors  
+- Lifestyle / Physical Activity  
+- Quality of Life  
+- Rehabilitation Protocols  
+- Endovascular Technology  
+- Cost and Value Considerations  
+- Equitable Care and Training Opportunities
+
+Page 4 Extracted Terms:
+- Aortic root  
+- Ascending aorta  
+- Aortic root diameter  
+- Aortic cross‑sectional area  
+- Body surface area (indexing aortic dimensions)  
+- Height (indexing aortic dimensions)  
+- Rapid aortic root growth  
+- Ascending aortic aneurysm  
+- Valve‑sparing aortic root replacement  
+- Aortic root replacement surgery  
+- Acute type A aortic dissection  
+- Operative repair of type A aortic dissection  
+- Open distal anastomosis  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Uncomplicated type B aortic dissection  
+- Thoracoabdominal aortic aneurysm  
+- Endograft (endovascular repair)  
+- Bicuspid aortic valve  
+- Aortic imaging  
+- First‑degree relative screening for aortic disease  
+- Cardiovascular health  
+- Cardiovascular disease  
+- Aortic disease  
+- Aortic dissection  
+- Aortic aneurysm  
+- Aortic root pathology
+
+Page 5 Extracted Terms:
+- Aortic disease  
+- Aortic occlusion  
+- Aortic aneurysm  
+  - Thoracic aortic aneurysm  
+  - Abdominal aortic aneurysm  
+- Endovascular aneurysm repair  
+- Surveillance after endovascular aneurysm repair  
+- Aortic dissection  
+  - Type A aortic dissection  
+  - Type B aortic dissection  
+- Dissecting aneurysm  
+- Aortic rupture  
+- Penetrating aortic ulcer  
+- Aortitis  
+- Atherosclerotic aortic disease  
+- Atherosclerotic plaque  
+- Arterial occlusive diseases  
+- Diagnostic imaging  
+  - Computed tomography (CT)  
+  - Ultrasound (duplex, Doppler)  
+  - Magnetic resonance imaging (MRI)  
+  - Echocardiography  
+- Guideline‑directed medical therapy  
+- Randomized controlled trials (RCTs)  
+- Observational studies (cohort, registry)  
+- Systematic reviews  
+
+
+Page 6 Extracted Terms:
+- 3‑dimensional  
+- abdominal aortic aneurysm  
+- acute aortic syndrome  
+- angiotensin‑converting enzyme inhibitor  
+- aortic height index  
+- aortic regurgitation  
+- angiotensin receptor blocker  
+- aberrant subclavian artery  
+- atherosclerotic cardiovascular disease  
+- aortic size index  
+- aortic valve replacement  
+- blunt traumatic abdominal aortic injury  
+- bicuspid aortic valve  
+- blood pressure  
+- body surface area  
+- blunt traumatic aortic injury  
+- blunt traumatic thoracic aortic injury  
+- cardiac magnetic resonance  
+- coarctation of the aorta  
+- computed tomography  
+- computed tomographic angiography  
+- diastolic blood pressure  
+- disease‑modifying anti‑rheumatic drug  
+- electrocardiogram  
+- endovascular abdominal aortic aneurysm repair  
+- focal intimal disruption  
+- fluorodeoxyglucose–positron emission tomography  
+- fenestrated endovascular aortic repair  
+- giant cell arteritis  
+- health‑related quality of life  
+- heritable thoracic aortic disease  
+- intensive care unit  
+- intramural hematoma  
+- International Registry of Acute Aortic Dissection  
+- low‑density lipoprotein  
+- large vessel vasculitis  
+- magnetic resonance  
+- magnetic resonance angiography  
+- magnetic resonance imaging  
+- nonsyndromic heritable thoracic aortic disease  
+- peripheral artery disease  
+- penetrating atherosclerotic ulcer  
+- positron emission tomography  
+- ruptured abdominal aortic aneurysm  
+- randomized controlled trial  
+- resuscitative endovascular balloon occlusion of the aorta  
+- superior mesenteric artery  
+- systolic blood pressure  
+- spinal cord injury  
+- thoracic aortic aneurysm  
+- thoracoabdominal aortic aneurysm  
+- thoracic aortic aneurysm and dissection  
+- thoracic aortic disease  
+- total arch replacement  
+- transesophageal echocardiography  
+- thoracic endovascular aortic repair  
+- transthoracic echocardiography  
+- valve‑sparing root replacement
+
+Page 7 Extracted Terms:
+- Aortic valve annulus  
+- Sinotubular junction  
+- Innominate artery  
+- Left subclavian artery  
+- Aortic arch  
+- Ascending thoracic aorta  
+- Descending thoracic aorta  
+- Abdominal aorta  
+- Aortic bifurcation  
+- Aortic root (sinus segment)  
+- Intima  
+- Media  
+- Adventitia  
+- Elastic lamellae  
+- Vasa vasorum  
+- Proximal sealing zone  
+- Landing zone 0 (0A, 0B, 0C)  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Thoracic endovascular aortic repair for descending thoracic aortic aneurysms  
+- Aortic aneurysm  
+- Aortic dissection  
+- Acute type A aortic dissection  
+- Type B aortic dissection  
+- Bicuspid aortic valve  
+- Vascular graft infections  
+- Mycotic aneurysms  
+- Endovascular infections  
+- Traumatic thoracic aortic injury  
+- Valvular heart disease  
+- Congenital heart disease  
+- Blood cholesterol management  
+- High blood pressure (hypertension)  
+- Coronary and other atherosclerotic vascular disease  
+- Lower extremity peripheral artery disease  
+- Large vessel vasculitis  
+- ACC/AHA  
+- ACHA/ACC  
+- SVS (Society for Vascular Surgery)  
+- ESVS (European Society for Vascular Surgery)  
+- EULAR (European League Against Rheumatism)  
+- AHA (American Heart Association)  
+- ACCF (American College of Cardiology Foundation)  
+- ACC (American College of Cardiology)  
+- AACVPR (American Association of Cardiovascular and Pulmonary Rehabilitation)  
+- AAPA (American Academy of Physician Assistants)  
+- AATS (American Association for Thoracic Surgery)  
+- ABC (Association of Black Cardiologists)  
+- ACPM (American College of Preventive Medicine)  
+- ACR (American College of Radiology)  
+- ADA (American Diabetes Association)  
+- AGS (American Geriatrics Society)  
+- APhA (American Pharmacists Association)  
+- ASA (American Society of Anesthesiologists)  
+- ASH (American Society of Hematology)  
+- ASPC (American Society for Preventive Cardiology)  
+- ASPCI (Society for Cardiovascular Angiography and Interventions)  
+- SIR (Society of Interventional Radiology)  
+- STS (Society of Thoracic Surgeons)  
+- SVA (Society of Vascular Anesthesiologists) (implicit)
+
+Page 8 Extracted Terms:
+- arterial aneurysm  
+- aortic root  
+- ascending thoracic aorta  
+- aortic dilatation  
+- aneurysmal threshold (≥ 1.5 × reference diameter)  
+- Marfan syndrome  
+- familial thoracic aortic aneurysm  
+- aortic repair  
+- diameter threshold for intervention (≤ 5.0 cm)  
+- natural history of aortic disease  
+- bicuspid aortic valve (BAV)  
+- aortic valve replacement (AVR)  
+- American College of Cardiology / American Heart Association (ACC/AHA) Class of Recommendation  
+- Level of Evidence in cardiovascular guidelines  
+
+Page 9 Extracted Terms:
+- Aortic dissection  
+- Type A aortic dissection  
+- Ascending aorta  
+- Aortic diameter (size)  
+- Prophylactic aortic repair  
+- Sudden death  
+- MESA (Multi‑Ethnic Study of Atherosclerosis)  
+- Atherosclerosis  
+- Risk assessment (dissection risk)  
+- Distribution curve of aortic size  
+
+Page 10 Extracted Terms:
+- Aortic dilation  
+- Aortic aneurysm  
+- Aortic ectasia  
+- Aortic root  
+- Ascending aorta  
+- Aortic wall (medial layer)  
+- Aortic diameter thresholds (4.0 cm, 4.5 cm)  
+- Body‑size normalization of aortic dimensions  
+- Coronary artery dilation  
+- Coronary artery ectasia  
+- Zone 0–11 aortic landing zones  
+- ACC/AHA aortic disease guideline  
+- ESC aortic disease guideline  
+- Aortic disease (clinical statements & guidelines)
+
+Page 11 Extracted Terms:
+- Aortic dilation  
+- Aortic root diameter  
+- Aortic size index  
+- Aortic height index  
+- Z‑score  
+- Body surface area (BSA)  
+- Pediatric aortic dilation  
+- Acute aortic syndromes (AAS)  
+- Ascending aorta  
+- Bicuspid aortic valve disease  
+- Aortic aneurysm  
+- Aortic dissection  
+- Sudden death  
+- Relative risk  
+- Aortic complications  
+- Nomograms  
+- 2022 ACC/AHA Aortic Disease Guideline
+
+Page 12 Extracted Terms:
+- Aortic disease  
+- Aortic aneurysm  
+- Aortic dissection  
+- Intramural hematoma (IMH)  
+- Penetrating atherosclerotic ulcer (PAU)  
+- Acute aortic syndrome (AAS)  
+- Aortic rupture  
+- Acute aortic regurgitation (AR)  
+- Myocardial ischemia  
+- Cardiac tamponade  
+- Acute stroke  
+- Malperfusion syndromes  
+- Aortic size index (ASI)  
+- Aortic height index (AHI)  
+- Cross‑sectional area to height ratio  
+- Aortic diameter  
+- Body surface area (BSA)  
+- Body mass index (BMI)  
+- Intimal tear  
+- Aortic media  
+- Dissection flap  
+- True lumen  
+- False lumen  
+- Pseudoaneurysm  
+- Aortic wall integrity  
+- Antegrade propagation  
+- Retrograde propagation  
+- Life‑threatening conditions  
+- Intervention threshold (≥10 cm²/m)
+
+Page 13 Extracted Terms:
+- Aortic dissection  
+- Acute aortic dissection  
+- Chronic aortic dissection  
+- Hyperacute aortic dissection  
+- Subacute aortic dissection  
+- DeBakey classification (system)  
+- Stanford classification (system)  
+- Intima  
+- Media  
+- Adventitia  
+- False lumen  
+- True lumen  
+- Aortic rupture  
+- Reentry tear  
+- Marfan syndrome  
+- Bicuspid aortic valve (BAV)  
+- Loeys‑Dietz syndrome  
+- Ehlers‑Danlos syndrome (vascular type)  
+- Cardiac tamponade  
+- Cardiogenic shock  
+- Acute myocardial ischemia  
+- Myocardial infarction  
+- Stroke  
+- Organ malperfusion  
+- Immediate mortality risk (per hour)  
+- 30‑day mortality rate  
+- International Registry of Acute Aortic Dissection (IRAD)  
+- Society of Vascular Surgery (SVS)  
+- Society of Thoracic Surgeons (STS)  
+- Aortic disease guideline (ACC/AHA)  
+- Aortic disease reporting standards  
+- Aortic disease temporal classification  
+- Vessel wall layers (intima, media, adventitia)  
+- False lumen hemorrhage  
+- True lumen involvement  
+- Thoracic aorta  
+- Aortic ascending aorta  
+- Aortic type B dissection  
+- Aortic true/false lumen tear mechanics  
+- Malperfusion syndromes associated with aortic dissection  
+
+These terms capture the key concepts related to heart and aortic disease presented in the text.
+
+Page 14 Extracted Terms:
+- Aortic dissection  
+- DeBakey classification  
+  - Type I (ascending to descending aorta)  
+  - Type II (isolated ascending aorta)  
+  - Type III (descending thoracic aorta)  
+    - Type IIIa (isolated descending thoracic aorta)  
+    - Type IIIb (descending thoracic aorta extending below the diaphragm)  
+- Stanford classification  
+  - Type A (involves ascending aorta)  
+  - Type B (does not involve ascending aorta)  
+- Non‑A‑non‑B dissection (European consensus)  
+- SVS/STS 2020 classification  
+  - Entry tear zones (zone 0, zone 1, etc.)  
+  - AD (type A) with distal extent (e.g., A9)  
+  - BPD (type B) with proximal/distal extent (e.g., B39)  
+  - ID (indeterminate entry tear, e.g., I9)  
+- Malperfusion syndrome  
+- End‑organ ischemia  
+- True lumen  
+- False lumen  
+- Transmural pressure  
+- Elastic recoil  
+- Medial smooth muscle  
+- True lumen collapse  
+- False lumen expansion  
+- Thoracic arch pathologies  
+- Mortality rate (increase to 20% by day 2, 25% by day 30)  
+- Aortic arch  
+- Ascending aorta  
+- Descending aorta  
+- Diaphragm  
+- Intralaminar intimal tear  
+- End‑organ perfusion  
+- Acute aortic syndrome  
+- Vascular surgery (SVS) and thoracic surgery (STS) guidelines  
+- European Association for Cardio‑Thoracic Surgery (EACTS)  
+- European Society for Vascular Surgery (ESVS)  
+- Society of Thoracic Surgeons (STS)  
+
+(Each item represents a key term or concept related to heart‑disease pathology, classification, or management as discussed in the guideline.)
+
+Page 15 Extracted Terms:
+- Aortic branches  
+- Malperfusion  
+- False lumen  
+- True lumen  
+- Aortic dissection  
+- Intima (intimal tear)  
+- Dissected intima septum  
+- Ostia of a branch vessel  
+- Dynamic obstruction  
+- Static obstruction  
+- Intramural hematoma (IMH)  
+- Vasa vasorum  
+- Aortic wall (medial layer)  
+- Computed tomography angiography (CTA)  
+- Magnetic resonance imaging (MRI)  
+- Echocardiography  
+- Penetrating atherosclerotic ulcer (PAU)  
+- Atherosclerotic plaque  
+- Aortic arch  
+- Descending thoracic aorta  
+- Ascending aorta  
+- Atherosclerosis  
+- Coronary arteries  
+- Hypertension  
+- Tobacco use  
+- Chronic obstructive pulmonary disease (COPD)  
+- Renal insufficiency  
+- Connective tissue disorder  
+- Pseudoaneurysm  
+- Aortic rupture  
+- Stenosis  
+- Thrombosis (branch false lumen)  
+- Branch vessel perfusion  
+- Distal branch perfusion  
+- Blood flow (absence in IMH)
+
+Page 16 Extracted Terms:
+- Aortic disease  
+- Thoracoabdominal aortic aneurysm (TAAA)  
+- Descending thoracic aortic aneurysm (TAA)  
+- Endoleaks (type I‑V)  
+- Endovascular stent‑grafting  
+- Aneurysm repair  
+- Morbidity  
+- Mortality  
+- Aortic imaging techniques  
+- Aortic diameter measurement  
+- Crawford classification of TAAA  
+- Extent I – V classification (Crawford & Safi)  
+- Lifelong surveillance imaging for endoleaks  
+- Blood flow outside the graft (persistent endoleak)  
+- Aneurysm sac thrombosis prevention
+
+Page 17 Extracted Terms:
+- Aortic disease  
+- Aortic root  
+- Ascending aorta  
+- Aortic diameter (inner‑edge to inner‑edge, outer‑edge to outer‑edge, sinus‑to‑sinus)  
+- Measurement protocols (electrocardiographic‑synchronized, perpendicular to flow axis, multiplanar reformats)  
+- Aortic wall abnormalities  
+- Atherosclerosis  
+- Wall thickening / aortitis  
+- Intramural hematoma (IMH)  
+- Mural thrombus  
+- Aortic root asymmetry  
+- Bicuspid aortic valve  
+- Tricuspid aortic valve  
+- Aortic dissection  
+- Aortic rupture  
+- Aortic graft / endostent  
+- Computed tomography (CT)  
+- Magnetic resonance imaging (MRI)  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Abdominal aortic ultrasound  
+- 3‑dimensional (3D) imaging data sets  
+- Radiation exposure / ionizing radiation dose  
+- Contrast allergy  
+- Renal function considerations  
+- Hemodynamic stability  
+- Sedation / patient tolerance  
+- Institutional imaging availability  
+- Multidetector CT scanners  
+- Radionuclide imaging (indirectly referenced via radiation concerns)
+
+Page 18 Extracted Terms:
+- Aortic root  
+- Ascending aorta  
+- Aortic root diameter  
+- Aortic dilation  
+- Aortic aneurysm  
+- Aortic dissection  
+- Aortic rupture  
+- Endoleak  
+- Endoleak type Ia (proximal attachment site)  
+- Endoleak type Ib (distal attachment site)  
+- Endoleak type II (backfilling through branch vessels)  
+- Endoleak type III (graft defect or component misalignment)  
+- Endoleak type IV (leakage through graft wall porosity)  
+- Endoleak type V (endotension)  
+- Aortic sac  
+- Branch vessels of the aorta  
+- Aortic pressure  
+- Transthoracic echocardiography (TTE)  
+- Computed tomography (CT)  
+- Magnetic resonance imaging (MRI)  
+- Aortic size index (ASI)  
+- Aortic height index (AHI)  
+- Inner‑edge measurement  
+- Leading‑edge measurement  
+- Body‑size–adjusted normal limits  
+- Prognostic importance of aortic dilation  
+- Risk of adverse events (rupture, dissection, death)  
+- Graft defect  
+- Graft misalignment  
+- Graft porosity  
+- Endotension  
+- Aortic sac thrombosis  
+- Clinical statements (guidelines)
+
+Page 19 Extracted Terms:
+- Aortic disease  
+- Aortic dilation  
+- Aortic root  
+- Ascending aorta  
+- Aortic arch  
+- Aortic aneurysm  
+- Aortic pseudoaneurysm  
+- Aortic dissection  
+- Aortic rupture  
+- Acute aortic syndrome  
+- Intramural hematoma  
+- Penetrating atherosclerotic ulcer  
+- Intimal tear  
+- Mural thrombus  
+- Atherosclerosis  
+- Diffuse thickening (aortitis)  
+- Luminal stenosis  
+- End-organ malperfusion  
+- Interposition graft  
+- Endovascular stent graft  
+- Surgical repair  
+- Aortic diameter  
+- Aortic area (indexed to height)  
+- Aortic length  
+- Inner‑edge to inner‑edge measurement  
+- Outer‑edge to outer‑edge measurement  
+- Sinus‑to‑sinus measurement  
+- Leading‑edge measurement  
+- Maximal aortic diameter  
+- Perpendicular measurement to aortic axis  
+- Oblique imaging  
+- ECG‑gated acquisition  
+- Axial versus double‑oblique measurement  
+- Computed tomography (CT)  
+- Magnetic resonance imaging (MRI)  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Abdominal aortic ultrasound (US)  
+- Spatial resolution  
+- Temporal resolution  
+- Three‑dimensional dataset  
+- Clinical risk factors (male sex, age, height, weight, traditional cardiovascular risk factors)
+
+Page 20 Extracted Terms:
+- Aortic Disease Guideline  
+- ACC/AHA  
+- Aortic aneurysm  
+- Abdominal aortic aneurysm (AAA)  
+- Acute aortic syndromes (AAS)  
+- Aortic dissection  
+- Intramural hematoma (IMH)  
+- Penetrating atherosclerotic ulcer (PAU)  
+- Aortic root  
+- Ascending aorta  
+- Thoracic aorta  
+- Imaging modalities  
+- Computed tomography (CT)  
+- Computed tomography angiography (CTA)  
+- Magnetic resonance imaging (MRI)  
+- Echocardiography  
+- Electrocardiographic‑gated imaging  
+- Ultrasonography / ultrasound  
+- Iodinated contrast  
+- Contrast‑enhanced imaging  
+- Renal toxicity / contrast‑induced nephropathy  
+- Aortic wall changes (inflammation, thickening)  
+- Ventricular function  
+- Valve function  
+- Flow quantification  
+- Congenital aortic abnormalities  
+- Serial imaging  
+- Motion artifact  
+- Measurement techniques (leading‑edge to leading‑edge, inner‑wall to inner‑wall)  
+- Sinuses of Valsalva  
+- Sinotubular junction  
+- Proximal tubular ascending aorta
+
+Page 21 Extracted Terms:
+- ACC/AHA Aortic Disease Guideline  
+- Aortic disease  
+- Acute aortic pathology  
+- Aortic arch  
+- Aortic root  
+- Aortic valve anatomy  
+- Aortic valve function  
+- Aortic valve regurgitation  
+- Aortic dissection (AAS)  
+- Aortic dilation  
+- Aortic root dilation  
+- Aortic arch branch vessels  
+- Aortic arch branch vessels visualization  
+- Coarctation of the aorta (CoA)  
+- Patent ductus arteriosus  
+- Left ventricular dysfunction  
+- Cardiac tamponade  
+- Computed tomography (CT) imaging  
+- Magnetic resonance imaging (MRI)  
+- Magnetic resonance angiography (MRA)  
+- Gadolinium‑based contrast media  
+- Nephrogenic systemic fibrosis  
+- Cine gradient echo bright blood sequence  
+- Spin echo dark blood sequence  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Intravascular ultrasound (IVUS)  
+- Intraluminal imaging  
+- Thoracic aorta imaging  
+- Endovascular repair  
+- Endovascular management  
+- True lumen flow  
+- False lumen flow  
+- Aortic size measurement  
+- Aortic tortuosity  
+- Plaque burden  
+- Calcification  
+- Branch vessel ostia  
+- Intravascular filling defects (e.g., thrombus, dissection flap)  
+- Landing zone assessment  
+- Dissection flap  
+- Sinus‑to‑sinus (S‑S) measurement  
+- Sinus‑to‑commissure (S‑C) measurement  
+- Aortic root area (A) measurement  
+- Acoustic shadowing from trachea  
+- Intragastric (intracaval) imaging terms related to vascular pathology.
+
+Page 22 Extracted Terms:
+- Aortic dissection  
+- Abdominal aortic aneurysm (AAA)  
+- Endovascular repair (including stent grafting)  
+- Intravascular ultrasound (IVUS)  
+- Endoleak  
+- Aortocaval fistula  
+- Mobile atheroma  
+- Arterial stenosis  
+- Mural thrombus  
+- Aortic inflammation  
+- Pseudoaneurysm  
+- Contained rupture  
+- Electro‑cardiographic (implied) imaging of cardiac structures  
+- CT, MRI, and echocardiographic imaging of the aorta  
+- Multidisciplinary aortic team  
+- Coronary artery disease  
+- Valvular heart disease  
+- Cardiac transplantation  
+- Mechanical circulatory support (e.g., ventricular assist devices)  
+- Multidisciplinary heart valve team  
+- High‑volume aortic/heart‑valve center  
+- Intensive care unit (ICU) specialized in acute aortic/heart disease management
+
+Page 23 Extracted Terms:
+- Aortic disease  
+- ACC/AHA Aortic Disease Guideline  
+- Multidisciplinary team  
+- Operative mortality  
+- Thoracic aortic aneurysm (TAA)  
+- Abdominal aortic aneurysm (AAA)  
+- Endovascular repair  
+- Open surgical repair  
+- Aortic root procedures  
+- Aortic valve procedures  
+- Ascending aorta procedures  
+- Proximal thoracic aortic surgery  
+- Hospital procedural volume (quintiles)  
+- Case volume (annual center volume)  
+- Risk‑adjusted odds ratio (OR) for mortality  
+- Mortality advantage with multidisciplinary programs  
+- Surgical outcome improvement with high case volume  
+- Mortality reduction at >20–25 or >50 procedures per year  
+- Standard deviation (±2 SD) in regression analysis of mortality risk
+
+Page 24 Extracted Terms:
+**Key terms related to heart disease**
+
+- Aortic disease  
+- Acute aortic dissection  
+- Type A aortic dissection  
+- Thoracic aortic disease (TAD)  
+- Aortic aneurysm (AAA)  
+- Aortic root procedures  
+- Open surgical repair  
+- Endovascular repair  
+- High‑volume surgeons / high‑volume centers  
+- Multidisciplinary aortic teams  
+- Shared decision‑making  
+- Cardiovascular risks of pregnancy  
+- Prophylactic aortic surgery  
+- Mode of delivery (in pregnancy context)  
+- Mortality rate (30‑day, overall)  
+- Risk‑adjusted mortality rate (A/P ratio)  
+- Cross‑clamp times  
+- Case volume (center and surgeon)  
+- Decision aids for aneurysm treatment  
+
+These terms encapsulate the core concepts and clinical focus points discussed in the guideline excerpt.
+
+Page 25 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+1. Aortic aneurysm  
+2. Thoracic aortic aneurysm (TAA)  
+3. Aortic root aneurysm  
+4. Ascending aorta aneurysm  
+5. Descending aorta aneurysm  
+6. Aortic arch aneurysm  
+7. Aortic dissection  
+8. Type B aortic dissection  
+9. Aortic root repair (valve‑sparing)  
+10. Valved‐conduit aortic root replacement  
+11. Thoracic endovascular aortic repair (TEVAR)  
+12. Aortic aneurysm surveillance  
+13. Aortic root index (z‑score)  
+14. Aortic dilation  
+15. Aortic disease  
+16. Marfan syndrome  
+17. Loeys‑Dietz syndrome  
+18. Vascular Ehlers‑Danlos syndrome  
+19. Smooth muscle dysfunction syndrome  
+20. Bicuspid aortic valve (BAV)  
+21. Coarctation of the aorta  
+22. Turner syndrome  
+23. Complex congenital heart defects  
+24. Tetralogy of Fallot  
+25. Transposition of the great vessels  
+26. Truncus arteriosus  
+27. Aortic valve disease  
+28. Aortitis  
+29. Giant cell arteritis  
+30. Takayasu arteritis  
+31. Behçet disease  
+32. Immunoglobulin G4‑related disease  
+33. Antineutrophil‑cytoplasmic‑antibody‑related disease  
+34. Sarcoidosis  
+35. Bacterial aortitis  
+36. Fungal aortitis  
+37. Syphilitic aortitis  
+38. Traumatic aortic injury  
+39. Hypertension (as a risk factor)  
+40. Smoking (as a risk factor)  
+41. Hypercholesterolemia (as a risk factor)  
+42. Familial thoracic aortic aneurysm (no identified gene)  
+43. Aortic root and ascending thoracic aorta aneurysms (heritable)  
+44. Aortic root and ascending thoracic aorta aneurysms (degenerative)  
+45. Aortic root and ascending thoracic aorta aneurysms (idiopathic)  
+46. ACTA2  
+47. MYH11  
+48. PRKG1  
+49. MYLK  
+50. FLNA  
+51. BGN  
+52. LOX  
+53. AAA (abdominal aortic aneurysm)  
+54. Open surgical repair of AAA  
+55. Endovascular repair of AAA  
+56. Medical therapy for aortic disease  
+57. Shared decision‑making (clinical process)  
+58. Imaging modalities for aortic surveillance  
+59. Conception and pregnancy in aortic disease  
+60. Mode of delivery in aortic disease  
+
+These terms capture the major anatomical locations, disease entities, syndromic associations, genetic markers, management strategies, and clinical decision‑making factors relevant to heart and aortic disease described in the guideline excerpt.
+
+Page 26 Extracted Terms:
+- Aortic disease  
+- Aortic root  
+- Ascending aorta  
+- Aneurysms (aorta)  
+- Aortic root aneurysm  
+- Ascending aortic aneurysm  
+- ACC/AHA guideline  
+- Clinical statements  
+- Clinical guidelines  
+- Management of aortic aneurysm  
+- Causative factors of aortic aneurysm  
+- Circulation (journal reference)
+
+Page 27 Extracted Terms:
+- Thoracic aortic disease (TAD)  
+- Thoracic aortic aneurysm and dissection (TAAD)  
+- Loeys‑Dietz syndrome (LDS)  
+- Marfan syndrome (MFS)  
+- Vascular Ehlers‑Danlos syndrome (vEDS)  
+- Variants of unknown significance (VUS)  
+- Aneurysms (typically asymptomatic)  
+- Genetic testing (for syndromic features, family history, early onset)  
+- Syndromic features  
+- Family history of TAD  
+- Early age of disease onset  
+- Thoracic aortic imaging  
+- First‑degree relatives screening  
+- Gene‑based management  
+- Cascade testing of at‑risk relatives  
+- Screening aortic imaging (if testing negative or VUS)
+
+Page 28 Extracted Terms:
+- Thoracic aortic aneurysm (TAA)  
+- Ascending aortic aneurysm  
+- Aortic root aneurysm  
+- Descending thoracic aorta  
+- Aortic dissection  
+- Aortic calcification  
+- Atheroma  
+- Heritable thoracic aortic disease (HTAD)  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Vascular Ehlers‑Danlos syndrome  
+- Pathogenic variant  
+- Likely pathogenic variant  
+- Genetic testing  
+- Genetic counseling  
+- Cascade testing  
+- Familial thoracic aortic disease (TAD)  
+- Sporadic TAA  
+- Degenerative aneurysm  
+- Atherosclerosis risk factors  
+- Hypertension  
+- Diabetes mellitus  
+- Smoking  
+- Peripheral aneurysm  
+- Intracranial aneurysm  
+- Multigenerational family history of TAD  
+- Unexplained sudden death  
+- Imaging modalities: computed tomography (CT), magnetic resonance imaging (MRI), transthoracic echocardiography (TTE)  
+- Medical management of aneurysm disease  
+- Surgical and endovascular management of aneurysms  
+- Risk factors for familial TAD (age < 60 y, family history, sudden death)
+
+Page 29 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Thoracic aortic aneurysm (TAA)  
+- Ascending aortic aneurysm  
+- Aortic root aneurysm  
+- Aortic root dilation  
+- Aortic dissection (type A, type B)  
+- Thoracic aortic dissection (TAD)  
+- Heritable thoracic aortic disease (HTAD)  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Ehlers‑Danlos syndrome (vascular type)  
+- Genetic testing (multigene panel)  
+- Pathogenic variant (in HTAD genes)  
+- Likely pathogenic variant (in HTAD genes)  
+- Variant of uncertain significance (VUS)  
+- Cascade genetic testing / screening  
+- Imaging for aortic disease (CT, MRI, echocardiography)  
+- Penetrance (high/low)  
+- Autosomal dominant inheritance  
+- Aortic root diameter < 5.0 cm (risk threshold)  
+- Intracranial aneurysm  
+- Occlusive vascular disease  
+- Early‑onset stroke  
+- Coronary artery disease  
+- Aortic root distortion  
+- Aortic enlargement (asymptomatic)  
+
+**Genes highlighted as causing or contributing to HTAD**  
+
+- FBN1  
+- TGFBR1  
+- TGFBR2  
+- SMAD3  
+- TGFB2  
+- ACTA2  
+- MYH11  
+- MYLK  
+- LOX  
+- PRKG1  
+
+These terms capture the primary cardiovascular conditions, diagnostic concepts, genetic risk factors, and associated vascular manifestations discussed in the guideline.
+
+Page 30 Extracted Terms:
+- Aortic root  
+- Ascending aorta  
+- Thoracic aortic aneurysm (TAA)  
+- Thoracic aortic dissection (TAD)  
+- Heritable thoracic aortic aneurysm/dissection (HTAD)  
+- Nonsyndromic heritable thoracic aortic aneurysm (nsHTAD)  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Extracellular matrix proteins  
+- Transforming growth factor‑β (TGF‑β) pathway  
+- Pathogenic variant  
+- Genetic testing  
+- Aortic imaging  
+- Aortic diameter  
+- Rapid aortic growth  
+- Unexplained sudden death  
+- Family history of aortic dissection  
+- High‑risk features for adverse aortic events  
+- Surgical repair (aortic root/ascending aorta)  
+- Multidisciplinary aortic team  
+- Cardiothoracic surgery  
+- Aortic repair threshold (≥5.0 cm, ≥4.5 cm)  
+- Aortic dilation  
+- Aneurysm screening  
+- Cardiovascular complications  
+- Genetic penetrance  
+- Early onset sporadic TAD  
+- Aortic dissection risk assessment  
+- Aortic repair timing  
+- Aortic growth rate  
+- Genetic causes of aortic disease  
+- Systemic features of syndromic HTAD  
+- Multiorgan phenotype  
+- Aortic size at dissection or repair  
+- Dissection at a small aortic diameter  
+- Sudden death at age < 50 years  
+
+Page 31 Extracted Terms:
+**Key heart‑disease related terms extracted from the guideline text**
+
+- Acute aortic dissection  
+- Aortic rupture  
+- Aortic root  
+- Ascending aorta  
+- Thoracic aortic aneurysm (TAA)  
+- Thoracic aortic dissection (TAD)  
+- Heritable thoracic aortic disease (HTAD)  
+- Non‑segregating heritable thoracic aortic disease (nsHTAD)  
+- Mendelian genetic variants  
+- Prophylactic aortic surgery  
+- Surgical threshold (e.g., 5.0 cm, 4.5 cm, 5.5 cm)  
+- Multidisciplinary aortic team  
+- Operative mortality  
+- Life‑expectancy reduction  
+- Aortic diameter  
+- Aortic growth rate  
+- Familial thoracic aortic aneurysm and dissection (FTAD)  
+- Genetic testing for thoracic aortic disease  
+- Lifelong surveillance  
+- Acute presentation  
+- Recurrent aortic reintervention  
+- Revascularization failure  
+- Marfan syndrome  
+- Ectopia lentis (clinical sign of Marfan)  
+- Echocardiographic imaging (TTE)  
+- Computed tomography (CT) of the thoracic aorta  
+- Magnetic resonance imaging (MRI) of the thoracic aorta  
+- Aortic imaging surveillance schedule  
+- Rate of aortic dilation  
+- Sudden death risk  
+- Age at aortic event  
+- Aortic root aneurysm  
+- Ascending aortic aneurysm  
+- Aortic dissection thresholds  
+
+These terms capture the core cardiovascular concepts, diagnostic approaches, risk stratification factors, and therapeutic strategies emphasized in the guideline text.
+
+Page 32 Extracted Terms:
+- Marfan syndrome  
+- Aortic root dilation  
+- Aortic root aneurysm  
+- Type A aortic dissection  
+- Type B aortic dissection  
+- Aortic aneurysm  
+- Thoracic aortic aneurysm (TAA)  
+- Abdominal aortic aneurysm (AAA)  
+- Aortic arch involvement  
+- Ascending aorta dilation  
+- Descending aorta dilation  
+- Aortic root replacement  
+- Surgical aortic root replacement  
+- Prophylactic aortic root replacement  
+- Beta blocker  
+- Angiotensin receptor blocker (ARB)  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Computed tomography (CT)  
+- Magnetic resonance imaging (MRI)  
+- Aortic diameter  
+- Aortic growth rate  
+- Heart rate  
+- Myocardial contractility  
+- Graft infection  
+- Pseudoaneurysm  
+- Aortic dissection distal to graft  
+- Sinus of Valsalva
+
+Page 33 Extracted Terms:
+- Marfan syndrome  
+- Aortic root  
+- Aortic root diameter  
+- Aortic root replacement  
+- Ascending aorta  
+- Aortic root and ascending aorta surgery  
+- Valve‑sparing root replacement (VSRR)  
+- Multidisciplinary aortic team  
+- Aortic dissection  
+- Aortic aneurysm  
+- Aortic growth rate  
+- Rapid aortic growth (≥ 0.3 cm/year)  
+- Aortic dilation  
+- Aortic root area / cross‑sectional aortic root area  
+- Patient height ratio (aortic root area to height)  
+- Prophylactic aortic root replacement  
+- Survival benefit of elective aortic repair  
+- Family history of aortic dissection  
+- Diffuse aortic root and ascending aortic dilation  
+- Vertebral arterial tortuosity  
+- Beta‑blocker therapy  
+- Losartan (angiotensin II type‑1 receptor blocker)  
+- ARB (angiotensin receptor blocker)  
+- Aortic surgery threshold (≥ 5.0 cm, ≥ 4.5 cm)  
+- Clinical events (including aortic surgery, aortic dissection)  
+- Aortic root growth rate  
+- Aortic arch/hemiarch replacement (in some surgical centers)  
+- Aortic root growth rate slowing with combination therapy  
+- Aortic root replacement indications (rapid growth, family history, pregnancy, severe valve regurgitation, patient preference)  
+- Prognostic factors for aortic complications in Marfan syndrome.
+
+Page 34 Extracted Terms:
+- Aortic diameters  
+- Aortic event rates  
+- Aortic dissection  
+- Aortic root replacement  
+- Prophylactic aortic root replacement  
+- Composite valved graft conduit  
+- Modified Bentall procedure  
+- Valve‑sparing aortic root replacement (VSRR)  
+- David procedure  
+- Mechanical prosthetic aortic valve  
+- Bioprosthetic aortic valve  
+- Marfan syndrome  
+- Aortic aneurysm  
+- Aortic arch aneurysm  
+- Descending thoracic aorta aneurysm  
+- Abdominal aorta aneurysm  
+- Aneurysmal segment replacement  
+- Aortic arch replacement  
+- Ascending aorta replacement  
+- Aortic root diameter threshold (≥5.0 cm)  
+- Aortic regurgitation (AR)  
+- Left ventricular outflow tract (LVOT)  
+- Aortic graft  
+- Coronary artery reimplantation  
+- Surgical risk assessment  
+- Multidisciplinary aortic team  
+- Imaging: transthoracic echocardiogram (TTE)  
+- Imaging: magnetic resonance imaging (MRI)  
+- Imaging: computed tomography (CT)  
+- Surveillance imaging intervals  
+- Loeys‑Dietz syndrome  
+- Aortic tortuosity  
+- Aortic rupture  
+- Aortic growth rate  
+- Family history of aortic disease.
+
+Page 35 Extracted Terms:
+- Loeys‑Dietz syndrome  
+- Aortic root aneurysm  
+- Ascending aortic aneurysm  
+- Aortic dissection  
+- Thoracic aortic disease (TAD)  
+- Branch vessel aneurysm/aneurysmal disease  
+- Cerebral aneurysm  
+- Arterial tortuosity  
+- Bicuspid aortic valve (BAV)  
+- Transthoracic echocardiography (TTE)  
+- Computed tomography (CT) imaging  
+- Magnetic resonance imaging (MRI)  
+- Aortic root diameter  
+- Ascending aortic diameter  
+- Aortic enlargement / dilation  
+- Aortic size monitoring  
+- Aortic surveillance imaging  
+- Aortic surgery / repair  
+- Beta blocker therapy  
+- Angiotensin receptor blocker (ARB) therapy  
+- Marfan syndrome  
+- TGFBR1 (gene)  
+- TGFBR2 (gene)  
+- SMAD3 (gene)  
+- TGFB2 (gene)  
+- TGFB3 (gene)
+
+Page 36 Extracted Terms:
+- Loeys‑Dietz syndrome  
+- Aortic dilation  
+- Aortic root replacement  
+- Ascending aortic replacement  
+- Prophylactic aortic root replacement  
+- Type A aortic dissection  
+- Aortopathy  
+- TGFBR1 pathogenic variant  
+- TGFBR2 pathogenic variant  
+- SMAD3 pathogenic variant  
+- TGFB2 pathogenic variant  
+- TGFB3 pathogenic variant  
+- Beta blockers  
+- Angiotensin‑II receptor blockers (ARBs)  
+- Surgical threshold  
+- Aortic diameter  
+- Aortic growth rate  
+- Extra‑aortic features  
+- Family history (of aortic dissection)  
+- Patient age  
+- Patient sex  
+- Physician and patient preferences  
+- Craniosynostosis  
+- Cleft palate  
+- Hypertelorism  
+- Bifid uvula  
+- Arterial tortuosity  
+- Translucent skin  
+- Thoracic aortic disease  
+- Aortic arch  
+- Descending aorta  
+- Abdominal aorta  
+- Aortic branch vessels  
+- Surgical risk  
+- Aggressive aortopathy  
+- Elective surgery  
+- Elective aortic root replacement  
+- Elective ascending aortic replacement  
+- Prophylactic surgery  
+- Progressive aneurysmal dilation  
+- Multiple operative interventions  
+- Imaging modality  
+- Genetic variant  
+- High‑risk features  
+- Small body size  
+- Aortic root diameter threshold  
+- Aortic arch replacement  
+- Descending aortic replacement  
+- Abdominal aortic replacement  
+- Aortic dissection risk  
+- Aortic root diameter ≥ 4.0 cm  
+- Aortic root diameter ≥ 4.5 cm  
+- Aortic root diameter ≥ 5.0 cm  
+
+
+
+
+Page 37 Extracted Terms:
+- Aortic dissection  
+- Aortic aneurysm  
+- Aortic root replacement  
+- Aortic dilation (aortic enlargement)  
+- Aortic growth rate  
+- Aortic diameter  
+- Ascending aorta  
+- Descending aorta  
+- Aortic arch  
+- Distal ascending aorta  
+- Abdominal aorta  
+- Coarctation of the aorta  
+- Bicuspid aortic valve (BAV)  
+- Loeys‑Dietz syndrome  
+- Vascular Ehlers‑Danlos syndrome  
+- Turner syndrome  
+- Prophylactic aortic surgery  
+- Aortic repair (open surgery, endovascular repair)  
+- Surgical intervention for aortic aneurysm  
+- Aortic surveillance imaging  
+- Transthoracic echocardiography (TTE)  
+- Cardiac magnetic resonance imaging (MRI)  
+- Computed tomography (CT) angiography  
+- Baseline MRI/CT for aorta and branches  
+- Annual surveillance imaging  
+- Interventional techniques (arterial embolization, endovascular therapy)  
+- Beta‑blockers (celiprolol, vasodilatory beta‑blockers)  
+- Angiotensin‑II receptor blockers (ARBs)  
+- Multidisciplinary Aortic Team  
+- ASI (aortic size index) – ratio of aortic diameter to body surface area  
+- Pregnancy‑related cardiovascular risk in connective‑tissue disorders  
+- Cesarean delivery (in vascular Ehlers‑Danlos syndrome)  
+- Wound complications, vascular fragility, bleeding complications  
+- Lifestyle modification for aortic disease  
+- Avoidance of invasive procedures in fragile vasculature.
+
+Page 38 Extracted Terms:
+- Turner syndrome  
+- Aortic dissection  
+- Aortic dilation (aortic aneurysm)  
+- Bicuspid aortic valve (BAV)  
+- Aortic coarctation  
+- Hypertension  
+- Ascending aorta  
+- Aortic root  
+- Aortic diameter  
+- Aortic size index (ASI) – indexed aortic diameter (cm / m²)  
+- Body surface area (BSA)  
+- TTE (transthoracic echocardiography)  
+- Cardiac MRI  
+- Surveillance imaging (routine aortic imaging)  
+- Prophylactic surgical replacement (aortic root/ascending aorta)  
+- Short stature (growth-related risk factor)  
+- Z‑score for aortic diameter (Turner‑specific)  
+- Imaging intervals (5‑year, 10‑year, 2‑3‑year, annual)  
+- Risk‑factor categories (aortic dilation, BAV, aortic coarctation, hypertension)  
+- Aortic valve function assessment  
+- Retrospective series / case study data (guideline evidence)
+
+Page 39 Extracted Terms:
+- Turner syndrome  
+- Aortic dissection (type A, type B)  
+- Aortic disease / thoracic aortic disease (TAD)  
+- Aortic dilation / aortic aneurysm  
+- Aortic diameter (> 4.0 cm)  
+- Aortic size index (ASI)  
+- Aortic root  
+- Ascending aorta  
+- Descending aorta  
+- Coarctation of the aorta (CoA)  
+- Bicuspid aortic valve (BAV)  
+- Aortic valve dysfunction  
+- Hypertension (HTN)  
+- Left ventricular hypertrophy (LVH)  
+- Coronary artery disease (CAD)  
+- Cerebrovascular disease  
+- ACTA2, PRKG1, MYH11, MYLK, LOX (pathogenic gene variants)  
+- Autosomal dominant inheritance  
+- Highly penetrant risk  
+- Transthoracic echocardiography (TTE)  
+- Computed tomography (CT)  
+- Magnetic resonance imaging (MRI)  
+- Surveillance imaging / annual imaging  
+- Beta‑blocker therapy  
+- Aortic surgical intervention  
+- Aortic monitoring protocol (for girls and women ≥ 15 years)  
+- Aortic monitoring frequency (surveillance frequency)  
+- Aortic size measurement thresholds  
+- Aortic surgical criteria (risk of aortic dissection)
+
+Page 40 Extracted Terms:
+- Bicuspid Aortic Valve (BAV)  
+- BAV Aortopathy  
+- Aortic dilation  
+- Aortic root aneurysm  
+- Ascending aorta aneurysm  
+- Aortic dissection (type A, type B)  
+- Thoracic aorta  
+- Aortic arch dilation  
+- Aortic coarctation  
+- Heritable Thoracic Aortic Disease (HTAD)  
+- Nonsyndromic HTAD  
+- Marfan syndrome (mild systemic features)  
+- Loeys‑Dietz syndrome  
+- Genetic variants: ACTA2, PRKG1, MYH11, MYLK, LOX  
+- Transthoracic echocardiography (TTE)  
+- Computed tomography (CT) of the thoracic aorta  
+- Magnetic resonance imaging (MRI) of the thoracic aorta  
+- Aortic repair (surgical or prophylactic)  
+- Aortic diameter thresholds (< 4.5 cm, < 5.0 cm, 4.5 cm, 4.2 cm, 4.0 cm)  
+- Aortic growth rate (≈ 0.3 cm/year)  
+- Family history of type A aortic dissection  
+- Valve morphology and function (stenosis, regurgitation)  
+- Infective endocarditis (risk factor)  
+- Screening of first‑degree relatives  
+- Lifelong surveillance imaging of the aorta  
+- Genetic evaluation for high‑risk phenotypes  
+- Surgical thresholds for prophylactic aortic root and ascending aorta replacement.
+
+Page 41 Extracted Terms:
+- Bicuspid aortic valve (BAV)  
+- Aortic dilation  
+- Aortic root dilation  
+- Ascending aorta dilation  
+- Aortic arch dilation  
+- Proximal descending aorta dilation  
+- Aortic coarctation  
+- Aortic dissection  
+- Aortic aneurysm  
+- Aortic rupture  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Cardiac magnetic resonance imaging (MRI)  
+- Cardiac computed tomography (CT)  
+- Cardiac computed tomography angiography (CTA)  
+- Genetic testing  
+- Loeys‑Dietz syndrome  
+- TGFBR1 mutation  
+- TGFBR2 mutation  
+- SMAD3 mutation  
+- TGFB2 mutation  
+- TGFB3 mutation  
+- NOTCH1 mutation  
+- ACTA2 mutation  
+- MAT2A mutation  
+- SMAD6 mutation  
+- LOX gene mutation  
+- Heritable thoracic aortic disease (HTAD)  
+- Aortopathy  
+- Autosomal dominant inheritance  
+- Incomplete penetrance  
+- Obligates carriers  
+- First‑degree relatives  
+- Cascade evaluation  
+- Aortic valve repair  
+- Aortic valve replacement (AVR)  
+- Aortic regurgitation (AR)  
+- Aortic stenosis (AS)  
+- Lifelong surveillance imaging  
+- Imaging interval based on aortic diameter and growth rate  
+- Aortic event (dissection, aneurysm >5 cm, surgery)  
+- Cost‑effective screening of relatives  
+- TTE screening for BAV and aortopathy  
+- Risk stratification for aortic disease  
+
+*(Each term represents a key concept or entity related to heart disease as discussed in the guideline excerpt.)*
+
+Page 42 Extracted Terms:
+- Bicuspid aortic valve (BAV)  
+- Aortic valve replacement (AVR)  
+- Aortic regurgitation (AR)  
+- Aortic root dilation  
+- Ascending aortic diameter  
+- Thoracic aortic aneurysm (TAA)  
+- Aortic dissection  
+- Aortic growth rate  
+- Aortic cross‑sectional area  
+- Aortic root replacement (including VSRR)  
+- Ascending aortic replacement  
+- Surgical thresholds for aortic surgery  
+- Multidisciplinary aortic team  
+- BAV aortopathy  
+- Root phenotype aortopathy  
+- Aortic coarctation  
+- Family history of aortic dissection  
+- Rapid aortic growth (≥ 0.3 cm/y)  
+- Hinge points for ascending aorta (≥ 5.25 – 5.75 cm)  
+- Prophylactic aortic repair  
+- Aortic diameter ≥ 4.0 cm (dilated)  
+- Aortic diameter ≥ 4.5 cm (considered for concomitant surgery)  
+- Aortic diameter ≥ 5.0 – 5.4 cm (indicates higher risk)  
+- Aortic diameter ≥ 5.5 cm (surgical recommendation)  
+- Aortic root or ascending aortic area to height ratio (≥ 10 cm²/m)  
+- Adverse aortic events  
+- Surveillance imaging for aortic monitoring  
+
+These terms capture the key concepts related to heart disease and aortic pathology discussed in the guideline excerpt.
+
+Page 43 Extracted Terms:
+- Aortic disease  
+- Aortic root replacement  
+- Elective aortic root replacement  
+- Aortic root dilation  
+- Bicuspid aortic valve (BAV)  
+- Aortic valve intervention (AVR)  
+- Aortic stenosis  
+- Aortic regurgitation (AR)  
+- Aortic aneurysm (AA)  
+- Aortic dilation  
+- Aortic dissection  
+- Abdominal aortic aneurysm (AAA)  
+- Thoracic aortic aneurysmal disease  
+- Inflammatory aortitis  
+- Takayasu arteritis  
+- Giant cell arteritis (GCA)  
+- Concomitant prophylactic aortic repair  
+- Medial degeneration of the aortic wall  
+- Intraluminal thrombus  
+- Oxidative stress  
+- Smooth muscle cell apoptosis  
+- Proteolysis of the extracellular matrix  
+- Adventitial inflammation  
+- Surgical risk (low, moderate, high)  
+- Long life expectancy  
+- Ultrasound screening for AAA  
+- Screening recommendations for AAA  
+- Common risk factors for AAA  
+- Older age  
+- Male sex  
+- Smoking history (≥100 cigarettes)  
+- Hypertension  
+- Hyperlipidemia  
+- Family history of AAA  
+- Inherited vascular connective tissue disorder  
+- Atherosclerotic cardiovascular disease  
+- Genetic aortopathies  
+- Growth rate of AAA (mm/year)  
+- Rupture of aortic aneurysm  
+- AAA‑related mortality  
+- AAA‑related rupture  
+- Aortic wall remodeling  
+- Aortic aneurysm prevalence among relatives  
+- Aortic aneurysm screening thresholds (e.g., ≥65 yrs)  
+- Aortic aneurysm screening age limits (e.g., <65 yrs with risk factors)  
+- AAA management and repair strategies.
+
+Page 44 Extracted Terms:
+- Abdominal Aortic Aneurysm (AAA)  
+- Aortic aneurysm growth  
+- Aortic dissection  
+- Aortic rupture  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Bicuspid aortic valve (BAV)  
+- Heritable thoracic aortic disease (HTAD)  
+- Screening (ultrasound screening)  
+- Smoking (risk factor for AAA)  
+- Prevalence  
+- Risk factor  
+- Surgical risk  
+- Mortality 
+
+Page 45 Extracted Terms:
+- Aortic aneurysm  
+- Thoracic aortic aneurysm (TAA)  
+- Abdominal aortic aneurysm (AAA)  
+- Aortic root growth  
+- Aortic arch aneurysm  
+- Ascending aortic aneurysm  
+- Descending aortic aneurysm  
+- Bicuspid aortic valve (BAV)  
+- Tricuspid aortic valve (TAV)  
+- Aortic dilation  
+- Aortic dissection  
+- Aortic rupture  
+- Aortic repair  
+- Blood pressure (BP) management  
+- Systolic blood pressure (SBP)  
+- Diastolic blood pressure (DBP)  
+- Beta blockers  
+- Angiotensin‑II receptor blockers (ARBs)  
+- Antihypertensive therapy  
+- Statins  
+- Myocardial infarction  
+- Stroke  
+- Hypertension  
+- Vascular‑related adverse events  
+- All‑cause mortality  
+- SPRINT (Systolic Blood Pressure Intervention Trial)  
+- Marfan syndrome  
+- Genetic aortopathies  
+- Proteolysis pathways  
+- Medial degeneration  
+- Shear stress  
+- Inflammatory pathways  
+- Atherosclerotic pathways  
+- ACC/AHA guideline  
+- Clinical risk factors  
+- Non‑aortic cardiovascular events  
+- Intensive BP control  
+- Optimal BP thresholds  
+- Randomized clinical trials (RCTs)  
+- Medical therapy for aortic aneurysm disease  
+- Lifestyle modification (e.g., smoking cessation)  
+- Angiotensin‑II receptor blockers (ARB) therapy  
+- Beta‑blocker therapy as adjunct to ARB  
+- BP targets (≤130 mm Hg systolic, ≤80 mm Hg diastolic)  
+- Intensive SBP goal (<120 mm Hg)  
+- Aortic wall stress  
+- Aortic growth rate.
+
+Page 46 Extracted Terms:
+- Aortic aneurysm  
+- Thoracic aortic aneurysm (TAA)  
+- Aortic root growth  
+- Aortic dissection  
+- Aortic complications  
+- Aortic root  
+- Aortic disease (TAD)  
+- Marfan syndrome  
+- Bicuspid aortic valve (BAV)  
+- Atherosclerosis  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Cardiovascular events  
+- Myocardial infarction  
+- Stroke  
+- Peripheral artery disease  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Beta‑blockers (β‑blockers)  
+- Propranolol  
+- β‑adrenergic blocking drugs  
+- Angiotensin‑II receptor blockers (ARBs)  
+- Valsartan  
+- Statins  
+- High‑intensity statin therapy  
+- Moderate‑intensity statin therapy  
+- Low‑density lipoprotein (LDL)  
+- Cholesterol lowering  
+- Matrix metalloproteinase (MMP) activity  
+- Pleiotropic effects of statins  
+- 2017 Hypertension Clinical Practice Guideline  
+- 2010 ACC/AHA thoracic aortic disease guidelines  
+- 2018 AHA/ACC Guideline on the Management of Blood Cholesterol  
+- 2016 AHA/ACC Guideline on the Management of Patients With Lower Extremity Peripheral Artery Disease  
+- National Cholesterol Education Program Adult Treatment Panel III (NCEP ATP III)  
+- Cholesterol Treatment Trialists’ Collaboration  
+- Level of Evidence (LOE)  
+- Correlation of Risk (COR)
+
+Page 47 Extracted Terms:
+- Thoracic aortic aneurysm (TAA)  
+- Abdominal aortic aneurysm (AAA)  
+- Atherosclerotic TAA  
+- Penetrating atherosclerotic ulcer (PAU)  
+- Aortic atheroma  
+- Atherosclerotic aortic disease  
+- Aortic aneurysms (general)  
+- Coronary artery disease (CAD)  
+- Myocardial infarction  
+- Stroke  
+- Cardiovascular events  
+- Blood pressure (BP)  
+- Systolic BP (SBP)  
+- Diastolic BP (DBP)  
+- Hypertension  
+- Antihypertensive medication  
+- Beta blockers  
+- Renin‑angiotensin system agents  
+- Antiplatelet therapy  
+- Low‑dose aspirin (75–162 mg/d)  
+- Cardiovascular risk factor modification  
+- Smoking cessation  
+- Secondhand smoke exposure  
+- E‑cigarettes  
+- Nicotine replacement therapy  
+- Bupropion  
+- Varenicline  
+- 5 A’s (Ask, Advise, Assess, Assist, Arrange)  
+
+These terms capture the key heart‑related concepts discussed in the guideline excerpt.
+
+Page 48 Extracted Terms:
+- Systolic blood pressure (SBP)  
+- Intensive BP control (<120 mm Hg)  
+- Aortic aneurysm (AAA)  
+- Aortic atherosclerosis  
+- Abdominal aortic aneurysm (AAA)  
+- Peripheral artery disease (PAD)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Coronary artery disease (CAD) equivalent  
+- Statin therapy (moderate/high intensity)  
+- Low‑density lipoprotein (LDL)  
+- Blood cholesterol  
+- Myocardial infarction (MI)  
+- Stroke  
+- Cardiovascular events  
+- Perioperative outcomes  
+- Smoking cessation  
+- Nicotine replacement therapy  
+- Bupropion  
+- Varenicline  
+- Matrix metalloproteinase‑9 (MMP‑9)  
+- Interleukin‑6 (IL‑6)  
+- 5A’s (Ask, Advise, Assess, Assist, Arrange)  
+- Aortic repair (surgical, endovascular)  
+- EuroSTAR registry  
+- Ruptured AAA  
+- AAA growth rate  
+- Cardiovascular mortality  
+- Non‑coronary atherosclerotic disease  
+
+These are the key terms related to heart disease and cardiovascular health identified in the guideline text.
+
+Page 49 Extracted Terms:
+- Abdominal aortic aneurysm (AAA)  
+- Thoracic aortic dilation (TAD)  
+- Thoracic aortic aneurysm (TAA)  
+- Aortic valve anatomy  
+- Aortic valve function  
+- Aortic enlargement / growth rate  
+- Antithrombotic therapy (including antiplatelet therapy)  
+- Low‑dose aspirin (75–162 mg daily)  
+- Atherosclerotic aortic disease  
+- Atheroma  
+- Penetrating aortic ulcer (PAU)  
+- Intraluminal thrombus  
+- Platelet activation  
+- Inflammatory cells (within thrombus)  
+- Fibrin (matrix of thrombus)  
+- Cardiovascular events (e.g., stroke, myocardial infarction, coronary artery disease, cardiovascular mortality)  
+- Coronary artery disease equivalent  
+- Smoking cessation (risk factor reduction)  
+- E‑cigarette use (vascular remodeling)  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Computed tomography (CT) of the aorta  
+- Magnetic resonance imaging (MRI) of the aorta  
+- ACC/AHA guidelines for aortic disease  
+- AHA/ACC secondary‑prevention guidelines for atherosclerotic vascular disease.
+
+Page 50 Extracted Terms:
+- Aortic root
+- Ascending aortic
+- Aortic diameter
+- Aneurysm (aortic aneurysm)
+- Aortic aneurysm (AAA)
+- Abdominal aortic dilation
+- Surgical threshold
+- Aneurysm cause
+- Electrocardiographic‑gated imaging
+- Transthoracic echocardiography (TTE)
+- Computed tomography (CT)
+- Magnetic resonance imaging (MRI)
+- Ultrasound
+- Interval change
+- Aortic growth rate
+- Surveillance imaging
+- Preoperative planning
+- Risk of rupture
+- Rupture threshold (≥5.5 cm men, ≥5.0 cm women)
+
+Page 51 Extracted Terms:
+- Aortic aneurysm  
+- Aortic root aneurysm  
+- Ascending aortic aneurysm  
+- Thoracic aortic aneurysm (TAA)  
+- Abdominal aortic aneurysm (AAA)  
+- Juxtarenal aorta  
+- Infrarenal aorta  
+- Aortic arch  
+- Thoracoabdominal aorta  
+- Aortic dissection  
+- Aortic rupture  
+- Aortic-related death  
+- Aneurysmal sac  
+- Prosthetic graft  
+- Endovascular stent graft  
+- Endovascular repair  
+- Open aortic surgery  
+- Aortic valve repair  
+- Tricuspid aortic valve replacement  
+- Aortic valve replacement  
+- Computed Tomography (CT) imaging  
+- Tomographic imaging  
+- Aortic diameter  
+- Maximum aortic diameter  
+- Aortic wall stress  
+- Wall shear stress  
+- Aortic cross‑sectional area  
+- Aortic area/height ratio  
+- Aortic surface index (ASI)  
+- Aortic height index (AHI)  
+- Multidisciplinary Aortic Team  
+- FDA‑approved stent graft devices  
+- Investigational stent graft devices  
+- Physician‑ and industry‑sponsored clinical trials  
+- Long‑term surveillance after endovascular repair  
+- Aneurysm sac enlargement risk  
+- Growth rate of an aneurysm (≥0.3 cm/year, ≥0.5 cm/yr)  
+- Aortic root or ascending aorta surgical indications  
+- Aortic root or ascending aorta non‑surgical indications  
+- Height >1 standard deviation criterion  
+- BSA (body surface area) indexed parameters  
+- LaPlace’s law in aortic wall stress  
+- Wall strength vs. wall stress dynamics  
+- Risk of adverse aortic events (dissection, rupture, sudden death)
+
+Page 52 Extracted Terms:
+Aortic aneurysm  
+Aortic dissection (acute type A)  
+Ascending thoracic aorta  
+Aortic root  
+Maximum aortic diameter  
+Bicuspid aortic valve (BAV)  
+Tricuspid aortic valve  
+Valve repair (aortic)  
+Valve replacement (aortic)  
+Aortic root replacement  
+Cardiac surgery  
+Surgical repair (aortic)  
+Concomitant aortic surgery  
+Prophylactic aortic replacement  
+Growth rate (aneurysm)  
+Rupture (aortic)  
+Mortality (elective surgery)  
+Risk prediction (aortic disease)  
+Multidisciplinary Aortic Team  
+Medical surveillance (aortic)  
+Cardiac‑gated CT  
+MRI (aortic imaging)  
+Centerline measurement technique  
+Prospective multicenter RCT (aortic)  
+Genetic aortic disorder  
+Aortic expansion  
+Aortic diameter threshold (5.0 cm, 5.5 cm)
+
+Page 53 Extracted Terms:
+- aortic diameter  
+- aortic area  
+- aortic stiffness  
+- peak aortic wall stress  
+- cross‑sectional aortic area to height ratio  
+- ascending aortic aneurysm (TAA)  
+- aortic root aneurysm  
+- tricuspid aortic valve (tricuspid)  
+- bicuspid aortic valve (BAV)  
+- aortic root replacement  
+- ascending aorta replacement  
+- aortic valve repair  
+- aortic valve replacement  
+- mechanical valve  
+- biological valve  
+- valve‑sparing aortic root replacement  
+- valved conduit  
+- aortic dissection  
+- aortic rupture  
+- sudden death  
+- prophylactic repair  
+- thoracic aortic surgery  
+- operative mortality  
+- STS database  
+- Multidisciplinary Aortic Team  
+- aortic diameter to BSA ratio (ASI)  
+- aortic diameter to height ratio (AHI)  
+- aortic event  
+- surgical threshold  
+- surgical approach  
+- prophylactic intervention  
+- ascending thoracic aortic graft  
+- aortic root replacement surgical criteria  
+
+Page 54 Extracted Terms:
+- Aortic arch aneurysm  
+- Aortic root replacement  
+- Valve‑sparing aortic root replacement  
+- Aortic root aneurysm  
+- Reimplantation technique  
+- Remodeling technique  
+- Open surgical replacement  
+- Hemiarch replacement  
+- Elephant trunk procedure  
+- Hybrid approach  
+- Endovascular approach  
+- Hypothermic circulatory arrest  
+- Branched graft  
+- Cardiopulmonary bypass  
+- Cerebral perfusion (antegrade, selective antegrade, retrograde)  
+- Neuroprotection  
+- Aortic diameter  
+- Intervention threshold  
+- Operative risk (low, intermediate, high)  
+- Aneurysmal disease extension (proximal arch, ascending aorta, descending thoracic aorta)  
+- Aortic dissection  
+- Ortner’s syndrome  
+- Dysphagia aortica  
+- Tracheal compression  
+- Esophageal compression  
+- Superior vena cava syndrome  
+- Thoracic aortic aneurysm  
+- Aortic arch pathology  
+- Aortic arch dilation  
+- Aortic aneurysm symptoms (chest pain, fatigue, neck/jaw/back pain)  
+- Aortic aneurysm risk assessment  
+- Aortic arch repair techniques  
+- Aortic arch replacement strategies
+
+Page 55 Extracted Terms:
+- Aortic disease  
+- Thoracic aortic aneurysm (TAA)  
+- Descending thoracic aortic aneurysm  
+- Aortic arch  
+- Open repair  
+- Endovascular repair  
+- TEVAR (thoracic endovascular aortic repair)  
+- Frozen elephant trunk  
+- Elephant trunk  
+- Endoleak (Type I / Type Ia)  
+- Aneurysm rupture  
+- Aortic dissection  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Vascular Ehlers‑Danlos syndrome  
+- Heritable thoracic aortic disease (HTAD)  
+- Saccular aneurysm  
+- Symptomatic aneurysm  
+- Infectious aneurysm  
+- Aneurysm growth (≥ 0.5 cm / yr)  
+- Size threshold for repair (≥ 5.5 cm, < 5.5 cm with risk factors)  
+- Diameter of aorta (cm)  
+- Perioperative morbidity  
+- Mortality  
+- Advanced age  
+- Pre‑operative renal insufficiency  
+- Genetic aortopathies  
+- Landing zone  
+- Endograft  
+- Hybrid approach  
+- Debranching  
+- Aneurysm‑related events  
+- Surveillance imaging  
+- Monitoring  
+- Surgical repair  
+- Hybrid endovascular approach  
+- Endovascular experience  
+- Investigational devices  
+- Morbidity  
+- Survival (5‑year survival, event‑free survival)
+
+Page 56 Extracted Terms:
+- Aortic aneurysm  
+- Thoracic aortic aneurysm (TAA)  
+- Aortic dissection  
+- Aortic rupture  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Open surgical repair of aorta  
+- Rapid aortic growth (≥ 0.5 cm / year)  
+- Saccular aneurysm morphology  
+- Infected aneurysm  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Vascular Ehlers‑Danlos syndrome  
+- Connective tissue disorder (CTD)  
+- Hypertension‑associated aortic disease (HTAD)  
+- High‑risk features of rupture  
+- Perioperative morbidity  
+- Perioperative mortality  
+- Frailty  
+- Chronic obstructive pulmonary disease (COPD)  
+- Forced expiratory volume in 1 second (FEV1)  
+- Advanced age  
+- Preoperative renal insufficiency / stage 3 chronic kidney disease (CKD)  
+- Hemodialysis  
+- Previous stroke  
+- Iliac access  
+- Zone 1/2 landing for thoracic stent graft  
+- Thoracoabdominal extent of aneurysm  
+- Reintervention rate after TEVAR  
+- Follow‑up aneurysm‑related mortality  
+- 5‑year survival after aortic repair  
+- Volume‑outcomes relationship for open repair  
+- Aortic diameter thresholds (> 6 cm, ≥ 5.5 cm)  
+- Symptomatic aneurysm  
+- Aortic‑related events (rupture or dissection)
+
+Page 57 Extracted Terms:
+- TEVAR (Thoracic Endovascular Aneurysm Repair)  
+- Thoracic endograft / endovascular repair  
+- Open surgical aortic repair  
+- Thoracic aortic aneurysm (TAA) / descending TAA  
+- Aneurysm-related mortality  
+- Aneurysm-related reintervention  
+- Major adverse event rate  
+- Perioperative morbidity  
+- Hospital length of stay  
+- Survival (30‑day, 1‑year, 5‑year, 10‑year)  
+- High‑volume vs. low‑volume surgical centers  
+- Left subclavian artery coverage  
+- Subclavian artery revascularization  
+- Spinal cord injury (SCI)  
+- Stroke risk / thrombo‑embolic complications  
+- Vertebrobasilar insufficiency  
+- Left internal mammary artery (LIMA) coronary bypass graft  
+- Coronary artery bypass graft (CABG)  
+- Left upper‑extremity dialysis access  
+- Iliac artery graft conduit  
+- Endograft sizing  
+- Clinical device trial data  
+- Medicare claims registry data  
+- Retrospective cohort study  
+- Registry study (GREAT, MEDPAR)
+
+Page 58 Extracted Terms:
+- Thoracic endovascular aortic repair (TEVAR)  
+- Thoracic aortic aneurysm (TAA)  
+- Left subclavian artery  
+- Left subclavian artery coverage  
+- Subclavian artery revascularization  
+- Stroke  
+- Spinal cord ischemia (SCI)  
+- Vertebrobasilar insufficiency  
+- Left internal mammary artery (LIMA)  
+- Left anterior descending artery (LAD)  
+- Coronary artery bypass graft (CABG)  
+- Visceral ischemia  
+- Celiac artery  
+- Superior mesenteric artery (SMA)  
+- Aneurysm‑related mortality  
+- Open aortic repair  
+- Myocardial infarction  
+- Perioperative morbidity  
+- Perioperative mortality  
+- Composite endpoint  
+- Endograft migration  
+- Endograft stenosis  
+- Collateral circulation management  
+
+
+
+
+Page 59 Extracted Terms:
+- Thoracic endovascular aortic repair (TEVAR)  
+- Thoracic aortic aneurysm (TAA)  
+- Thoracoabdominal aortic aneurysm (TAAA)  
+- Endovascular stent‑graft delivery system  
+- Iliac artery/iliofemoral access  
+- Computed tomography angiography (CTA)  
+- Percutaneous femoral access  
+- Open surgical cutdown  
+- Subclavian artery coverage  
+- Celiac artery coverage  
+- Aortic rupture  
+- Aortic dissection  
+- Aneurysm size threshold (≥ 6.0 cm, ≥ 5.5 cm)  
+- Rapid aneurysm growth (≥ 0.5 cm/y)  
+- Symptomatic aneurysm  
+- Saccular aneurysm  
+- Penetrating atherosclerotic ulcer  
+- Vascular complications (access‑related)  
+- Multidisciplinary aortic team  
+- Degenerative TAAA  
+- Endovascular techniques (e.g., vessel stenosis treatment)
+
+Page 60 Extracted Terms:
+- Aortic aneurysm  
+- Thoracic aortic aneurysm (TAAA)  
+- Thoracoabdominal aortic aneurysm (TAAA)  
+- Aortic dissection  
+- Aortic rupture  
+- Endovascular repair  
+- Open surgical repair  
+- Fenestrated stent graft  
+- Branched stent graft  
+- Surgical threshold (aortic diameter)  
+- Multidisciplinary Aortic Team  
+- Operative mortality  
+- Aortic‑related events  
+- Aortic‑related death  
+- Hemodynamic stability  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Ehlers‑Danlos syndrome (vascular type)  
+- Rapid aneurysm growth  
+- Symptoms of aneurysm expansion  
+- Aortic surveillance imaging  
+- Aortic diameter  
+- Left ventricular ejection fraction (LVEF)  
+- Preoperative left ventricular dysfunction  
+- Preoperative renal dysfunction  
+- Chronic obstructive pulmonary disease (COPD)  
+- Advanced age  
+- Endovascular stent grafts  
+- Deep hypothermic circulatory arrest  
+- Spinal cord ischemia (SCI)  
+- Post‑operative hemodialysis  
+- Investigational device exemption (IDE)  
+- FDA‑approved devices (for endovascular TAAA repair)
+
+Page 61 Extracted Terms:
+- Thoracoabdominal aortic aneurysm (TAAA)  
+- Aortic aneurysm  
+- Endovascular repair  
+- Open aortic repair  
+- Stent graft  
+- Fenestrated‑branched endovascular aortic repair (FEVAR)  
+- Off‑the‑shelf branched repair  
+- Customized grafts  
+- Spinal cord ischemia (SCI)  
+- Spinal cord dysfunction  
+- Stroke  
+- Cerebrospinal fluid drainage  
+- Hemodynamic instability  
+- Mean arterial pressure (MAP)  
+- Hemoglobin targeting (>10 g/dL)  
+- Volume resuscitation  
+- Aortic reintervention  
+- Long‑term survival / actuarial survival  
+- Multidisciplinary aortic team  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Vascular Ehlers‑Danlos syndrome  
+- End‑organ perfusion  
+- Technical success rate  
+- Operative mortality rate  
+- High‑risk patient selection for aortic procedures  
+- Spinal cord protection strategies  
+- Perioperative morbidity and complications of aortic repair  
+
+Page 62 Extracted Terms:
+- Thoracic aortic aneurysm (TAAA / TAAA)  
+- Open aortic repair  
+- Endovascular aortic repair  
+- Cerebrospinal fluid drainage (CSFD)  
+- Spinal cord injury (SCI)  
+- Paraplegia  
+- Paraparesis  
+- Cardiac complications (post‑operative cardiac events)  
+- Atrial fibrillation  
+- Hypovolemia  
+- Hemorrhage  
+- Infection  
+- Hypothermic circulatory arrest  
+- Left heart bypass  
+- Mean arterial pressure (MAP)  
+- Spinal cord perfusion pressure (SCPP)  
+- Cardiac mortality / short‑ and long‑term cardiac survival  
+- Cardiac perfusion / myocardial oxygen delivery  
+
+These terms capture the heart‑related concepts discussed in the guideline excerpt.
+
+Page 63 Extracted Terms:
+- Left heart bypass circuit  
+- Cardiac complications (e.g., increased cardiac events, 30‑day mortality)  
+- Percutaneous closure devices  
+- Ultrasound‑guided percutaneous access  
+- Common femoral artery (access site for cardiac‑related endovascular procedures)  
+- Local anesthesia (preferred to reduce peri‑operative mortality in cardiac patients)  
+- General anesthesia (associated with higher peri‑operative mortality)  
+- Permissive hypotension (used in hemodynamically unstable cardiac/vascular emergencies)
+
+Page 64 Extracted Terms:
+Key terms related to heart disease found in the text:
+
+- Abdominal aortic aneurysm (AAA)  
+- Ruptured abdominal aortic aneurysm (rAAA)  
+- Endovascular aortic repair (rEVAR / EVAR)  
+- Open aortic repair  
+- Endovascular repair  
+- Endovascular balloon occlusion  
+- Computed tomography angiography (CTA)  
+- Arterial phase imaging  
+- Percutaneous / off‑label endovascular devices  
+- General anesthesia  
+- Local anesthesia  
+- Permissive hypotension  
+- Systolic blood pressure (SBP) 60–90 mm Hg  
+- Hemorrhagic shock  
+- Fluid management in shock  
+- Perioperative death  
+- Long‑term complications  
+- Mortality rate  
+- Survival benefit  
+- Inflammatory response  
+- Body temperature regulation  
+- Blood pressure (BP)  
+- Aneurysm diameter thresholds (≥5.5 cm in men, ≥5.0 cm in women)  
+- Rupture protocols (early imaging, rapid transfer, imaging‑guided repair)
+
+Page 65 Extracted Terms:
+- Abdominal aortic aneurysm (AAA)  
+- Unruptured AAA  
+- Rupture  
+- Aneurysm repair  
+- Saccular aneurysm  
+- Fusiform aneurysm  
+- Maximum diameter  
+- Size thresholds for repair  
+- Aortic size index (ASI)  
+- Body surface area (BSA)  
+- Aortic indexing  
+- UKSAT (UK Small Aneurysm Trial)  
+- ADAM (Aneurysm Detection and Management) trial  
+- CAESAR (Comparison of surveillance vs. Aortic Endografting for Small Aneurysm Repair)  
+- PIVOTAL (Positive Impact of endoVascular Options for Treating Aneurysm early)  
+- Endovascular repair  
+- Open aneurysm repair  
+- Infrarenal AAA  
+- Hemodynamic monitoring  
+- Intensive Care Unit (ICU) admission  
+- Blood‑pressure (BP) control  
+- Symptomatic aneurysm  
+- Back pain  
+- Abdominal pain  
+- Flank pain  
+- Radiating groin pain  
+- Blue‑toe syndrome  
+- Obstructive uropathy  
+- Reintervention  
+- Survival benefit  
+- Mortality  
+- Morbidity  
+- Risk of operative intervention  
+- Risk of rupture  
+- Gender differences in rupture risk  
+- Repair threshold (≥5.5 cm for men, ≥5.0 cm for women)  
+- Aneurysm growth rate (>0.5 cm in 6 months)  
+- Surveillance strategy  
+- Early repair strategy  
+- Cardiopulmonary status optimization
+
+Page 66 Extracted Terms:
+- Abdominal aortic aneurysm (AAA)  
+- Aortic aneurysm  
+- Saccular AAA  
+- Aneurysm growth rate  
+- Aneurysm rupture  
+- Endovascular aneurysm repair (EVAR)  
+- Open infrarenal aortic repair  
+- Fenestrated endovascular device  
+- FDA‑approved fenestrated device  
+- Manufacturer’s instructions for use (IFU)  
+- Cardiopulmonary comorbidities  
+- Renal comorbidities  
+- Perioperative risk  
+- Perioperative morbidity  
+- Perioperative mortality  
+- Graft migration  
+- Endoleak  
+- Late rupture  
+- Aneurysm‑related death  
+- Shared decision‑making  
+- Risk of graft failure  
+- Survival advantage  
+- Hazard ratio  
+- Odds ratio  
+- Aneurysm neck diameter  
+- Neck length  
+- Neck angulation  
+- Iliac seal diameter  
+- Iliac access parameters  
+
+Page 67 Extracted Terms:
+- Cardiac  
+- Cardiac criteria  
+- Acute coronary syndrome (ACS)  
+- Myocardial infarction  
+- Ischemia (heart ischemia)  
+- Cardiovascular risk assessment  
+- Perioperative death/mortality (in cardiac surgical context) 
+
+Page 68 Extracted Terms:
+**Key terms related to heart disease**
+
+- Aortic aneurysm  
+- Thoracic aortic aneurysm (TAA)  
+- Abdominal aortic aneurysm (AAA)  
+- Iliac artery aneurysm (common, internal, external)  
+- Internal iliac artery  
+- External iliac artery  
+- Endoleak (incl. type I, type Ib)  
+- Endovascular aneurysm repair (EVAR)  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Graft infection  
+- Anastomotic pseudoaneurysm  
+- Retrograde type A aortic dissection  
+- Stent‑graft migration  
+- Stent‑graft fracture  
+- Stent‑graft collapse  
+- Buttock claudication  
+- Erectile dysfunction  
+- Spinal ischemia  
+- Bowel ischemia  
+- Gluteal ischemia  
+- Late reintervention  
+- Bifurcated grafting  
+- Aorto‑aortic tube grafting  
+- Surveillance imaging  
+- Computed tomography (CT)  
+- Magnetic resonance imaging (MRI)  
+- Radiation exposure  
+- Iodinated contrast allergy  
+- Residual aortopathy / aortopa  
+- Composite EVAR failure  
+- Aneurysm growth / dilation  
+- Aneurysm rupture  
+
+These terms capture the core clinical concepts, procedures, complications, and diagnostic strategies discussed in the guideline excerpts.
+
+Page 69 Extracted Terms:
+- Abdominal aortic aneurysm (AAA)  
+- Aortic aneurysm rupture  
+- Endovascular abdominal aortic aneurysm repair (EVAR)  
+- Open aortic repair  
+- Endoleak (type I, type III, any endoleak)  
+- Aneurysm sac enlargement  
+- Stent graft fracture  
+- Stent graft migration  
+- Stent graft separation  
+- Para‑anatomorrhatic aneurysm  
+- Pseudoaneurysm  
+- Aneurysmal disease (adjacent visceral aorta, iliac arteries)  
+- Aortic rupture incidence (>5% through 8 years)  
+- Endograft failure  
+- Endograft migration, fracture, or new non‑contiguous aneurysms  
+- Surveillance imaging (CT, MRI, duplex ultrasound)  
+- Computed tomography (CT) – gold standard for follow‑up  
+- Magnetic resonance imaging (MRI) – high diagnostic accuracy for endoleaks, requires plain radiograph for stent strut assessment  
+- Duplex ultrasound (with or without contrast) – specific for endoleaks, limited for stent migration/fracture  
+- Ionizing radiation exposure (from CT)  
+- Iodinated contrast nephrotoxicity (from CT)  
+- Diagnostic accuracy (95% for sac diameter, 100% for type I/III endoleaks)  
+- Aortic aneurysm sac diameter  
+- Clinical guidelines (2022 ACC/AHA Aortic Disease Guideline)  
+- Follow‑up imaging intervals (1 month, 6 months, 12 months, annually, every 5 years)  
+- Risk factors for rupture (endoleak, sac enlargement)  
+- Late aortic rupture (incidence >5% through 8 years)  
+- HTAD (heritable thoracic aortic disease) incidence among reintervention patients  
+- Genetic syndrome and residual aortopathy assessment  
+
+---  
+
+**Note:** These terms encapsulate the core concepts, disease processes, interventions, complications, and diagnostic strategies relevant to cardiovascular (aortic) disease discussed in the provided guideline excerpts.
+
+Page 70 Extracted Terms:
+- Acute aortic syndrome (AAS)  
+- Aortic dissection  
+- Aortic aneurysm (AAA)  
+- Acute aortic rupture  
+- Endoleak (type IIA, type III)  
+- Fenestrated/endovascular aneurysm repair (FEVAR/EVAR)  
+- Bicuspid aortic valve (BAV)  
+- Aortic stenosis  
+- Aortic regurgitation (AR)  
+- Aortic valve leaflet tethering / prolapse  
+- Aortic root involvement  
+- Coronary artery involvement by dissection  
+- Myocardial ischemia  
+- Myocardial infarction  
+- Cardiac tamponade  
+- Hemothorax  
+- Pericardial effusion  
+- Congestive heart failure  
+- Shock (cardiac related)  
+- Stroke (carotid/vertebral artery involvement)  
+- Horner’s syndrome (sympathetic chain compression)  
+- Syncope (carotid artery or cardiac tamponade)  
+- Dysphagia (esophageal compression)  
+- Dyspnea (tracheal compression, heart failure)  
+- Hemoptysis (lung parenchyma rupture)  
+- Hoarseness (recurrent laryngeal nerve compression)  
+- Para‑anastomotic aneurysm (post‑open AAA repair)  
+
+*(All terms are directly associated with cardiovascular disease or its complications as described in the provided guideline excerpt.)*
+
+Page 71 Extracted Terms:
+- Aortic dissection (AAS)  
+- Aortic aneurysm  
+- Thoracic aortic aneurysm  
+- Aortic valve disease  
+- Aortic regurgitation  
+- Marfan syndrome  
+- Connective tissue disease  
+- Aortic branch vessel involvement  
+- Vessel patency  
+- Malperfusion  
+- Pericardial effusion  
+- Hemopericardium  
+- Mediastinal hematoma  
+- Periaortic hematoma  
+- Pleural effusion  
+- Intramural hematoma (IMH)  
+- Penetrating atherosclerotic ulcer (PAU)  
+- Pseudoaneurysm  
+- D‑dimer (threshold <500 ng/mL)  
+- Aortic Dissection Detection Risk Score (ADD‑RS)  
+- Aorta Simplified Score (AORTAs)  
+- Computed tomography (CT) angiography  
+- Transesophageal echocardiography (TEE)  
+- Magnetic resonance imaging (MRI)  
+- Plain chest X‑ray  
+- Mediastinal widening  
+- Aortic knob disruption  
+- Calcium sign (intimal calcium separation >5 mm)  
+- Double density appearance within the aorta  
+- Tracheal deviation  
+- Nasogastric tube deviation  
+- Pulse deficit  
+- Hypotension / shock  
+- Systolic blood‑pressure differential  
+- Focal neurologic deficit  
+- Severe pain (abrupt, ripping/tearing)  
+- Sudden‑onset pain  
+- Electrocardiographic‑synchronized CT techniques  
+- Risk score assignment (0–3 points)  
+- High‑risk, moderate‑risk, high‑probability categories  
+- Acute aortic dissection diagnostic imaging modalities  
+
+Page 72 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+- Aortic dissection  
+- Acute aortic syndrome (AAS)  
+- Aortic wall stress  
+- Anti‑impulse therapy  
+- Intravenous beta‑blockers (e.g., esmolol, metoprolol, labetalol)  
+- Intravenous non‑dihydropyridine calcium‑channel blockers (e.g., verapamil, diltiazem)  
+- Intravenous vasodilators (e.g., nicardipine, clevidipine, sodium nitroprusside)  
+- Angiotensin‑converting enzyme inhibitors (ACEIs)  
+- Angiotensin II receptor blockers (ARBs)  
+- Statins  
+- Pain control (analgesia)  
+- Hemodynamics  
+- Blood pressure (BP, systolic BP, SBP)  
+- Heart rate (HR)  
+- End‑organ perfusion  
+- Arterial line (vascular access)  
+- Intensive care unit (ICU)  
+- Imaging modalities:  
+  - Computed tomography (CT)  
+  - Echocardiography (TEE / TTE, transthoracic / transesophageal)  
+  - Magnetic resonance imaging (MRI)  
+- Aortic regurgitation (AR)  
+- Pericardial effusion  
+- Cardiac tamponade  
+- Endovascular intervention  
+- Surgical intervention (type A vs type B aortic dissection)  
+
+These terms capture the cardiovascular concepts, treatments, and diagnostic approaches discussed in the guideline excerpt.
+
+Page 73 Extracted Terms:
+- Aortic aneurysm and dissection (AAS)  
+- Acute aortic dissection (AoD)  
+- Aortic rupture  
+- Retrograde extension of dissection  
+- Antegrade propagation of dissection  
+- Malperfusion syndromes  
+- Hypertension / blood pressure (BP)  
+- Heart rate  
+- Long‑term beta blockers  
+- Angiotensin‑receptor blockers (ARBs)  
+- Angiotensin‑converting enzyme inhibitors (ACEIs)  
+- Calcium channel blockers (CCBs)  
+- Marfan syndrome – a connective‑tissue disorder affecting the aorta  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Endovascular stent‑graft repair  
+- Open surgical repair of the aorta  
+- Long‑term oral antihypertensive regimens  
+- Aortic‑related adverse events  
+- Aortic root  
+- Branch vessel anatomy of the aorta**
+
+Page 74 Extracted Terms:
+- Acute type A aortic dissection  
+- Aortic dissection  
+- Aortic rupture  
+- Cardiac tamponade  
+- Acute aortic regurgitation (AR)  
+- Myocardial infarction  
+- Myocardial ischemia  
+- Coronary artery ostia  
+- Coronary malperfusion  
+- Heart failure  
+- End‑organ malperfusion (e.g., renal, cerebral)  
+- Stroke (cerebral malperfusion)  
+- Shock (cardiogenic)  
+- Surgical intervention (repair)  
+- High‑volume aortic center  
+- Aortic root repair  
+- Ascending aorta repair  
+- Transverse arch repair  
+- Survival / mortality (surgical vs. medical)  
+- Time to intervention (hours from onset to surgery)
+
+Page 75 Extracted Terms:
+- Acute type A aortic dissection  
+- Aortic dissection
+- Malperfusion (malperfusion syndrome)  
+- Renal malperfusion  
+- Mesenteric malperfusion  
+- Lower‑extremity malperfusion  
+- Coronary malperfusion  
+- Aortic rupture  
+- Cardiac tamponade  
+- Myocardial dysfunction  
+- Troponin elevation  
+- Electrocardiographic changes of ischemia or infarction  
+- Cerebral ischemia (stroke, neurologic deficits)  
+- Spinal ischemia (paraplegia)  
+- Bowel ischemia (mesenteric ischemia)  
+- Acute kidney injury  
+- Oliguria  
+- Loss of pulses in an extremity  
+- Sensory or motor dysfunction in an extremity  
+- Aortic repair (ascending aorta)  
+- Endovascular revascularization  
+- Open surgical intervention  
+- Hybrid operating room  
+- Endovascular therapy  
+- Endovascular fenestration  
+- Branch stenting  
+- Clinical evidence of end‑organ ischemia
+
+These terms capture the key heart‑disease–related concepts discussed in the guideline text.
+
+Page 76 Extracted Terms:
+**Terms related to heart disease (from the guideline excerpt)**  
+
+- Acute type A aortic dissection  
+- Aortic root  
+- Aortic valve  
+- Valve resuspension  
+- Valve replacement  
+- Root aneurysm  
+- Mechanical valved conduit  
+- Biological valved conduit  
+- Valve‑sparing root repair  
+- Open distal anastomosis  
+- False‑lumen thrombosis  
+- Arch repair  
+- Hemiarch repair  
+- Arch aneurysm  
+- Descending thoracic aorta  
+- Extended aortic repair  
+- Antegrade stenting of the proximal descending thoracic aorta  
+- Axillary cannulation  
+- Femoral cannulation  
+- Cerebral perfusion  
+- Direct aortic cannulation  
+- Innominate artery cannulation  
+- Aortic resection  
+- Tear site  
+- Aneurysmal aorta  
+- Late aortic complications  
+- Reoperation  
+- Ischemic time  
+- Circulatory arrest  
+- Aortic insufficiency  
+- Aortic dilation  
+- Endovascular stent graft  
+- Hybrid technique  
+- Frozen elephant trunk  
+- Genetic aortic disorder  
+- Multidisciplinary aortic team  
+- Aortic valve leaflets  
+- Valve leaflet pathology  
+- Aortic aneurysm  
+- Aortic root replacement  
+- Aortic repair  
+- Distal aortic extension  
+- False lumen  
+- Risk factor for reoperation
+
+Page 77 Extracted Terms:
+**Key Heart‑Disease Terms Extracted**
+
+- Aortic root dilation  
+- Aortic insufficiency  
+- Reoperation / reintervention  
+- Aortic root diameter (>4.5 cm)  
+- Valved conduit  
+- Valve‑sparing root replacement (VSRR)  
+- Right hemiarch replacement  
+- IRAD risk score  
+- NORCAAD (Nordic Consortium for Acute Type A Aortic Dissection)  
+- Open‑distal technique  
+- Clamp‑on technique  
+- Cerebrovascular complications  
+- Cross‑clamp use  
+- Deep hypothermic circulatory arrest  
+- Antegrade perfusion  
+- False‑lumen thrombosis  
+- True‑lumen flow  
+- Total arch replacement (TAR)  
+- Hemiarch repair  
+- Re‑thoracotomy  
+- STS (Society of Thoracic Surgeons) database  
+- Meta‑analysis findings on mortality  
+- Antegrade stenting of the descending thoracic aorta  
+- Spinal cord ischemia (SCI)  
+- Malperfusion resolution  
+- Frozen elephant trunk (FET)  
+- Stent length (<15 cm)  
+- Coverage not extending to T8  
+- Femoral cannulation  
+- Axillary cannulation  
+- Direct aortic cannulation (TEE‑guided Seldinger)  
+- Innominate artery cannulation  
+- Cerebral perfusion (antegrade or retrograde)  
+- Unilateral antegrade cerebral perfusion  
+- Bilateral antegrade cerebral perfusion  
+- Stroke rates (varied by cannulation strategy)  
+- Aortic dissection type A (De Bakey Type I)  
+
+These terms capture the primary syndromes, anatomical features, procedural interventions, and outcome measures mentioned in the guideline excerpt.
+
+Page 78 Extracted Terms:
+- Acute Type B Aortic Dissection  
+- Aortic Dissection (general)  
+- Aortic Rupture (free or contained)  
+- Branch Artery Occlusion  
+- Malperfusion (clinical evidence)  
+- Extension of the Dissection Flap  
+- Aortic Enlargement (true or false lumen)  
+- Intractable Pain  
+- Uncontrolled Hypertension  
+- Refractory Hypertension  
+- Endovascular Stent Grafting  
+- Open Surgical Repair  
+- Medical Therapy (optimal management)  
+- Mortality Rate (30‑day, midterm)  
+- Complicated Aortic Dissection  
+- Uncomplicated Aortic Dissection  
+- Aortic Dissection Management Strategies  
+- Marfan Syndrome  
+- Loeys‑Dietz Syndrome  
+- Aortic Tear (entry tear)  
+- Maximal Aortic Diameter (> 40 mm)  
+- False‑Lumen Diameter (> 20–22 mm)  
+- Entry Tear Size (> 10 mm)  
+- Entry Tear Location (lesser curvature)  
+- Bloody Pleural Effusion  
+- High‑Risk Imaging Findings  
+- High‑Risk Clinical Findings  
+- Imaging‑Only Evidence of Malperfusion  
+- Rapid Coverage of the Descending Aorta  
+- Hemothorax  
+- Periaortic Hematoma  
+- Mediastinal Hematoma  
+- Retrograde Type A Dissection  
+- Genetic Triggers (of aortic disease)  
+- Optimal Medical Management (study term)  
+- Endovascular Techniques (general)  
+- Midterm Mortality Rate  
+- Lower Morbidity  
+- ADSORB (Acute Dissection: Stent graft OR Best medical therapy)  
+- INSTEAD (Investigation of Stent Grafts in Patients with Type B Aortic Dissection)  
+- IRAD Database  
+- Percutaneous Intervention  
+- Dissection Flap (definition)  
+- Aneurysm (related to aortic dissection)  
+- High‑Risk Features (in uncomplicated cases)  
+- Antihypertensive Medications (≥ 3 classes)  
+- Refractory Pain Duration (> 12 h)  
+- Readmission (clinical outcome)  
+- In‑Hospital Mortality Rate  
+- Survival Advantage (type B vs type A)  
+
+These terms capture the key concepts related to heart disease as presented in the guideline excerpt.
+
+Page 79 Extracted Terms:
+- Acute type A aortic dissection  
+- Acute type B aortic dissection  
+- Acute aortic syndrome (AAS)  
+- Intramural hematoma (IMH)  
+- Aortic intramural hematoma  
+- Aortic dissection  
+- Aortic aneurysm  
+- Aortic rupture  
+- Aortic dilation  
+- aortic remodeling  
+- Malperfusion  
+- Visceral artery stenting  
+- Renal artery stenting  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Endovascular repair  
+- Open surgical repair  
+- Endovascular expertise  
+- Aortic arch zones (2–5)  
+- Distal aortic arch repair  
+- Descending thoracic aorta  
+- Ascending aorta  
+- High‑risk imaging features  
+- False lumen  
+- False‑lumen thrombosis  
+- Aorta‑specific survival  
+- In‑hospital mortality  
+- 30‑day mortality  
+- 1‑year survival  
+- 5‑year survival  
+- Reintervention rates  
+- Complicated intramural hematoma  
+- Uncomplicated intramural hematoma  
+- Pericardial effusion  
+- Cardiac tamponade  
+- Aortic events (mortality, rupture, dilation)  
+- Pharmacologic (optimal medical) management  
+- Endovascular intervention timing  
+- Retrograde perfusion obstruction (implied in malperfusion)
+
+Page 80 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Intramural Hematoma (IMH)  
+- Type A IMH  
+- Type B IMH  
+- Aortic Dissection  
+- Penentrating Atherosclerotic Ulcer (PAU)  
+- Aortic Rupture  
+- Aortic‑related complications  
+- Open (surgical) repair  
+- Endovascular repair  
+- Mortality (in‑hospital, short‑term, 1‑year, long‑term)  
+- Survival (mid‑, long‑term)  
+- Coronary Artery Disease  
+- Renal function (baseline kidney health)  
+- Pericardial effusion  
+- Pleural effusion  
+- Maximum aortic diameter  
+- Hematoma thickness  
+- Intimal disruption  
+- Ulcer‑like projection  
+- Intensive Care Unit (ICU) stay  
+- Computed Tomography Angiography (CTA)  
+- High‑risk imaging features  
+- Surgical intervention (timing, upfront vs delayed)  
+- Medical management (antihypertensive therapy, anticoagulant clearance, etc.)  
+- Genetic and environmental factors affecting natural history  
+
+These terms collectively represent the core cardiovascular concepts addressed in the 2022 ACC/AHA guideline on aortic disease.
+
+Page 81 Extracted Terms:
+- Aortic disease  
+- Type A aortic dissection (Stanford type A)  
+- Type B aortic dissection (Stanford type B)  
+- Acute aortic syndrome (AAS)  
+- Intramural hematoma (IMH)  
+- Penetrating atherosclerotic ulcer (PAU)  
+- Ulcer‑like projection  
+- Focused intimal disruption (FID)  
+- Endovascular repair / TEVAR (thoracic endovascular aortic repair)  
+- Open surgical repair  
+- Hybrid approach  
+- Stent graft  
+- Stent‑graft oversizing  
+- Balloon aortoplasty  
+- Imaging features: high‑risk, focal intimal disruption, tiny intimal disruption  
+- Aortic‑related outcomes  
+- Aortic‑related events  
+- Aortic‑related death  
+- Aortic arch  
+- Descending thoracic aorta  
+- Abdominal aorta  
+- Aneurysmal degeneration  
+- Endovascular access  
+- Atherosclerotic disease  
+- Mortality & morbidity (associated with surgical/endovascular intervention)  
+- Urgent repair (clinical recommendation)  
+- Medical therapy (optimal medical therapy)  
+- Perioperative mortality rate  
+- Long‑term survival  
+- Surgical & endovascular intervention  
+
+*(All terms are extracted from the guideline text and pertain to heart‑related disease, particularly aortic pathology.)*
+
+Page 82 Extracted Terms:
+**Key terms related to heart (aortic) disease:**
+
+- Penetrating atherosclerotic ulcer (PAU)  
+- Aortic rupture  
+- Aortic dissection  
+- Intramural hematoma (IMH)  
+- Aortic repair (surgical & endovascular)  
+- Open aortic repair  
+- Endovascular aortic repair (stent‑graft)  
+- Conservative management  
+- High‑risk imaging features  
+- Maximum PAU diameter  
+- Maximum PAU depth  
+- Pleural effusion  
+- Saccular aneurysm  
+- Aortic aneurysm  
+- Atherosclerosis  
+- Computed tomography angiography (CTA)  
+- Mortality rate  
+- Surgical candidacy  
+- Elective repair  
+- Symptomatic PAU  
+- Asymptomatic PAU  
+- Radiologic findings  
+- Surveillance imaging  
+- Aortic lumen  
+- Intimal defect  
+- Intramural blood pool  
+- Aortic arch  
+- Ascending aorta  
+- Abdominal aorta  
+- Type B IMH  
+- Endovascular stent graft  
+- Surgical repair (open)  
+- Retrospective analysis  
+- Clinical statements  
+- Consensus guidelines  
+- ACC/AHA Aortic Disease Guideline  
+
+Page 83 Extracted Terms:
+- Penetrating Aortic Ulcer (PAU)  
+- Aortic Dissection  
+- Intramural Hematoma (IMH)  
+- Ascending Aorta  
+- Descending Thoracic Aorta  
+- Abdominal Aorta  
+- Aortic Arch  
+- Open Surgical Repair  
+- Endovascular Repair  
+- Endoleak  
+- Atherosclerosis (vascular disease)  
+- Anti‑Impulse Therapy  
+- Blunt Traumatic Thoracic Aortic Injury (BTTAI)  
+- Traumatic Aortic Injury  
+- Aortic Pathology  
+- Aortic Repair (surgical & endovascular)
+
+Page 84 Extracted Terms:
+- Blunt traumatic thoracic aortic injury (BTTAI)  
+- Aortic injury  
+- Aortic isthmus  
+- Aortic arch  
+- Aortic wall  
+- Aortic rupture  
+- Aortic wall disruption  
+- Intimal tear  
+- Intramural hematoma  
+- Pseudoaneurysm  
+- Aortic intervention  
+- Blood pressure  
+- Heart rate  
+- Beta blockers  
+- Nicardipine  
+- Clevidipine  
+- Sodium nitroprusside  
+- Vasodilators  
+- Permissive hypotension  
+- End‑organ perfusion  
+- Aortic imaging  
+- Multidisciplinary expertise
+
+Page 85 Extracted Terms:
+- Blunt traumatic thoracic aortic injury (BTTAI)  
+- Aortic injury  
+- Ascending aorta  
+- Aortic arch  
+- Descending thoracic aorta  
+- Aortic rupture  
+- Aortic‑related mortality  
+- Thoracic aortic injury  
+- Endovascular aneurysm repair (TEVAR)  
+- Open surgical repair  
+- Heparin management  
+- Spinal cord injury (SCI)  
+- Acute kidney injury (AKI)  
+- Acute respiratory distress syndrome (ARDS)  
+- Mediastinal hematoma  
+- Hemothorax  
+- Pseudo‑coarctation of the aorta
+
+Page 86 Extracted Terms:
+- Aortic injury (blunt traumatic abdominal aortic injury, BAAI)  
+- Aortic rupture  
+- Pseudoaneurysm  
+- Grade 1–4 BAAI (aortic injury grading)  
+- Anti‑impulse therapy (beta‑blockade, antihypertensive therapy)  
+- Antiplatelet therapy  
+- Endovascular repair (stent graft, endovascular treatment)  
+- Open repair (surgery, aortic cross‑clamping)  
+- REBOA (resuscitative endovascular balloon occlusion of the aorta)  
+- Hemorrhage control  
+- Hypotension (refractory, leading to cardiac arrest)  
+- Cardiac arrest  
+- Visceral vessel avulsion  
+- Aortic contour defects  
+- Intramural hematoma (IMH)  
+- Aortic cross‑clamping  
+- Anterior‑lateral thoracotomy  
+- Cardiovascular morbidity and mortality  
+- Cardiac complications (associated with BAAI)
+
+Page 87 Extracted Terms:
+- Aortic disease  
+- Aortic injury  
+- Bilateral aortic injury (BAAI)  
+- Endovascular repair  
+- Open repair  
+- Hybrid repair (endovascular + open)  
+- Pseudoaneurysm  
+- Hemorrhagic shock  
+- Cardiac arrest  
+- Malperfusion  
+- Ischemic symptoms  
+- Endovascular balloon occlusion (REBOA)  
+- Traumatic aortic rupture  
+- Aortic zones of injury (zone 2, zone 3, zone 4)  
+- Grade 4 aortic injury  
+- Acute kidney injury (as a cardiovascular complication)  
+- Sepsis (from limb ischemia)  
+- Limb ischemia (ischemic complications)  
+- Hemorrhage control (vascular)  
+- Trauma‑related aortic pathology
+
+
+Page 88 Extracted Terms:
+- Aortic disease  
+- Aortic dissection  
+- Acute aortic dissection  
+- Intralaminar hematoma (IMH)  
+- Blunt traumatic aortic injury (BTAI)  
+- Thoracic aortic injury  
+- Endovascular repair  
+- Open aortic repair  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Endoleak  
+- Stent migration  
+- Stent graft  
+- Pericardial tamponade  
+- REBOA (Resuscitative Endovascular Balloon Occlusion of the Aorta)  
+- REBOA contraindication  
+- Cardiogenic shock  
+- Cardiac arrest  
+- Aneurysm  
+- Aneurysm surveillance  
+- Surveillance imaging  
+- Computed tomography (CT) scan  
+- Magnetic resonance imaging (MRI)  
+- Aortic valve  
+- Aortic root  
+- Distal aorta  
+- Reoperation  
+- Reintervention  
+- Medical therapy for aortic dissection management  
+- Imaging intervals for long‑term surveillance  
+- Residual aortic disease monitoring  
+- Stent‑graft migration risk  
+- Endovascular stent‑graft complications  
+- TEVAR‑related reintervention rates  
+
+Page 89 Extracted Terms:
+- Aortic dissection  
+- Acute type A aortic dissection  
+- Acute type B aortic dissection  
+- Intimal medial hematoma (IMH)  
+- Thoracic aortic aneurysm  
+- Penetrating aortic ulcer (PAU)  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Endoleak (early and late)  
+- False lumen  
+- Aneurysm growth  
+- Surgical repair of aortic dissection  
+- Elective thoracic aortic repair  
+- Reoperation after aortic repair  
+- Aneurysm of the thoracic aorta  
+- Aortic anastomotic pseudoaneurysm  
+- Aortic regurgitation (AR)  
+- Graft infection  
+- Surveillance imaging  
+- Computed tomography (CT)  
+- Trans-thoracic echocardiography (TTE)  
+- Aortic valve function monitoring  
+- Aortic root anatomy  
+- Thoracoabdominal aorta interventions  
+- Aortic-related adverse events
+
+Page 90 Extracted Terms:
+- Aortic disease  
+- Aortic aneurysm  
+- Aortic dissection (Type A & Type B)  
+- Aortic root dilation  
+- Ascending aorta dilation  
+- Aortic arch surveillance  
+- Aortic dilation  
+- Aortic growth rate  
+- Heritable thoracic aortic disease (HTAD)  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Vascular Ehlers‑Danlos syndrome  
+- Turner syndrome  
+- Bicuspid aortic valve (BAV)  
+- Aortopathy  
+- Genetic counseling (pre‑pregnancy)  
+- Echocardiogram (TTE)  
+- Cardiovascular magnetic resonance (MRI)  
+- Computed tomography (CT)  
+- Beta‑blocker therapy during pregnancy and postpartum  
+- Hypertension management in pregnancy  
+- Maternal‑fetal medicine specialist  
+- Cardiologist (aortic specialist)  
+- Multidisciplinary team for pregnancy management  
+- Emergency aortic repair capability  
+- Cesarean delivery (in high‑risk aortic cases)  
+- Vaginal delivery (low‑risk aortic cases)  
+- Hemodynamic and hormonal changes in pregnancy  
+- Postpartum aortic complications  
+- Aortic surveillance imaging (tri‑monthly during pregnancy)  
+- Aortic imaging to avoid radiation exposure (MRI without gadolinium)  
+
+These terms encompass the key heart‑disease concepts addressed in the guideline excerpt.
+
+Page 91 Extracted Terms:
+- Acute aortic dissection  
+- Aortic dissection  
+- Aortic diameter  
+- Aortic root  
+- Ascending aorta  
+- Aortic arch  
+- Descending aorta  
+- Abdominal aorta  
+- Marfan syndrome  
+- TGFBR1  
+- TGFBR2  
+- Loeys‑Dietz syndrome  
+- SMAD3  
+- TGFB2  
+- TGFB3  
+- Vascular Ehlers‑Danlos syndrome  
+- Non‑syndromic heritable thoracic aortic disease (nsHTAD)  
+- Bicuspid aortic valve (BAV)  
+- Aortopathic conditions  
+- Hypertension (as a risk factor for aortic dissection)  
+- Beta‑blockers (e.g., labetalol)  
+- Labetalol  
+- Angiotensin‑II receptor blockers (ARBs)  
+- Angiotensin‑converting enzyme inhibitors (ACEIs)  
+- Calcium channel blockers  
+- Pregnancy‑associated cardiovascular changes (blood volume, heart rate, stroke volume, cardiac output)  
+- Aortic imaging (MRI, CT, transesophageal echocardiography – TEE)  
+- Cesarean delivery (for aortic disease risk)  
+- Vaginal delivery (when appropriate for aortic diameter <4.0 cm)  
+- ROPAC registry (Registry of Pregnancy And Cardiac disease)  
+- ACC/AHA Aortic Disease Guideline  
+- Deliveries in a setting with cardiothoracic surgery available  
+
+(These terms capture the key heart‑disease concepts addressed in the guideline text.)
+
+Page 92 Extracted Terms:
+- Aortic root  
+- Ascending aorta  
+- Aortic diameter  
+- Aortic dilation  
+- Aortic dissection  
+- Type A aortic dissection  
+- Type B aortic dissection  
+- Aortic root replacement  
+- Avascular aneurysm  
+- Aortic rupture  
+- Hypertension  
+- Pregnancy‑related aortic risk  
+- Cesarean delivery (in aortic disease)  
+- Vaginal delivery with regional anesthesia  
+- Expedited second stage of labor  
+- Assisted delivery  
+- Aortopathy  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Non‑syndromic hereditary thoracic aortic disease (nsHTAD)  
+- WHO cardiovascular risk classification (modified III/IV)  
+- Rapid aortic growth ≥ 0.3 cm/year  
+- Familial aortic dissection history  
+- Post‑partum aortic dissection risk  
+- Lumbosacral dural ectasia (co‑existing condition)
+
+Page 93 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Aortic root aneurysm  
+- Ascending aortic aneurysm (AAA)  
+- Aortic dissection (type A)  
+- Aortic root dilation  
+- Aortic diameter  
+- Aortic growth rate  
+- Aortic size index (cm / m²)  
+- Prophylactic aortic surgery  
+- Pregnancy‑related aortic dissection  
+- Turner syndrome  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome (LDS)  
+- Loeys‑Dietz syndrome with TGFBR1 mutation  
+- Loeys‑Dietz syndrome with TGFBR2 mutation  
+- Loeys‑Dietz syndrome with SMAD3 mutation  
+- Loeys‑Dietz syndrome with TGFB2 mutation  
+- Loeys‑Dietz syndrome with TGFB3 mutation  
+- Nonsyndromic heritable thoracic aortic disease (nsHTAD)  
+- ACTA2‑associated aortopathy  
+- MYH11‑associated aortopathy  
+- MYLK‑associated aortopathy  
+- PRKG1‑associated aortopathy  
+- Bicuspid aortic valve (BAV)  
+- Aortic root replacement surgery  
+- Ascending aortic root replacement surgery  
+- Aortic graft  
+- Aortic dissection risk factors (family history, rapid growth ≥ 0.3 cm / yr, body size)  
+- Shared decision‑making in aortic surgery  
+- Cardiologist, aortic specialist, aortic surgeon, maternal‑fetal medicine specialist.
+
+Page 94 Extracted Terms:
+**Key Heart‑Disease Terms Extracted**
+
+- ACC/AHA Aortic Disease Guideline  
+- HTAD (Heritable Thoracic Aortic Disease)  
+- Genetic conditions: ACTA2, MYLK  
+- Turner syndrome  
+- ASI (Aortic Size Index)  
+- BAV (Bicuspid Aortic Valve)  
+- Aortic dilation / aneurysm  
+- Aortic root dilation  
+- Ascending aortic dilation  
+- Thoracic Aortic Aneurysm (TAA)  
+- Aortic dissection (Type A, Type B)  
+- Aortic rupture  
+- Aortic surgery (prophylactic, urgent, endovascular)  
+- Cesarean delivery (in context of aortic dissection)  
+- Fetal monitoring (during aortic surgery)  
+- Maternal morbidity / mortality  
+- Pregnancy risk assessment (including WHO Class IV)  
+- Rapid aortic growth  
+- Body size / body habitus  
+- Family history of aortic disease  
+- Genetic aortopathy  
+- Molecular genetic testing / pathogenic variant detection  
+- Autosomal dominant transmission of TAA  
+- Surgical risk stratification in young patients  
+- Endovascular therapy (for Type B dissection)  
+- Maternal–fetal decision making in aortopathy  
+- Aortic diameter thresholds (≥ 4.0 cm, > 4.5 cm, > 5.0 cm)  
+- Aortic size index thresholds (ASI > 2.0 cm/m², ASI ≥ 2.5 cm/m²)  
+
+These terms capture the core cardiovascular concepts discussed in the guideline text.
+
+Page 95 Extracted Terms:
+- Aortic dissection (Type A, Type B)  
+- Aortic aneurysm  
+- Aortic surgery (open or endovascular)  
+- Endovascular repair  
+- Open surgical intervention  
+- Cesarean delivery (when used in management of aortic dissection during pregnancy)  
+- Inflammatory aortitis  
+- Takayasu arteritis  
+- Giant cell arteritis (GCA)  
+- Large vessel vasculitis (LVV)  
+- Immunoglobulin G4‑related disease  
+- Antineutrophil cytoplasmic antibody‑related vasculitis  
+- Sarcoidosis  
+- Behçet’s disease  
+- Relapsing polychondritis  
+- Granulomatosis with polyangiitis  
+- Intramural hematoma (IMH)  
+- Penetrating atherosclerotic ulcer (PAU)  
+- Aortic rupture  
+- Progressive atherosclerosis  
+- Thrombotic complications  
+- Magnetic resonance imaging (MRI)  
+- Computed tomography (CT)  
+- 18F‑FDG positron emission tomography (PET)  
+- High‑dose glucocorticoids  
+- Tocilizumab  
+- Methotrexate
+
+Page 96 Extracted Terms:
+- Aortic disease  
+- Aortic aortitis  
+- Aortic aneurysm  
+- Aortic stenosis  
+- Aortic valve dysfunction  
+- Aortic branch vessel involvement  
+- Aortic bruits  
+- Aortic imaging (CT angiography, MRI, FDG‑PET, echocardiography)  
+- Giant cell arteritis (GCA)  
+- Takayasu arteritis  
+- Large vessel vasculitis (LVV)  
+- Cardiovascular complications of vasculitis  
+- Glucocorticoid therapy (prednisone)  
+- High‑dose glucocorticoid induction  
+- Intravenous methylprednisolone  
+- Tocilizumab (IL‑6 receptor inhibitor)  
+- Methotrexate (DMARD)  
+- Hydroxychloroquine (DMARD)  
+- Azathioprine (DMARD)  
+- Sulfamethoxazole (DMARD)  
+- Leflunomide (DMARD)  
+- Tumor necrosis factor‑inhibitors (biologic DMARDs)  
+- Antiplatelet therapy  
+- Anticoagulant therapy  
+- Antithrombotic prophylaxis  
+- Aortic wall thickening  
+- Intimal injury  
+- Ulcerative plaques  
+- Occlusive lesions  
+- Hemodynamic blood pressure variation between arms  
+- Temporal artery tenderness / pulse attenuation  
+- Elevated erythrocyte sedimentation rate (ESR) >50 mm/h  
+- Necrotizing vasculitis on arterial biopsy
+
+Page 97 Extracted Terms:
+- Aortic disease  
+- Takayasu arteritis  
+- Large‑vessel vasculitis (LVV)  
+- Giant cell arteritis (GCA)  
+- Remission (clinical criteria)  
+- Inflammatory biomarkers (e.g., CRP, ESR)  
+- Computed tomography (CT) imaging  
+- Magnetic resonance imaging (MRI)  
+- Positron emission tomography‑CT (PET‑CT)  
+- Clinical disease relapse  
+- Surveillance imaging  
+- EULAR (European Alliance of Associations for Rheumatology) guidelines  
+- Glucocorticoids  
+- Tumor necrosis factor (TNF) inhibitors  
+- Randomized clinical trials (RCTs)  
+- Clinical outcomes (quality of life, symptom improvement)
+
+Page 98 Extracted Terms:
+- Aortic disease  
+- Large vessel vasculitis (LVV)  
+- Aortic aneurysm  
+- Aortic stenosis  
+- Branch artery stenosis  
+- Branch artery aneurysm  
+- FDG‑PET imaging  
+- Giant cell arteritis (GCA)  
+- Clinical remission  
+- Glucocorticoids (GC)  
+- Conventional synthetic disease‑modifying antirheumatic drugs (csDMARDs)  
+- Tumor necrosis factor inhibitors (TNF)  
+- Cardiovascular surveillance  
+- Aortic complications  
+- Takayasu arteritis  
+- Cardiovascular imaging  
+
+These terms capture the primary heart‑related concepts referenced in the guideline excerpt.
+
+Page 99 Extracted Terms:
+- Aortic disease  
+- Aortic aneurysm (saccular, pseudoaneurysm)  
+- Aortic dissection  
+- Infectious aortitis (mycotic aneurysm)  
+- Large Vessel Vasculitis (LVV)  
+- Giant Cell Arteritis (GCA)  
+- Takayasu arteritis  
+- Branch vessel stenosis  
+- Branch artery dilation / narrowing  
+- Aortic root involvement  
+- Endovascular repair  
+- Open surgical repair (in situ reconstruction, aortic resection)  
+- Extra‑anatomic bypass (axillobifemoral, femorofemoral cross‑over)  
+- Hybrid or bridging approach  
+- Endo‑vascular therapy  
+- Imaging surveillance (CT, MRI, PET‑CT, TEE)  
+- Antimicrobial therapy (prolonged IV antibiotics)  
+- Suppressive lifelong therapy  
+- Sepsis  
+- Rupture (contained rupture)  
+- Fistula formation  
+- Hemodynamic instability  
+- Immunocompromised hosts (fungal or tuberculous aortitis)  
+- Treponema pallidum (syphilitic aortitis)  
+- Pathogens: Staphylococcus aureus, Streptococcus pneumoniae, Escherichia coli, Salmonella, Candida, Aspergillus, Mycobacterium tuberculosis  
+
+Page 100 Extracted Terms:
+**Key terms related to heart disease**
+
+- Aortic aneurysm  
+- Infectious aortitis  
+- Aortoenteric fistula  
+- Aortic rupture  
+- Endovascular aneurysm repair (EVAR)  
+- Open aortic repair  
+- Endovascular device repair  
+- Extra‑anatomic reconstruction  
+- In‑situ reconstruction  
+- Bridge procedure  
+- Antimicrobial therapy  
+- Antimicrobial duration  
+- High mortality  
+- Low early morbidity  
+- Persistent infection  
+- Device infection  
+- Polyester graft  
+- Rifampin‑soaked graft  
+- Silver‑coated graft  
+- Cryopreserved arterial allograft  
+- Venous autograft  
+- Spinal cord injury  
+- Reperfusion injury  
+- Hemodynamic instability  
+- Uncontrolled bleeding  
+- Stump blowout  
+- Limb ischemia  
+- Ischemic colitis  
+- Patency rate  
+- Reconstruction options  
+- Imaging surveillance  
+- Multidisciplinary care team  
+- 5‑year survival  
+- Selective treatment indications  
+
+
+---
+
+Page 101 Extracted Terms:
+- Prosthetic aortic graft  
+- Aortic graft infection  
+- Cross‑sectional imaging  
+- Computed tomography angiography (CTA)  
+- Positron emission tomography‑CT (PET‑CT)  
+- Magnetic resonance imaging (MRI)  
+- Tagged white‑blood‑cell scans  
+- Open surgery  
+- In situ reconstruction  
+- Extra‑anatomic bypass  
+- Endovascular therapy  
+- Intravenous antimicrobial therapy  
+- Oral suppressive therapy  
+- Methicillin‑resistant *Staphylococcus aureus* (MRSA)  
+- *Pseudomonas aeruginosa*  
+- Multidrug‑resistant microorganisms  
+- Allografts (cryopreserved aorta)  
+- Autografts (femoral vein)  
+- Dacron grafts  
+- Polytetrafluoroethylene (PTFE) grafts  
+- Endovascular aneurysm repair (EVAR)  
+- Early graft infection (≤3 months)  
+- Late graft infection (>3 months)  
+- Fever  
+- Back pain  
+- Fatigue  
+- Malaise  
+- Elevated white‑blood‑cell count  
+- Erythrocyte sedimentation rate (ESR)  
+- C‑reactive protein (CRP)  
+- Sepsis  
+- Hemodynamic instability  
+- Hemorrhage  
+- Rupture  
+- Fistula to bowel, esophagus, or airway  
+- Axial imaging  
+- Graft enteric erosion  
+- Hematogenous spread  
+- Graft explant  
+- Aortic stump oversewing  
+- Omental coverage  
+- Muscle flaps  
+- Pleural coverage  
+- Peri‑graft air  
+- Abscess  
+- Pseudoaneurysm  
+- Graft‑site inflammation  
+- Invasive bacterial pathogens  
+- Infection‑related complications  
+- Antimicrobial stewardship for prosthetic vascular infections
+
+Page 102 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+- Aortic atherosclerosis / aortic atherosclerotic disease  
+- Aortic arch atheroma  
+- Coronary artery disease (CAD)  
+- Peripheral arterial disease (PAD)  
+- Atrial fibrillation (AFib)  
+- Antiplatelet therapy  
+- Anticoagulant therapy  
+- Statin therapy (moderate‑ or high‑intensity)  
+- Aortic atheromas ≥ 4 mm  
+- Embolic complications of aortic plaques  
+- Stroke (ischemic)  
+- Aorto‑enteric fistula  
+- Graft infection (aortic graft)  
+- Endovascular intervention / endovascular repair  
+- In situ venous reconstruction  
+- Cryopreserved allografts  
+- Rifampin‑impregnated prosthetic graft  
+- Silver‑impregnated prosthetic graft  
+- Extra‑anatomic reconstruction  
+- Hemodynamically unstable aortic patients  
+- Proximal control with clamp or balloon  
+- Intravenous antimicrobial therapy  
+- Oral suppressive antimicrobial therapy (lifelong)  
+- Imaging for reinfection (axial imaging, identification of inflammatory changes, fluid or air collections, pseudoaneurysm formation)
+
+Page 103 Extracted Terms:
+- Aortic disease  
+- Aortic plaques (atheromas)  
+- Aortic atherosclerosis  
+- Aortic thrombus (mural and primary)  
+- Aortic thrombosis  
+- Aortic occlusion  
+- Porcelain aorta  
+- Aortic aneurysm  
+- Aortic dissection  
+- Aortic graft material  
+- Embolism  
+- Stroke  
+- Limb ischemia  
+- Visceral ischemia  
+- Antiplatelet therapy  
+- Anticoagulation  
+- Statin therapy  
+- Hypercoagulable states  
+- Antiphospholipid syndrome  
+- Heparin‑induced thrombocytopenia  
+- Aortitis  
+- Atherosclerotic disease elsewhere  
+- Cardiopulmonary bypass  
+- Central aortic cannulation  
+- Aortic cross‑clamping  
+- Circulatory arrest  
+- Endovascular revascularization  
+- Open aortic reconstruction  
+- Aortobifemoral bypass  
+- Axillofemoral bypass  
+- Iliac stenting  
+- Endarterectomy  
+- CT angiography (CTA)  
+- Transesophageal echocardiography (TEE)  
+- Calcification of aortic wall  
+- Aortic arch  
+- Ascending aorta  
+- Aortic valve replacement  
+- Coronary bypass grafting  
+- Balloon occlusion of the aorta  
+- Patency  
+- Complications (stroke, exsanguination, embolization)  
+- Claudication  
+- Impotence  
+- Cardiopulmonary comorbidities  
+- Renal malperfusion  
+- Visceral malperfusion
+
+Page 104 Extracted Terms:
+**Key terms related to heart disease**
+
+- Coarctation of the Aorta (CoA)  
+- Congenital abnormalities of the aortic arch  
+- Left subclavian artery  
+- Aneurysmal aortic segment  
+- Upper extremity hypertension  
+- Lower extremity hypotension  
+- Magnetic Resonance Imaging (MRI)  
+- Computed Tomography (CT)  
+- Transthoracic Echocardiography (TTE)  
+- Bicuspid Aortic Valve (BAV)  
+- Aortic dissection  
+- Heart failure  
+- Ruptured cerebral aneurysm  
+- Aortic hypoperfusion (ischemia)  
+- Hypertension (post‑CoA)  
+- Endovascular stenting of CoA  
+- Open surgical repair of CoA  
+- Hybrid surgical repair of CoA  
+- Ambulatory blood‑pressure monitoring  
+- Exercise testing (cardiovascular)  
+- Intracranial aneurysm screening (MRI/CT)  
+- Ascending aortic aneurysm  
+- Descending aortic aneurysm  
+- Left ventricular hypertrophy  
+- Gradient across CoA (peak‑to‑peak, mean)  
+- Doppler echocardiography measurements  
+- Kommerell diverticulum (aneurysmal dilation of anomalous subclavian artery)  
+- Aberrant subclavian artery (ASCA)  
+- Pseudoaneurysm formation after CoA repair  
+- Recurrent aortic stenosis (post‑repair)  
+- Lifelong clinical and imaging follow‑up for CoA patients
+
+These terms capture the main cardiovascular conditions, diagnostic modalities, and therapeutic considerations discussed in the guideline excerpts.
+
+Page 105 Extracted Terms:
+- Coarctation of the aorta (CoA)  
+- Bicuspid aortic valve (BAV)  
+- Thoracic aortic aneurysm (TAA)  
+- Aortic aneurysm  
+- Pseudoaneurysm  
+- Aortic dissection  
+- Recoarctation  
+- Hypertension  
+- Heart failure  
+- Stroke  
+- Coronary artery disease  
+- Intracranial aneurysm  
+- Aberrant subclavian artery  
+- Kommerell’s diverticulum  
+- Aortic arch abnormalities  
+- Subclavian flap aortoplasty  
+- End-to-end anastomosis  
+- Interposition grafting  
+- Bypass grafting  
+- Endovascular repair  
+- Balloon dilation  
+- Stenting  
+- Endoleaks  
+- Aortic gradient  
+- Collateral formation  
+- Left ventricular hypertrophy  
+- Upper extremity hypertension  
+- Lower extremity hypoperfusion  
+- Blood pressure differential  
+- Femoral pulse delay  
+- Ambulatory blood‑pressure monitoring  
+- Exercise testing  
+- Magnetic resonance imaging (MRI)  
+- Computed tomography (CT)  
+- Transthoracic echocardiography (TTE)
+
+Page 106 Extracted Terms:
+- Aortic arch  
+- Distal subclavian artery  
+- Right subclavian artery  
+- Aberrant subclavian artery  
+- Posterior mediastinum  
+- Dysphagia  
+- Respiratory symptoms  
+- Laryngeal nerve palsy  
+- Kommerell’s diverticulum  
+- Fourth primitive dorsal aortic arch  
+- Thoracic aortic aneurysm (TAA)  
+- Thoracic aortic dissection (TAD)  
+- Rupture  
+- Dissection  
+- Surgical intervention  
+- SVS clinical practice guidelines  
+- Variant aortic arch anatomy  
+- CT scan  
+- MRI scan  
+- Cross‑sectional imaging  
+- Endovascular repair  
+- Open repair  
+- Hybrid approach  
+- TEVAR (thoracic endovascular aortic repair)  
+- Revascularization of vertebral artery  
+- Aberrant left vertebral artery origin  
+- Thoracic aortic repair  
+- Aortic orifice  
+- Aortic diameter  
+- Aortic arch repair  
+- Aortic aneurysm repair  
+
+Page 107 Extracted Terms:
+- Left subclavian artery  
+- Vertebral artery  
+- Left vertebral artery  
+- Right vertebral artery  
+- Stroke  
+- Spinal cord injury (SCI)  
+- Thoracic aortic aneurysm (TAA)  
+- Thoracic aortic disease (TAD)  
+- Transcatheter endovascular aortic repair (TEVAR)  
+- Aortic arch replacement  
+- Open bypass  
+- Transposition technique  
+- Aortic dissection  
+- Acute type A aortic dissection  
+- Bovine arch (common innominate and left carotid artery)  
+- Type I aortic arch  
+- Type II‑A aortic arch  
+- Type II‑B aortic arch  
+- Dominant left vertebral artery  
+- Nonintact circle of Willis  
+- Symptomatic vertebrobasilar insufficiency  
+- Posterior circulation perfusion  
+- Posterior circulation  
+- Aberrant left vertebral artery origin  
+- Perioperative stroke  
+- Multivariable analysis  
+- Odds ratio (OR)  
+- Confidence interval (CI)
+
+Page 108 Extracted Terms:
+- Aortic aneurysm  
+- Thoracic aortic aneurysm  
+- Thoracoabdominal aortic aneurysm  
+- Aortic dissection  
+- Aortic dilation  
+- Aortic arch  
+- Bovine arch  
+- Aortic arch disease  
+- Aortic tumor  
+- Aortic sarcoma  
+- Marfan syndrome  
+- Cardiac rehabilitation (post‑aortic surgery)  
+- Physical activity recommendations for aortic disease  
+- Blood‑pressure (BP) control  
+- Aortic growth rate  
+- Valsalva maneuver (intense isometric exercise)  
+- Aortic repair  
+- Aortic resection  
+- Aortic reconstruction (of affected segment)  
+- Cardiovascular health  
+- Aortic rupture (risk factor)  
+- Aortic replacement  
+
+(These terms represent key concepts and conditions related to heart and aortic disease discussed in the text.)
+
+Page 109 Extracted Terms:
+- Aortic disease  
+- Aortic aneurysm (AAA)  
+- Thoracic aortic aneurysm (TAA)  
+- Aortic dissection  
+- Aortic root enlargement  
+- Aorta dilation  
+- Marfan syndrome  
+- Cardiac rehabilitation  
+- Exercise‑based cardiac rehabilitation  
+- Cardioprotective exercise  
+- Peak oxygen uptake (VO₂ max)  
+- Maximal workload  
+- Heart‑related quality of life (HRQOL)  
+- Metabolic equivalents (METs)  
+- Valsalva maneuver  
+- Hypertension  
+- Systemic blood pressure (SBP)  
+- Endovascular aneurysm repair (EVAR)  
+- Open surgical repair  
+- Aortic growth rate  
+- Aortic diameter  
+- Aortic stiffness index (ASI)  
+- Elastin fragmentation  
+- Matrix metalloproteinases (MMP‑2, MMP‑9)  
+- Functional exercise capacity  
+- Exercise intensity (low‑, moderate‑, high‑intensity)  
+- Physical activity level  
+- Screening for AAA  
+- Cost‑effectiveness of aortic treatment  
+- Risk of aortic rupture  
+- Post‑operative cardiac event  
+- Depression/anxiety in aortic patients  
+- Posttraumatic stress disorder (PTSD)  
+- Health‑related quality of life assessment tools (e.g., SF‑36)
+
+Page 110 Extracted Terms:
+**Key Heart‑Disease–Related Terms Identified**
+
+- Aortic disease (guideline focus)  
+- Thoracic aortic aneurysm (TAA)  
+- Aortic dissection (TAD)  
+- Acute aortic syndrome (AAS)  
+- Bicuspid aortic valve (BAV)  
+- Aortic valve stenosis (AVS)  
+- Aortic valve regurgitation (AVR)  
+- Endovascular thoracic aortic repair (TEVAR)  
+- Open aortic surgery (open repair)  
+- Cost‑effectiveness of aortic interventions  
+- Biomarkers for aortic risk stratification  
+- Protein‑based biomarkers  
+- Non‑coding RNAs (e.g., microRNA)  
+- Genetic testing for aortic disease (pathogenic mutations)  
+- Environmental risk factors for aortic aneurysm  
+- Lifestyle risk factors (e.g., smoking, hypertension)  
+- Fluoroquinolone use and aortic aneurysm risk  
+- Biomechanical wall stress in the aorta  
+- Hemodynamic flow disturbances  
+- Machine‑learning–based imaging analysis for aortic assessment  
+- Risk stratification and early diagnosis of aortic disease  
+- Precision medicine and patient‑centered care for aortic disease  
+- Sex, race, and ethnicity disparities in aortic disease outcomes  
+- Aortic repair timing and surgical decision‑making.
+
+Page 111 Extracted Terms:
+- Aortic disease  
+- Aortic dissection  
+- Aortic repair (endovascular or open)  
+- Endovascular technology  
+- Stent‑graft design  
+- Vascular imaging technology  
+- Simulation training for operators  
+- Reinterventions  
+- Optimal exercise protocols  
+- Rehabilitation strategies  
+- Health‑related quality of life (HRQOL)  
+- Psychosocial well‑being  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Vascular Ehlers‑Danlos syndrome  
+- Heritable thoracic aortic aneurysm (TAA)  
+- Cardiovascular care  
+- Gender, sex, and racial/ethnic disparities  
+- Socio‑demographic disparities  
+- Physician market concentration  
+- Patient engagement and retention  
+- Educational interventions and training opportunities  
+- Quality improvement projects  
+- Evidence‑based medicine benchmarks  
+- Cardiovascular and aortic care standards  
+- Access to skilled practitioners  
+- Inclusion in clinical trials  
+- Physical, mental, and emotional health impact of aortic disease  
+
+Page 112 Extracted Terms:
+- Aortic disease  
+- Valvular heart disease  
+- Cardiovascular disease  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Aortic aneurysm / thoracic aortic aneurysm  
+- Heart disease  
+- ACC/AHA clinical practice guidelines (for heart disease)  
+- Cardio‑vascular disease  
+- Aortic disorder  
+- Valve disorder
+
+(Note: These terms capture the key heart‑related concepts present in the provided guideline excerpt.)
+
+Page 113 Extracted Terms:
+- Aortic disease  
+- Large‑vessel vasculitis  
+- Bicuspid aortic valve disease  
+- Aortic aneurysm (thoracic and abdominal)  
+- Aortic dissection (type A & type B)  
+- Intramural hematoma  
+- Penetrating aortic ulcer  
+- Aortic dilation / enlargement  
+- Aortic root assessment  
+- Aortic cross‑sectional area/height ratio  
+- Congenital heart disease  
+- Peripheral artery disease (lower extremity)  
+- Hypertension (high blood pressure)  
+- Coronary artery disease / atherosclerotic vascular disease  
+- Aortic intramural hematoma management  
+- Aortic rupture risk  
+- Aortic endovascular repair  
+- Aortic surgical repair  
+- Mycotic aneurysm  
+- Vascular graft infection  
+- Endovascular infection  
+- Traumatic thoracic aortic injury  
+- Acute aortic syndrome (AAS)  
+- Marfan syndrome (aortic root evaluation)  
+- ACC/AHA Aortic Disease Guideline (2022)  
+- 2018 ACC/AHA guideline for blood‑cholesterol management  
+- 2018 ACC/AHA guideline for congenital heart disease  
+- 2018 ACC/AHA guideline for lower‑extremity peripheral artery disease  
+- 2019 ESC Guidelines on diagnosis and treatment of aortic diseases  
+- 2021 American Association for Thoracic Surgery consensus on acute type A aortic dissection  
+- 2022 Society of Thoracic Surgeons/American Association for Thoracic Surgery guideline on type B aortic dissection  
+- European Society for Vascular Surgery (ESVS) thoracic aortic disease guidelines  
+- Society for Vascular Surgery abdominal aortic aneurysm guidelines  
+- 2010 ACCF/AHA guidelines for thoracic aortic disease (diagnosis & management)  
+- ACC/AHA secondary‑prevention guideline for coronary and atherosclerotic vascular disease  
+- Zone 0 thoracic endovascular aortic repair (landing zone classification)  
+- Aortic landing zone definitions (zone 0–4)  
+- Acute aortic syndrome classification (IRAD system)  
+- Aortic aneurysm reporting standards (SVS/STS)  
+- Acute aortic intramural hematoma versus dissection in the ascending aorta (clinical features)  
+- Endovascular management of malperfusion syndromes in aortic dissection.
+
+Page 114 Extracted Terms:
+- aortic aneurysm  
+- thoracoabdominal aortic aneurysm  
+- descending thoracic aorta  
+- aortic dissection  
+- type B aortic dissection  
+- type A aortic dissection  
+- bicuspid aortic valve  
+- trileaflet aortic valve  
+- Marfan syndrome  
+- ascending aortic aneurysm  
+- aortic root  
+- aortic cross‑sectional area  
+- aortic diameter  
+- aortic volume  
+- aortic stiffness  
+- aortic imaging  
+- computed tomography (CT)  
+- magnetic resonance angiography (MRA)  
+- echocardiography  
+- endograft  
+- endovascular repair  
+- open repair  
+- transcatheter therapies  
+- postoperative surveillance  
+- radiation dose/exposure  
+- body surface area (BSA)  
+- height  
+- body size  
+- age  
+- gender  
+- risk estimation  
+- aneurysm repair  
+- intramural hematoma  
+- acute aortic syndrome  
+- thoracic aortic involvement  
+- aortic surveillance  
+- aortic remodeling  
+- aortic measurement standards  
+- aortic cross‑sectional area/height ratio  
+- aortic length  
+- aortic volume as disease indicator  
+- aortic root dimensions  
+- aortic diameter predictive value  
+- aortic disease progression.
+
+Page 115 Extracted Terms:
+Aortic Dissection  
+Thoracic Aortic Aneurysm (TAA)  
+Abdominal Aortic Aneurysm  
+Aortic Root Replacement  
+Endoluminal Aortic Aneurysm Repair  
+Thoracic Endovascular Aortic Repair (TEVAR)  
+Intravascular Ultrasound Imaging  
+Magnetic Resonance Imaging (MRI)  
+Computed Tomography (CT)  
+Echocardiography  
+Ultrasound Imaging  
+Takayasu’s Arteritis  
+Nephrogenic Systemic Fibrosis  
+Peripheral Arterial Disease  
+Cardiovascular Surgery  
+Multidisciplinary Aortic Team  
+Shared Decision-Making  
+Decision Aid  
+ACC/AHA Aortic Disease Guideline  
+ACC/AHA Guideline for Valvular Heart Disease  
+ACC/AHA 2005 Guidelines for Peripheral Arterial Disease  
+ACCF/AHA/AATS/ACR/ASA/SCA/SCAI/SIR/STS/SVM Guidelines for Thoracic Aortic Disease  
+High-volume Surgeon  
+Low-volume Surgeon  
+High-volume Aortic Center  
+Institutional Volume  
+Endoleak  
+Aortic Remodeling  
+Intimal Flap Mobility  
+Volume–Outcome Relationship  
+Screening for Abdominal Aortic Aneurysm  
+UK Small Aneurysm Trial  
+Decision Support Framework  
+Marfan Syndrome  
+Cardiovascular Care  
+Cardiovascular Imaging  
+Contrast-Enhanced MR Angiography  
+Gadolinium-based Contrast Media  
+Intravascular Ultrasound Assisted Sizing  
+Endovascular Aortic Repair  
+Cardiac Imaging Modalities  
+Magnetic Resonance Angiography  
+Percutaneous Aortic Imaging  
+Aortic Diameters  
+Aortic Pathology Evaluation  
+Aortic Imaging Standards.
+
+Page 116 Extracted Terms:
+- Ascending aortic aneurysm  
+- Thoracic aortic aneurysm  
+- Aortic dissection  
+- Ascending aortic aneurysm outcomes  
+- Thoracic endovascular aneurysm repair (TEVAR)  
+- Aortic imaging  
+- Aortic dilatation  
+- Aortic geometry  
+- Aortic size  
+- Aortic valve (bicommissural)  
+- Ascending aorta dimensions  
+- Body surface area  
+- Height  
+- Genetic testing  
+- Heritable thoracic aortic disease  
+- ACTA2 mutation  
+- SMAD3 mutation  
+- TGFB2 mutation  
+- TGFBR1 mutation  
+- TGFBR2 mutation  
+- FBN1 mutation  
+- MYLK mutation  
+- PRKG1 mutation  
+- Coronary artery disease  
+- Stroke  
+- Moyamoya disease  
+- Familial thoracic aortic aneurysms and dissections  
+- Non‑syndromic thoracic aortic aneurysm  
+- Family screening  
+- Incidence  
+- Prevalence  
+- Risk factors  
+- Decision‑making algorithm  
+- Clinical genetics  
+- Precision medicine
+
+Page 117 Extracted Terms:
+- Marfan syndrome  
+- Aortic root  
+- Aortic root dilation  
+- Aortic root aneurysm  
+- Aortic root replacement surgery  
+- Aortic dissection  
+- Thoracic aortic disease  
+- Aortic aneurysm  
+- Ascending aorta  
+- Descending aorta  
+- Aortic arch  
+- Abdominal aorta  
+- Aortic cross‑sectional area  
+- Aortic diameter  
+- Aortic surgery timing  
+- Aortic event rate  
+- Aortic complications  
+- Cardiovascular disease  
+- Family history of cardiovascular disease  
+- Multimodality imaging  
+- Echocardiography  
+- 2‑D echocardiographic aortic root dimensions  
+- Angiotensin II blockade  
+- Angiotensin receptor blockers (ARBs)  
+- Losartan  
+- Irbesartan  
+- Beta‑adrenergic blockade  
+- Atenolol  
+- Beta‑blocker therapy  
+- Verbal artery tortuosity index (vascular complication indicator)  
+- ESC guideline for aortic diseases  
+- ACCF/AHA guideline for thoracic aortic disease  
+- ESC guideline for aortic disease 2014  
+- ACC/AHA aortic disease guideline 2022   
+- Marfan surgical outcomes (early and 1‑year)  
+- Natural history of aortic root aneurysm in Marfan syndrome  
+- Prognostic significance of aortic root dilation pattern  
+- Long‑term survival after aortic aneurysm repair  
+- Aortic root remodeling  
+- Pulmonary hypertension (implied in thoracic aortic disease)  
+- Cardiovascular imaging modalities (TTE, CT, MRI)
+
+Page 118 Extracted Terms:
+- Aortic root replacement  
+- Thoracic aortic disease  
+- Aortic dissection  
+- Aortic aneurysm  
+- Aortic arch  
+- Descending aorta  
+- Endovascular repair  
+- Open repair  
+- Loeys‑Dietz syndrome  
+- Marfan syndrome  
+- TGF‑β receptor  
+- SMAD3  
+- TGFB2  
+- TGFB3  
+- TGFBR1  
+- TGFBR2  
+- MYH11  
+- ACTA2  
+- Aortic root  
+- Pregnancy‑related acute aortic dissection  
+- Aneurysms‑osteoarthritis syndrome  
+- Familial thoracic aortic aneurysm  
+- Thoracic aortic aneurysm  
+- Type B aortic dissection  
+- Chronic type B aortic dissection  
+- Fenestrated aortic repair  
+- Branched endovascular aortic repair  
+- Vascular pathogenesis  
+- Angiotensin II‑dependent TGF‑β signaling  
+- Aortic root replacement for children  
+- Cardiovascular phenotype  
+- Phenotypic spectrum  
+- Intracranial aneurysm  
+- Extracranial aneurysm  
+- Thoracic aortic aneurysm and dissection  
+- Aneurysm syndromes  
+- Cardiovascular operations  
+- Genetic testing in aortic disease  
+- Medical therapy for Loeys‑Dietz syndrome  
+- Surgical interventions for Loeys‑Dietz syndrome  
+- Aortic disease management guidelines  
+- Multigenerational families with thoracic aortic aneurysms and dissections  
+- Cardiogenetics  
+- Aortic disease risk assessment  
+- TGF‑β signaling pathway in vascular disease  
+- Aneurysm syndromes caused by TGF‑β mutations  
+- Family history of aortic aneurysms and dissections  
+- Pediatric aortic root replacement  
+- Medically and surgically managed Loeys‑Dietz syndrome patients  
+- Mitral valve disease associated with TGFB2 mutations  
+- Interventional radiology for aortic disease  
+- Thoracic surgery for aortic arch in Loeys‑Dietz syndrome  
+- Endovascular aortic repair for type B dissection with thoracoabdominal aneurysms  
+- Genetic variants in aneurysm‑related genes  
+- Aggressive cardiovascular phenotype of aneurysms‑osteoarthritis syndrome  
+- Clinical features and outcomes of pregnancy‑related aortic dissection  
+- Imaging in Loeys‑Dietz syndrome  
+- Guidelines for diagnosis and management of thoracic aortic disease (ACCF/AHA/AATS/ACR/ASA/SCA/SCAI/SIR/STS/SVM)  
+- International registry of patients with TGFBR1/TGFBR2 mutations (Montalcino Aortic Consortium).
+
+Page 119 Extracted Terms:
+- Aortic aneurysm  
+- Thoracic aortic aneurysm  
+- Aortic dissection (type A, type B)  
+- Aortic dilation  
+- Bicuspid aortic valve  
+- Coronary artery disease  
+- Stroke  
+- Moyamoya disease  
+- Vascular Ehlers‑Danlos syndrome  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- TGFBR1 mutation  
+- TGFBR2 mutation  
+- TGFB3 mutation  
+- ACTA2 mutation (smooth muscle alpha‑actin)  
+- PRKG1 mutation (protein kinase G)  
+- MYH11 mutation (myosin heavy chain 11)  
+- MYLK mutation (myosin light chain kinase)  
+- LOX mutation (lysyl oxidase)  
+- Patent ductus arteriosus  
+- Turner's syndrome (Turner’s syndrome)  
+- Congenital heart disease in Turner’s syndrome  
+- Cardiovascular malformations/complications in Turner’s syndrome  
+- Aortic anomalies in Turner’s syndrome  
+- Vascular anomalies (magnetic resonance angiographic features)  
+- Aortic disease presentation & outcome  
+- Management of aortic diseases (guideline recommendations)  
+- Pregnancy‑related cardiovascular complications (in vascular Ehlers‑Danlos and Turner’s syndrome)  
+- Genetic screening for thoracic aortic disease  
+- Family clustering of bicuspid aortic valve and aortic dilation.
+
+Page 120 Extracted Terms:
+- Bicuspid aortic valve (BAV)  
+- Bicuspid aortic valve disease  
+- Bicuspid valve phenotype  
+- Aortic aneurysm (thoracic, abdominal, ascending)  
+- Aortic dissection (type A)  
+- Aortic dilation / aortopathy  
+- Ascending aorta  
+- Aortic root  
+- Aortic valve stenosis  
+- Aortic valve regurgitation / dysfunction  
+- Aortic valve replacement (AVR)  
+- Aortic root replacement  
+- Surgical aortic replacement  
+- Aortic surgery  
+- Coarctation of the aorta (aortic coarctation)  
+- Ventricular outflow‑tract obstruction (left ventricular outflow‑tract obstruction)  
+- Valvular heart disease  
+- Cardiac imaging (MDCT, echocardiography, 2‑D echocardiography)  
+- Aortic root dimensions  
+- Aortic cross‑sectional area/height ratio  
+- Familial thoracic aortic dilation  
+- Heritable bicuspid aortic valve  
+- Genetic mutations (LOX, SMAD6, other aortopathy genes)  
+- Genetic testing for inherited cardiovascular disease  
+- Screening for abdominal aortic aneurysm (AAA)  
+- Primary‑care aortic aneurysm screening  
+- Risk factors for aortic disease  
+- Aortic events (rupture, dissection, aneurysm growth)  
+- Cost‑effectiveness of aortic screening  
+
+
+
+Page 121 Extracted Terms:
+- Abdominal aortic aneurysm  
+- Thoracic aortic aneurysm  
+- Aortic aneurysm (general)  
+- Aortic dissection  
+- Marfan syndrome  
+- Bicuspid aortic valve  
+- Hypertension (high blood pressure)  
+- Blood pressure management  
+- β‑blocker therapy  
+- β‑adrenergic blockade  
+- Angiotensin receptor blocker (ARB)  
+- Losartan  
+- Valsartan  
+- Statin therapy  
+- LDL cholesterol lowering  
+- Cholesterol management  
+- Aortic root dilatation  
+- Aortic root aneurysm  
+- Aortic arch aneurysm  
+- Descending thoracic aortic aneurysm  
+- Thoracoabdominal aortic aneurysm  
+- Aortic rupture  
+- Aortic growth rate  
+- Aortic surveillance (monitoring)  
+- Screening for aneurysms  
+- Endovascular repair  
+- Open surgical repair  
+- Mycotic (infectious) aortic aneurysm  
+- Medium‑ and large‑vessel vasculitis  
+- Aortic pathology in connective‑tissue disorders  
+- Familial aneurysm risk  
+- Genetic predisposition to aortic disease  
+- Blood pressure control standards (ACC/AHA)  
+- Intensive blood‑pressure control (SPRINT)  
+- Coronary and other atherosclerotic vascular disease  
+- Atherosclerosis risk (ARIC study)  
+- Blood‐pressure related vascular mortality  
+- Aortic size surveillance intervals  
+- Aortic wall biomechanics  
+- Aortic aneurysm natural history  
+- Aortic dilatation progression  
+- Aortic dissection incidence  
+- Aortic disease epidemiology  
+- Cardiovascular morbidity and mortality in aneurysm patients  
+- Clinical trial outcomes for aneurysm management (e.g., losartan trials)  
+- Pharmacologic interventions for aneurysm prevention  
+- Endovascular versus open repair outcomes  
+- Family screening guidelines  
+- Risk factor modification (smoking, cholesterol, blood pressure)  
+- Aortic aneurysm guidelines (ACC/AHA)  
+- Aortic disease surveillance protocols  
+- Aortic aneurysm pathophysiology  
+- Vessel wall inflammation in aneurysm formation  
+- Aortic disease management algorithms  
+
+(Note: Each bullet represents a key term or concept relevant to heart disease extracted from the provided text.)
+
+Page 122 Extracted Terms:
+- Aortic aneurysm  
+- Thoracic aortic aneurysm (TAA)  
+- Abdominal aortic aneurysm (AAA)  
+- Bicuspid aortic valve disease  
+- Marfan syndrome  
+- Statin therapy  
+- Statin use  
+- LDL cholesterol  
+- High blood cholesterol  
+- Cholesterol treatment  
+- Blood pressure management  
+- Hypertension  
+- Antiplatelet therapy  
+- Antithrombotic therapy  
+- Aspirin use  
+- Endothelial dysfunction  
+- Elastin-specific autoimmunity  
+- Matrix metalloprotease‑9  
+- Ras/ERK signaling pathway  
+- Smoking cessation  
+- Tobacco use disorder  
+- Electronic cigarette effects  
+- Cardiovascular disease (CVD)  
+- Peripheral artery disease (PAD)  
+- Coronary artery disease  
+- Atherosclerosis  
+- Vascular mortality  
+- Intensive blood‑pressure control  
+- Systolic blood pressure intervention trial (SPRINT)  
+- Lipid‑lowering therapy  
+- Vascular dysfunction  
+- Endovascular aneurysm repair  
+
+These are the principal heart‑disease–related terms appearing in the text.
+
+Page 123 Extracted Terms:
+- High blood cholesterol  
+- Hyperlipidemia  
+- Coronary artery disease  
+- Atherosclerotic vascular disease  
+- Thoracic aortic dilation  
+- Thoracic aortic aneurysm  
+- Aortic aneurysm (general)  
+- Abdominal aortic aneurysm  
+- Aortic root  
+- Ascending aorta  
+- Bicuspid aortic valve  
+- Aortic valve  
+- Aortic dissection  
+- Endovascular repair  
+- Endoleak  
+- Multimodality imaging  
+- Computed‑tomeography (CTA)  
+- Magnetic resonance imaging (MRI) / MRA  
+- Non‑contrast MRI  
+- Ultrasound screening  
+- Surveillance interval  
+- Growth rate of aneurysm  
+- Rupture risk  
+- Surgical repair  
+- Composite graft replacement  
+- Inclusion‑wrap technique  
+- Open repair technique  
+- Aortic valve replacement  
+- Aortic cross‑sectional area‑to‑height ratio  
+- Aortic dilation rate  
+- Aortic stenosis  
+- Bicuspid valve‑associated aneurysm  
+- Aortic disease guidelines  
+- ACCF/AHA guidelines for thoracic aortic disease  
+- ESC guidelines for aortic disease  
+- ACC/AHA guidelines for secondary prevention in coronary disease  
+- National Cholesterol Education Program (NCEP) Adult Treatment Panel III  
+- Society of Thoracic Surgeons (STS) guideline on aortic aneurysm care  
+- Society for Vascular Medicine (SVM) guideline on aortic disease  
+- American College of Radiology (ACR) imaging guidelines for aortic disease  
+- European Society of Cardiology (ESC) guidelines on aortic disease  
+- American Heart Association (AHA) guideline statements on aortic valve disease  
+- American College of Cardiology (ACC) guideline statements on aortic valve disease  
+- Guidelines for multimodality imaging of thoracic aorta  
+- Guidelines for surveillance of abdominal aortic aneurysm  
+- Guidelines for management of thoracic aortic aneurysm size thresholds  
+- Guidelines for endovascular aneurysm repair follow‑up  
+- Guidelines for aortic valve and ascending aorta quality measures  
+- Guidelines for bicuspid aortic valve‑related aortopathy.
+
+Page 124 Extracted Terms:
+- Aortic root  
+- Ascending aorta  
+- Thoracic aorta  
+- Aortic aneurysm  
+- Aortic dissection (Type A)  
+- Bicuspid aortic valve  
+- Tricuspid aortic valve  
+- Aortic valve replacement  
+- Valve‑sparing aortic root replacement  
+- Root‑sparing ascending replacement  
+- Reimplantation (aortic valve)  
+- Remodeling (aortic root)  
+- Ring annuloplasty (aortic root)  
+- Proximal aortic surgery  
+- Thoracic aortic surgery  
+- Wall stress in the aorta  
+- Aortic biomechanics  
+- Aortic elongation  
+- Aortic size threshold (e.g., ≥5.5 cm, ≥5 cm)  
+- Aortic root replacement  
+- Hemiarch repair  
+- Aortic valve disease (stenosis, insufficiency)  
+- Aortic root aneurysm  
+- Aortic root pathology  
+- Syndromic aneurysm (e.g., Marfan syndrome)  
+- Non‑syndromic aneurysm  
+- Acute aortic events  
+- Mortality related to aortic disease  
+- Aortic valve‑related reoperation  
+- Aortic root repair techniques  
+- Genetic predisposition to aortic disease  
+- Aortic root and ascending aorta surgical criteria.
+
+Page 125 Extracted Terms:
+- Aortic disease  
+- Aortic root aneurysm  
+- Aortic arch aneurysm  
+- Thoracic aortic aneurysm (TAA)  
+- Thoracoabdominal aortic aneurysm  
+- Aortic dissection  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Bicuspid aortic valve disease  
+- Valve‑sparing aortic root replacement  
+- Mechanical aortic root replacement  
+- Aortic valve replacement  
+- Endovascular aneurysm repair (EVAR)  
+- Hybrid arch exclusion (zone 0‑0)  
+- Frozen elephant trunk technique  
+- Aortic arch reconstruction  
+- Antegrade cerebral perfusion  
+- Axillary artery cannulation  
+- Innominate artery cannulation  
+- Circulatory arrest  
+- Stroke risk (neurologic outcome)  
+- Wall stress (saccular vs fusiform aneurysm)  
+- Infected aortic aneurysm  
+- Smooth muscle dysfunction syndrome (ACTA2)  
+- Guidelines for aortic diseases (ACC/AHA, ESC, EACTS/ESVS)  
+- STS Adult Cardiac Surgery Database  
+- Incidence/size thresholds for rupture or dissection  
+- Complications of aortic operations (bleeding, thromboembolism, reintervention)  
+
+These are the principal terms related to heart disease that appear in the provided text.
+
+Page 126 Extracted Terms:
+**Heart‑disease–related key terms extracted from the text**
+
+1. Thoracic aortic aneurysm  
+2. Descending thoracic aortic aneurysm  
+3. Thoracic endovascular aneurysm repair (TEVAR)  
+4. Endovascular repair  
+5. Open surgical repair  
+6. Aortic dissection (chronic/acute)  
+7. Ruptured aortic aneurysm  
+8. Subclavian artery coverage  
+9. Celiac artery coverage  
+10. Stroke (neuro‑vascular complication)  
+11. Paralysis (neurologic complication)  
+12. Mortality (death)  
+13. Morbidity (disease burden)  
+14. Stent graft / graft / endograft (vascular device)  
+15. Percutaneous access  
+16. Preclose technique (percutaneous closure)  
+17. Femoral artery access  
+18. Branch endovascular therapy  
+19. Cardiovascular disease (broader context)  
+20. GRADE‑rated clinical trial outcomes  
+21. GORE TAG device (device-based term)  
+22. Medtronic Talent stent graft (device-based term)  
+
+These terms represent the principal clinical concepts, procedures, complications, and device references that are specific to cardiovascular and aortic pathologies discussed throughout the guideline excerpts.
+
+Page 127 Extracted Terms:
+- Thoracic Aortic Aneurysm (TAA)  
+- Thoracoabdominal Aortic Aneurysm (TAAA)  
+- Aortic Dissection  
+- Endovascular Aneurysm Repair (EVAR)  
+- Open Surgical Repair  
+- Spinal Cord Protection  
+- Cerebrospinal Fluid Drainage  
+- Spinal Cord Ischemia  
+- Paraplegia  
+- Intrathecal Papaverine  
+- Endograft (Branched/Fenestrated)  
+- Aortic Replacement  
+- Renal Protection Strategies  
+- Visceral Organ Protection  
+- Type B Aortic Dissection  
+- Type A Aortic Dissection  
+- Marfan Syndrome  
+- Connective Tissue Disease  
+- Ruptured Aortic Aneurysm  
+- Size Thresholds for Repair  
+- Rupture Risk  
+- Inflammatory Cytokines  
+- Left Ventricular Ejection Fraction  
+- Octogenarian Surgery Outcomes  
+- Neurosurgical Monitoring  
+- Cerebrospinal Fluid Pressure Management  
+- Spinal Cord Perfusion Pressure  
+- Aortic Disease Guidelines  
+- ACCF/AHA Guidelines  
+- ESC Guidelines  
+- Surgical Outcomes  
+- Mortality Risk  
+- Complication Rates  
+- Cerebrovascular Complications  
+- Neurological Outcomes  
+- Prognostic Factors
+
+Page 128 Extracted Terms:
+- Abdominal aortic aneurysm (AAA)  
+- Thoracoabdominal aortic aneurysm  
+- Endovascular aneurysm repair (EVAR)  
+- Open aortic aneurysm repair  
+- Ruptured abdominal aortic aneurysm  
+- Aortic aneurysm surveillance  
+- Surgical threshold for AAA repair  
+- Aortic aneurysm diameter/size  
+- Aortic aneurysm growth rate  
+- Aortic aneurysm rupture risk  
+- Endovascular repair vs. open repair  
+- Perioperative outcomes of aortic repair  
+- Anesthesia (local vs. general) in aortic surgery  
+- Ultrasound‑guided femoral access  
+- Groin hematoma  
+- Fluid resuscitation strategies in hypotensive trauma patients  
+- Hemorrhagic shock pathophysiology  
+- Rapid infusion systems in trauma care  
+- Aortic neck IFU (instructions for use) violations  
+- Catheter‑directed endograft techniques  
+- Aortic endograft complications  
+- Aortic disease guidelines  
+- Vascular surgery outcomes studies  
+- National Surgical Quality Improvement Program (NSQIP) data on aortic aneurysm  
+- Multicenter randomized trials in aortic surgery  
+- Meta‑analysis of individual patient data for AAA  
+- Aortic aneurysm registry/quality initiative data  
+- Renal protection during thoracoabdominal aneurysm repair  
+- Cold blood vs. cold crystalloid perfusion  
+- Celiac, superior mesenteric, and renal artery involvement in aortic aneurysm  
+- Aortic aneurysm-related mortality studies  
+- Endovascular treatment of ruptured aorto‑iliac aneurysms  
+- Rapid fluid resuscitation for torso trauma  
+- Aortic aneurysm growth surveillance by ultrasound  
+- Aortic aneurysm surgical decision‑making criteria  
+
+(Note: These terms collectively represent key concepts related to heart and vascular disease as presented in the provided guideline excerpts.)
+
+Page 129 Extracted Terms:
+- Abdominal aortic aneurysm  
+- Thoracic aortic aneurysm  
+- Endovascular aneurysm repair (EVAR)  
+- Open aneurysm repair  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Aortic dissection  
+- Iliac artery aneurysm  
+- Fenestrated endovascular repair  
+- Aortic graft  
+- Aortic endograft device  
+- Internal iliac artery exclusion  
+- Cardiac risk index (Vascular Quality Initiative)  
+- Myocardial infarction  
+- Graft‑related adverse events  
+- Perioperative morbidity  
+- Perioperative mortality  
+- Symptomatic non‑ruptured aneurysm  
+- Ruptured abdominal aortic aneurysm  
+- High‑risk patients  
+- Low‑to‑moderate‑risk patients  
+- Long‑term outcomes  
+- Survival after repair  
+- Post‑operative complications  
+- Risk prediction models (e.g., Vascular Study Group of New England)
+
+Page 130 Extracted Terms:
+- Aortic aneurysm  
+- Thoracic aortic aneurysm (TAA)  
+- Abdominal aortic aneurysm (AAA)  
+- Aortic dissection (AD)  
+- Acute aortic syndrome (AAS)  
+- Endovascular repair (EVAR, TEVAR)  
+- Open surgical repair  
+- Stent graft / endograft  
+- Endoleak (type I, type II, type III)  
+- Surveillance imaging  
+- Computed tomography angiography (CTA)  
+- Magnetic resonance angiography (MRA)  
+- Contrast‑enhanced ultrasound (CEUS)  
+- Duplex ultrasound  
+- Non‑contrast MRI  
+- Par‑anastomotic aneurysm  
+- Aortic root aneurysm  
+- Valve‑sparing aortic root replacement  
+- Composite valve‑graft replacement  
+- Marfan syndrome  
+- Hypertension (antihypertensive therapy)  
+- Cardiovascular research network  
+- Cardiovascular quality and outcomes research  
+- Aneurysm sac enlargement  
+- Device migration, graft kink, graft migration  
+- Renal branch grafts  
+- Fenestrated/branched endovascular procedures (FEVAR/BEVAR)  
+- Aortic valve disease (including ascending aortic aneurysm)  
+- Endovascular aneurysm repair complications  
+- Imaging of postsurgical aorta  
+- Angiography (contrast‑enhanced)  
+- Radiation exposure from CT  
+- Endovascular aneurysm repair follow‑up  
+
+(These terms capture the key heart‑ and aorta‑related concepts emphasized in the guideline excerpts.)
+
+Page 131 Extracted Terms:
+- Aortic disease  
+- Thoracic aortic dissection  
+- Acute aortic syndrome  
+- Acute type A aortic dissection  
+- Acute type B aortic dissection  
+- Aortic expansion  
+- Aortic arch dilatation  
+- Aortic aneurysm (implied)  
+- Transesophageal echocardiography  
+- Helical computed tomography  
+- Magnetic resonance imaging  
+- Chest radiography  
+- Aortic dissection detection risk score  
+- D‑dimer  
+- ADvISED risk score  
+- International Registry of Acute Aortic Dissection (IRAD) score  
+- Simple risk models for surgical mortality in type A dissection  
+- Endovascular (endovascular repair)  
+- Surgical repair of type A dissection  
+- Thoracic endovascular aortic repair  
+- Antihypertensive medications (beta‑blockers, calcium‑channel blockers, etc.)  
+- Labetalol (intravenous)  
+- Sodium nitroprusside (intravenous)  
+- Clevidipine  
+- Pitavastatin (statin therapy)  
+- Calcium channel blockers (harmful in Marfan syndrome)  
+- Marfan syndrome  
+- Stroke (as a complication of aortic dissection)  
+- Blood pressure control  
+- Heart rate control  
+- Hypertension  
+- Short‑term survival  
+- Long‑term survival  
+- Acute medical management of aortic dissection  
+- Subsequent medical management of aortic dissection  
+- High‑volume versus low‑volume surgeons  
+- Interfacility transfer of patients with acute type A aortic dissection  
+- ACR Appropriateness Criteria for suspected acute aortic syndrome  
+- ACC/AHA Aortic Disease Guideline  
+- ACCF/AHA/AATS/ACR/ASA/SCA/SCAI/SIR/STS/SVM guidelines for thoracic aortic disease.
+
+Page 132 Extracted Terms:
+- Acute type A aortic dissection  
+- Malperfusion syndrome  
+- Cerebral malperfusion  
+- Mesenteric (visceral) malperfusion  
+- Aortic root surgery  
+- Valve‑sparing aortic root repair (David procedure)  
+- Bentall procedure  
+- Aortic arch replacement  
+- Hemiarch replacement  
+- Total arch replacement  
+- Frozen Elephant Trunk repair  
+- Endovascular aortic repair (thoracic stent‑graft)  
+- Endovascular fenestration / stenting first strategy  
+- Emergency central aortic repair  
+- Surgical cannulation strategies (axillary vs. femoral)  
+- Cerebral protection strategy  
+- Operative mortality  
+- Post‑operative mortality  
+- Immediate (early) surgical outcomes  
+- Short‑term and long‑term survival  
+- Hemodynamic instability  
+- Reperfusion strategy  
+- Operative risk models (IRAD score)  
+- Night‑time or weekend surgical effect  
+- Acute aortic disease (including DeBakey I and Stanford type A)
+
+Page 133 Extracted Terms:
+- Acute type A aortic dissection  
+- Type B aortic dissection (acute, subacute, chronic)  
+- Aortic arch  
+- Aortic root  
+- Aortic aneurysm  
+- Endovascular repair (thoracic/endovascular aortic repair)  
+- Endovascular fenestration / stenting  
+- Thoracic endovascular aneurysm repair (TEVAR)  
+- Frozen elephant trunk procedure  
+- Conformable stent graft  
+- Stent graft (various brands/models)  
+- Arch replacement (total arch, extended arch, partial arch)  
+- Cannulation strategies  
+  - Ascending aortic cannulation  
+  - Peripheral arterial cannulation (femoral, axillary)  
+  - Innominate artery cannulation  
+  - Central cannulation (aortic arch cannulation)  
+- Cerebral perfusion techniques  
+  - Antegrade cerebral perfusion  
+  - Bilateral cerebral perfusion  
+  - Unilateral cerebral perfusion  
+- Malperfusion syndrome  
+- Aortic remodeling  
+- Neurologic complications (perfusion‑related, stroke)  
+- Reoperation (late re‑intervention, redo surgery)  
+- Medical management/therapy  
+- Subacute/chronic type B management strategies
+- Endovascular repair complications (access‑site, embolic events)
+
+Page 134 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Aortic dissection  
+- Type A aortic dissection  
+- Type B aortic dissection  
+- Acute aortic intramural hematoma (IMH)  
+- Penetrating atherosclerotic ulcer (PAU)  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Endovascular stent‑graft repair  
+- Open surgical repair (arch or ascending aorta)  
+- Intimal disruption  
+- Rupture (of the aorta)  
+- Hypertension (as a risk factor)  
+- Refractory pain (symptom of acute dissection)  
+- Medical therapy (best medical treatment)  
+- Prognosis  
+- Mortality (aorta‑related and all‑cause)  
+- Surgical outcomes  
+- Endovascular outcomes  
+- Risk score (predicting death or need for surgery)  
+- Imaging evolution (CT follow‑up)  
+- Natural history (of PAU and IMH)  
+- Clinical features  
+- Radiological findings  
+- Complications (e.g., aneurysm, dissection, ulcer)  
+- Long‑term behavior / outcomes  
+- Short‑term evolution  
+
+These terms encompass the major clinical concepts, procedures, and prognostic factors related to aortic disease discussed in the guideline.
+
+Page 135 Extracted Terms:
+- ACC/AHA Aortic Disease Guideline  
+- Aortic disease  
+- Penetrating aortic ulcer (PAU)  
+- Aortic intramural hematoma (IMH)  
+- Aortic dissection  
+- Blunt thoracic aortic injury (BTTAI)  
+- Blunt abdominal aortic injury (BAAI)  
+- Traumatic aortic injury  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Endovascular aortic repair  
+- Open surgical aortic repair  
+- Resuscitative endovascular balloon occlusion of the aorta (REBOA)  
+- Helical CT grading of aortic injury  
+- Antihypertensive therapy for aortic injury  
+- Heparin use in endovascular aortic repair  
+- Infrarenal aortic ulcer therapy  
+- Aortic isthmus rupture  
+- Traumatic aortic rupture  
+- Aortic injury classification schemes  
+- Endovascular therapy for penetrating ulcers  
+- Aortic injury management guidelines  
+
+Page 136 Extracted Terms:
+- Blunt traumatic aortic injury  
+- Endovascular repair (TEVAR)  
+- Thoracic aortic injury  
+- Blunt abdominal aortic injury  
+- Aortic dissection (type A, type B, DeBakey IIIA/IIIB, chronic)  
+- Intramural hematoma (IMH)  
+- Penetrating aortic ulcer (PAU)  
+- Aortic arch surgery  
+- Valve‑sparing root replacement  
+- Aortic root repair  
+- Distal aortic enlargement / reoperation  
+- Aortic aneurysm (ascending, hemi‑arch, infrarenal)  
+- Aortic intramural hematoma evolution  
+- Endoleak (type IA)  
+- Subacute and chronic aortic dissection management  
+- Long‑term surveillance imaging of the aorta  
+- DeBakey classification of aortic dissections  
+- Stanford classification of aortic dissections  
+- TGF‑β receptor mutations (associated with aneurysm syndromes)  
+- Loeys‑Dietz syndrome  
+- Marfan syndrome  
+- Ehlers–Danlos syndrome (vascular type)  
+- Turner syndrome (cardiovascular involvement)  
+- Pregnancy‑associated aortic complications  
+- Post‑partum cardiovascular disease  
+- Organisation of care for pregnancy in congenital heart disease  
+- ESC guidelines for cardiovascular disease during pregnancy  
+- National Heart, Lung, and Blood Institute (NHLBI) GenTAC registry  
+- Thoracic endovascular aortic repair for penetrating ulcers  
+- Penetrating atherosclerotic ulcer of the thoracic aorta  
+- Aortic disease in pregnancy – risk of dissection, rupture, and mortality  
+- Counseling and management of aortic disease in pregnancy and postpartum  
+- Aortic disease surveillance after repair (long‑term imaging)  
+- Aortic disease complications during pregnancy (maternal and fetal outcomes)
+
+Page 137 Extracted Terms:
+- Aortic dissection  
+- Aortic aneurysm  
+- Thoracic aortic aneurysm  
+- Abdominal aortic aneurysm  
+- Aortic root  
+- Chronic hypertension  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Turner syndrome  
+- Ehlers‑Danlos syndrome  
+- TGFBR1 mutation  
+- TGFBR2 mutation  
+- ACTA2 mutation  
+- MYLK mutation  
+- SMAD3 mutation  
+- PRKG1 mutation  
+- Pregnancy‑associated aortic disease  
+- Pregnancy‑related acute aortic dissection  
+- Maternal‑fetal MRI  
+- Calcium channel blocker interaction  
+- Genetic testing (cardiogenetics)  
+- Endovascular aneurysm repair (EVAR)  
+- ACC/AHA Aortic Disease Guideline  
+- ESC Aortic Disease Guideline (2014)  
+- ACCF/AHA/AATS thoracic aortic disease guidelines (2010)  
+- ACC/AHA hypertension guideline (2017)  
+- High blood pressure (hypertension)  
+- Gene‑by‑environment interaction  
+- Aortopathy management during pregnancy  
+- Aortic disease risk factors  
+- Aortic disease natural history  
+- Aortic disease surgical outcomes  
+
+Page 138 Extracted Terms:
+- Aortic disease  
+- Aortic aneurysm  
+- Aortic dissection (type A)  
+- Aortic dissection (type B)  
+- Thoracic aortic aneurysm  
+- Familial thoracic aneurysms and dissections  
+- Bicuspid aortic valve  
+- Marfan syndrome  
+- TGFB2 mutation  
+- TGFB3 mutation  
+- TGF‑beta receptor mutation (TGFBR1/TGFBR2)  
+- SMAD3 mutation  
+- ACTA2 mutation  
+- MYLK variant  
+- PRKG1 mutation  
+- Aortopathy  
+- Pregnancy in aortic disease  
+- Cardiovascular diseases during pregnancy  
+- Giant cell arteritis  
+- Takayasu arteritis  
+- Large‑vessel vasculitis  
+- Giant cell aortitis  
+- Inflammatory aortitis  
+- Aortic involvement in giant cell arteritis  
+- Aortic involvement in Takayasu arteritis  
+- Endovascular intervention for aortic disease  
+- Coronary and atherosclerotic vascular disease  
+- Secondary prevention of coronary disease  
+- Genetic testing in aortic disease (cardiogenetics)  
+- Interventional radiology for vascular disease  
+- Anti‑platelet/anticoagulant therapy for aortic complications  
+- Medical management of aortic aneurysm/dissection  
+- Surgical repair of aortic aneurysm/dissection  
+- Imaging in large‑vessel vasculitis (e.g., PET, CT, MR)  
+- Steroid therapy for giant cell arteritis  
+- Biological‑targeted therapy for Takayasu arteritis  
+- Pathogenic variants in aortic disease genetics  
+- Phenotypic spectrum of TGFB3 disease‑causing variants  
+- Aortic regurgitation associated with bicuspid valve  
+- Cardiovascular risk prediction in aortopathy  
+- Familial thoracic aortic disease genetics  
+- Aortic wall false lumen and secondary dilatation  
+- Aortic disease guidelines (ACC/AHA, ESC)
+
+Page 139 Extracted Terms:
+- Native aortic infection  
+- Mycotic aortic aneurysm  
+- Abdominal aortic aneurysm  
+- Thoracic aortic aneurysm  
+- Aortoenteric fistula  
+- Prosthetic aortic graft infection  
+- In situ graft repair  
+- Extra‑anatomical bypass  
+- Endovascular aneurysm repair (EVAR)  
+- Open surgical repair  
+- Rifampin‑soaked grafts  
+- Cryopreserved aortoiliac allograft  
+- Antimicrobial therapy for aortic infections  
+- Staphylococcus aureus infection  
+- Infective endocarditis  
+- Atherosclerotic disease of the aorta  
+- Thoracic aortic disease  
+- Coronary artery disease  
+- Cerebrovascular disease  
+- Statin therapy (e.g., pravastatin)  
+- Antithrombotic therapy (aspirin, anticoagulants)  
+- Myocardial infarction risk  
+- Stroke prevention in atherosclerosis  
+- Graft‑related complications (reinfection, erosion, fistula)  
+- Imaging diagnostics: FDG‑PET/CT, CT angiography, MRI, indium‑labeled WBC scan  
+- Endovascular versus open repair outcomes  
+- Perioperative antibiotic suppression  
+- Graft enteric erosion  
+- Prosthetic graft allograft replacement  
+- Vascular graft infection epidemiology  
+- Aortic disease guidelines (ACC/AHA, AHA statements)
+
+Page 140 Extracted Terms:
+Aortic disease  
+Atherosclerotic lesion  
+Atherosclerotic plaque  
+Aortic arch disease  
+Thoracic aorta disease  
+Pulmonary circulation  
+
+Aortic thrombus  
+Aortic mural thrombus  
+Floating aortic thrombus  
+Aortic mural thrombosis  
+Aortic thromboembolism  
+Antithrombotic therapy  
+
+Endovascular treatment  
+Endovascular therapy  
+Surgical repair  
+Hybrid procedure  
+Off‑pump myocardial revascularization  
+No‑clamp technique  
+‘No‑touch’ technique  
+
+Calcification of the aorta  
+Porcelain aorta  
+Aortic dilatation  
+Bicuspid aortic valve  
+Aortic valve insufficiency  
+Aortic valve repair  
+Aortic valve replacement  
+
+Coarctation of the aorta  
+Congenital aortic anomaly  
+Aberrant subclavian artery  
+Congenital heart disease  
+Peri‑operative complications  
+
+Risk assessment  
+Risk score  
+Cardiovascular risk factor  
+
+Stroke  
+Ischemic stroke  
+Cerebral ischemia  
+Systemic embolism  
+Embolic potential  
+
+Peripheral arterial disease  
+Abdominal aortic aneurysm  
+Peripheral vascular disease  
+
+Cardiovascular imaging  
+Computed tomography angiography  
+Magnetic resonance imaging  
+Echocardiography  
+Spiral computed tomography  
+
+Mortality  
+Cardiovascular event  
+Cardiovascular death  
+Systemic blood pressure  
+
+Endarterectomy  
+Angioplasty  
+Balloon angioplasty  
+Stenting  
+Stent placement  
+
+Coronary artery bypass grafting  
+Off‑pump coronary bypass  
+Coronary artery disease  
+Coronary intervention  
+
+Catheter‑based therapy  
+Catheter‑guided therapy  
+Valve surgery  
+
+Multicenter study  
+Large cohort study  
+Population‑based analysis  
+
+Clinical guideline  
+ACC/AHA guideline  
+American Heart Association guideline  
+American College of Cardiology guideline  
+Task Force guideline  
+
+Ambulatory blood‑pressure monitoring  
+Intra‑aortic debris  
+Vascular event
+
+---
+
+Page 141 Extracted Terms:
+- Aortic coarctation  
+- Kommerell’s diverticulum  
+- Aberrant subclavian artery  
+- Aberrant left vertebral artery  
+- Aortic aneurysm (thoracic, descending)
+- Bicuspid aortic valve  
+- Intracranial aneurysm  
+- Hypertension (high blood pressure)  
+- Endovascular treatment  
+- Stent (Cheatham‑Platinum, covered, bare)  
+- Balloon angioplasty  
+- Stent placement (thoracic)  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Open aortic repair  
+- Hybrid repair of aortic aneurysm  
+- End‑to‑end anastomosis  
+- Cardiothoracic surgery  
+- Vascular surgery  
+- Cardiovascular magnetic resonance imaging (CMR)  
+- Magnetic resonance angiography (MRA)  
+- Aortic arch variants  
+- Aortic arch branching variants  
+- Thoracic aortic disease  
+- Systemic blood pressure  
+- Exercise‑induced hypertension  
+- Ambulatory blood pressure monitoring  
+- Aortic root complications  
+- Ascending aortic complications  
+- Aortopathy  
+- Thoracic aortic pathologies  
+- Aortic arch replacement  
+- Aortic arch repair  
+- Cardiovascular abnormalities  
+- Intracranial aneurysm screening  
+- Cost‑effectiveness analysis (of aneurysm screening)  
+- ESC Aortic Diseases Guidelines  
+- ACC/AHA Aortic Disease Guidelines  
+
+These terms capture the core cardiovascular conditions, anatomical features, therapies, and diagnostic modalities discussed in the text.
+
+Page 142 Extracted Terms:
+- Aortic aneurysm  
+- Thoracic aortic aneurysm  
+- Abdominal aortic aneurysm  
+- Aortic dissection (acute, type A, type B)  
+- Thoracic aortic disease  
+- Aortic arch anomaly / bovine arch  
+- Left subclavian artery coverage  
+- Stroke (neurologic complications)  
+- Thoracic endovascular aortic repair (TEVAR)  
+- Endografting / endovascular repair  
+- Open repair of the aorta  
+- Aortic root surgery / replacement / reimplantation  
+- Aortic valve (intervention)  
+- Mitral valve intervention  
+- Sarcoma of the aorta / primary aortic tumor  
+- Cardiac rehabilitation (exercise‑based)  
+- Cardiopulmonary exercise testing  
+- Physical activity / exercise prescription for aortic disease patients  
+- Quality of life after aortic surgery  
+- Surveillance of small abdominal aortic aneurysms  
+- Growth rate of aortic aneurysms  
+- Cardiovascular risk factors (for aortic aneurysm expansion)  
+- Surgical outcomes in aortic disease  
+- Guidelines for diagnosis and treatment of aortic disease (ACC/AHA, ESC, NICE, etc.)
+
+Page 143 Extracted Terms:
+- Aortic diseases  
+- Thoracic aortic aneurysm  
+- Abdominal aortic aneurysm  
+- Aortic dissection  
+- Bicuspid aortic valve (BAV)  
+- Marfan syndrome  
+- Aortopathy  
+- Cardiac rehabilitation  
+- Exercise recommendation / Physical activity  
+- Endovascular repair (EVAR)  
+- Open surgical repair (OSR)  
+- Endoleak  
+- Aneurysm sac  
+- Thoracoabdominal aneurysm  
+- Cost‑effectiveness  
+- Screening (for aneurysm)  
+- Biomarkers (e.g., desmosine, proteomics)  
+- Genetic susceptibility loci (GWAS findings)  
+- Fluoroquinolone use and aneurysm risk  
+- Mediterranean diet and aneurysm prevention  
+- Anti‑inflammatory diet  
+- Epidemiology of aneurysms  
+- Health‑related quality of life  
+- Longitudinal spending on aortic repair  
+- Clinical guidelines (ACC/AHA, ESC)  
+- National guidelines (Aortic Disease Guideline)  
+- Consensus statements on BAV aortopathy  
+- Endovascular versus open repair outcomes  
+- Risk factors for aortic dilation  
+- Cardiovascular disease burden  
+- Imaging modalities (MRI, CT, angiography)  
+- Endovascular aneurysm repair (EVAR) vs. open repair  
+- Hospital cost analysis in aortic surgery  
+- Precision medicine in heritable thoracic aortic disease  
+
+
+
+Page 144 Extracted Terms:
+- ACC/AHA Aortic Disease Guideline  
+- Abdominal aortic aneurysm  
+- Thoracic aortic aneurysm  
+- Ascending thoracic aortic aneurysm  
+- Thoracoabdominal aortic aneurysm  
+- Aortic root aneurysm  
+- Aortic arch aneurysm  
+- Aortic dissection (type A, type B, acute)  
+- Marfan syndrome  
+- Bicuspid aortic valve  
+- Tricuspid aortic valve  
+- Endovascular aneurysm repair (EVAR)  
+- Endovascular repair of complex aortic aneurysms  
+- Fenestrated‑branched endograft  
+- Orthotopic branched endovascular arch repair  
+- Stent‑graft deployment  
+- Biomechanics of the aorta  
+- Wall stress in the aorta  
+- Aortic arch repair  
+- Cardiac rehabilitation  
+- Exercise‑based cardiac rehabilitation for aortic disease  
+- Post‑operative quality of life in aortic patients  
+- Sexual dysfunction after aortic dissection  
+- Anxiety in patients undergoing abdominal aortic aneurysm surgery  
+- Mental health disorders and aortic dissection  
+- Gender differences in aortic aneurysm growth and outcomes  
+- Racial disparities in endovascular aortic repair  
+- Ethnic disparities in aortic disease management  
+- Under‑representation of female patients in vascular trials  
+- Propensity‑matched comparison studies in aortic surgery  
+- Registry‑based thresholds for aortic repair in female patients  
+- Longitudinal cohort studies of aortic surgery outcomes  
+- Randomized clinical trials on quality of life after aortic repair  
+- eHealth interventions for anxiety in aortic aneurysm surgery  
+- Patient‑specific biomechanical simulation of stent‑graft deployment  
+- Biomechanical modeling of stent‑graft deployment in type B aortic dissection.
+
+Page 145 Extracted Terms:
+- Aortic disease  
+- Aortic aneurysm  
+- Aortic dissection  
+- Thoracic aortic disease  
+- Cardiovascular disease  
+- Cardiothoracic surgery  
+- Interventional cardiology  
+- Cardiac catheterization laboratory  
+- Endovascular therapy  
+- Vascular surgery  
+- Marfan syndrome  
+- Aortic valve disease (arterial valve, aortic stenosis, aortic regurgitation)  
+- Aortic repair / aortic surgery  
+
+These terms capture the core heart‑related concepts referenced in the guideline and author affiliations.
+
+Page 146 Extracted Terms:
+- Aortic disease  
+- Aortic disease guideline  
+- Aortic center  
+- Cardiac catheterization  
+- Cardiac surgery  
+- Cardiovascular medicine  
+- Cardiology  
+- Cardiothoracic surgery  
+- Endovascular surgery  
+- Marfan syndrome  
+- Connective tissue disorder  
+- Heart  
+- Vascular  
+- Thoracic  
+
+Page 147 Extracted Terms:
+- ACC/AHA  
+- American College of Cardiology  
+- American Heart Association  
+- Aortic Disease  
+- Cardiaca  
+- Cardiovascular  
+- Cardiothoracic Surgery  
+- Vascular Surgery  
+- Endovascular  
+- Clinical Statement  
+- Guideline  
+- Drug  
+- Device  
+- Clinical Trial  
+
+Page 148 Extracted Terms:
+- ACC (American College of Cardiology)  
+- AHA (American Heart Association)  
+- ACC/AHA  
+- Aortic Disease  
+- Aortic Aneurysm  
+- Aortic Dissection  
+- Aortic Valve Disease  
+- Aortic Valve Stenosis  
+- Aortic Valve Regurgitation  
+- Aortic Valve Replacement  
+- Aortic Valve Repair  
+- Aortic Surgery  
+- Thoracic Surgery  
+- Vascular Surgery  
+- Congenital Heart Public Health Consortium  
+- Children’s Heart Foundation  
+- Cardiovascular  
+- Heart Disease  
+- Aortic Repair  
+- Aortic Stenosis  
+- Aortic Regurgitation  
+- Aortic Dissection  
+
+These terms capture the heart‑related concepts and disease categories referenced in the guideline text.
+
+Page 149 Extracted Terms:
+- ACC / AHA (American College of Cardiology / American Heart Association)  
+- Aortic Disease  
+- Cardiovascular (as in cardiovascular disease, cardiovascular surgery)  
+- Thoracic (thoracic surgery)  
+- Heart (implicitly through “Heart Association”)  
+- Society of Cardiovascular Anesthesiologists (SCA)  
+- Society of Thoracic Surgeons (STS)  
+- Society for Vascular Surgery (SVS)  
+- National Heart, Lung, and Blood Institute (NHLBI)  
+- Clinical Statements and Guidelines (for heart disease)
+

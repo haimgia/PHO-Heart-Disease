@@ -1,0 +1,3832 @@
+Page 1 Extracted Terms:
+- Chronic Coronary Disease  
+- Chronic Coronary Disease guideline  
+- Stable Ischemic Heart Disease  
+- Diagnosis and Management of Stable Ischemic Heart Disease  
+- Coronary disease  
+- Ischemic heart disease  
+- Coronary angiography  
+- Cardiovascular interventions  
+- Cardiovascular disease  
+- Cardiac management strategies  
+- Clinical practice guidelines for coronary disease  
+- Heart disease prevention and therapy terms (e.g., lipid management, anti‑platelet therapy, statins)
+
+Page 2 Extracted Terms:
+Acute coronary syndrome  
+Angina  
+Antiplatelet therapy  
+Aspirin  
+Atherosclerosis  
+Cardiac events  
+Cardiac rehabilitation  
+Cardiovascular diseases  
+Colchicine  
+Coronary artery disease  
+Coronary disease  
+Dual antiplatelet therapy  
+Fibrinolytic agents  
+Factor Xa inhibitors  
+Glucagon‑like peptide‑1 receptor agonists  
+Hypercholesterolemia  
+Hypertension  
+Ischemic heart disease  
+Ischemia with non‑obstructive coronary arteries  
+Myocardial ischemia  
+Secondary prevention  
+Sodium‑glucose cotransporter‑2 inhibitors  
+Spontaneous coronary artery dissection  
+Heart disease risk factors  
+Heart failure (preserved or reduced ejection fraction)  
+Lifestyle risk factors (e.g., smoking cessation, diet, exercise tolerance, alcohol and substance use, environmental exposures)  
+Guideline‑directed management and therapy  
+Evaluation, diagnosis, and risk stratification  
+Revascularization (PCI vs CABG)  
+Percutaneous coronary intervention (PCI)  
+Coronary artery bypass grafting (CABG)  
+Chronic management after spontaneous coronary artery dissection (SCAD)  
+Lipid management (statins, etc.)  
+Blood pressure management (renin–angiotensin–aldosterone system inhibitors, beta‑blockers)  
+Medical therapy for relief of angina  
+Management of refractory angina  
+Chelation therapy  
+Cardiac rehabilitation (exercise training, education)  
+Medical therapy to prevent cardiovascular events  
+Immunizations (in the context of cardiovascular risk)  
+Special populations (e.g., CAD with valvular heart disease, HF with preserved or reduced EF)
+
+Page 3 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular Disease (CVD)  
+- Coronary Artery Disease (CAD)  
+- Myocardial Infarction  
+- Left Ventricular Ejection Fraction  
+- Cardiac Allograft Vasculopathy  
+- Heart Transplant Recipient  
+- Cardiac Rehabilitation  
+- β‑Blocker (beta‑blocker)  
+- Calcium Channel Blocker  
+- Anti‑anginal Therapy  
+- Statin  
+- Ezetimibe  
+- PCSK9 Inhibitor  
+- Inclisiran  
+- Bempedoic Acid  
+- Dual Antiplatelet Therapy (DAPT)  
+- Non‑prescription Dietary Supplement  
+- Fish Oil  
+- Omega‑3 Fatty Acids  
+- Vitamins (as supplements)  
+- Anatomic or Ischemic Testing  
+- Smoking Cessation  
+- Nicotine Replacement Therapy (NRT)  
+- E‑cigarettes  
+- Exercise (Aerobic & Resistance)  
+- Healthy Dietary Habits  
+- Team‑Based Care  
+- Patient‑Centered Care  
+- Social Determinants of Health  
+- Shared Decision‑Making  
+- Risk Assessment  
+- Diagnostic Testing  
+- Medical Treatment
+
+Page 4 Extracted Terms:
+- Chronic Coronary Disease  
+- Guideline‑Directed Management and Therapy (GDMT)  
+- Clinical evaluation  
+- Diagnostic testing  
+- Pharmacological treatment  
+- Procedural treatments  
+- Drug treatment regimens  
+- Medical devices  
+- Heart disease  
+- Cardiovascular disease  
+- AHA/ACC/ACC‑AHA joint guideline methodology  
+- Randomized Controlled Trials (RCTs)  
+- Systematic review  
+- Evidence‑based guideline  
+- Shared decision‑making  
+- Patient engagement  
+- Adherence to recommendations  
+- Cost‑value considerations  
+- Risk‑benefit assessment  
+- Clinical outcomes measurement  
+
+Page 5 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary artery disease  
+- Ischemic heart disease (stable ischemic heart disease)  
+- Acute coronary syndrome  
+- Angina  
+- Cardiac rehabilitation  
+- Cardiovascular diseases (CVD)  
+- Dual antiplatelet therapy  
+- Factor Xa inhibitors  
+- Hypertension  
+- Secondary prevention  
+- Lipid management  
+- SGLT2 inhibitors  
+- GLP‑1 receptor agonists  
+- Revascularization  
+- Cost‑value considerations  
+- Quality‑adjusted life years (QALY)  
+- Incremental cost‑effectiveness ratio (ICER)  
+- Clinical practice guidelines  
+- Shared decision‑making  
+- Team‑based care  
+- Diabetes (type 2)  
+- Diet / diet therapy / dietary supplements  
+- Drug therapy  
+
+These terms capture the core heart‑disease concepts and therapeutic/intervention areas addressed in the guideline.
+
+Page 6 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Acute Coronary Syndromes (ACS)  
+- Coronary Artery Disease (CAD)  
+- Left Ventricular (LV) Systolic Dysfunction  
+- Cardiomyopathy (ischemic origin)  
+- Stable Angina  
+- Angina Symptoms (dyspnea, arm pain with exertion)  
+- Coronary Vasospasm  
+- Microvascular Angina  
+- Coronary Computed Tomography Angiography (CTA)  
+- Stress Test (screening study)  
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Heart Failure (HF)  
+- Cardiovascular Events (future ASCVD–related events)  
+- Symptom Relief  
+- Quality of Life (QOL)  
+- Diagnostic Evaluation  
+- Risk Stratification  
+- Revascularization  
+- Primary Care Clinician Role  
+- Cardiology Specialist Role  
+- Evidence‑Based Medical Therapy  
+- Lifestyle Modification  
+- Shared Decision‑Making  
+- Coronary Calcium Score (on CT)  
+- Atherosclerosis Risk Reduction  
+- Follow‑up and Monitoring  
+- Cost and Value Considerations  
+- Future Research Needs (CCD)
+
+Page 7 Extracted Terms:
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Chronic coronary disease (CCD)  
+- Coronary artery disease (CAD)  
+- Coronary heart disease (CHD)  
+- Cardiovascular disease (CVD)  
+- Coronary artery disease (CAD)  
+- Stable ischemic heart disease  
+- Stable coronary artery disease (stable CAD)  
+- Acute coronary syndrome (ACS) – implied by “coronary artery disease”  
+- Atrial fibrillation (AF)  
+- Ventricular arrhythmias (VT)  
+- Sudden cardiac death (SCD)  
+- Heart failure (HF)  
+- Valvular heart disease (VHD)  
+- Peripheral arterial disease (PAD) – implied by “atherosclerotic disease”  
+- Hypertension (high blood pressure)  
+- Elevated blood pressure / high blood pressure  
+- Hypertriglyceridemia  
+- Diabetes mellitus type 2 (T2DM)  
+- Hypercholesterolemia (high cholesterol)  
+- Dyslipidemia – overall cholesterol/lipid disorders  
+- Coronary artery revascularization (e.g., percutaneous coronary intervention [PCI], coronary artery bypass grafting)  
+- Primary prevention of cardiovascular disease  
+- Secondary prevention of cardiovascular disease  
+- Dual antiplatelet therapy (DAPT)  
+- Anticoagulant therapy (e.g., warfarin, DOACs)  
+- Antiplatelet therapy (e.g., aspirin, clopidogrel)  
+- Statins (HMG‑CoA reductase inhibitors)  
+- Lipid‑lowering agents (e.g., ezetimibe, PCSK9 inhibitors)  
+- Cardiac rehabilitation  
+- Exercise training – core component of cardiac rehabilitation  
+- Dietary pattern for heart health (e.g., Mediterranean diet)  
+- Drug‑drug interactions affecting statin use  
+- Cardio‑oncology drug interactions  
+- Smoking / tobacco cessation – major cardiovascular risk factor  
+- Air pollution – cardiovascular risk factor  
+- Exercise guidance for patients with heart disease  
+- Clinical management of stable coronary artery disease (CAD)  
+- Clinical management of heart failure (HF)  
+- Cardiovascular considerations in pregnancy  
+- Cardiovascular considerations in HIV infection  
+- Psychological health in cardiovascular disease (mind‑heart connection)  
+- Life’s Essential 8 (cardiovascular health metrics)  
+- Assessment of chest pain for coronary artery disease (CAD)  
+- Evaluation and diagnosis of chest pain (clinical guideline)  
+
+*(All terms directly extracted or closely inferred from the guideline titles and descriptions in the provided text.)*
+
+Page 8 Extracted Terms:
+- Chronic Coronary Disease  
+- Coronary Disease  
+- Heart Disease  
+- AHA/ACC/ACCP/ASPC/NLA/PCNA (cardiology guideline alliance)  
+- Circulation (journal title, cardiology focus)  
+- Class of Recommendation (COR)  
+- Level of Evidence (LOE)  
+- PICO[TS] structure (clinical question format)  
+- Clinical trial evidence  
+- Intervention (cardiac care)  
+- Diagnostic testing (cardiology)  
+- Drug classification (cardiac therapy)  
+- Device classification (cardiac devices)
+
+Page 9 Extracted Terms:
+- Angiotensin‑converting enzyme (ACE)  
+- Acute coronary syndrome (ACS)  
+- Atrial fibrillation (AF)  
+- Angiotensin‑receptor blocker (ARB)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Body mass index (BMI)  
+- Blood pressure (BP)  
+- Coronary artery bypass grafting (CABG)  
+- Coronary artery disease (CAD)  
+- Calcium channel blocker (CCB)  
+- Chronic coronary disease (CCD)  
+- Coronary heart disease (CHD)  
+- Chronic kidney disease (CKD)  
+- Cardiovascular magnetic resonance (CMR)  
+- Coronavirus Disease 2019 (COVID‑19)  
+- Cardiac rehabilitation (CR)  
+- Cardiovascular disease (CVD)  
+- Computed tomography angiography (CTA)  
+- Coronary CT angiography (CCTA)  
+- Dual antiplatelet therapy (DAPT)  
+- Direct oral anticoagulant (DOAC)  
+- Electrocardiogram (ECG)  
+- Estimated glomerular filtration rate (eGFR)  
+- Familial hypercholesterolemia (FH)  
+- Fractional flow reserve (FFR)  
+- Guideline‑directed management and therapy (GDMT)  
+- Glucagon‑like peptide‑1 (GLP‑1)  
+- High‑density lipoprotein (HDL)  
+- Heart failure (HF)  
+- Human immunodeficiency virus (HIV)  
+- Instantaneous wave‑free ratio (iFR)  
+- Ischemia with non‑obstructive coronary artery (INOCA)  
+- Low‑density lipoprotein (LDL)  
+- Left ventricular (LV)  
+- Left ventricular ejection fraction (LVEF)  
+- Major adverse cardiovascular event (MACE)  
+- Myocardial blood flow reserve (MBFR)  
+- Myocardial perfusion imaging (MPI)  
+- Myocardial infarction (MI)  
+- Nicotine replacement therapy (NRT)  
+- Platelet adenosine diphosphate receptor (P2Y12)  
+- Positron emission tomography (PET)  
+- Percutaneous coronary intervention (PCI)  
+- Proprotein convertase subtilisin/kexin type 9 (PCSK9)  
+- Proton pump inhibitor (PPI)  
+- Quality of life (QOL)  
+- Renin‑angiotensin‑aldosterone system inhibitor (RAASi)  
+- Randomized controlled trial (RCT)  
+- Single antiplatelet therapy (SAPT)  
+- Spontaneous coronary artery dissection (SCAD)  
+- Social determinants of health (SDOH)  
+- Sodium glucose cotransporter 2 (SGLT2)  
+- Single‑photon emission computed tomography (SPECT)  
+- Transient ischemic attack (TIA)  
+
+*Key clinical concepts from the text:*  
+- Chronic stable angina pectoris  
+- Coronary artery disease  
+- Ischemic heart disease  
+- Atherosclerotic cardiovascular disease  
+- Coronary heart disease  
+- Myocardial infarction (MI)  
+- Angiographic chronic coronary disease (CCD)
+
+Page 10 Extracted Terms:
+- Coronary Heart Disease (CHD)  
+- Myocardial Infarction (MI)  
+- Angina / Angina Pectoris  
+- Chest pain / Chest discomfort (AP)  
+- Insufficient blood flow to the heart muscle  
+- Rose Angina (Rose questionnaire)  
+- Stable Angina Pectoris  
+- Glucose‑Cotransporter‑2 (SGLT2) inhibitors  
+- Glucagon‑like peptide‑1 (GLP‑1) receptor agonists  
+- Proprotein Convertase Subtilisin/Kexin Type 9 (PCSK9) inhibitors  
+- Bempezoic acid  
+- Inclisiran  
+- Prevalence of CHD  
+- Confidence interval (CI)  
+- National Health and Nutrition Examination Survey (NHANES)  
+- National Behavioral Risk Factor Surveillance System (BRFSS)  
+- American Heart Association (AHA)  
+- American College of Cardiology (ACC)  
+- American College of Preventive Cardiology (ACCP)  
+- American Society for Preventive Cardiology (ASPC)  
+- National Heart, Lung, and Blood Institute (NHLBI)
+
+Page 11 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary Heart Disease (CHD)  
+- Angina  
+- Diagnostic approaches for coronary disease  
+- Risk stratification in coronary disease  
+- Treatment approaches for chronic coronary disease  
+- Shared decision‑making (in cardiovascular care)  
+- Team‑based care (in cardiovascular management)  
+- Cost and value considerations in cardiovascular therapy  
+- Global Burden of Disease data on coronary disease  
+- Behavioral Risk Factor Surveillance System (BRFSS) data on coronary disease prevalence  
+- Prevalence of angina or CHD  
+
+ *(All terms are directly associated with heart disease and its clinical management as highlighted in the guideline excerpt.)*
+
+Page 12 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+1. Chronic Coronary Disease (CCD)  
+2. Myocardial ischemia  
+3. Angina (stable chest pain)  
+4. Functional capacity  
+5. Guideline‑directed medical therapy (GDMT)  
+6. Stress positron emission tomography (PET)  
+7. Single‑photon emission computed tomography myocardial perfusion imaging (SPECT MPI)  
+8. Cardiovascular magnetic resonance imaging (CMR)  
+9. Stress echocardiography  
+10. Invasive coronary angiography (ICA)  
+11. Nuclear myocardial perfusion imaging (MPI)  
+12. Exercise treadmill testing  
+13. Myocardial blood flow reserve (MBFR)  
+14. Coronary CT angiography (CCTA)  
+15. Bypass graft (coronary artery bypass graft, CABG)  
+16. Stent patency  
+17. Coronary revascularization  
+18. Percutaneous coronary intervention (PCI)  
+19. Left main stenosis  
+20. Left ventricular ejection fraction (LVEF)  
+21. Major adverse cardiovascular events (MACE)  
+22. Cardiovascular death  
+23. Non‑fatal myocardial infarction (MI)  
+24. Wall‑motion abnormality  
+25. Late gadolinium enhancement  
+26. Revascularization strategy  
+27. Ischemic burden  
+28. Cardiac risk stratification  
+29. Diagnostic accuracy  
+30. Stress testing  
+31. Coronary artery disease (CAD)  
+32. Non‑obstructive coronary arteries (INOCA)  
+33. Ischemia extent  
+34. Ischemia severity  
+35. Clinical decision‑making  
+36. Diagnostic evaluation  
+37. Stress‑induced ischemia  
+
+These terms capture the key concepts, diagnostic modalities, therapeutic options, and outcome markers discussed in the text.
+
+Page 13 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary Artery Disease (CAD)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Cardiovascular death  
+- Myocardial infarction (MI)  
+- Hospitalization for unstable angina  
+- Heart failure (HF)  
+- Resuscitated cardiac arrest  
+- Guideline‑directed medical therapy (GDMT)  
+- Invasive coronary angiography (ICA)  
+- Revascularization (e.g., PCI, CABG)  
+- Fractional flow reserve (FFR)  
+- Computed tomography coronary angiography (CCTA)  
+- Positron emission tomography myocardial perfusion imaging (PET MPI)  
+- Single photon emission computed tomography myocardial perfusion imaging (SPECT MPI)  
+- Myocardial blood flow reserve (MBFR)  
+- Cardiopulmonary exercise testing / treadmill testing  
+- Duke Treadmill Score  
+- Left ventricular (LV) systolic dysfunction  
+- Left main coronary artery disease  
+- Noninvasive cardiac testing  
+- Cardiac rehabilitation (CR)  
+- Ischemia severity (noninvasive testing)  
+- Bypass graft patency  
+- Epicardial coronary arteries  
+- Coronary microvascular disease  
+- Risk stratification scores (validated risk models)  
+- Event‑free survival  
+
+These are the principal concepts and diagnostic or therapeutic modalities that relate directly to heart disease as presented in the guideline text.
+
+Page 14 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary artery disease  
+- Myocardial infarction (MI)  
+- Angina  
+- Coronary ischemia  
+- Revascularization  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Coronary computed tomography angiography (CCTA)  
+- Cardiovascular magnetic resonance imaging (CMR)  
+- Single‑photon emission computed tomography (SPECT)  
+- Positron emission tomography (PET)  
+- Duke Treadmill Score (DTS)  
+- Electrocardiogram (ECG)  
+- Exercise stress test (EST)  
+- High‑sensitivity troponin  
+- B‑type natriuretic peptide (BNP)  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular hypertrophy (LVH)  
+- Coronary flow reserve (CFR)  
+- Coronary artery plaque burden  
+- Napkin‑ring sign  
+- Positive remodeling (remodeling index > 1.1)  
+- Low‑attenuation plaque (mean CT < 30 HU)  
+- Atrial fibrillation/flutter  
+- Heart failure (HF)  
+- Myocardial perfusion reserve  
+- Myocardial blood flow at stress  
+- Major adverse cardiovascular events (MACE)  
+- Cardiovascular death  
+- Non‑fatal MI  
+- Cardiovascular hospitalization  
+- Ischemic heart failure  
+- Coronary artery stenosis  
+- Coronary burden high‑risk plaque  
+- Left bundle branch block (LBBB)  
+- Resting heart rate  
+- Peak rate‑pressure product  
+- Coronary artery bypass graft (CABG) indication  
+- Calcium score  
+- Clinical outcomes (all‑cause death, all‑cause mortality)  
+- Exercise intolerance  
+- Peripheral artery disease (PAD)  
+- Diabetes mellitus  
+- Dyslipidemia  
+- Chronic kidney disease (CKD)  
+- Obesity / elevated body mass index (BMI)  
+- Smoking (current or former)  
+- Depression  
+- Poor adherence to pharmacotherapy  
+- Socio‑economic status / poverty / lack of health‑care access  
+- Age  
+- Male sex  
+- Clinical trials / guidelines:  
+ • ISCHEMIA  
+ • COURAGE  
+ • BARI‑2D  
+ • STICH  
+ • AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+ • 2021 AHA/ACC Chest Pain Guideline  
+- Risk prediction factors and stratification categories  
+- Functional and anatomic testing modalities  
+- Ancillary imaging variables (e.g., CT‑fractional flow reserve)
+
+Page 15 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary revascularization  
+- Percutaneous Coronary Intervention (PCI)  
+- Medical therapy (including guideline‑directed medical therapy, GDMT)  
+- LVEF ≤ 35%  
+- Heart failure (HF)  
+- Heart failure with preserved ejection fraction (HF‑pEF)  
+- Non‑invasive modalities (e.g., myocardial perfusion imaging, stress testing)  
+- Coronary computed tomographic angiography (CCTA)  
+- Coronary ischemia  
+- Coronary angiography  
+- CAD (coronary artery disease)  
+- Ischemic events (non‑fatal ischemia, myocardial infarction)  
+- Atherosclerosis progression  
+- Symptoms (angina, dyspnea, fatigue)  
+- Functional status and limitation  
+- Quality of life (QOL)  
+- Antianginal medications  
+- Antithrombotic therapy (antiplatelets/anticoagulants)  
+- Lipid‑lowering therapy (statins, PCSK9 inhibitors)  
+- Glycemic control (diabetes management)  
+- Blood pressure control  
+- Smoking cessation, physical activity, nutrition, weight management, stress reduction  
+- Patient‑reported health status measures  
+- Shared decision‑making  
+- Remote disease‑management programs  
+- Clinical follow‑up (annual, telehealth, in‑person)  
+- Trials: REVIVED‑BCIS2, COURAGE, BARI 2D, ISCHEMIA.
+
+Page 16 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary disease  
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Angina  
+- Ischemic symptoms  
+- Cardiovascular disease  
+- Heart disease  
+- Seattle Angina Questionnaire (patient‑reported health status measure)  
+- ASCVD risk factors  
+- Quality of life (QOL) in cardiovascular patients  
+
+
+Page 17 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Myocardial infarction (MI)  
+- Recurrent myocardial infarction  
+- Cardiovascular complications  
+- Hypertension  
+- Diabetes mellitus  
+- Hyperlipidemia  
+- Tobacco cessation (smoking cessation)  
+- Weight loss  
+- Depression (as a cardiovascular risk factor)  
+- Tele‑health / remote patient monitoring  
+- Patient education (on symptom management, lifestyle, medications)  
+- Medication therapy management  
+- Medication adherence  
+- Symptom management  
+- Lifestyle changes  
+- Social determinants of health (SDOH) risk factors  
+- Morbidity  
+- Mortality  
+- Readmission  
+- Emergency department visits  
+- Health‑related quality of life (QOL)  
+- Cost‑effectiveness / cost‑efficiency  
+- Health‑care resource utilization  
+- Team‑based care  
+- Decision support aids  
+- Specialty clinics  
+- Advanced practice providers (in care delivery)
+
+
+Page 18 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary disease  
+- Cardiac symptoms  
+- Recurrent myocardial infarction (MI)  
+- Hospitalizations  
+- Cardiovascular mortality  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- Systolic blood pressure (BP)  
+- Revascularization  
+- Guideline‑directed medical therapy (GDMT)  
+- Shared decision‑making  
+- Medication adherence  
+- Heart Quality of Life instrument  
+- Pharmacist‑administered intervention  
+- Motivational interviewing  
+- Internet‑based education  
+- Physical activity  
+- Dietary habits  
+- Smoking cessation  
+- Health literacy  
+
+These terms capture the primary heart‑disease concepts referenced in the guideline excerpt.
+
+Page 19 Extracted Terms:
+**Key Terms related to Heart Disease**
+
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular disease (CVD)  
+- Myocardial infarction (MI)  
+- Stable angina  
+- Revascularization  
+- Percutaneous coronary intervention (PCI)  
+- Antithrombotic therapy  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Secondary prevention  
+- Cardiac rehabilitation (CR)  
+- Heart‑healthy diet / Nutrition, including supplements  
+- Physical activity / Exercise prescription  
+- Cardiovascular outcomes  
+- Risk–benefit tradeoff  
+- Shared decision‑making  
+- Decision aids (e.g., PCI Choice)  
+- Social Determinants of Health (SDOH)  
+- Health equity / Health disparities  
+- Neighborhood disadvantage  
+- Insurance status / Health insurance coverage  
+- Economic stability / Financial strain  
+- Transportation / Access to care  
+- Health literacy  
+- Mental health / Psychosocial stressors  
+- Cultural humility  
+- Patient–caregiver decision delegation  
+- Clinical practice guidelines (AHA/ACC/ACCP/ASPC/NLA/PCNA)
+
+Page 20 Extracted Terms:
+**Key heart‑disease terms extracted:**
+
+- Chronic Coronary Disease  
+- CCD (Chronic Coronary Disease)  
+- Coronary  
+- Cardiovascular Care  
+
+Page 21 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular Disease (CVD)  
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Heart Failure (HF)  
+- Stroke  
+- Cardiovascular events (acute CVD events)  
+- Acute CVD deaths / CVD‑related deaths  
+- Cardiometabolic health  
+- Insulin resistance  
+- Diabetes mellitus  
+- Dyslipidemia  
+- Hypertension  
+- Obesity (overweight/obese patients)  
+- Sodium intake (≤ 2300 mg/d, optimum 1500 mg/d)  
+- Saturated fat (< 6 % of total calories)  
+- Unsaturated fats (monounsaturated, polyunsaturated)  
+- Trans fat (to be avoided)  
+- Processed meats (cured bacon, hot dogs)  
+- Refined carbohydrates (white bread, white rice, refined cereals)  
+- Sugar‑sweetened beverages (soft drinks, energy drinks, fruit drinks)  
+- Whole grains  
+- Dietary fiber  
+- Mediterranean‑type dietary plan (plant‑based, lean protein, fish)  
+- Lifestyle modification / dietary behavior changes  
+- Guideline‑Directed Management and Therapy (GDMT)  
+- Nonprescription nutrition/dietary supplements  
+- Omega‑3 fatty acids  
+- Vitamins C, D, E, beta‑carotene  
+- Calcium  
+- Social Determinants of Health (SDOH)  
+- Telehealth & digital interventions  
+- Collaborative partnerships (health‑care systems & community organizations)  
+- Lyon Diet Heart Study (Mediterranean diet intervention)   
+- AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+- Chronic diseases (multiple chronic disease screening)
+
+Page 22 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular Disease (CVD)  
+- Coronary Heart Disease (CHD)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- High‑density lipoprotein cholesterol (HDL‑C)  
+- Triglycerides  
+- Blood pressure (BP)  
+- Hypertension (HTN)  
+- Sodium intake  
+- Potassium intake  
+- Saturated fatty acids  
+- Trans fatty acids  
+- Monounsaturated fatty acids  
+- Polyunsaturated fatty acids  
+- Dietary fiber  
+- Simple carbohydrates (e.g., high‑fructose corn syrup)  
+- Refined grains  
+- Sugar‑sweetened beverages  
+- Processed meats (smoked, cured, salted)  
+- Plant‑based diet  
+- Mediterranean diet  
+- DASH (Dietary Approaches to Stop Hypertension) diet  
+- Weight loss / obesity  
+- Diabetes mellitus  
+- Chronic kidney disease (CKD)  
+- Insulin sensitivity  
+- Lipoprotein profile  
+- Biomarkers of cardiac injury, inflammation, and cardiac strain  
+- Atherosclerotic plaque burden  
+- Primary prevention  
+- Secondary prevention  
+- Dose‑response relationship (high‑quality carbohydrate intake)  
+- Cardiometabolic profile  
+- Lifestyle modification for cardiovascular health  
+- Dose‑response relationship (saturated fat reduction)  
+
+
+These terms capture the main dietary, metabolic, and clinical concepts related to heart disease discussed in the guideline excerpt.
+
+Page 23 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular Disease (CVD)  
+- Major Adverse Cardiac Events (MACE)  
+- Coronary Heart Disease (CHD)  
+- Acute Coronary Syndrome (ACS)  
+- Omega‑3 fatty acid supplements  
+- Icosapent ethyl (eicosapentaenoic acid ethyl ester)  
+- Vitamin D supplementation  
+- Antioxidant therapy (vitamin C, beta‑carotene, multivitamins)  
+- Calcium supplementation (≥ 500 mg/d elemental calcium)  
+- Mental health conditions (depression, anxiety, anger/hostility, general distress, type D personality)  
+- Screening for mental health disorders  
+- Pharmacologic therapy for mental health  
+- Non‑pharmacologic therapy for mental health  
+- Cardiovascular risk factors (blood pressure, lipids, body mass index, inflammation, thrombosis)  
+- Health behaviors (medication adherence, cardiac rehabilitation, diet, physical activity, sleep, smoking)  
+- Quality of Life (QOL)  
+- Cardiovascular outcomes  
+- Cardiovascular mortality  
+- Cardiovascular event reduction  
+- Cardiovascular event risk  
+- Cardiovascular risk factor management  
+
+
+
+Page 24 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Acute Coronary Syndrome (ACS)  
+- Myocardial Infarction (MI)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Cardiovascular Outcomes  
+- Cardiac Rehabilitation (CR)  
+- Depression (as a cardiovascular comorbidity)  
+- Antidepressants (e.g., escitalopram)  
+- ESCIPTACS (Escitalopram in Depressive Patients with Acute Coronary Artery Syndrome) study  
+- TRIUMPH study (Treatment‑Resistant Hypertension)  
+- Smoking Cessation (risk factor for heart disease)  
+- Nicotine Replacement Therapy  
+- Quitline (telephone‑based smoking cessation resource)
+
+Page 25 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular Disease (CVD)  
+- Coronary Heart Disease (CHD)  
+- Myocardial Infarction (MI)  
+- Revascularization  
+- Atherosclerosis  
+- Endothelial dysfunction  
+- Thrombosis / pro‑thrombotic state  
+- Heart rate  
+- Blood pressure (BP)  
+- Cardiovascular events  
+- Cardiac mortality  
+- Cardiac quality of life (QOL)  
+- Smoking / tobacco use  
+- Second‑hand smoke exposure  
+- Nicotine‑replacement therapy (NRT)  
+- Bupropion therapy  
+- Varenicline therapy  
+- E‑cigarette use  
+- Depression, anxiety, and stress as cardiovascular risk factors  
+
+These terms capture the core concepts related to heart disease discussed in the guideline text.
+
+Page 26 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary heart disease (CHD) / Coronary artery disease (CAD)  
+- Congestive heart failure (CHF)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Cardiovascular disease (CVD)  
+- Myocardial infarction (MI)  
+- Ischemic heart disease (IHD)  
+- Endothelial dysfunction  
+- Vascular stiffness  
+- Blood pressure (BP)  
+- Smoking cessation (behavioral and pharmacologic)  
+- Nicotine replacement therapy (NRT)  
+- Varenicline  
+- Bupropion  
+- E‑cigarettes / electronic nicotine delivery systems (ENDS)  
+- Secondhand smoke exposure  
+- Nicotine dependence / addiction  
+- Alcohol consumption (≤1 drink/day for women, ≤2 drinks/day for men)  
+- Cardiovascular risk factors (e.g., smoking, alcohol, secondhand smoke)  
+- Cardiovascular events (e.g., arrhythmias, heart failure episodes, MI)  
+- Cardiovascular mortality (cardiovascular death)  
+- Cardiovascular safety and risk assessment  
+- Prevention and risk reduction guidelines (e.g., AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline)  
+- Cardiovascular pharmacotherapy  
+- Endothelial function tests  
+- Cardiovascular policy (e.g., smoke‑free workplace policies)
+
+Page 27 Extracted Terms:
+**Key Heart‑Disease–Related Terms Extracted**
+
+- Cardiovascular system  
+- Chronic coronary disease (CCD)  
+- Myocardial infarction (MI) / acute myocardial infarction  
+- Cardiovascular risk / cardiovascular events  
+- Cardiovascular mortality / death  
+- Cardiovascular morbidity  
+- Cardiac arrest  
+- Cardiac toxicity  
+- Cardiac‑specific effects of substances  
+- Cardioprotective effects (light‑to‑moderate alcohol)  
+- J‑shaped relationship between alcohol and cardiovascular risk  
+- Heavy alcohol use  
+- Binge drinking  
+- Light‑to‑moderate alcohol consumption (5–25 g/d)  
+- Sympathetic nervous system stimulation  
+- Platelet activation / aggregation  
+- Endothelial dysfunction  
+- Myocardial oxygen demand  
+- Drug‑drug interactions with cardiovascular therapies  
+- Substance abuse (cocaine, amphetamines, opioids, marijuana/cannabis)  
+- Cardiovascular therapies (pharmacologic agents, device therapies)
+
+Page 28 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular disease (CVD)  
+- Myocardial infarction (MI)  
+- Coronary events  
+- Hypertension  
+- Mortality rate  
+- Recurrent cardiovascular events  
+- Alcohol consumption (light‑to‑moderate)  
+- Binge drinking  
+- J‑shaped relationship (alcohol vs. cardiovascular outcomes)  
+- Cancer risks associated with alcohol  
+- Cardiac rehabilitation (CR)  
+- Regular exercise  
+- Sexual activity (as moderate exercise)  
+- Sexual dysfunction  
+- Phosphodiesterase type 5 inhibitors (PDE5i)  
+- Nitrate medications  
+- Severe hypotension (risk with PDE5i + nitrates)  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Femoral access (PCI)  
+- Radial access (PCI)  
+- Sternal‑sparing surgery (CABG)  
+- Angina  
+- Metabolic equivalents (METs)  
+- Unstable or decompensated CCD  
+- Erectile function (International Index of Erectile Function)  
+- Physical exercise training (within CR)  
+- Pelvic floor exercise  
+- Psychoeducation  
+- Long‑acting nitrates  
+- Short‑acting nitrates (e.g., nitroglycerine)  
+- Sildenafil  
+- Vardenafil  
+- Tadalafil  
+- Global Burden of Disease (GBD) study  
+- Determinants of Myocardial Infarction Onset Study  
+- Prospective Epidemiological Study of Myocardial Infarction (PRIME)
+
+Page 29 Extracted Terms:
+**Key heart‑disease related terms from the guideline excerpt**
+
+- Chronic Coronary Disease (CCD)  
+- High‑intensity statin therapy  
+- Moderate‑intensity statin therapy  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- High‑density lipoprotein cholesterol (HDL‑C)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Ezetimibe  
+- PCSK9 monoclonal antibody  
+- Icosapent ethyl (EPA ethyl ester)  
+- Bempedoic acid  
+- Inclisiran  
+- Niacin  
+- Fenofibrate  
+- Omega‑3 fatty acids  
+- Atherosclerotic disease  
+- Lipid management  
+- Lipid‑lowering medication  
+- Maximal tolerated statin therapy  
+- Generic statin formulation  
+- Lipid monitoring (fasting lipids, triglycerides)  
+- Residual cardiovascular risk  
+- Cardiovascular morbidity  
+- Cardiovascular mortality  
+- Cholesterol Treatment Trialists (CTT) meta‑analysis  
+- Randomized controlled trials (RCTs)  
+
+These terms capture the central concepts, therapies, and outcomes discussed in the clinical guideline.
+
+Page 30 Extracted Terms:
+- LDL‑C (low‑density lipoprotein cholesterol)  
+- Statin therapy (high‑intensity, moderate‑intensity, low‑intensity)  
+- Statin intolerance (partial/complete)  
+- Nocebo effect (patient expectation of harm with statin)  
+- ASCVD (atherosclerotic cardiovascular disease)  
+- Cardiovascular events (e.g., MI, stroke, peripheral artery disease)  
+- Acute coronary syndrome (ACS)  
+- Myocardial infarction (MI)  
+- Ischemic stroke  
+- Symptomatic peripheral artery disease (ABI < 0.85)  
+- Ankle‑brachial index (ABI)  
+- Familial hypercholesterolemia  
+- Congestive heart failure / heart failure  
+- Ezetimibe (add‑on therapy)  
+- Lipid‑lowering therapy (statins, ezetimibe, combination therapy)  
+- Cholesterol guideline (e.g., 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline)  
+- LDL‑C threshold for therapy intensification (≥ 70 mg/dL, persistent ≥ 100 mg/dL)  
+- LDL‑C reduction goals (≥ 50 % with high‑intensity statin)  
+- Friedewald equation (LDL‑C estimation)  
+- Martin/Hopkins method (LDL‑C calculation)  
+- Quality‑adjusted life years (QALY)  
+- Cost‑effectiveness / cost‑saving of lipid‑lowering therapy  
+- Chronic kidney disease (CKD) with eGFR 15–59 mL/min/1.73 m²  
+- Hypertension  
+- Diabetes mellitus  
+- Current tobacco smoking  
+- High‑risk conditions for ASCVD (age ≥ 65, familial hypercholesterolemia, prior coronary interventions, etc.)  
+- Very high‑risk definition for future ASCVD events (history of multiple events or one major event plus ≥ 2 high‑risk conditions)  
+- Lipoprotein apheresis (used in familial hypercholesterolemia)  
+
+These are the principal terms related to heart disease and lipid management extracted from the provided text.
+
+Page 31 Extracted Terms:
+- Chronic Coronary Disease  
+- Cardiovascular Disease (CVD)  
+- Clinical Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Acute Coronary Syndrome (ACS)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Cardiovascular events  
+- Thrombolysis in Myocardial Infarction (TIMI) Risk Score for Secondary Prevention (TRS 2P)  
+- Ezetimibe  
+- PCSK9 monoclonal antibody (e.g., alirocumab, evolocumab)  
+- Ezetimibe‑first strategy  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- Non‑HDL‑C  
+- LDL‑C thresholds: ≥70 mg/dL, <70 mg/dL, <50 mg/dL  
+- Very high‑risk ASCVD (Table 10)  
+- High‑intensity statin therapy  
+- Moderate‑intensity statin therapy  
+- Low‑intensity statin therapy  
+- Atorvastatin (10 mg, 20 mg, 40 mg, 80 mg)  
+- Rosuvastatin (5 mg, 10 mg, 20 mg, 40 mg)  
+- Simvastatin (10 mg, 20 mg, 40 mg)  
+- Pravastatin (10 mg, 20 mg, 40 mg, 80 mg)  
+- Lovastatin (20 mg, 40 mg, 80 mg)  
+- Fluvastatin (oral extended release, 40 mg, 80 mg, BID)  
+- Pitavastatin (1–4 mg)  
+- FOURIER trial (Further Cardiovascular Outcomes Research with PCSK9 Inhibition in Subjects with Elevated Risk)  
+- ODYSSEY OUTCOMES trial (Evaluation of Cardiovascular Outcomes After an Acute Coronary Syndrome During Treatment with Alirocumab)  
+- Cost‑effectiveness (cost‑per‑QALY, <$50,000/QALY)  
+- Neurocognitive adverse effects  
+- Myopathy, rhabdomyolysis  
+- ASCVD risk calculators / risk factors (high‑risk clinical factors)  
+- Lifetime major adverse cardiovascular events reduction ("fewer lifetime MACE")  
+- Cardiovascular events reduction percentages (15 %, 19 %, etc.)  
+- Absolute risk reduction (e.g., 1.5 %, 0.6 %)  
+- Relative risk reduction (e.g., 15 %, 19 %)  
+- Incremental Decrease through Aggressive Lipid Lowering (IDEAL) study  
+- FDA labeling for statins (therapeutic recommendations)  
+
+These terms capture the key concepts and entities in the text that relate directly to heart disease management and outcomes.
+
+Page 32 Extracted Terms:
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Chronic coronary disease (CCD)  
+- Major adverse cardiovascular events (MACE)  
+- Coronary artery disease (CAD)  
+- PCSK9 monoclonal antibody (PCSK9 mAb)  
+- Statin therapy  
+- Ezetimibe  
+- Bempedoic acid  
+- Inclisiran  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- High‑density lipoprotein cholesterol (HDL‑C)  
+- Triglycerides (TG)  
+- Absolute risk reduction  
+- Cardiovascular risk (high‑risk, very high‑risk)  
+- Cost‑effectiveness in cardiovascular care  
+- Randomized controlled trial (RCT) – in the context of cardiovascular studies
+
+Page 33 Extracted Terms:
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Acute coronary syndrome (ACS)  
+- Coronary artery disease (CAD)  
+- Peripheral artery disease (PAD)  
+- Familial hypercholesterolemia (FH)  
+- Cardiovascular events (CV events)  
+- Major adverse cardiovascular events (MACE)  
+- Cardiovascular death  
+- Myocardial infarction  
+- Stroke/ischemic cerebrovascular event  
+- Dyslipidemia (triglycerides, LDL‑C, HDL‑C)  
+- Hypertriglyceridemia  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- Elevated triglyceride levels  
+- Non‑statin lipid‑lowering therapies  
+- Statins (high‑intensity, moderate‑intensity, low‑intensity)  
+- PCSK9 inhibitors (monoclonal antibodies)  
+- PCSK9 monoclonal antibody therapy  
+- PCSK9‑directed small interfering RNA (inclisiran)  
+- Ezetimibe  
+- Bempedoic acid  
+- Icosapent ethyl (purified EPA)  
+- Omega‑3 fatty acids (EPA, DHA)  
+- Eicosapentaenoic acid (EPA)  
+- Dihomo‑γ‑linolenic acid (DHA)  
+- Mineral oil placebo  
+- Corn oil placebo  
+- EPA/DHA plasma levels  
+- Cardiovascular risk (high, very high, moderate)  
+- Primary prevention  
+- Secondary prevention  
+- Shared decision‑making  
+- Incremental cost‑effectiveness ratio  
+- Adverse events (e.g., tendon rupture, increased uric acid, atrial fibrillation)  
+
+**Key clinical trials mentioned**  
+- REDUCE‑IT (Reduction of Cardiovascular Events with Icosapent Ethyl)  
+- RESPECT‑EPA (Randomized Trial for Evaluation in Secondary Prevention Efficacy of Combination Therapy – Statin and Eicosapentaenoic Acid)  
+- STRENGTH (Long‑Term Outcomes Study to Assess Statin Residual Risk with Epanova in High Cardiovascular Risk Patients with Hypertriglyceridemia)  
+
+These terms capture the major cardiovascular concepts, therapies, risk factors, and evidence referenced in the guideline text.
+
+Page 34 Extracted Terms:
+**Key terms related to heart disease:**
+
+- Chronic Coronary Disease (CCD)  
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Statin therapy / Severe statin‑associated side effects  
+- Inclisiran (monoclonal antibody)  
+- Heterozygous Familial Hypercholesterolemia (FH)  
+- Omega‑3 fatty acids (fish oil)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Icosa­pent ethyl (EPA‑only formulation)  
+- AIM‑HIGH trial  
+- Extended‑release niacin  
+- HPS2‑THRIVE trial (niacin + laropiprant)  
+- ACCORD‑LIPID trial (fenofibrate)  
+- Fenofibrate  
+- PPARα modulator (pemafibrate)  
+- PROMINENT trial  
+- Hypertriglyceridemia (≥500 mg/dL)  
+- Acute pancreatitis (risk from hypertriglyceridemia)  
+- Blood pressure (BP)  
+- Hypertension  
+- BP targets (<130/<80 mm Hg, 120‑129/<80 mm Hg)  
+- Cardiovascular disease (CVD) events  
+- All‑cause death  
+- Angiotensin‑converting enzyme (ACE) inhibitors  
+- Angiotensin‑receptor blockers (ARBs)  
+- Beta‑blockers  
+- Dihydropyridine calcium channel blockers (CCBs)  
+- Long‑acting thiazide diuretics  
+- Mineralocorticoid receptor antagonists  
+- Lifestyle modifications (weight loss, heart‑healthy diet, sodium reduction, physical activity, alcohol moderation)  
+- HOPE trial (ramipril)  
+- Rossipril (ramipril)  
+- MI (myocardial infarction)  
+- Stroke  
+- CAD (coronary artery disease)  
+- INVEST trial (international recommendations for BP management)  
+- Multisociety Guideline for Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults  
+- All‑cause mortality  
+- Cardiovascular mortality  
+- Lifestyle‑related blood‑pressure factors  
+- Diabetes mellitus type 2 (as a cardiovascular risk factor)  
+
+*(The list includes disease entities, therapeutic agents, clinical trials, risk factors, and management targets pertinent to cardiovascular health.)*
+
+Page 35 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular disease (CVD)  
+- Cardiovascular morbidity  
+- Cardiovascular mortality (CVD death)  
+- Myocardial infarction (MI)  
+- Angina  
+- Cardiac arrest  
+- CVD events  
+- β‑blockers (beta blockers)  
+- ACE inhibitors (angiotensin‑converting enzyme inhibitors)  
+- ARB agents (angiotensin II receptor blockers)  
+- Calcium‑channel blockers (CCBs)  
+- Thiazide diuretics  
+- Mineralocorticoid receptor antagonists  
+- SGLT2 inhibitors (sodium‑glucose cotransporter‑2 inhibitors)  
+- GLP‑1 receptor agonists (glucagon‑like peptide‑1 receptor agonists)  
+- Major adverse cardiovascular events (MACE)  
+- Hypertension  
+- Blood pressure (BP)  
+- Systolic blood pressure (SBP)
+
+Page 36 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Type 2 Diabetes (in the context of CCD)  
+- SGLT2 inhibitors  
+- GLP‑1 receptor agonists  
+- Heart Failure (HF)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Cardiovascular death  
+- Heart‑failure hospitalization  
+- Quality of life (QOL)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Myocardial infarction (MI)  
+- Stroke  
+- Atherosclerosis / atherosclerotic events  
+- Coronary Artery Disease (CAD)  
+- Glycemic control (HbA1c targets)  
+- Weight loss (as a benefit)  
+- Kidney disease progression (as a benefit)  
+- Hypoglycemia risk  
+- Cost‑effectiveness / value assessment (high/intermediate)  
+- Quality‑adjusted life year (QALY)  
+
+These terms capture the principal concepts related to heart disease discussed in the guideline excerpt.
+
+Page 37 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+- Chronic Coronary Disease (CCD)  
+- Heart Failure (HF)  
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- Heart Failure with Preserved Ejection Fraction (HFpEF)  
+- Sodium‑glucose co‑transporter‑2 (SGLT2) inhibitors  
+- Empagliflozin  
+- Dapagliflozin  
+- SGLT2 inhibitor pharmacodynamics in HF  
+- Cardiovascular death  
+- HF hospitalization  
+- Quality of life (QOL) and functional capacity in HF  
+- Glucagon‑like peptide‑1 (GLP‑1) receptor agonists  
+- Semaglutide  
+- Liraglutide  
+- Diabetes mellitus type 2 and its interaction with HF  
+- Cardio‑renal considerations (eGFR, CKD stage)  
+- Cost‑effectiveness (QALYs, incremental cost‑effectiveness ratio)  
+- Guideline‐based risk factors: BMI, waist circumference, weight management  
+- Hemodynamic parameters: ejection fraction, reduced vs preserved ejection fraction  
+
+These terms capture the major clinical concepts, therapeutic agents, patient subgroups, outcome measures, and guideline‑specific recommendations discussed in the cited text.
+
+Page 38 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular risk factor  
+- Obesity  
+- Severe obesity  
+- Bariatric procedure / bariatric surgery  
+- Sympathomimetic weight‑loss drugs  
+- Atherosclerosis  
+- Cardiac function  
+- Myocardium  
+- Vasculature  
+- Hypertension (high blood pressure)  
+- Dyslipidemia  
+- Type 2 diabetes  
+- Body Mass Index (BMI)  
+- Waist circumference  
+- Visceral adiposity  
+- Cardiometabolic risk  
+- Weight loss  
+- Lifestyle modification  
+- Nutrition  
+- Physical activity / exercise  
+- Behavioral counseling  
+- SGLT2 inhibitors  
+- GLP‑1 receptor agonists  
+- Metabolic risk profile  
+- Hemodynamic risk profile  
+- Cardiovascular outcomes  
+- Cardiac rehabilitation  
+- Nutritional counseling  
+- Blood pressure management  
+- Lipid management  
+- Diabetes management  
+- Tobacco cessation  
+- Psychosocial management  
+- Exercise training  
+- Cardiorespiratory fitness  
+- Lean mass  
+- Weight assessment  
+- Body composition  
+- Central obesity  
+
+Page 39 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular disease (CVD)  
+- Cardiovascular safety  
+- GLP‑1 receptor agonist  
+- Semaglutide  
+- Tirzepatide (LY3298176)  
+- Liraglutide  
+- Major Adverse Cardiovascular Events (MACE)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Type 2 diabetes mellitus  
+- Bariatric procedure  
+- Gastric bypass surgery  
+- Cardiac rehabilitation  
+- Myocardial infarction (MI)  
+- Stroke  
+- Coronary artery bypass grafting (CABG)  
+- Percutaneous coronary intervention (PCI)  
+- Heart transplant  
+- Spontaneous coronary artery dissection  
+- Naltrexone/bupropion (weight‑loss drug)  
+- Sibutramine  
+- Phentermine  
+- Diethylpropion  
+- Benzphetamine  
+- Phendimetrazine  
+- Weight‑loss drugs  
+- STEP 8 trial  
+- SURMOUNT‑1 trial  
+- SOS (Swedish Obese Subjects) study  
+- Hazard ratio  
+- Body mass index (BMI)  
+- Obesity  
+- Weight loss  
+- Nonfatal MI  
+- Nonfatal stroke  
+- Cardiovascular deaths  
+- Cardiovascular risk factors  
+- Home‑based cardiac rehabilitation  
+- Remote cardiac rehabilitation  
+- Lifestyle therapy  
+- Medication therapy
+
+Page 40 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Cardiac Rehabilitation (CR)  
+- Myocardial Infarction (MI)  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Stable Angina  
+- Heart Transplant (HTx)  
+- Cardiac Allograft Vasculopathy (CAV)  
+- Spontaneous Coronary Artery Dissection (SCAD)  
+- Heart Failure (HF)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Rehospitalization (cardiovascular & non‑cardiovascular)  
+- Mortality – cardiovascular, all‑cause  
+- Functional Capacity  
+- Quality of Life (QOL)  
+- Moderate‑Intensity Aerobic Exercise (≥150 min/week)  
+- High‑Intensity Interval Training (HIIT)  
+- Resistance (Strength) Training (≥2 days/week)  
+- Low‑Intensity Lifestyle Activity (walking breaks, reduced sedentary time)  
+- Physical Activity Guidelines for CCD  
+- Lipid Management  
+- Blood Pressure Management  
+- Sodium‑Glucose Co‑Transporter 2 Inhibitors (SGLT2i)  
+- Glucagon‑Like Peptide‑1 Receptor Agonists (GLP‑1 RA)  
+- Anti‑arteriosclerotic Effects  
+- Anti‑arrhythmic Effects  
+- Antithrombotic Effects  
+- Anti‑ischemic Effects  
+- Antidepressant Effects  
+- Unstable Angina  
+- Decompensated Heart Failure  
+- Thromboembolic Disease  
+- Uncontrolled Diabetes  
+- End‑stage Cancer  
+- Contraindications to Exercise (severe, life‑threatening, unstable conditions)  
+- Risk Stratification (for CCD)  
+- Team‑Based Approach (for CCD)  
+- Patient Education (for CCD)  
+- Shared Decision‑Making (for CCD)  
+- Nutrition (including Supplements)  
+- Mental Health (for CCD)  
+
+Page 41 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular events  
+- Cardiovascular outcomes  
+- Ischemic heart disease  
+- Acute myocardial infarction (MI)  
+- Cardiometabolic risk  
+- Air pollution  
+- PM2.5 (particulate matter ≤ 2.5 µm)  
+- Ambient air pollution  
+- Extreme temperatures (heat and cold)  
+- Heat wave  
+- Wildfire smoke  
+- Loop diuretics  
+- Aerobic exercise (moderate‑intensity, vigorous‑intensity)  
+- Resistance training (muscle‑strengthening)  
+- Sedentary lifestyle  
+- Lifestyle physical activities (e.g., gardening, office‑based movement, stair climbing)  
+- Functional capacity  
+- Quality of life (QOL)  
+- Mortality rates  
+- Cardiovascular mortality  
+- Cardiovascular hospitalization  
+- Urban heat island effect  
+- Environmental noise  
+- Health disparities  
+- Racial and ethnic minority populations  
+- Socioeconomic status  
+- Ambient temperature exposure  
+- Publicly available controlled‑temperature environments  
+- AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline
+
+(These terms capture the key clinical, environmental, and public‑health factors related to heart disease discussed in the text.)
+
+Page 42 Extracted Terms:
+**Key heart‑disease–related terms extracted from the text**
+
+- Chronic Coronary Disease (CCD)  
+- Coronary artery disease (CAD)  
+- Myocardial infarction (MI)  
+- Ischemic heart disease  
+- Cardiac arrest  
+- Percutaneous coronary intervention (PCI)  
+- Dual antiplatelet therapy (DAPT)  
+- Single antiplatelet therapy (SAPT)  
+- Drug‑eluting stent (DES)  
+- Major adverse cardiovascular events (MACE)  
+- Thrombosis / atherothrombosis  
+- Cardiovascular and cardiac events  
+- Coronary artery bypass grafting (CABG)  
+- Saphenous vein graft occlusion  
+- Transient ischemic attack (TIA)  
+- Intracranial hemorrhage (ICH)  
+- Aspirin (low‑dose)  
+- Clopidogrel (P2Y12 inhibitor)  
+- Prasugrel (P2Y12 inhibitor)  
+- Vorapaxar (PAR‑1 antagonist)  
+- Non‑steroidal anti‑inflammatory drugs (NSAIDs)  
+- Oral anticoagulants (e.g., warfarin, DOACs)  
+- Direct oral anticoagulants (DOACs)  
+- Rivaroxaban (low‑dose)  
+- Proton pump inhibitor (PPI)  
+- Bleeding risk  
+- Thrombotic risk  
+- Pre‑CIse DAPT (risk score)  
+- DAPT risk score  
+- PARIS risk score  
+- Cardiovascular event prevention therapy  
+- Coronary artery revascularization  
+- Atherosclerotic disease
+
+These terms capture the major clinical concepts, drugs, procedures, and risk assessment tools discussed in the guideline excerpt.
+
+Page 43 Extracted Terms:
+- Atrial fibrillation  
+- Chronic coronary disease  
+- Aspirin (acetylsalicylic acid)  
+- Clopidogrel  
+- Dual antiplatelet therapy (DAPT)  
+- Platelet adenosine diphosphate receptor (P2Y12) agents  
+- Direct oral anticoagulant (DOAC)  
+- Rivaroxaban  
+- Dabigatran  
+- Apixaban  
+- Edoxaban  
+- Stent, drug‑eluting stent (DES)  
+- Bare metal stent  
+- Percutaneous coronary intervention (PCI)  
+- Myocardial infarction (MI)  
+- Stroke  
+- Acute coronary syndrome (ACS)  
+- Major adverse cardiovascular events (MACE)  
+- Bleeding risk  
+- Ischemic risk  
+- Aspirin dosing: low-dose (81 mg) and high-dose (325 mg)  
+- Single antiplatelet therapy (SAPT)  
+- Oral anticoagulants (OAC)  
+- Clinical guideline (AHA/ACC)  
+- Meta‑analysis of randomized controlled trials (RCTs)  
+- 2016 AHA/ACC guideline for DAPT  
+- Clinical statements  
+- 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+- 2023 Circulation journal (e.g., study pages e9–e119)  
+
+Page 44 Extracted Terms:
+- Dual Antiplatelet Therapy (DAPT)  
+- Short‑term DAPT  
+- Extended DAPT  
+- Percutaneous Coronary Intervention (PCI)  
+- Drug‑Eluting Stent (DES)  
+- Stent Thrombosis  
+- Myocardial Infarction (MI)  
+- Acute Coronary Syndrome (ACS)  
+- Coronary Artery Disease (CAD)  
+- Chronic Coronary Disease (CCD)  
+- Coronary Bypass Graft (CABG)  
+- Left Main Coronary Artery Lesion  
+- Bifurcation Lesion  
+- Long Stent Length  
+- Multileaf Lesion  
+- Atherectomy  
+- Chronic Occlusion  
+- Aspirin (Low‑dose)  
+- Clopidogrel  
+- Ticagrelor  
+- Prasugrel  
+- P2Y12 Inhibitor  
+- Platelet‑Activated Receptor‑1 (PAR‑1)  
+- Vorapaxar (PAR‑1 antagonist)  
+- Major Bleeding Complications  
+- Major Adverse Cardiac Events (MACE)  
+- Cardiovascular Death  
+- Stroke (Cerebrovascular Event)  
+- Diabetes Mellitus (as comorbidity)  
+- Chronic Kidney Disease (CKD)  
+- Clinical Trial (General)  
+- ISAR‑SAFE Trial  
+- HOST‑Exam Trial  
+- SMART CHOICE Trial  
+- STOP‑DAPT2 Trial  
+- TWILIGHT Trial  
+- GLOBAL LEADERS Trial  
+- PEGASUS‑TIMI 54 Trial  
+- TRAP 2P TIMI 50 Trial  
+- Network Meta‑analysis  
+- Systematic Review  
+- Risk Stratification  
+- Platelet Activation Pathways  
+
+These terms capture the key concepts, therapies, conditions, and study references related to heart disease discussed in the provided text.
+
+Page 45 Extracted Terms:
+- Myocardial infarction (MI)  
+- Ischemic stroke  
+- Coronary artery disease (CAD)  
+- Chronic coronary disease  
+- Ischemic heart disease  
+- Cardiovascular death  
+- Stroke (including intracranial hemorrhage)  
+- Intracranial hemorrhage  
+- Bleeding (major, moderate, severe)  
+- GUSTO moderate or severe bleeding  
+- Thienopyridine  
+- Vorapaxar  
+- Clopidogrel  
+- Aspirin  
+- Dual antiplatelet therapy (DAPT)  
+- Single antiplatelet therapy (SAPT)  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Atherothrombotic events  
+- Peripheral artery disease  
+- Transient ischemic attack (TIA)  
+- Revascularization  
+- Coronary graft occlusion  
+- Saphenous vein graft occlusion  
+- Non‑steroidal anti‑inflammatory drugs (NSAIDs)  
+- Coxibs  
+- Diclofenac  
+- Ibuprofen  
+- Celecoxib  
+- Naproxen  
+- Heart failure (HF)  
+- Carotid disease  
+- Angina (stable and unstable)  
+- Major coronary events  
+- Vascular death  
+- Cardiovascular risk  
+- >50 % stenosis  
+- History of stroke  
+- History of TIA  
+- Global Utilization of Streptokinase and Tissue Plasminogen Activator (GUSTO) classification  
+- Prasugrel  
+
+Page 46 Extracted Terms:
+- Chronic Coronary Disease  
+- Stable Coronary Artery Disease (CAD)  
+- Acute Coronary Syndrome (ACS)  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Stent  
+- Stent Thrombosis  
+- Coronary Thrombosis  
+- Coronary Revascularization  
+- Coronary Atherosclerosis  
+- Atrial Fibrillation (AF)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Myocardial Infarction (MI) / Heart Attack  
+- Angina (Stable / Unstable)  
+- Major Bleeding  
+- Bleeding Risk  
+- High Bleeding Risk  
+- Non‑vitamin K Oral Anticoagulant (DOAC)  
+- Apixaban  
+- Rivaroxaban  
+- Dabigatran  
+- Edoxaban  
+- Dual Antiplatelet Therapy (DAPT)  
+- Triple Antithrombotic Therapy  
+- Aspirin  
+- P2Y12 Inhibitor (Clopidogrel, Ticagrelor, etc.)  
+- Antithrombotic Regimen  
+- Clinical Risk Factors  
+- Lesion Complexity  
+- Complex Coronary Lesion  
+- Cardiovascular Risk Factors  
+- Hypertension  
+- Hyperlipidemia  
+- Family History of Coronary Artery Disease  
+- Smoking  
+- Nonsteroidal Anti‑Inflammatory Drugs (NSAIDs)  
+- Celecoxib  
+- Rofecoxib  
+- Etoricoxib  
+- Lumiracoxib  
+- Diclofenac  
+- Ibuprofen  
+- Naproxen  
+- Vitamin K Antagonist (VKA)  
+- Stroke  
+- Systemic Embolism  
+- Coronary Events (e.g., MI, unstable angina, revascularization)  
+- Recurrent Coronary Events  
+- Coronary Complications  
+- Platelet Aggregation  
+- Ischemic Risk  
+- MACE (Major Adverse Cardiac Events)  
+
+These terms capture the key clinical concepts, interventions, medications, and risk factors discussed in the guideline excerpt.
+
+Page 47 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Acute Coronary Syndrome (ACS)  
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Coronary Artery Disease (CAD)  
+- Multivessel CAD  
+- Myocardial Infarction (MI)  
+- Recurrent MI  
+- Cardiovascular Death  
+- Stroke  
+- Ischemic Events  
+- All‑cause Death  
+- Major Bleeding  
+- Major Adverse Cardiovascular Events (MACE)  
+- Heart Failure (HF)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Preserved LVEF  
+- Reduced LVEF (≤40%/≤50%)  
+- β‑Blocker Therapy  
+- Sustained‑release Metoprolol Succinate  
+- Carvedilol  
+- Bisoprolol  
+- Dual Antiplatelet Therapy (DAPT)  
+- Single Antiplatelet Therapy (SAPT)  
+- Aspirin  
+- Clopidogrel  
+- P2Y12 Inhibitors  
+- Rivaroxaban (low‑dose)  
+- Low‑dose Aspirin  
+- Rivaroxaban + Aspirin Combination  
+- Periprocedural Antithrombotic Therapy  
+- Peripheral Artery Disease (PAD)  
+- Chronic Kidney Disease (CKD) / eGFR 15‑59 mL/min/ 2  
+- Gastrointestinal Bleeding  
+- Proton Pump Inhibitors (PPIs)  
+- CYP2C19 Metabolism (clopidogrel activation)  
+- AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline  
+- COMPASS Trial  
+- Efficacy and Safety of Anticoagulation Strategies  
+
+These terms capture the core concepts and conditions related to heart disease discussed in the provided guideline text.
+
+Page 48 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Heart Failure (HF) with LV systolic dysfunction  
+- Left Ventricular Ejection Fraction (LVEF)  
+- LV systolic dysfunction (LVEF ≤ 40%)  
+- Mid‑range LVEF (40 – 49%)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Cardiovascular death  
+- Myocardial Infarction (MI) – previous and new  
+- Ischemic heart disease (stable ischemic heart disease)  
+- Stable angina  
+- Percutaneous coronary intervention (PCI)  
+- Coronary Artery Disease (CAD)  
+- Beta‑blocker therapy  
+  - Bisoprolol (CIBIS‑II)  
+  - Carvedilol (COPERNICUS)  
+  - Metoprolol succinate (MERIT‑HF)  
+- Renin‑Angiotensin‑Aldosterone Inhibitors (RAASi)  
+  - Angiotensin‑converting enzyme inhibitors (ACEi)  
+  - Angiotensin‑II receptor blockers (ARBs)  
+  - ACE‑intolerant indications  
+- Hypertension  
+- Diabetes mellitus  
+- Chronic kidney disease (CKD)  
+- Clinical trial and registry acronyms  
+  - REBOOT‑CNIC  
+  - REDUCE‑SWEDEHEART  
+  - BETAMI  
+  - DANBLOCK  
+  - REACH (Reduction of Atherothrombosis for Continued Health)  
+  - CHARISMA (Clopidogrel for High Atherothrombotic Risk and Ischemic Stabilization, Management and Avoidance)  
+- Antithrombotic therapy  
+- Lipid‑lowering (statin) therapy  
+- Quality of life (QOL) outcomes  
+- Observational studies vs randomized controlled trials (RCTs)  
+- Long‑term beta‑blocker use (> 1 year)  
+- Clinical benefits and risks (fatigue, depression, drug–drug interactions)  
+- Cardiovascular morbidity and mortality outcomes at 30 days, 3‑year follow‑up  
+
+These terms capture the key heart‑disease concepts discussed in the guideline excerpt.
+
+Page 49 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Heart Failure (HF)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Renin–Angiotensin–Aldosterone System Inhibitors (RAASi)  
+- Angiotensin‑Converting Enzyme Inhibitors (ACEi)  
+- Angiotensin II Receptor Blockers (ARBs)  
+- Hypertension  
+- Diabetes Mellitus  
+- Chronic Kidney Disease (CKD)  
+- Blood Pressure (BP)  
+- Lipid Management  
+- Colchicine  
+- Atherothrombotic Cardiovascular Disease (ASCVD)  
+- Perindopril  
+- Ramipril  
+- Trandolapril  
+- Quinapril  
+- Amlodipine  
+- Enalapril  
+- COLCOT Trial  
+- LoDoCo Trial  
+- LoDoCo2 Trial  
+- HOPE Trial  
+- EUROPA Trial  
+- PEACE Trial  
+- CAMELOT Trial  
+- IMAGINE Trial  
+- AHA/ACC Chronic Coronary Disease Guideline  
+- HFSA Heart Failure Guideline
+
+Page 50 Extracted Terms:
+- Chronic Coronary Disease  
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Acute Coronary Syndrome (ACS)  
+- Myocardial Infarction (MI)  
+- Coronary Artery Disease (CAD)  
+- Ischemic Heart Disease  
+- Heart Failure (HF)  
+- Angina  
+- Coronary Revascularization  
+- Ischemic Stroke  
+- Major Adverse Cardiovascular Events (MACE)  
+- Cardiovascular Death  
+- Cardiovascular Morbidity  
+- Cardiovascular Mortality  
+- Cardiovascular Outcomes  
+- Vulnerable Atherosclerotic Plaques  
+- Colchicine Therapy (colchicine)  
+- Influenza Vaccination (as a preventive measure for cardiovascular risk)  
+- COVID‑19 Vaccination (as a preventive measure for cardiovascular risk)  
+- Pneumococcal Polysaccharide Vaccination (as a preventive measure for cardiovascular risk)
+
+Page 51 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- Chronic Coronary Disease (CCD)  
+- Angina pectoris / angina  
+- Anti‑anginal therapy  
+- Beta blocker  
+- Calcium‑channel blocker (CCB)  
+- Dihydropyridine CCB (e.g., amlodipine, nifedipine)  
+- Non‑dihydropyridine CCB (verapamil, diltiazem)  
+- Long‑acting nitrate (e.g., isosorbide dinitrate, nitroglycerin)  
+- Sublingual nitroglycerin  
+- Nitroglycerin spray  
+- Ranolazine  
+- Ivabradine  
+- Left ventricular (LV) dysfunction / LV function  
+- Myocardial oxygen demand  
+- Myocardial arterial blood supply  
+- Late sodium current (mechanism of ranolazine)  
+- Myocardial ischemia  
+- Myocardial infarction (MI)  
+- Transient ischemic attack (TIA)  
+- Stroke  
+- Cardiovascular risk (high or very high)  
+- Cardiac arrest  
+- Mortality (all‑cause death)  
+- Pneumococcal polysaccharide vaccine (PPV)  
+- Influenza vaccine  
+- PPSV23  
+- PCV13 (pneumococcal conjugate vaccine)  
+- Combined vaccination (PPV + influenza)  
+- Exercise duration / exercise tolerance  
+- Nitroglycerin consumption  
+- Bradycardia  
+
+These terms capture the diseases, therapeutic agents, physiological concepts, and outcome measures that are central to the clinical guidelines discussed.
+
+Page 52 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Angina  
+- Stable Angina  
+- Refractory Angina  
+- Ischemic Heart Disease  
+- Coronary Revascularization  
+- Enhanced External Counterpulsation (EECP)  
+- Transmyocardial Laser Revascularization (TLR)  
+- Ranolazine  
+- Ivabradine  
+- Amlodipine  
+- Atenolol  
+- Nitroglycerin  
+- Short‑acting Nitrates  
+- Nitroglycerin Spray  
+- Sublingual Nitroglycerin  
+- Cardiovascular Death  
+- Myocardial Infarction (MI)  
+- Exercise Capacity / Exercise Time  
+- Anginal Episodes  
+- Nitroglycerin Consumption  
+- Resting Heart Rate  
+- Disodium EDTA (Chelation Therapy)  
+- AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+- Clinical Statement / Guideline Recommendation  
+
+Page 53 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary Artery Disease (CAD)  
+- Myocardial Infarction (MI)  
+- Angina  
+- Coronary artery stenoses  
+- Revascularization  
+- Coronary Artery Bypass Grafting (CABG)  
+- Percutaneous Coronary Intervention (PCI)  
+- Fractional Flow Reserve (FFR)  
+- Instantaneous Wave‑Free Ratio (iFR)  
+- Left Ventricular (LV) dysfunction  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Cardiovascular events  
+- Cardiovascular death  
+- Urgent revascularization  
+- Coronary angiography  
+- Heart Team approach  
+- Coronary artery revascularization  
+- Cardiac death  
+- Non‑fatal events  
+- Severe LV dysfunction (LVEF ≤ 35 %)  
+- Complex three‑vessel disease  
+- Diabetes (comorbidity)  
+- Renal dysfunction (comorbidity)  
+- Atherosclerotic burden  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Quality of Life (QOL)  
+- Meta‑analyses  
+- Clinical trials (e.g., TACT, TACT2)  
+- Cardiovascular disease (general term)
+
+Page 54 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Left ventricular dysfunction  
+- Left ventricular ejection fraction (LVEF)  
+- LVEF ≤ 35 %  
+- Left main coronary disease  
+- Coronary artery bypass grafting (CABG)  
+- Percutaneous coronary intervention (PCI)  
+- Glucose‑directed medical therapy (GDMT) / guideline‑directed medical therapy  
+- Medical therapy alone  
+- Ischemic cardiomyopathy  
+- Heart failure (HF) secondary to coronary disease  
+- Non‑fatal myocardial infarction (MI)  
+- Unstable angina  
+- Angina (baseline angina frequency)  
+- Seattle Angina Questionnaire (SAQ)  
+- Fractional Flow Reserve (FFR)  
+- FFR‑guided PCI  
+- STICH trial  
+- ISCHEMIA trial  
+- COURAGE trial  
+- ORBITA trial  
+- REVIVED‑BCIS 2 trial  
+- AHA/ACC/ACCP/ASPC/NLA/PCNA chronic coronary disease guideline  
+- Revascularization (surgical or catheter‑based)  
+- Surgical revascularization  
+- Catheter‑based revascularization  
+- Ischemia burden  
+- Mortality benefit of CABG over GDMT  
+- MACE (major adverse cardiovascular events)  
+- QALYs (quality‑adjusted life years)  
+- Incremental cost‑effectiveness ratio (ICER)  
+- Lifetime costs  
+- Lifetime QALYs  
+- Crossover rate in trials  
+- Angiographic complexity  
+- Optimal medical therapy (OMT)  
+- Clinical events (non‑fatal MI, unstable angina, urgent revascularization)
+
+Page 55 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Revascularization (including CABG and PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery disease (CAD)  
+- Left main disease / left main CAD  
+- Multi‑vessel disease  
+- Severe coronary stenosis (≥70 %)  
+- 3‑vessel disease  
+- 2‑vessel disease with proximal left anterior descending artery  
+- Cardiovascular death  
+- Myocardial infarction (MI)  
+  - Spontaneous MI (type 1)  
+  - Demand‑induced MI (type 2)  
+  - Procedural MI (type 4a)  
+  - Stent‑related MI (type 4b)  
+  - Restenosis‑related MI (type 4c)  
+- Unstable angina  
+- Procedural type 4a MI  
+- Procedural type 4b MI  
+- Procedural type 4c MI  
+- Clinical events (cardiac death, MI, etc.)  
+- ISCHEMIA trial  
+- FAME‑2 trial  
+- FFR‑guided PCI (fractional flow reserve ≤ 0.8)  
+- iFR‑guided PCI (instantaneous wave‑free ratio > 0.89)  
+- Non‑hyperemic pressure ratios  
+- DES (drug‑eluting stents)  
+- Angiography‑guided PCI  
+- Angiographic severity (≥50 %)  
+- MACE (major adverse cardiovascular events)  
+- Acute versus chronic ischemia  
+- ejection fraction  
+- High‑risk clinical scenarios (comorbid conditions, social factors)  
+- Heart Team (interventional cardiology, cardiac surgery, cardiovascular specialists)  
+- GDMT (guideline‑directed medical therapy)  
+- QALY (quality‑adjusted life year)  
+- Incremental cost‑effectiveness ratio (ICER)  
+- Economic evaluation of PCI vs. medical therapy  
+- Network meta‑analysis  
+- Survival advantage of PCI over medical therapy in left‑main CAD  
+- Survival advantage of CABG over medical therapy in left‑main CAD  
+- Stability of chronic coronary syndromes  
+- Redirection of care to interventional strategies  
+- Cardiovascular specialists  
+
+*(All terms are extracted from the guideline text and pertain to diagnosis, treatment, outcomes, and health‑system decision‑making in heart disease.)*
+
+Page 56 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Percutaneous Coronary Intervention (PCI)  
+- Left main coronary artery disease  
+- High‑complexity coronary artery disease (CAD)  
+- SYNTAX score (≥ 33 cutoff)  
+- Multivessel coronary artery disease  
+- Major Adverse Cardiovascular Events (MACE)  
+- Survival benefit  
+- Mortality (cardiac and all‑cause)  
+- Ischemic myocardium  
+- Ischemic insult  
+- Spontaneous myocardial infarction (MI)  
+- Repeat revascularization  
+- Diabetic coronary artery disease  
+- Left anterior descending artery (LAD) involvement  
+- Left internal mammary artery (LIMA) graft  
+- Heart Team decision making  
+- Shared decision‐making process  
+- Physical Component Summary (PCS)  
+- Mental Component Summary (MCS)  
+- Left ventricular (LV) dysfunction  
+- Non‑viable myocardium  
+- Frailty / immobility  
+- Severe lung disease  
+- Subclinical coronary anatomy complexity  
+- De novo coronary lesions  
+- Coronary artery protection strategy  
+- Surgical risk stratification  
+- Percutaneous revascularization registry data  
+- Retrospective outcomes (10‑year follow‑up)  
+- Randomized controlled trials (RCTs)  
+- Pooled individual patient data analysis  
+- Clinical evidence modifiers  
+- Coronary artery disease risk modifiers  
+- Revascularization strategy recommendations (CABG vs PCI)  
+- Chronic stable ischemic heart disease guideline citations  
+- AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline (2023)
+
+
+Page 57 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary Artery Disease (CAD)  
+- Spontaneous Coronary Artery Dissection (SCAD)  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Artery Bypass Graft (CABG)  
+- Left Main Stenosis  
+- Left Anterior Descending Artery (LAD)  
+- Multivessel Disease  
+- Triple‑Vessel Disease  
+- Myocardial Infarction (MI)  
+- Stroke  
+- Dual Antiplatelet Therapy (DAPT)  
+- Beta‑Blocker Therapy  
+- Renin‑Angiotensin‑Aldosterone System Inhibitors (RAAS inhibitors)  
+- Coronary Revascularization  
+- Coronary Pathology  
+- Ischemia  
+- Ischemia with No Obstructive Coronary Artery Disease (INOCA)  
+- Cardiovascular Disease (CVD)  
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Atherosclerosis  
+- Coronary Intervention  
+- Heart Failure  
+- Left Ventricular Dysfunction  
+- Surgical Ineligibility  
+- Composite Primary Endpoint (Death, MI, Stroke)  
+- FREEDOM Trial  
+- EXCEL Trial  
+- Meta‑analysis  
+- Hazard Ratio  
+- Confidence Interval  
+- Coronary Stenting  
+- Coronary Angiography  
+- Coronary Anatomy  
+- Angioplasty  
+- Cardiac Rehabilitation (CR)  
+- Vascular Pathology
+
+Page 58 Extracted Terms:
+- Spontaneous coronary artery dissection (SCAD)  
+- Coronary artery disease (CAD)  
+- Nonobstructive coronary arteries  
+- Ischemia with nonobstructive coronary arteries (INOCA)  
+- Angina  
+- Quality of life (QOL)  
+- Fibromuscular dysplasia  
+- Cerebral aneurysm  
+- Aortic aneurysm  
+- Peripheral aneurysm  
+- Aortic dissection  
+- Peripheral dissection  
+- Myocardial infarction  
+- Stroke (cerebral ischemia)  
+- Transient ischemic attack (TIA)  
+- Hypertension (high blood pressure)  
+- Familial hypercholesterolemia (FH)  
+- Statin therapy  
+- Beta‑blocker therapy  
+- Dual antiplatelet therapy (DAPT)  
+- Antiplatelet therapy  
+- Oral anticoagulation  
+- Coronary physiology testing  
+- Recurrent SCAD  
+- Vascular abnormalities (extracoronary)  
+- Connective tissue disorders  
+- Ehlers‑Danlos syndrome (vascular type)  
+- Marfan syndrome  
+- Loeys‑Dietz syndrome  
+- Pulmonary hypertension (relevant for cardiovascular risk)  
+- Coronary vasculopathy  
+- Coronary arteriopathy  
+- Coronary artery tortuosity  
+- Cardiac valve abnormality  
+- Aortic valve disease  
+- Heart failure (as a potential outcome)  
+- Cardiac remodeling (associated with ischemia)
+
+Page 59 Extracted Terms:
+- Coronary artery disease (CAD)  
+- Nonobstructive coronary artery disease (nonobstructive CAD)  
+- Ischemia without obstructive coronary artery disease (INOCA)  
+- Myocardial ischemia  
+- Coronary vasomotor dysfunction  
+- Coronary microvascular dysfunction  
+- Microvascular angina  
+- Vasospastic angina  
+- Coronary microvascular resistance  
+- Index of microcirculatory resistance (IMR)  
+- Fractional flow reserve (FFR)  
+- Coronary flow reserve (CFR)  
+- Coronary computed tomography angiography (CTA)  
+- Coronary angiography  
+- Acetylcholine testing  
+- Calcium channel blockers  
+- Nitrate‑responsive angina  
+- Transient ischemic electrocardiographic changes  
+- ST‑segment elevation  
+- ST‑segment depression  
+- Negative U waves  
+- Coronary artery spasm  
+- Provocative stimuli (acetylcholine, ergot)  
+- Hyperventilation  
+- Exercise tolerance / diurnal variation in exercise tolerance  
+- Seattle Angina Questionnaire  
+- EuroQoL (EQ‑5D‑5L)  
+- Major adverse cardiovascular events (MACE)  
+- Invasive coronary physiology testing  
+- CorMicA trial (Coronary Microvascular Angina trial)  
+- COVADIS diagnostic criteria (Coronary Vasomotion Disorders International Study Group)  
+- Coronary slow flow phenomenon  
+- TIMI frame count  
+- Epicardial coronary obstruction  
+- Coronary microvascular resistance indices  
+- Electrocardiogram (ECG)
+
+Page 60 Extracted Terms:
+**Key Heart‑Disease Terms Extracted**
+
+- Coronary artery disease (CAD)  
+- Chronic coronary disease (CCD)  
+- Heart failure (HF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Valvular heart disease  
+- Revascularization  
+- Coronary microvascular dysfunction (CMD)  
+- Microvascular angina (MVA)  
+- Vasospastic angina (VSA)  
+- Epicardial coronary artery spasm  
+- Coronary flow reserve (CFR)  
+- Index of microvascular resistance (IMR)  
+- Fractional flow reserve (FFR)  
+- Angina  
+- Acetylcholine testing (coronary function testing)  
+- Epicardial coronary diameter reduction  
+- Coronary vasorelaxation  
+- Coronary vasospasm  
+- Coronary vasodilator capacity  
+- Non‑obstructive CAD  
+- Obstructive CAD (≥ 50 % diameter stenosis, FFR ≤ 0.80)  
+- Microvascular resistance (high)  
+- Coronary endothelial function  
+- Coronary hemodynamics  
+- Coronary artery diameter  
+- Cardiovascular events prevention (therapeutic focus)  
+
+(The above list focuses on clinical entities, diagnostic measures, and disease processes relevant to the guideline text.)
+
+Page 61 Extracted Terms:
+**Key terms related to heart disease**
+
+- Chronic Coronary Disease (CCD)  
+- Coronary Artery Disease (CAD)  
+- Valvular heart disease  
+- Severe aortic stenosis  
+- Percutaneous coronary intervention (PCI)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Dual antiplatelet therapy (DAPT)  
+- Major adverse cardiovascular events (MACE)  
+- Cardiovascular events  
+- Cardiovascular morbidity  
+- Quality‑adjusted life years (QALYs)  
+- Hyperlipidemia  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- Lipoprotein(a) (Lp(a))  
+- Familial hypercholesterolemia (FH)  
+- Statin therapy  
+- Lipid screening (family members)  
+- Hypertension  
+- Diabetes mellitus  
+- Obesity / Metabolic syndrome  
+- Smoking / Vaping  
+- Recreational substance use (cocaine, marijuana)  
+- Unhealthy diet  
+- Physical inactivity  
+- Traditional cardiovascular risk factors  
+- Non‑traditional risk factors  
+- Human immunodeficiency virus (HIV)  
+- Antiretroviral therapy (ART)  
+- Systemic inflammatory disorders (IBD, SLE, RA, gout, psoriatic arthritis, ankylosing spondylitis)  
+- Vasculitides  
+- Pregnancy‑related complications (IUGR, hypertensive disorders of pregnancy, gestational diabetes)  
+- Coronary anomalies  
+- Kawasaki disease  
+- Myocardial bridging  
+- Secondary prevention strategies  
+- Revascularization guidelines  
+- Blood pressure management  
+- Weight management  
+- Diabetes management (SGLT‑2 inhibitors, GLP‑1 receptor agonists)  
+- Nutrition and supplements  
+- Physical activity  
+- Tobacco products  
+- Medication adherence  
+- Health information technology tools  
+- Social determinants of health  
+
+These terms capture the spectrum of conditions, interventions, risk factors, and prevention strategies associated with heart disease as described in the guideline text.
+
+Page 62 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular Disease (CVD)  
+- Heart disease  
+- Coronary artery disease  
+- Coronary artery anomalies  
+- Coronary vasospasm  
+- Coronary artery aneurysm  
+- Coronary artery stenosis  
+- Coronary artery thrombosis  
+- Coronary artery fistula  
+- Kawasaki disease (coronary sequelae)  
+- Myocardial bridging  
+- Cardiac toxicity  
+- Cardio‑oncology  
+- Antiplatelet therapy  
+- Antithrombotic therapy  
+- Thromboprophylaxis  
+- Apixaban  
+- Rivaroxaban  
+- Low‑molecular‑weight heparin  
+- Beta‑adrenergic blocking agents  
+- Exercise‑induced ischemia  
+- Sudden cardiac death  
+- Interarterial course of coronary artery  
+- Anomalous left coronary artery from the pulmonary artery  
+- Anomalous origin of the coronary artery from the opposite sinus of Valsalva  
+- Surgical repair of coronary anomalies (e.g., translocation to the aortic root)  
+- Surgical correction of interarterial coronary anomaly  
+- Coronary vasospasm treatment  
+- Myocardial ischemia  
+- Cardiac dysfunction  
+- Multidisciplinary cardio‑oncology team
+
+Page 63 Extracted Terms:
+- Chronic coronary disease (CCD)  
+- Cardiovascular complications  
+- Ischemic cardiovascular events  
+- Adverse maternal and fetal outcomes  
+- Adverse cardiac events  
+- Maternal cardiac death  
+- Cardiac arrest  
+- Sustained arrhythmia requiring treatment  
+- Left‑sided heart failure (HF) / pulmonary edema  
+- Right‑sided heart failure  
+- Stroke  
+- Transient ischemic attack (TIA)  
+- Cardiac thromboembolism  
+- Myocardial infarction (MI)  
+- Vascular dissection  
+- Coronary artery disease (CAD)  
+- Ventricular dysfunction  
+- Mechanical valve  
+- High‑risk left‑sided valve disease  
+- Left‑ventricular outflow tract (LVOT) obstruction  
+- Pulmonary hypertension  
+- High‑risk aortopathy  
+- NYHA functional class III‑IV  
+- Cyanosis  
+- Late pregnancy assessment  
+- Cardiac intervention (e.g., surgery, catheterization)  
+- CARPREG II risk prediction model / predictors  
+- CARPREG II risk score  
+- Pre‑eclampsia  
+- Pre‑term delivery  
+- Small for gestational age infant  
+- Cardio‑obstetric care team  
+- Cardio‑obstetrics  
+- Statin use during pregnancy  
+- Angiotensin‑converting enzyme (ACE) inhibitors  
+- Angiotensin‑II receptor blockers (ARBs)  
+- Direct renin inhibitors  
+- Angiotensin receptor‑neprilysin inhibitors  
+- Aldosterone antagonists  
+- Estrogen‑only hormone regimens  
+- Combined estrogen‑and‑progestin hormone regimens  
+- Venous thromboembolism (VTE)  
+- Systemic postmenopausal hormone therapy  
+- Postmenopausal hormone therapy  
+- MACE (major adverse cardiovascular events)  
+- Multidisciplinary cardio‑obstetric care  
+- Pregnancy outcomes in women with heart disease (CARPREG)  
+- Cardiovascular risk stratification  
+
+These terms capture the key heart‑disease–focused concepts, conditions, therapies, and risk factors discussed in the guideline excerpt.
+
+Page 64 Extracted Terms:
+**Key heart‑disease related terms extracted from the guideline text**
+
+- Arrhythmias  
+- Metoprolol  
+- Propranolol  
+- Digoxin  
+- Lidocaine  
+- Verapamil  
+- Diltiazem  
+- Procainamide  
+- Sotalol  
+- Flecainide  
+- Propafenone  
+- Amiodarone  
+- Heart failure  
+- Carvedilol  
+- Furosemide  
+- Bumetanide  
+- Dopamine  
+- Dobutamine  
+- Norepinephrine  
+- Hydralazine  
+- Nitroglycerin  
+- Isosorbide dinitrate  
+- Torsemide  
+- Metolazone  
+- Warfarin  
+- Unfractionated heparin  
+- Enoxaparin  
+- Fondaparinux  
+- Argatroban  
+- Bivalirudin  
+- Aspirin (low dose)  
+- Clopidogrel  
+- Prasugrel  
+- Ticagrelor  
+- Alteplase  
+- Streptokinase  
+- Labetalol  
+- Nifedipine  
+- α‑Methyldopa  
+- Nitroprusside  
+- Amlodipine  
+- Hydrochlorothiazide  
+- Clonidine  
+- Atenolol  
+- ACE‑inhibitor class (e.g., captopril, benazepril, enalapril)  
+- ARB class (e.g., losartan, valsartan)  
+- Aldosterone antagonists  
+- Statin class  
+- Direct oral anticoagulants (DOACs)  
+- Endothelin‑receptor antagonists (ERAs)  
+- Cardio‑obstetrics team / multidisciplinary cardio‑obstetrics  
+- Maternal‑fetal medicine / obstetric cardiology  
+- Pregnancy  
+- Lactation  
+- Cardiovascular medication safety (pregnancy, lactation)  
+- Pharmacokinetics in pregnancy (absorption, volume of distribution, protein binding, clearance, uteroplacental flow, fetal metabolism)  
+- Cardiovascular risk factors  
+- Cardiovascular complications of pregnancy  
+- Monitoring and management of cardiovascular disease during labor, delivery, and postpartum.
+
+Page 65 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+- Chronic Coronary Disease  
+- Cardio‑Obstetrics (team‑based cardio‑obstetrics model of care)  
+- Cardiac Disease  
+- Cardiovascular Disease (CVD)  
+- Congenital Heart Disease  
+- CARPREG II (Cardiac Disease in Pregnancy study)  
+- ZAHARA (Zwangerschap bij Aangeboren HARtAfwijking – Pregnancy in Women With Congenital Heart Disease) study  
+- mWHO (modified World Health Organization) cardiac risk classification  
+- Statin exposure (as a medication affecting cardiovascular risk)  
+
+These terms capture the major heart‑disease concepts, conditions, and research frameworks mentioned in the provided text.
+
+Page 66 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary Artery Disease (CAD)  
+- Myocardial Infarction (MI)  
+- Acute MI  
+- Coronary revascularization  
+- Coronary angiography  
+- Coronary artery bypass grafting (CABG)  
+- Drug‑prescription antiplatelet therapy (DAPT)  
+- Antithrombotic agents  
+- Antiplatelet agents  
+- ACE inhibitors  
+- Angiotensin‑II receptor blockers (ARBs)  
+- Direct renin inhibitors  
+- Angiotensin‑receptor neprilysin inhibitors (ARNIs)  
+- Aldosterone antagonists  
+- Statins  
+- Lipoprotein apheresis  
+- Hormone therapy (estrogen, estrogen‑progesterin, oral contraceptives, hormonal contraceptives)  
+- Venous thromboembolism (VTE)  
+- Stroke  
+- Angina pectoris  
+- Cardiovascular death  
+- Angiographic progression of disease  
+- Saphenous vein grafts  
+- Transwomen cardiovascular risk  
+- Older‑adult heart disease risk  
+- Geriatric 5‑Ms (related to cardiovascular outcomes: Mentation, Mobility, Medications, Multicomplexity)
+
+Page 67 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary Artery Disease (CAD)  
+- Ischemia  
+- Atherosclerosis  
+- Revascularization  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Contrast‑induced Acute Kidney Injury (AKI)  
+- Contrast‑induced nephropathy  
+- Statins (high‑dose statins)  
+- Antiretroviral Therapy (ART)  
+- Lipid profile / dyslipidemia  
+- Cardiovascular events (CVE)  
+- Glucocorticoids (high‑dose)  
+- Disease‑modifying anti‑rheumatic drugs (DMARDs)  
+- Biologics / immune‑modulating therapies  
+- Inflammation (and inflammatory markers)  
+- Hydration (pre‑contrast)  
+- Iodinated contrast agent  
+- Radial access (for PCI)  
+- Bicarbonate  
+- N‑acetyl‑L‑cysteine (NAC)  
+- Normal saline (for AKI prevention)  
+
+These terms represent key concepts related to heart disease that appear in the provided guideline excerpt.
+
+Page 68 Extracted Terms:
+- Chronic Coronary Disease  
+- Coronary Artery Disease (CAD)  
+- Myocardial Infarction (MI)  
+- Atherosclerosis  
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Cardiovascular Disease (CVD)  
+- Cardiovascular risk  
+- Lipid profile  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- Low‑density lipoprotein (LDL)  
+- High‑density lipoprotein cholesterol (HDL‑C)  
+- High‑density lipoprotein (HDL)  
+- Hypertriglyceridemia  
+- Cholesterol management  
+- Lipid levels  
+- LDL‑C reduction  
+- Cardiovascular risk profile  
+- Cardiovascular events  
+- Cardiovascular health risk discussion  
+
+Page 69 Extracted Terms:
+**Heart‑disease related terms extracted from the guideline text**
+
+- Chronic Coronary Disease  
+- Cardiac Allograft Vasculopathy  
+- Heart Transplant  
+- Major Adverse Cardiovascular Events (MACE)  
+- Secondary prevention  
+- Statins (e.g., simvastatin, pravastatin, simvastatin)  
+- Aspirin  
+- Revascularization  
+- Coronary angiography  
+- Intravascular ultrasound  
+- High‑intensity interval training  
+- Percutaneous coronary intervention (PCI)  
+- Drug‑eluting stents (DES)  
+- Coronary artery bypass grafting (CABG)  
+- Retransplantation  
+- Mycophenolate mofetil  
+- Azathioprine  
+- Calcineurin inhibitor  
+- Proliferation‑signal inhibitor  
+- Grade ≥ 2R rejection  
+- Lipid management  
+- Blood‑pressure management  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2i)  
+- Glucagon‑like peptide‑1 receptor agonists (GLP‑1 RA)  
+- Cardiovascular events  
+- Cardiovascular risk factors  
+- Inflammation (as a cardiovascular risk factor)  
+- Rheumatoid arthritis (inflammatory cardiovascular risk)  
+- Methotrexate (cardiovascular risk modifier)  
+- Biologic disease‑modifying antirheumatic drugs  
+- Janus kinase inhibitors  
+- Tumor necrosis factor inhibitors  
+- Immunomodulators  
+- Glucocorticoids  
+- Prednisone  
+- Triglyceride levels ≥ 500 mg/dL (cardiovascular risk)  
+- Protease inhibitors (drug interaction impacting cardiovascular drugs)  
+- Antiplatelet drugs (e.g., ticagrelor)  
+
+
+These terms capture the core concepts, interventions, and risk factors related to heart disease as discussed in the provided guideline excerpt.
+
+Page 70 Extracted Terms:
+- Chronic Coronary Disease  
+- Cardiac Allograft Vasculopathy  
+- Cardiac Allograft Vasculopathy Progression  
+- Coronary Artery Disease  
+- Atherosclerotic Plaque Volume  
+- Plaque Index  
+- Intravascular Ultrasound  
+- Statin Therapy  
+- Low‑Intensity Statin  
+- Moderate/High‑Intensity Statin  
+- Aspirin Therapy  
+- Revascularization  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Drug‑Eluting Stent (DES)  
+- Everolimus‑Eluting Stents  
+- In‑Stent Restenosis  
+- Fractional Flow Reserve (FFR)  
+- Index of Microcirculatory Resistance (IMR)  
+- Immunosuppressive Drugs (Cyclosporine, Tacrolimus, Everolimus, Sirolimus)  
+- Atorvastatin  
+- Rosuvastatin  
+- Pravastatin  
+- Fluvastatin  
+- Simvastatin  
+- Lovastatin  
+- Pitavastatin  
+- Area Under the Curve (AUC)  
+- Drug‑Drug Interaction  
+- Mortality  
+- Myocardial Infarction (MI)  
+- Heart Failure (HF) Hospitalization  
+- All‑Cause Death  
+- Cardiac Allograft Vasculopathy‑Related Events  
+- Graft Dysfunction  
+- Discrete Lesions  
+- Second‑Generation DES  
+- Early (<2 Years) vs Late (>2 Years) Statin Initiation  
+- Early (<1 Year) vs Late (>1 Year) Aspirin Initiation
+
+Page 71 Extracted Terms:
+**Key heart‑disease related terms extracted from the guideline text**
+
+- Chronic Coronary Disease (CCD)  
+- Acute Coronary Syndrome (ACS)  
+- Coronary revascularization  
+- Telehealth programs  
+- Lifestyle interventions (e.g., Hartcoach, Proactive Heart, MoodCare)  
+- Cardiovascular risk factors  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Coronary Computed Tomography Angiography (CTA)  
+- Stress testing (with or without imaging)  
+- Left ventricular (LV) function assessment  
+- Invasive coronary angiography  
+- Major adverse cardiovascular events (MACE)  
+- 12‑lead electrocardiogram (ECG)  
+- Angina  
+- Functional capacity  
+- Cardiac rehabilitation (CR)  
+- ISCHEMIA trial (stable CAD, ischemia)  
+- Stable coronary artery disease (CAD)  
+- Ischemia  
+- Clinical follow‑up plan and testing  
+- Risk‑factor modification  
+- Shared decision‑making (among cardiology, primary, and specialty teams)  
+- Patient education and social determinants of health (contextual factors influencing care)
+
+Page 72 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Coronary Artery Disease (CAD)  
+- Cardiovascular Disease (CVD)  
+- Left Ventricular Function  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Anginal Symptoms  
+- Silent Ischemia  
+- Cardiovascular Death  
+- Myocardial Infarction (MI)  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Invasive Coronary Angiography  
+- Revascularization  
+- Routine Follow‑up Coronary Angiography  
+- Routine Functional Stress Testing  
+- Exercise ECG  
+- Nuclear Myocardial Perfusion Imaging  
+- Stress Echocardiography  
+- ISCHEMIA Trial  
+- Unstable Angina  
+- Composite Endpoint (Death, MI, Hospitalization)  
+- Post‑PCI  
+- Diabetes (in the context of cardiac care)  
+- High‑Risk Patients  
+- Nonischemic Intermediate Lesions  
+- Cost‑Related Medication Non‑Adherence  
+- Out‑of‑Pocket Costs  
+- SGLT2 Inhibitors  
+- Lipid Management  
+- High‑Cost Therapies  
+- Shared Decision‑Making  
+- Cost‑Effectiveness  
+
+
+
+Page 73 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Noninvasive imaging  
+- Calcified plaque burden  
+- Non‑calcified plaque burden  
+- Atherosclerosis  
+- Risk scores (comprehensive, contemporary)  
+- Patient demographics  
+- Social determinants of health  
+- Patient‑reported measures  
+- Patient‑centered outcomes  
+- Shared decision‑making  
+- Decision aids  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Sequencing GDMT  
+- Antiplatelet regimen  
+- Antithrombotic strategy  
+- Atrial fibrillation  
+- Refractory angina  
+- Neuro‑modulation  
+- Thoracic spinal‑cord stimulation  
+- Therapeutic angiogenesis  
+- Cell/gene therapies  
+- Coronary sinus occlusion  
+- Shockwave therapy  
+- Hybrid cardiac rehabilitation (CR)  
+- Home‑based cardiac rehabilitation  
+- Mental health (depression)  
+- E‑cigarette use  
+- GLP‑1 receptor agonists  
+- SGLT2 inhibitors  
+- Clinical estimation of symptoms  
+- Cost‑saving approaches (mail order pharmacy, patient assistance programs)  
+- Artificial intelligence  
+- Text messaging  
+- Wearable technology  
+- Genomics  
+- Proteomics  
+- Spontaneous coronary artery dissection (SCAD)  
+- Vasculopathy screening  
+- Climate‑change‑related cardiovascular impact  
+- Percutaneous coronary intervention (PCI)  
+- Myocardial infarction (MI)  
+- Cardiovascular prevention measures  
+
+Page 74 Extracted Terms:
+- Chronic Coronary Disease (CCD)  
+- Cardiovascular events  
+- Cardiovascular outcomes  
+- Preventive strategies (e.g., indoor air purifiers, N95 masks)  
+- Wildfire smoke exposure  
+- Extreme heat exposure  
+- Social Determinants of Health (SDOH)  
+- Electronic health records (EHR)  
+- Patient out‑of‑pocket costs  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Hemodialysis patients with coronary disease  
+- Guideline implementation in clinical practice  
+- Clinical practice guidelines (ACC/AHA/ACCP/ASPC/NLA/PCNA)  
+- Atherosclerotic cardiovascular disease (implicit in chronic coronary disease)
+
+Page 75 Extracted Terms:
+- Chronic Coronary Disease  
+- Stable Ischemic Heart Disease  
+- Unstable Angina  
+- Non‑ST‑elevation Myocardial Infarction (NSTEMI)  
+- ST‑elevation Myocardial Infarction (STEMI)  
+- Coronary Artery Revascularization  
+- Coronary Artery Disease  
+- Chest Pain Evaluation  
+- Primary Prevention of Cardiovascular Disease  
+- Secondary Prevention of Atherosclerotic Vascular Disease  
+- Management of Blood Cholesterol  
+- Dual Antiplatelet Therapy Duration  
+- Ventricular Arrhythmias  
+- Sudden Cardiac Death Prevention  
+- Hypertension (High Blood Pressure)  
+- Atrial Fibrillation Management  
+- Valvular Heart Disease  
+- Cardiovascular Disease  
+- Myocardial Infarction  
+- Angina  
+- Chronic Coronary Disease Guideline
+
+Page 76 Extracted Terms:
+- Heart disease  
+- Coronary artery disease  
+- Acute coronary syndrome  
+- Stable ischemic heart disease  
+- Heart failure  
+- Hypertension  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Atrial fibrillation  
+- Venous thromboembolism  
+- Percutaneous coronary intervention (PCI)  
+- Cardiac rehabilitation  
+- Secondary prevention  
+- Spontaneous coronary artery dissection  
+- Cardio‑oncology drug interactions  
+- Statins  
+- Novel cardiovascular risk‑reduction therapies  
+- Hypertriglyceridemia  
+- Tobacco cessation treatment  
+- Cardiac stress imaging  
+- Left ventricular function  
+- Ischemic burden  
+- Ischemia  
+- Myocardial scar  
+- Diabetes mellitus type 2 (in relation to coronary disease)  
+- Cardiovascular health (Life’s Essential 8)  
+- Stroke (as a major cardiovascular outcome)
+
+Page 77 Extracted Terms:
+**Key heart‑disease terms extracted from the guidelines and cited studies**
+
+1. Coronary artery disease (CAD)  
+2. Stable ischemic heart disease  
+3. Coronary artery disease progression  
+4. Stent implantation (drug‑eluting stent, bare‑metal stent)  
+5. Target‑vessel ischemia  
+6. Myocardial perfusion imaging (MPI)  
+7. Single‑photon emission computed tomography (SPECT)  
+8. Positron emission tomography (PET)  
+9. Positron emission tomography‑based myocardial perfusion imaging  
+10. Stress myocardial perfusion imaging  
+11. Cardiac magnetic resonance (CMR) perfusion imaging  
+12. Vasodilator stress cardiac magnetic resonance  
+13. Fractional flow reserve (FFR)  
+14. Coronary computed tomography angiography (CTA)  
+15. Coronary flow reserve (CFR)  
+16. Coronary angiography (invasive)  
+17. Coronary CT angiography‑derived FFR (CT‑FFR)  
+18. Exercise treadmill test (ETT)  
+19. Dobutamine stress echocardiography (SE)  
+20. Percutaneous coronary intervention (PCI)  
+21. Coronary artery bypass graft (CABG) surgery  
+22. Revascularization (early, routine, optimal)  
+23. Optimal medical therapy (OMT)  
+24. Anginal symptom burden  
+25. Functional capacity (e.g., exercise capacity, peak VO₂)  
+26. Health‑status outcomes (quality of life, angina relief)  
+27. Cardiac hospitalizations & readmissions  
+28. Sex/gender differences (female vs. male ischemia, outcomes)  
+29. Hybrid imaging (PET/SPECT with CT, MRI)  
+30. Prognostic risk scores (e.g., SYNTAX score, ISCHEMIA, Heart Team decision tools)  
+31. Blood‑flow metrics (global and regional myocardial blood flow, perfusion reserve)  
+32. Myocardial scar / late‑gadolinium enhancement  
+33. Rest‑ventricular ejection fraction (LVEF)  
+34. Coronary artery disease risk stratification  
+35. Therapeutic benefit prediction (for revascularization vs. medical therapy)  
+36. Diabetes‑related CAD management (BARI‑2D, type‑2 diabetes interventions)  
+37. Advanced kidney disease in CAD context  
+38. Artificial intelligence‑based perfusion mapping  
+39. Heart team multidisciplinary decision making  
+
+These terms capture the clinical concepts, diagnostic modalities, therapeutic strategies, risk stratification tools, and patient populations discussed in the provided text.
+
+Page 78 Extracted Terms:
+**Key heart‑disease related terms extracted from the document**
+
+- AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+- 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+- Coronary artery disease (CAD)  
+- Stable coronary disease  
+- Unstable angina  
+- Ischemic heart disease (IHD)  
+- Coronary ischemia  
+- Myocardial ischemia  
+- Microvascular dysfunction  
+- Coronary microvascular dysfunction  
+- Coronary flow reserve (CFR)  
+- Fractional flow reserve (FFR)  
+- FFR derived from computed tomography angiography (FFR‑CT)  
+- Percutaneous coronary intervention (PCI)  
+- Coronary bypass graft surgery (CABG)  
+- Bypass graft surgery  
+- Coronary angiography  
+- Stress myocardial perfusion imaging  
+- Myocardial perfusion single‑photon emission computed tomography (SPECT)  
+- Positron emission tomography (PET) – myocardial perfusion  
+- Rubidium‑82 PET imaging  
+- Technetium‑99m sestamibi SPECT  
+- Exercise treadmill test (ETT)  
+- Exercise stress echocardiography  
+- Stress cardiac magnetic resonance (CMR)  
+- Vasodilator stress CMR  
+- Adenosine stress myocardial perfusion scintigraphy  
+- Prognostic value  
+- Risk stratification  
+- Prognostic score  
+- Predictive model for long‑term survival  
+- Clinical outcomes  
+- Long‑term survival  
+- Cardiovascular mortality  
+- Cardiac events  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular dysfunction  
+- Global longitudinal strain (GLS) – implied by LV function tests  
+- Exercise capacity  
+- Ischemia severity  
+- Scar burden  
+- Transient ischemic dilation ratio  
+- PROMISE minimal‑risk tool  
+- ISCHEMIA trial results  
+- BARI 2D trial results  
+- Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D)  
+- ISCHEMIA trial  
+- Coronary risk factors  
+- Women‑specific ischemia risk  
+- Gender‑related differences in imaging limits  
+- Diabetes mellitus—impact on ischemia prognosis  
+
+These terms capture the central concepts, diagnostic tools, interventions, prognostic metrics, and guideline references related to heart disease that appear throughout the provided text.
+
+Page 79 Extracted Terms:
+- Coronary artery disease  
+- Stable coronary disease  
+- Coronary disease (general)  
+- Angina  
+- Chronic angina  
+- Stable ischemic heart disease  
+- Myocardial ischemia  
+- Myocardial infarction  
+- Acute coronary syndrome  
+- ST‑segment elevation myocardial infarction (STEMI)  
+- Non‑ST‑segment elevation myocardial infarction (NSTEMI)  
+- Coronary calcium score / coronary calcification  
+- Coronary plaque  
+- High‑risk plaque  
+- Low‑attenuation plaque  
+- Coronary computed tomography angiography (CCTA)  
+- Coronary CT  
+- Coronary magnetic resonance imaging (CMR)  
+- Positron emission tomography (PET)  
+- Myocardial perfusion imaging (MPI)  
+- Stress perfusion imaging  
+- Adenosine stress perfusion  
+- Coronary flow reserve (CFR)  
+- Percutaneous coronary intervention (PCI)  
+- Coronary revascularization  
+- Coronary artery bypass graft (CABG)  
+- Invasive strategy  
+- Conservative strategy  
+- Anti‑anginal drugs (e.g., β‑blockers, nitrates, ranolazine, nifedipine)  
+- β‑blocker therapy  
+- Nifedipine (long‑acting)  
+- Ranolazine therapy  
+- Statin therapy  
+- Lipid management  
+- Low‑density lipoprotein (LDL) cholesterol  
+- LDL testing / monitoring  
+- Cholesterol endpoints  
+- Atherosclerotic cardiovascular event  
+- Heart failure  
+- Left ventricular dysfunction  
+- Dilated cardiomyopathy  
+- Angina prevalence  
+- Angina under‑recognition  
+- Angina quality of life  
+- Depression / depressive symptoms  
+- Health‑related quality of life (HRQoL)  
+- Quality of life (QoL)  
+- Mortality  
+- Morbidity  
+- Prognostic value  
+- Risk stratification  
+- Risk factor management  
+- Pharmacologic therapy  
+- Medical therapy  
+- Cardiovascular outcomes  
+- Clinical guideline  
+- Imaging modalities (CT, CMR, PET, MPI)  
+- Coronary artery disease management  
+- Coronary angiogram  
+- Clinical statement  
+- 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+- PROMISE trial  
+- SCOT‑HEART trial  
+- COURAGE trial  
+- MERLIN‑TIMI 36 trial  
+- ACTION trial  
+- FAME (referenced in other literature)  
+- ESP‑CAD trial  
+- EUROASPIRE IV survey  
+- ORBITA medication‑adherence sub‑study  
+- Health literacy  
+- Health education  
+- Telehealth medication adherence  
+- Patient‑reported outcomes  
+- Physician‑estimated outcomes  
+- Angina prevalence and provider evaluation (APPEAR) study  
+- Health‑benefit outcomes study  
+- Long‑term prognosis after myocardial infarction  
+- Registry data  
+- Multi‑center clinical studies  
+- Diagnostic accuracy studies  
+- Outcome studies  
+- Prognosis studies  
+- Efficacy studies  
+- Randomized controlled trials (RCTs)  
+- Clinical outcomes studies  
+- Observational cohort studies  
+- Patient registry studies  
+- Quality improvement metrics  
+
+*(All terms are those found explicitly or implicitly within the provided guideline text and directly relate to heart disease, its diagnosis, management, outcomes, and studies.)*
+
+Page 80 Extracted Terms:
+- Coronary artery bypass graft (CABG)  
+- Coronary artery bypass surgery  
+- Acute coronary syndromes (ACS)  
+- Angina  
+- Seattle Angina Questionnaire  
+- Coronary heart disease  
+- Systolic heart failure  
+- Chronic heart failure  
+- Hypertension  
+- Hyperlipidemia  
+- Lipid management  
+- Type 2 diabetes mellitus  
+- Diabetes mellitus  
+- Cardiovascular risk  
+- Cardiovascular disease (CVD)  
+- Cardiovascular disease prevention  
+- Cardiovascular risk management  
+- Team‑based care  
+- Pharmacist‑led interventions  
+- Nurse‑led interventions  
+- Multidisciplinary risk assessment and management  
+- Multidisciplinary care program  
+- Shared decision making  
+- Patient education  
+- Lifestyle disease prevention  
+- Blood‑pressure control  
+- Cardiovascular event prevention  
+- Secondary prevention of heart failure  
+- Remote algorithm‑based cardiovascular risk management  
+- Digital care transformation in cardiovascular health  
+- Clinical outcomes in cardiac patients  
+- Quality of life in cardiac care  
+- Cost‑effectiveness of collaborative care in cardiology  
+- Blood‑pressure management in diabetes  
+- Cardiovascular health promotion  
+
+---
+
+Page 81 Extracted Terms:
+**Key terms related to heart disease**
+
+- Coronary heart disease  
+- Coronary artery disease  
+- Chronic coronary disease  
+- Myocardial infarction (MI)  
+- Heart failure  
+- Cardiac arrest  
+- Cardiovascular disease (CVD)  
+- Cardiovascular outcomes  
+- Cardiovascular risk  
+- Cardiovascular screening  
+- Atherosclerosis  
+- Ischemic heart disease  
+- Angina  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Beta‑blocker therapy  
+- Medication adherence  
+- Health literacy  
+- Shared decision making  
+- Decision aids  
+- Framingham risk score  
+- Social determinants of cardiovascular disease  
+- Cardiovascular team‑based care  
+- Cardiovascular prevention (primary & secondary)  
+- Cardiac rehabilitation  
+- Cardiovascular health equity  
+- Community health workers in cardiovascular screening  
+- ENRICHD trial  
+- SWEDEHEART registry  
+- AHA/ACC/ACCP/ASPC/NLA/PCNA chronic coronary disease guideline  
+- ACC/AHA guideline on primary prevention of cardiovascular disease  
+- American Heart Association impact goal  
+- Cardiovascular risk assessment  
+
+These terms capture the core biomedical, clinical, and health‑systems concepts discussed in the provided guideline and related literature.
+
+Page 82 Extracted Terms:
+**Key terms related to heart disease**
+
+- Chronic coronary disease  
+- Myocardial infarction (MI)  
+- Acute myocardial infarction  
+- ST‑segment elevation myocardial infarction (STEMI)  
+- Coronary artery disease (CAD)  
+- Coronary ischemia / suspected coronary disease  
+- Coronary heart disease  
+- Cardiovascular disease (CVD)  
+- Cardiovascular complications  
+- Cardiovascular events  
+- Cardiovascular outcomes  
+- Cardiac rehabilitation  
+- Cardiac rehabilitation attendance / completion / access  
+- Cardiometabolic risk factors  
+- Blood pressure (hypertension)  
+- Dietary sodium and potassium intake/excretion  
+- Dietary fiber intake  
+- Saturated fat intake  
+- Trans fat intake  
+- Omega‑3 fatty acids (n‑3 fatty acids)  
+- Vitamin D supplementation  
+- Vitamin E supplementation  
+- Vitamin C & E supplementation (antioxidants)  
+- Calcium/vitamin D supplementation  
+- Multivitamin‑mineral supplementation  
+- Beta‑carotene supplementation  
+- Mediterranean‑style diet (primary & secondary prevention of CVD)  
+- DASH diet (Dietary Approaches to Stop Hypertension)  
+- Dietary fat intake (total, saturated, trans)  
+- Nutrient‑related risk of cardiovascular disease  
+- Dietary supplement use and cardiovascular risk  
+
+These terms represent the main diseases, interventions, and modifiable risk factors pertaining to heart disease as highlighted in the provided guideline excerpts.
+
+Page 83 Extracted Terms:
+- Chronic Coronary Disease  
+- Chronic Coronary Syndromes  
+- Chronic Stable Angina  
+- Coronary Artery Disease (CAD)  
+- Acute Coronary Syndrome (ACS)  
+- Acute Myocardial Infarction  
+- Myocardial Infarction  
+- Atherosclerotic Cardiovascular Disease  
+- Coronary Heart Disease  
+- Cardiovascular Disease  
+- Cardiovascular Risk  
+- Cardiovascular Outcomes  
+- Cardiovascular Health  
+- Cardio‑protective Diet  
+- Cardio‑vascular Outcomes  
+- Cardiovascular Mortality  
+- Cardiovascular Events  
+- Cardiometabolic Disease (as a risk factor)  
+- Coronary Microcirculation (in the context of coronary pathophysiology)
+
+Page 84 Extracted Terms:
+- Coronary heart disease  
+- Coronary artery disease  
+- Acute coronary syndrome  
+- Myocardial infarction (heart attack)  
+- Ischemic heart disease  
+- Atherosclerosis  
+- Cardiovascular disease  
+- Cardiovascular events  
+- Cardiovascular outcomes  
+- Cardiovascular risk  
+- Cardiac rehabilitation  
+- Hypertension  
+- Depression  
+- Anxiety  
+- Stress (psychological stress)  
+- Smoking / tobacco use  
+- Nicotine  
+- Electronic cigarettes (e‑cigarettes)  
+- Passive smoking (second‑hand smoke)  
+- Smoking cessation  
+- Life’s Simple 7 (cardiovascular metrics)
+
+Page 85 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+- Cardiovascular disease  
+- Coronary heart disease (CHD)  
+- Chronic coronary disease  
+- Myocardial infarction (MI) / acute myocardial infarction  
+- Ischemic heart disease  
+- Heart disease  
+- Coronary artery disease (CAD)  
+- Cardiovascular events  
+- Cardiovascular risk factors  
+- Cardiovascular outcomes  
+- Cardiovascular mortality  
+- Cardiovascular safety  
+- Cardiovascular toxicity  
+- Cardiovascular effects  
+- Arterial stiffness  
+- Oxidative stress  
+- Endothelial dysfunction  
+
+**Behaviours / exposures**
+
+- Tobacco smoking  
+- Cigarette smoking  
+- Second‑hand smoke (passive smoking)  
+- Electronic cigarettes (e‑cigarettes)  
+- Vaping / electronic nicotine‑delivery devices  
+- Use of smokeless tobacco (e.g., snus, snuff)  
+- Smoking cessation  
+- Nicotine replacement therapy (patch, gum, lozenge)  
+- Varenicline (partial nicotine agonist)  
+- Bupropion (nicotine replacement)  
+
+**Substance use**
+
+- Alcohol use / alcohol consumption  
+- High‑risk drinking  
+- Binge drinking  
+- Marijuana / cannabis / medical marijuana  
+- Cocaine  
+- Opioid use (including opioid‑associated out‑of‑hospital cardiac arrest)  
+
+**Clinical conditions / syndromes**
+
+- Acute coronary syndrome  
+- Myocardial infarction after alcohol binge  
+- Cardiovascular effects of cocaine  
+- Cardiovascular effects of opioid use  
+- Cardiovascular effects of marijuana  
+- Cardiovascular effects of electronic nicotine‑delivery  
+- Cardiovascular effects of second‑hand smoke  
+
+**Interventions / policies**
+
+- Tobacco cessation interventions  
+- Pharmacological smoking cessation therapies (nicotine patch, varenicline, bupropion)  
+- Behavioral support for smoking cessation  
+- Expert consensus decision pathways for tobacco cessation  
+- Cardiovascular safety of nicotine replacement in patients with CAD  
+
+**Study / evidence descriptors**
+
+- Systematic review  
+- Meta‑analysis  
+- Randomized controlled trial (RCT)  
+- Cohort study  
+- Prospective observational study  
+- Retrospective analysis  
+
+These terms capture the core concepts of heart (cardiovascular) disease, its risk factors, clinical manifestations, and related interventions as presented in the provided guideline text.
+
+Page 86 Extracted Terms:
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Coronary heart disease (CHD) / Coronary artery disease (CAD)  
+- Myocardial infarction (MI)  
+- Acute coronary syndrome (ACS)  
+- ST‑segment elevation myocardial infarction (STEMI)  
+- Non‑ST‑segment elevation myocardial infarction (NSTEMI)  
+- Cocaine‑associated myocardial infarction  
+- Coronary artery bypass grafting (CABG)  
+- Percutaneous transluminal angioplasty (PTCA)  
+- Lipid‑lowering therapy (statins, ezetimibe, PCSK9 inhibitors)  
+- Statin therapy  
+- PCSK9 inhibitor therapy (alirocumab, evolocumab)  
+- LDL‑cholesterol (LDL‑C) management  
+- Hypercholesterolemia / Familial hypercholesterolemia  
+- Lipid monitoring / lipid testing  
+- Secondary prevention of coronary disease  
+- Cardiovascular events (e.g., death, stroke, MI)  
+- Cardiac rehabilitation (CR)  
+- Sexual activity–related cardiovascular risk  
+- Erectile dysfunction (in cardiovascular patients)  
+- Hypertension (as a cardiovascular comorbidity)  
+- Platelet activation (in drug‑induced cardiac events)
+
+Page 87 Extracted Terms:
+- Chronic coronary disease  
+- Coronary artery disease  
+- Acute coronary syndrome  
+- Myocardial infarction  
+- Peripheral artery disease  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Familial hypercholesterolemia  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- High‑density lipoprotein cholesterol (HDL‑C)  
+- Hypertriglyceridemia  
+- Lipoprotein(a)  
+- Oxidized low‑density lipoprotein  
+- Cardiovascular risk reduction  
+- Statin therapy  
+- Statin intolerance  
+- Statin‑associated muscle symptoms (SAMS)  
+- PCSK9 inhibitors (evolocumab, alirocumab)  
+- Ezetimibe (not explicitly cited but related to LDL‑C lowering)  
+- Icosapent ethyl (EPA)  
+- Bempedoic acid  
+- Inclisiran  
+- Niacin (with or without laropiprant)  
+- B vitamins and omega‑3 fatty acids (cardiovascular effects)  
+- Blood‑pressure management (hypertension)  
+- Weight loss, sodium reduction, dietary patterns (DASH)  
+- Exercise training for blood‑pressure control  
+- Alcohol consumption reduction  
+- Lipid‑profiling methods (Friedewald formula, direct LDL measurement)  
+- ACC/AHA/ACC/ACCP/ASPC/NLA/PCNA guideline  
+- AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA guideline on cholesterol  
+- ACC/AHA hypertension guideline  
+- National Lipid Association expert panel on familial hypercholesterolemia  
+- FDA‑approved lipid‑lowering drugs  
+
+*(All terms are directly related to heart‑disease pathology, prevention, diagnosis, or treatment as referenced in the cited guidelines and trials.)*
+
+Page 88 Extracted Terms:
+- Chronic Coronary Disease  
+- AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+- DASH (Dietary Approaches to Stop Hypertension) diet / DASH eating plan  
+- Blood pressure (high, systolic, diastolic)  
+- Intensive blood‑pressure control  
+- SPRINT trial (Subpopulation)  
+- Perindopril (ACE inhibitor)  
+- Ramipril (ACE inhibitor)  
+- Angiotensin‑converting‑enzyme inhibitor  
+- Angina (stable angina)  
+- Coronary artery disease (CAD)  
+- Myocardial infarction (MI)  
+- Acute myocardial infarction  
+- Beta‑blocker / β‑adrenergic antagonist (metoprolol, atenolol, isoproterenol)  
+- Beta‑blockade after myocardial infarction  
+- Hypertension (arterial hypertension)  
+- Primary and secondary prevention of cardiovascular disease  
+- Atherosclerotic vascular disease  
+- Stable ischemic heart disease (SIHD)  
+- Cardiac events (coronary events)  
+- Cardiovascular outcomes / cardiovascular morbidity / mortality  
+- Cardiac outcomes in diabetes (type 2)  
+- High cardiovascular risk  
+- Sodium intake / low‑sodium diet  
+- Heart failure (HF)  
+- Sodium‑glucose cotransporter‑2 (SGLT2) inhibitors (empagliflozin, canagliflozin, dapagliflozin, ertugliflozin)  
+- Glucagon‑like peptide‑1 (GLP‑1) receptor agonists (liraglutide)  
+- EMPA‑REG OUTCOME trial  
+- CANVAS Program (canagliflozin)  
+- DAPA‑HF (dapagliflozin)  
+- CVD‑REAL Study  
+- Lifestyle interventions for blood‑pressure control (aerobic exercise, isometric training, potassium supplementation)  
+- Meta‑analysis of randomised controlled trials concerning cardiovascular risk  
+- 2017 ACC/AHA/HF guideline for systolic blood‑pressure management in hypertension  
+- 2013 ESH/ESC guideline for arterial hypertension  
+- 2014 ACC/AHA/SCAI/STS guideline for stable ischemic heart disease  
+- 2015 ACCF/AHA/HF statement on hypertension in patients with coronary artery disease  
+- 2016 NHLBI guidance on DASH eating plan  
+- Sodium‑glucose cotransporter‑2 inhibitor benefits in heart failure and mortality  
+- GLP‑1 receptor agonist cardiovascular outcome trials  
+- Hypertension management in elderly/elderly consensus documents  
+- Isometric exercise training for blood‑pressure management  
+- Dietary sodium reduction trials (e.g., 2001 N Engl J Med study)  
+- Blood‑pressure lowering drugs (β‑blockers, ACE inhibitors, calcium antagonists, diuretics)  
+- Cardiovascular mortality and vascular mortality risk with blood pressure changes.
+
+Page 89 Extracted Terms:
+Heart Failure  
+Heart Failure with Reduced Ejection Fraction  
+Heart Failure with Preserved Ejection Fraction  
+Heart Failure with Mildly Reduced Ejection Fraction  
+Reduced Ejection Fraction  
+Preserved Ejection Fraction  
+Acute Coronary Syndrome  
+Myocardial Infarction  
+Reperfusion Injury  
+Cardiovascular Outcomes  
+Cardiovascular Events  
+Cardiovascular Death  
+Mortality  
+Chronic Coronary Disease  
+Ejection Fraction  
+
+Page 90 Extracted Terms:
+Chronic Coronary Disease; Coronary Heart Disease; Cardiovascular Disease; Myocardial Infarction; Heart Failure; Atherosclerosis; Coronary Artery Disease; Coronary Stenosis; Cardiovascular Outcomes; Major Adverse Cardiovascular Events; Metabolic Syndrome; Obesity; Central Obesity; Waist Circumference; Body Mass Index; Type 2 Diabetes; Metabolic Surgery; Bariatric Surgery; Liposuction; Cardiac Rehabilitation; Exercise‑Based Rehabilitation; High‑Intensity Interval Training; Cardiac Allograft Vasculopathy; Atrial Fibrillation; Coronary Calcium Score; Coronary Angiography; Cardiac CT; Cardiovascular Risk Factors; Cardiovascular Mortality; Cardiovascular Morbidity; Coronary Lesion; Coronary Disease Management; Cardiac Exercise Capacity; Cardiovascular Exercise Tolerance; Cardiovascular Risk Assessment; Cardiovascular Disease Prevention; Coronary Heart Disease Prevention.
+
+Page 91 Extracted Terms:
+- Cardiac Rehabilitation  
+- Heart Failure  
+- Coronary Artery Disease  
+- Myocardial Infarction  
+- Stable Angina  
+- Spontaneous Coronary Artery Dissection  
+- Heart Transplant  
+- Cardiac Allograft Vasculopathy  
+- Cardiovascular Disease  
+- High‑Intensity Interval Training (HIT)  
+- Resistance Training  
+- Exercise‑Based Therapy  
+- Telehealth Interventions  
+- Physical Activity  
+- Medication Adherence  
+- Cardiovascular Risk Factors  
+- Blood Pressure  
+- Mortality  
+- Long‑Term Survival  
+- Readmissions  
+- Health Service Expenditures  
+- Cost‑Effectiveness  
+- Secondary Prevention  
+- Risk‑Factor Control  
+- Exercise Training  
+- Percutaneous Coronary Angioplasty  
+- Population‑Based Study  
+- Randomized Controlled Trial  
+- Systematic Review  
+- Meta‑Analysis  
+- Clinical Guidelines  
+- AHA/ACC/ACC/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+- 2022 AHA/ACC/HFSA Guideline for Heart Failure Management  
+
+(Note: Each term is a key concept related to heart disease extracted from the provided text.)
+
+Page 92 Extracted Terms:
+- Coronary artery disease  
+- Coronary heart disease  
+- Myocardial infarction  
+- Stroke (ischemic)  
+- Heart failure with reduced ejection fraction  
+- Cardiovascular disease  
+- Cardiac rehabilitation  
+- Antiplatelet therapy  
+- Aspirin  
+- Dual antiplatelet therapy  
+- Drug‑eluting stent  
+- High‑intensity interval training  
+- Moderate‑intensity continuous training  
+- Physical activity  
+- Sedentary behaviour  
+- Resistance training  
+- Environmental exposures (air pollution, PM₂.₅, noise, heat‑waves)  
+- Urban heat island  
+- Ambient particulate matter exposure  
+- Heat‑related hospitalisation  
+- Cardiometabolic health  
+- Exercise‑related acute cardiovascular events  
+- Mortality risk  
+- Cardiovascular morbidity and mortality statistics  
+
+Page 93 Extracted Terms:
+- Coronary artery disease  
+- Chronic coronary disease  
+- Acute coronary syndrome  
+- Myocardial infarction  
+- Heart failure  
+- Left ventricular dysfunction  
+- Atrial fibrillation  
+- Percutaneous coronary intervention (PCI)  
+- Stent thrombosis  
+- Coronary artery bypass graft surgery  
+- Dual antiplatelet therapy (DAPT)  
+- Aspirin  
+- Clopidogrel  
+- Ticagrelor  
+- Prasugrel  
+- Thienopyridine  
+- Antithrombotic therapy  
+- Anticoagulant therapy  
+- Rivaroxaban  
+- Dabigatran  
+- Apixaban  
+- Direct oral anticoagulants (DOACs)  
+- Proton pump inhibitors (PPIs)  
+- Atherothrombotic events  
+- Vascular events  
+- Bleeding events  
+- Ischemic heart disease  
+- Cardiovascular disease (CVD)  
+- National Heart Association/American College of Cardiology guidelines (e.g., ACC/AHA)  
+- Network meta‑analysis  
+- Randomized controlled trial (RCT)  
+
+
+
+Page 94 Extracted Terms:
+- Myocardial infarction  
+- Acute myocardial infarction  
+- Coronary artery disease  
+- Chronic coronary disease  
+- Chronic coronary syndromes  
+- Atrial fibrillation  
+- Stable angina  
+- Percutaneous coronary intervention (PCI)  
+- Drug‑eluting stent  
+- Dual antiplatelet therapy (DAPT)  
+- Antiplatelet therapy  
+- Ticagrelor  
+- Aspirin  
+- Clopidogrel  
+- Warfarin  
+- Rivaroxaban  
+- Dabigatran  
+- Oral anticoagulation  
+- Beta‑blocker therapy  
+- Carvedilol  
+- Metoprolol  
+- Bisoprolol  
+- Bu­cindolol  
+- Heart failure  
+- Ischemic heart disease  
+- Left‑ventricular dysfunction  
+- Left‑ventricular ejection fraction  
+- Ventricular systolic dysfunction  
+- Ventricular enlargement  
+- Chronic heart failure
+
+Page 95 Extracted Terms:
+- Heart failure  
+- Coronary artery disease  
+- Myocardial infarction  
+- Stable angina  
+- Stable ischemic heart disease  
+- Left ventricular dysfunction  
+- Left ventricular ejection fraction (reduced & preserved)  
+- Ventricular arrhythmias  
+- Atrial fibrillation  
+- Sudden cardiac death  
+- Renin–angiotensin–aldosterone system (RAAS) inhibitors  
+- Angiotensin‑converting enzyme (ACE) inhibitors  
+- Angiotensin receptor blockers (ARBs)  
+- Beta blockers (β‑blockers)  
+- β‑adrenergic blockade  
+- Antihypertensive agents  
+- Perindopril  
+- Enalapril  
+- Ramipril  
+- Captopril  
+- Trandolapril  
+- Quinapril  
+- Telmisartan  
+- Carvedilol  
+- Nebivolol  
+- Colchicine  
+- Low‑dose colchicine therapy  
+- Inflammation  
+- Atherosclerosis  
+- Cardiovascular events  
+- Mortality  
+- Morbidity  
+- Secondary prevention of cardiovascular disease  
+- Microvascular outcomes  
+- Macrovascular outcomes  
+- Chronic stable coronary disease  
+- Prevention of events with ACE inhibition (PEACE)  
+- Heart Outcomes Evaluation Prevention (HOPE‑3)  
+- CIBIS‑II (Cardiac Insufficiency Bisoprolol Study)  
+- MERIT‑HF (Metoprolol in Patients with Heart Failure)  
+- BEST (Beta‑Blocker Evaluation of Survival Trial)  
+- COPERNICUS (Captopril in Patients with Left Ventricular Dysfunction)  
+
+
+
+Page 96 Extracted Terms:
+- Acute myocardial infarction  
+- Chronic coronary disease  
+- Cardiovascular disease (general)  
+- Heart failure  
+- Stable angina pectoris  
+- Refractory angina  
+- Coronary artery disease  
+- Ischemic heart disease  
+- Coronary revascularization  
+- Enhanced external counterpulsation (EECP)  
+- Transmyocardial laser revascularization  
+- Percutaneous laser myocardial revascularization  
+- Myocarditis  
+- Influenza vaccination  
+- Pneumococcal vaccination  
+- COVID‑19 vaccination  
+- mRNA‑based COVID‑19 vaccination  
+- Anti‑anginal drugs  
+- Beta‑blockers  
+- Calcium channel blockers  
+- Nitrates  
+- Ivabradine  
+- Ranolazine  
+- Metoprolol  
+- Nifedipine  
+- Diltiazem  
+- Atenolol  
+- Amlodipine  
+- Colchicine  
+- Colchicine–cardiovascular medication drug‑drug interactions  
+- 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+- 2021 ESC guidelines on cardiovascular disease prevention  
+- 2012 ACCF/AHA/ACP/AATS/PCNA/SCAI/STS guideline for stable ischemic heart disease  
+- 2021 ACC/AHA/SCAI guideline for coronary artery revascularization  
+- International Multicenter Angina Exercise (IMAGE) Study  
+- Multifocal enhanced external counterpulsation study (MUST‑EECP)  
+- Efficacy and safety of low‑dose colchicine after myocardial infarction  
+
+
+
+Page 97 Extracted Terms:
+**Key Heart Disease–Related Terms**
+
+- Chronic Coronary Disease  
+- Stable Ischemic Heart Disease  
+- Coronary Artery Disease (CAD)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Percutaneous Coronary Intervention (PCI)  
+- Fractional Flow Reserve (FFR)  
+- Instantaneous Wave‑Free Ratio (iFR)  
+- Revascularization  
+- Heart Team  
+- Left‐Main Coronary Artery Disease  
+- Ischemic Cardiomyopathy  
+- Myocardial Infarction  
+- Left Ventricular Dysfunction  
+- Coronary Artery Bypass Surgery (CABG)  
+- Drug‑Eluting Stents (e.g., Everolimus‑eluting)  
+- Coronary Angiography  
+- Coronary Artery Disease Management  
+- Coronary Artery Disease Treatment Trials (ISCHEMIA, COURAGE, STICH, FAME, etc.)  
+- Coronary Artery Bypass Graft Survival  
+- Coronary Disease Quality‑of‑Life Outcomes  
+- Coronary Disease Cost‑Effectiveness  
+- Coronary Disease Evidence‑Based Guidelines (ACC/AHA/ACC, etc.)  
+- Coronary Disease Meta‑analysis  
+- Coronary Disease Clinical Outcomes  
+- Coronary Disease Revascularization Decision Making  
+- Coronary Disease Complex Stenoses  
+- Coronary Disease Multivessel Disease  
+- Coronary Disease Diabetes Mellitus Impact  
+- Coronary Disease Stable Patients  
+- Coronary Disease Invasive vs. Conservative Strategy  
+- Coronary Disease Percutaneous vs. Surgical Outcomes  
+- Coronary Disease Adverse Events (AMI, death, survival)  
+
+These terms capture the core concepts, interventions, and outcomes discussed in the cited clinical statements and guidelines.
+
+Page 98 Extracted Terms:
+- Stable coronary disease  
+- Invasive management  
+- Conservative management  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Fractional flow reserve (FFR)  
+- Instantaneous wave‑free ratio (iFR)  
+- Left‑main coronary artery disease  
+- Unprotected left‑main stenosis  
+- Bifurcation lesion  
+- Drug‑eluting stents (DES)  
+- Paclitaxel‑eluting stents  
+- Everolimus‑eluting stents  
+- Intravascular ultrasound (IVUS) guidance  
+- Ischemic left ventricular dysfunction  
+- Ischemia severity  
+- Cardiovascular death  
+- Non‑cardiovascular death  
+- Symptomatic coronary artery disease  
+- Three‑vessel disease  
+- Severe coronary artery disease  
+- Multivessel revascularization  
+- Diabetes mellitus (in the context of coronary disease)  
+- Patient‑reported pre‑procedural physical and mental health  
+- Cost‑effectiveness analysis  
+- Meta‑analysis of randomized trials  
+- SYNTAX trial  
+- NOBLE trial  
+- PRECOMBAT trial  
+- DKCRUSH‑V trial  
+- DKCRUSH‑III study  
+- DEFER study  
+- FREEDOM study  
+- Optim‑um registry (surgically ineligible patients)  
+- Clinical outcomes  
+- Long‑term survival  
+- 10‑year follow‑up  
+- 5‑year follow‑up  
+- Prospective randomized open‑label study  
+- Pooled individual patient data  
+- Ranges of coronary artery disease severity  
+- Clinical trial endpoints (mortality, morbidity, revascularization)  
+- Revascularization strategies  
+
+These terms capture the key concepts and clinical entities related to heart disease discussed in the provided guideline references.
+
+Page 99 Extracted Terms:
+- Chronic Coronary Disease  
+- AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+- Coronary Revascularization  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Left Main Coronary Artery Disease  
+- Spontaneous Coronary Artery Dissection (SCAD)  
+- 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization  
+- Coronary Intervention vs. Bypass Grafting outcomes  
+- Med-Oriented and Surgery strategies for Multivessel Coronary Artery Disease (MASS II)  
+- Dual Antiplatelet Therapy (DAPT) duration after PCI  
+- Beta‑blockers and Antiplatelet agents in SCAD  
+- Ischemia with Non‑Obstructive Coronary Arteries (INOCA)  
+- Microvascular Angina  
+- Vasospastic Angina  
+- Invasive Coronary Function Testing (CorMicA trial)  
+- Non‑Obstructive Coronary Artery Disease (NOCAD)  
+- Coronary Angiography  
+- Coronary Angioplasty (Percutaneous Coronary Angioplasty)  
+- ST‑Segment Elevation Myocardial Infarction (STEMI)  
+- Congestive Heart Failure (CHF)  
+- Heart Failure with Preserved Ejection Fraction (HFpEF)  
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for Chest Pain Evaluation  
+- International Standardization of Diagnostic Criteria for Microvascular Angina  
+- International Standardization of Diagnostic Criteria for Vasospastic Angina  
+- Cardiac Rehabilitation after SCAD  
+- Cardiac Rehabilitation after MI or angina  
+- Fibromuscular Dysplasia (associated with SCAD)  
+- Cervical Artery Abnormalities (fibromuscular dysplasia, dissection, aneurysm, tortuosity)  
+- Pregnancy‑associated SCAD  
+- Coronary Artery Tortuosity  
+- Coronary Artery Aneurysm  
+- Coronary Artery Dissection recurrence prevention.
+
+Page 100 Extracted Terms:
+- Chronic Coronary Disease  
+- Heart Failure  
+- Coronary Artery Disease (CAD)  
+- Myocardial Infarction (MI)  
+- Aortic Stenosis  
+- Valvular Heart Disease (VHD)  
+- Coronary Artery Revascularization  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Artery Anomalies / Coronary Artery Abnormalities  
+- Familial Hypercholesterolemia  
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Kawasaki Disease (congenital coronary involvement)  
+- Inflammatory Arthritis (cardiovascular events)  
+- Inflammatory Bowel Disease (acute coronary syndrome risk)  
+- Cardio‑Oncology (cardiovascular effects of cancer therapies)  
+- Radiation‑Induced Cardiovascular Disease  
+- Vascular Toxicities of Cancer Treatments  
+- Cancer‑Associated Cardiovascular Risk  
+- Cardiovascular Risk Factors (hypertension, dyslipidemia, smoking, etc.)  
+- Statin Therapy  
+- Aspirin Therapy  
+- Anticoagulation (for VTE prophylaxis in cancer)  
+- Pregnancy in Women with Ischemic Heart Disease  
+- Post‑pregnancy Cardiovascular Management  
+- Postmenopausal Hormone Therapy and Cardiovascular Outcomes  
+- Venous Thromboembolism (VTE) Prophylaxis in Cancer Patients  
+- Contraception and Reproductive Planning in Women with Cardiovascular Disease  
+- Cardiac Rehabilitation (including cardio‑oncology rehabilitation)  
+- Endothelial Dysfunction  
+- Ischemic Heart Disease (IHD)  
+- Left Ventricular Ejection Fraction (reduced vs preserved)  
+- Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- Heart Failure with Preserved Ejection Fraction (HFpEF)  
+- Atrial Fibrillation (AF)  
+- Atherosclerosis  
+- Multi‑vessel Coronary Disease  
+- Coronary Angiography  
+- Coronary Angioplasty  
+- Cardiogenic Shock  
+- Revascularization Guidelines (ACC/AHA/SCAI)  
+- Chronic Coronary Syndromes (CCS)  
+- Acute Coronary Syndromes (ACS)  
+- Long‑term CVD Outcomes (mortality, morbidity)  
+- Risk‑Factor Modifications (diet, exercise, smoking cessation)  
+
+These terms capture the main heart‑disease concepts referenced in the provided guideline excerpt.
+
+Page 101 Extracted Terms:
+- Cardiovascular disease  
+- Coronary heart disease  
+- Coronary artery disease (CAD)  
+- Atherosclerosis  
+- Angina pectoris  
+- Myocardial infarction (MI)  
+- Coronary artery bypass grafting (CABG)  
+- Percutaneous coronary intervention (PCI)  
+- Left‑main coronary artery disease  
+- Multivessel coronary disease  
+- Chronic coronary disease  
+- Ischemic heart disease  
+- Hypercholesterolemia  
+- Familial hypercholesterolemia  
+- Lipid‑lowering therapy  
+- Statin therapy  
+- Beta‑blocker therapy  
+- Antithrombotic/anticoagulant therapy  
+- Thromboembolism / thrombosis  
+- Hemostatic alterations  
+- Cardiac surgery (including CABG, PCI, coronary angiography)  
+- Revascularization strategies  
+- Renal injury after cardiac surgery  
+- Quality of life in cardiac patients  
+- Medication adherence/ compliance in cardiac disease  
+
+(These are the principal terms related to heart disease that appear in the cited guidelines and studies.)
+
+Page 102 Extracted Terms:
+- Drug‑eluting stents  
+- Coronary artery disease (CAD)  
+- Percutaneous coronary intervention (PCI)  
+- Dual antiplatelet therapy (DAPT)  
+- Triple therapy (warfarin + aspirin + clopidogrel/ticagrelor)  
+- Transradial coronary intervention  
+- Coronary artery bypass grafting (CABG)  
+- Minimally invasive direct coronary artery bypass  
+- Bypass grafting with internal mammary arteries  
+- Frailty (predictor of outcomes in CAD)  
+- Sarcopenia (predicts adverse outcomes in CAD)  
+- Malnutrition / nutritional index (predicts mortality post‑PCI)  
+- Contrast‑induced acute kidney injury (CI-AKI)  
+- Chronic kidney disease (CKD)  
+- Contrast‑associated acute kidney injury (CA-AKI)  
+- Coronary calcification in CKD  
+- Atherosclerosis & vascular calcification (in CKD)  
+- Statin therapy in CKD patients  
+- Antiplatelet therapy in CKD patients  
+- AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+- ACC/AHA/SCAI guideline for coronary artery revascularization  
+- ISCHEMIA‑CKD study (invasive vs medical treatment for CKD)  
+- Renal dysfunction & cardiovascular outcomes after myocardial infarction  
+- Kidney disease as a risk factor for cardiovascular disease  
+- Geriatric 5Ms (optimizing care in elderly cardiac patients)  
+- Exercise‑based cardiac telerehabilitation  
+- Home‑based mobile cardiac rehabilitation  
+- SYNTAX score (age‑dependent impact on mortality post‑PCI)  
+- Contrast‑induced nephropathy risk score (Mehran score)  
+- Functional status measures in elderly cardiac patients  
+- Long‑term outcomes after PCI vs CABG in octogenarians  
+- Outcomes of percutaneous transluminal coronary angioplasty in chronic renal failure  
+- Kidney disease management guidelines (NEOERICA, etc.)
+
+Page 103 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- Myocardial infarction (MI) / Myocardial infarct  
+- Coronary artery disease (CAD) / Chronic coronary disease  
+- Coronary artery bypass grafting (CABG) / Coronary artery bypass graft (CABG)  
+- Percutaneous coronary intervention (PCI) / Angioplasty  
+- Revascularization  
+- Acute coronary syndrome (ACS)  
+- ST‑segment elevation myocardial infarction (STEMI)  
+- Cardiac catheterization / Coronary angiography  
+- Contrast‑induced nephropathy (CIN) – peri‑procedural renal injury related to cardiac procedures  
+- Acute kidney injury (AKI) after coronary procedures  
+- Cardiovascular disease (CVD) / Cardiovascular complications  
+- Cardiovascular events / Cardiovascular risk  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Heart disease / Heart‑disease statistics  
+- Dyslipidemia / Hyperlipidemia / Hypertriglyceridemia / Blood cholesterol  
+- Statin therapy / Lipid‑lowering therapy  
+- Cholesterol management / Blood‑cholesterol guideline  
+- HIV‑associated cardiovascular disease risks (e.g., abacavir, protease inhibitors, ritonavir, dolutegravir)  
+- Coronary plaque formation / Coronary plaque stabilization  
+- Coronary artery disease management in advanced kidney disease  
+- Radial access vs. femoral access (transradial vs. transfemoral approach)  
+- Post‑procedural complications of coronary interventions  
+- Cardiovascular risk management in autoimmune disorders (rheumatoid arthritis, psoriasis, etc.)  
+
+These terms capture the central heart‑disease concepts discussed across the cited guidelines and studies.
+
+Page 104 Extracted Terms:
+**Heart‑disease related terms identified in the text**
+
+1. Chronic Coronary Disease  
+2. Cardiac allograft vasculopathy  
+3. Heart transplantation / heart transplant recipients  
+4. Coronary artery disease (stable & acute)  
+5. Percutaneous coronary intervention (PCI)  
+6. Coronary artery bypass grafting (CABG)  
+7. Statin therapy (e.g., simvastatin, pravastatin, atorvastatin)  
+8. Aspirin use in transplant patients  
+9. Everolimus‑eluting stents  
+10. Sirolimus (rapamycin) therapy  
+11. Paclitaxel‑eluting stents  
+12. Calcineurin inhibitor elimination (e.g., cyclosporine, tacrolimus)  
+13. High‑intensity interval training (exercise)  
+14. Body‑mass‑index effects on transplant outcomes  
+15. Intravascular ultrasound (IVUS) for graft assessment  
+16. Coronary physiology assessment (e.g., fractional flow reserve)  
+17. Coronary risk‑factor management  
+18. Myocardial infarction (MI)  
+19. Anginal symptoms / angina  
+20. Myocardial ischemia  
+21. Coronary heart disease (CHD)  
+22. Secondary prevention of cardiovascular disease  
+23. Depression in cardiac patients  
+24. Telephone‑delivered health coaching  
+25. Tele‑health interventions for acute coronary syndrome (ACS)  
+26. Lifestyle‑focused interventions (diet, exercise, weight management)  
+27. Text‑messaging adherence programs for CHD  
+28. Clinical guidelines for chronic coronary disease (AHA/ACC/ACCP/ASPC/NLA/PCNA)  
+29. ACC/AHA/SCAI guidelines for coronary artery revascularization  
+30. International Society of Heart & Lung Transplantation (ISHLT) guidelines  
+31. ESC Heart Failure guidelines (for heart transplant recipients)  
+32. ESC Heart Failure outcomes reporting  
+33. Cardiovascular drug‑drug interaction recommendations (statins)  
+
+These terms encompass diseases, interventions, pharmacotherapies, procedural techniques, lifestyle strategies, and guideline references that are central to the clinical management of heart disease as presented in the material.
+
+Page 105 Extracted Terms:
+- Chronic Coronary Disease  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Angiography  
+- Coronary Artery Disease  
+- Myocardial Infarction  
+- Chronic Stable Angina  
+- Coronary Heart Disease  
+- Drug‑Eluting Stents  
+- Revascularisation  
+- Chronic Coronary Syndrome  
+- Ischaemia  
+- Heart Failure  
+- Atherosclerotic Cardiovascular Disease  
+- PCSK9 Inhibitors  
+- Sacubitril‑Valsartan  
+- Coronary Disease Secondary Prevention  
+- Coronary Risk‑Factor Management  
+- Coronary Imaging Follow‑up
+
+(Note: Terms are extracted only as relevant to heart disease concepts.)
+
+Page 106 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- Chronic Coronary Disease  
+- Cardiovascular  
+- Cardiovascular Disease Prevention  
+- Cardiovascular Fellowship Program  
+- Cardiologist  
+- Cardiology  
+- Heart  
+- Heart Institute  
+- Heart Health  
+- Heart Health & Performance Program  
+- Coronary  
+- Lipid  
+- Atherosclerosis  
+- Cardiac  
+- Clinical Guidelines  
+- AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline  
+- Journal of the American College of Cardiology (JACC)  
+- European Heart Journal – Acute Cardiovascular Care  
+- Current Atherosclerosis Reports  
+- Current Cardiology Reports  
+- American Heart Journal  
+- Journal of Clinical Lipidology  
+- World Heart Federation (WHF)  
+- National Heart, Lung, and Blood Institute (NHLBI)  
+
+These terms capture the primary disease concepts, specialty fields, and major publishing/committee entities related to heart disease that appear in the provided guideline document.
+
+Page 107 Extracted Terms:
+- Chronic Coronary Disease Guideline  
+- Cardiology  
+- Cardiac  
+- Coronary  
+- Cardiovascular  
+- AHA (American Heart Association)  
+- ACC (American College of Cardiology)  
+- ACCP (American College of Clinical Pharmacology)  
+- ASPC (American Society of Parenteral and Enteral Nutrition)  
+- NLA (National Lipid Association)  
+- PCNA (Primary Care Cardiovascular Nursing Association)  
+- CDC (Centers for Disease Control and Prevention)  
+- NIH (National Institutes of Health)  
+- Circulation  
+- Circulation: Cardiovascular Interventions  
+- Circulation: Cardiovascular Quality and Outcomes  
+- Journal of Cardiovascular Pharmacology  
+- Journal of Clinical Lipidology  
+- International Journal of Cardiology  
+- JACC (Journal of the American College of Cardiology)  
+- HeartFlow  
+- Abbott  
+- Boston Scientific  
+- Edwards Lifesciences  
+- Medtronic  
+- Siemens  
+- CathWorks  
+- Neovasc Medical Inc.  
+- Cardiac Critical Care  
+- HeartHealth (Women‑Heart)  
+- American Journal of Preventive Cardiology  
+
+Page 108 Extracted Terms:
+- Chronic Coronary Disease  
+- Arrhythmia  
+- Acute coronary syndrome (referenced as “Acute SOP/CP”)  
+- Cardiovascular disease  
+- Cardiology  
+- Heartflow  
+- Heart disease  
+- National Forum for Heart Disease & Stroke Prevention (heart‑related focus)
+
+Page 109 Extracted Terms:
+- Chronic Coronary Disease  
+- Heart Disease  
+- Cardiovascular Medicine  
+- Cardiovascular Division  
+- Cardiology  
+- Preventive Cardiology  
+- Noninvasive Cardiac Imaging  
+- Cardiac Magnetic Resonance (MRI)  
+- Cardiac Computed Tomography (CT)  
+- Cardiac Stress Laboratory  
+- AHA (American Heart Association)  
+- ACC (American College of Cardiology)  
+- ASPC (American Society for Preventive Cardiology)  
+- NLA (National Lipid Association)  
+- PCNA (Prevention of Cardiovascular Disease Network)  
+- Circulation (journal)  
+- AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline 2023  
+- Cardiac Magnetic Resonance Imaging (CMR)  
+- Cardiovascular Magnetic Resonance  
+- Cardiovascular Computed Tomography  
+- Cardiac imaging  
+- Cardiac imaging technology  
+- Cardiac magnetic resonance imaging equipment  
+- Cardiac computed tomography equipment  
+- Cardiac stress testing  
+- Cardiology editorial work / guidelines  
+- Cardiovascular research  
+- Cardiovascular clinical trials  
+- Heart disease prevention  
+- Cardiovascular risk assessment  
+
+
+
+Page 110 Extracted Terms:
+Chronic Coronary Disease  
+Cardiology  
+Cardiac  
+Coronary  
+Cardiovascular  
+Heart  
+Cardiac catheterization  
+Angiography  
+Interventions  
+Cardiovascular drugs  
+Heart disease  
+Cardiac disease  
+Coronary artery disease  
+Prevention of cardiovascular disease  
+AHA (American Heart Association)  
+ACC (American College of Cardiology)  
+NHLBI (National Heart, Lung, and Blood Institute)  
+ESC (European Society of Cardiology)  
+SCAI (Society for Cardiovascular Angiography and Interventions)  
+WHF (World Heart Federation)  
+PCNA (Preventive Cardiovascular Nurses Association)  
+ASPC (American Society of Preventive Cardiology)  
+ACCF (American College of Cardiology Foundation)  
+ACCP (American College of Clinical Pharmacy)  
+ASNC (American Society of Nuclear Cardiology)  
+JACC (Journal of the American College of Cardiology)
+
+Page 111 Extracted Terms:
+- Chronic Coronary Disease  
+- Heart disease  
+- Coronary disease  
+- Cardiovascular disease  
+- Myocardial infarction  
+- Thrombolysis in myocardial infarction (TIMI)  
+- Lipid disorders  
+- Family Heart  
+- American Heart Association (AHA)  
+- American College of Cardiology (ACC)  
+- American College of Clinical Pharmacy (ACCP)  
+- American Society of Preventive Cardiology (ASPC)  
+- National Lipid Association (NLA)  
+- Preventive Cardiovascular Nurses Association (PCNA)  
+- Society of Thoracic Surgery (STS)  
+- National Heart, Lung, and Blood Institute (NHLBI)
+

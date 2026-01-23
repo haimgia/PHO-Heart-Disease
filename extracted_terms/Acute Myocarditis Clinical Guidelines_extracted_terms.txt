@@ -1,0 +1,520 @@
+Page 1 Extracted Terms:
+- Myocarditis  
+- Acute myocarditis  
+- Cardioimmunology  
+- Heart failure (moderate to severe, acute)  
+- Myocardial infarction  
+- Normal coronary arteries  
+- Arrhythmias (including premature ventricular complexes)  
+- Premature ventricular complexes (PVCs)  
+- Arrhythmia monitoring  
+- Cardiac damage  
+- Cardiac imaging  
+- Cardiovascular medicine  
+- Heart failure treatment and recovery  
+- Genetic testing (in myocarditis)  
+- Histologic diagnosis (in myocarditis)
+
+Page 2 Extracted Terms:
+- Myocarditis  
+- Inflammatory disease of the heart  
+- Immune‑mediated inflammatory reaction  
+- Endomyocardial biopsy (EMB)  
+- Cardiac magnetic resonance (CMR) imaging  
+- Scar formation  
+- Malignant arrhythmias  
+- Cardiac dysfunction  
+- Chronic inflammatory cardiomyopathy  
+- Left ventricle (LV) dysfunction  
+- Immune polarization  
+- Pathogenic/likely pathogenic (P/LP) variants  
+- Desmosomal genes  
+- Dilated cardiomyopathy genes  
+- Immune tolerance  
+- Immunophenotyping  
+- Immunological tolerance  
+- Late gadolinium enhancement (LGE)  
+- Dilated cardiomyopathy (DCM)  
+- Desmoplakin (DSP)  
+- Human leukocyte antigen (HLA)  
+- Interleukin (IL)  
+- Major histocompatibility complex (MHC)  
+- Mus musculus microRNA (Mmu‑miR)  
+- Myosin heavy chain 6 (MYH6)  
+- Plakophilin‑2 (PKP2)  
+- Premature ventricular complexes (PVC)  
+- T‑helper lymphocyte (Th)  
+- Cardiac troponin I (TNNI3)  
+- Tumor necrosis factor (TNF)  
+- Ventricular arrhythmias (VA)
+
+Page 3 Extracted Terms:
+**Heart disease–related terms extracted from the text**
+
+- Myocarditis  
+- Acute myocarditis  
+- Chronic myocarditis  
+- Definite myocarditis  
+- Fulminant myocarditis  
+- Nonfulminant myocarditis  
+- Chest pain  
+- Dyspnea  
+- Heart failure  
+- Syncope  
+- Arrhythmia (general)  
+- Ventricular arrhythmias (VAs)  
+- Premature ventricular contractions (PVCs)  
+- Myocardial infarction with normal coronary arteries  
+- Cardiac magnetic resonance imaging (CMR)  
+- Fluorodeoxyglucose positron emission tomography (FDG‑PET)  
+- Non‑ischemic cardiomyopathy  
+- Ventricular arrhythmia (VA) ablation  
+- Third‑degree atrioventricular (AV) block  
+- Sarcoidosis (cardiac form)  
+- Giant‑cell myocarditis  
+- Lyme carditis  
+- Endomyocardial biopsy (EMB)  
+- Immunosuppressive therapy (e.g., for sarcoidosis, eosinophilic, giant‑cell myocarditis)  
+- Immune checkpoint inhibitors (treatment implications)  
+- Antibiotics (for Lyme carditis)  
+- Genetic screening  
+- Genetic counseling  
+- Cascade screening  
+- Histopathologic criteria (Dallas criteria)  
+- Clinicopathologic criteria (Lieberman criteria)  
+- Inflammatory infiltrate classification  
+- Cardiac viral infiltrate (viral‑positive / viral‑negative)  
+- Viral tropism  
+- Duration of symptoms (acute vs chronic)  
+- Severity of presentation (fulminant vs nonfulminant)  
+- Extracellular volume (ECV)  
+- Ribonucleic acid (RNA)  
+- Cardiovascular diagnostic tests (e.g., CMR before device implantation)  
+- Competitive sports restriction  
+
+This list captures the key heart‑disease concepts, conditions, diagnostics, treatments, and classification terms mentioned in the excerpt.
+
+Page 4 Extracted Terms:
+- Myocarditis  
+- Probable myocarditis  
+- Definite myocarditis  
+- Unexplored myocarditis  
+- Fulminant myocarditis  
+- Cardiogenic shock  
+- Endomyocardial biopsy (EMB)  
+- Cardiac magnetic resonance imaging (CMR)  
+- Myocardial infarction with nonobstructive coronary arteries (MINOCA)  
+- Nonischemic cardiomyopathy (NICMP)  
+- Premature ventricular complexes (PVC)  
+- Ventricular tachycardia (VT)  
+- Heart failure  
+- Cardiac imaging  
+- Electrophysiology  
+- Interventional cardiology
+
+Page 5 Extracted Terms:
+- Myocarditis  
+- Giant cell myocarditis  
+- Cardiac sarcoidosis  
+- Eosinophilic myocarditis  
+- Lymphocytic myocarditis  
+- Viral myocarditis  
+- Cardiogenic shock  
+- Ventricular tachycardia (VT)  
+- Third‑degree atrioventricular block  
+- Ventricular arrhythmia (VA)  
+- Supraventricular arrhythmias  
+- Heart failure  
+- Restrictive cardiomyopathy  
+- Dilated cardiomyopathy  
+- Left ventricle (LV)  
+- Right ventricle (RV)  
+- Left ventricular ejection fraction (LVEF)  
+- Late gadolinium enhancement (LGE)  
+- Cardiac magnetic resonance (CMR)  
+- Endomyocardial biopsy (EMB)  
+- Endocardial voltage mapping (EVM)  
+- Flurodeoxyglucose positron emission tomography (FDG‑PET)  
+- Guideline‑directed medical therapy (GDMT)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Cardiovascular implantable electronic device (CIED)  
+- Mechanical circulatory support (MCS)  
+- Inotropes  
+- Multidrug immunosuppression  
+- Corticosteroids (steroids)  
+- Methotrexate (MTX)  
+- Cyclophosphamide  
+- Imatinib  
+- Transplant evaluation  
+- Lake Louise criteria (CMR findings)  
+- ACE2‑tropic, cardiotropic, vasculotropic, lymphotropic, cardiotoxic (viral tropism mechanisms)  
+- Adenovirus, enteroviruses, Parvovirus B19, CMV, EBV, HHV‑6, HCV, HIV, influenza, MERS‑CoV, SARS‑CoV, SARS‑CoV‑2 (viruses implicated in viral myocarditis)  
+- Granulomas  
+- Multinucleated giant cells  
+- Eosinophils  
+- Histiocytes  
+- Myocyte necrosis  
+- Embolization of thrombi  
+- Restrictive valve involvement  
+
+These terms capture the primary diseases, clinical manifestations, diagnostic tools, imaging findings, therapeutic strategies, and virus-related aspects relevant to heart disease as described in the text.
+
+Page 6 Extracted Terms:
+- Myocarditis  
+- Acute myocarditis  
+- Fulminant myocarditis  
+- Complicated myocarditis  
+- Uncomplicated myocarditis  
+- Myocardial infarction  
+- Heart disease (general term)  
+- Cardiac mortality  
+- Heart transplantation  
+- Left ventricular ejection fraction (LVEF)  
+- LVEF < 50%  
+- Left ventricular (LV) dysfunction  
+- Left bundle branch block (LBBB)  
+- Ventricular arrhythmia  
+- Atrioventricular (AV) block  
+- Conduction abnormalities  
+- Electrocardiographic (ECG) changes  
+- Diffuse ST‑segment elevation  
+- T‑wave abnormalities  
+- QRS prolongation (>120 ms)  
+- Q‑waves  
+- PVCs (premature ventricular complexes)  
+- Polymorphic PVCs  
+- Syncope  
+- Chest pain  
+- Dyspnea / shortness of breath  
+- Heart failure symptoms  
+- Pericardial effusion / fluid  
+- LV dilatation  
+- LV hypertrophy  
+- Diastolic dysfunction  
+- Global longitudinal strain (GLS)  
+- Erythrocyte sedimentation rate (ESR)  
+- C‑reactive protein (CRP)  
+- Cardiac troponin T (cTnT)  
+- Natriuretic peptides (BNP/NT‑proBNP)  
+- Viral titers  
+- MicroRNAs (e.g., mmu‑miR‑721)  
+- Th‑17 immune response  
+- Immune polarization  
+- Autoimmune / autoinflammatory conditions  
+- Sarcoidosis  
+- Lyme carditis  
+- COVID‑19 myocarditis / vaccine‑related myocarditis  
+- Inflammatory cardiomyopathy (chronic)  
+- Chronic inflammatory cardiomyopathy  
+- Immunosuppressive therapies  
+- Intensive care unit (ICU) monitoring  
+- Stratified diagnostic tiers (acute evaluation, definitive confirmation, auxiliary diagnostics)
+
+Page 7 Extracted Terms:
+- Myocarditis  
+- Uncomplicated myocarditis  
+- High‑risk features (e.g., ventricular arrhythmias, atrioventricular conduction abnormalities)  
+- Telemetry capability  
+- Ventricular arrhythmias  
+- Atrioventricular conduction abnormalities  
+- Troponin elevation  
+- ST‑segment abnormalities  
+- T‑wave abnormalities  
+- Chest pain  
+- Regional wall motion abnormalities  
+- Coronary artery disease  
+- Coronary angiogram  
+- Myocardial injury  
+- Th17 immune response  
+- MicroRNAs (mmu‑miR‑721)  
+- Endomyocardial biopsy (EMB)  
+- Cardiac magnetic resonance imaging (CMR)  
+- Cardiac magnetic resonance imaging (CMR)  
+- Endomyocardial voltage mapping (EVM)  
+- Intensive care unit (ICU)  
+- Left ventricle (LV)  
+- Left ventricular ejection fraction (LVEF)  
+- Mechanical circulatory support (MCS)  
+- New York Heart Association Class (NYHA)  
+- Ventricular arrhythmia (VA)  
+- Telemetry unit  
+- Ambulatory management  
+- Acute diagnostic evaluation  
+- Confirmatory diagnostic evaluation  
+- Tier‑2 diagnosis of definite myocarditis  
+- Cardiac inflammation  
+- Inflammatory infiltrate (on EMB)  
+- Prognostic information (from EMB)  
+- Emergency department (ED)
+
+Page 8 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- Myocarditis  
+- Giant cell myocarditis  
+- Eosinophilic myocarditis  
+- Cardiac sarcoidosis  
+- Lymphocytic myocarditis  
+- Endomyocardial biopsy (EMB)  
+- Cardiac magnetic resonance imaging (CMR)  
+- 3‑D spatial immunophenotyping  
+- Laser capture microdissection  
+- Gene expression profiling  
+- Single‑cell RNA sequencing  
+- Desmoplakin mutation  
+- New York Heart Association (NYHA) Class ≥ III/IV  
+- High‑sensitive cardiac troponin T (cTnT)  
+- Creatine kinase MB (CK‑MB)  
+- Creatine kinase MM (CK‑MM)  
+- Soluble interleukin‑1 receptor‑like 1 (ST2)  
+- N‑terminal pro‑B‑type natriuretic peptide (NT‑proBNP)  
+- C‑reactive protein (CRP)  
+- Erythrocyte sedimentation rate (ESR)  
+- White blood cell (WBC) count with differential  
+- Eosinophil count  
+- Autoantibodies:  
+  - Antinuclear antibody (ANA)  
+  - Anti‑double‑stranded DNA (anti‑dsDNA)  
+  - Cardi‑olipin IgG/IgM  
+  - Antineutrophil cytoplasmic antibody (ANCA)  
+  - Myeloperoxidase (MPO)  
+  - Proteinase‑3 (PR‑3)  
+  - Anti‑cyclic citrullinated peptide (anti‑CCP)  
+  - Anti‑SSA (Ro)  
+  - Anti‑SSB (La)  
+  - Anti‑Scl‑70  
+  - Anti‑RNA polymerase III  
+- Viral serology: HCV, HIV, Lyme borreliosis, influenza  
+- Medications associated with myocarditis:  
+  - Cephalosporins  
+  - Digoxin  
+  - Diuretics  
+  - Dobutamine  
+  - Sulfonamides  
+  - Tricyclic antidepressants  
+- Substance exposures: cocaine, amphetamines, ethanol, copper, iron, lead, venomous bites  
+- SARS‑CoV‑2 infection and mRNA vaccination  
+- Immune checkpoint inhibitors  
+- Anthracyclines  
+- Interleukin‑2 receptor (soluble IL‑2R)  
+- Clinical parameters: coronary syndromes, arrhythmia/syncope, chest pain, dyspnea  
+  
+These terms capture the core clinical, diagnostic, laboratory, and therapeutic concepts relevant to heart disease as presented in the excerpt.
+
+Page 9 Extracted Terms:
+- Myocarditis  
+- Acute myocarditis  
+- Cardiac magnetic resonance imaging (CMR)  
+- Endomyocardial biopsy (EMB)  
+- Myocardial edema  
+- T1‑based imaging (T1‑mapping)  
+- T2‑based imaging (T2‑mapping)  
+- Lake Louise criteria (2009 & 2018)  
+- Myocardial infarction with normal coronary arteries  
+- Arrhythmia  
+- Extracellular volume (ECV)  
+- Late gadolinium enhancement (LGE)  
+- LGE mid‑wall localization  
+- Left ventricular ejection fraction (LVEF) < 50%  
+- Cardiac sarcoidosis  
+- Cardiac ischemia  
+- Perfusion CMR  
+- Immune checkpoint inhibitors (ICI)  
+- Flurodeoxyglucose positron emission tomography (FDG‑PET)  
+- PCR (polymerase chain reaction) as a diagnostic tool in myocarditis  
+- Optimal medical therapy (OMT)  
+- Endocardial voltage mapping (EVM)
+
+Page 10 Extracted Terms:
+- Myocarditis  
+- Suspected myocarditis diagnostic criteria  
+- Classical myocarditis features  
+- Cardiac magnetic resonance imaging (CMR)  
+- Endomyocardial biopsy (EMB)  
+- FDG‑PET (fluorodeoxyglucose positron emission tomography)  
+- Persistent inflammation in myocarditis  
+- Autoimmune conditions associated with myocarditis  
+- P/LP genetic variants (predisposing pathogenic/likely pathogenic variants)  
+- Cardiomyopathy unresponsive to standard medical therapy (>3 months)  
+- Hemodynamic stability  
+- Ventricular arrhythmia (VA)  
+- Atrioventricular conduction abnormalities  
+- Cardiac troponin normalization  
+- Exercise testing restriction in acute myocarditis  
+- Low‑risk features for myocarditis  
+- High‑risk features for myocarditis  
+- Left ventricular (LV) dysfunction  
+- LV ejection fraction (LVEF)  
+- Myocardial infarction with normal coronary arteries  
+- Heart failure  
+- Transplant in myocarditis  
+- LGE (late gadolinium enhancement) on CMR  
+- LGE persistence/reciprocal changes (increase, decrease, resolution)  
+- LGE without edema (predictor of adverse events)  
+- Cardiac sarcoidosis  
+- STREAM study (FDG‑PET/CT vs. MRI/EMB)  
+- Monomorphic ventricular tachycardia (VT)  
+- Polymorphic ventricular tachycardia (VT)  
+- Scar‑related VT  
+- Voltage mapping (bipolar endocardial voltage mapping)  
+- Immunosuppressive therapy in myocarditis  
+- Implantable cardioverter‑defibrillator (ICD) implantation  
+- Holter monitoring  
+- 12‑lead ECG assessment  
+- Follow‑up imaging in myocarditis  
+- Follow‑up arrhythmia monitoring  
+- Follow‑up exercise testing restriction  
+- Genetic counseling and cascade screening in myocarditis  
+- Chronic inflammatory cardiomyopathy  
+- Giant cell myocarditis  
+- Inflammatory infiltrate risk for VAs  
+- Mid‑wall LGE  
+- LVEF on initial CMR  
+- LGE extent and location  
+- Scar re‑entry circuits  
+- Inflammation‑induced ion channel dysfunction  
+- Altered intracellular signaling in myocardial inflammation  
+- Cardiogenic risk stratification in myocarditis  
+- Follow‑up interval recommendations (e.g., 3‑month CMR, 196‑day imaging)  
+- Registries: Lombardy registry, ITAMY (Italian Study in Myocarditis)  
+- Mortality and transplant event rates in complicated vs. fulminant myocarditis.
+
+Page 11 Extracted Terms:
+**Heart disease–related terms extracted from the text**
+
+- Suspected myocarditis  
+- Myocarditis  
+- Arrhythmogenic cardiomyopathy (ACM)  
+- Arrhythmogenic right ventricular cardiomyopathy (ARVC)  
+- Sudden death in young athletes  
+- High‑risk features (in myocarditis)  
+- Clinical‑relevant arrhythmias  
+- Ventricular arrhythmias (frequent or complex repetitive forms)  
+- Supraventricular arrhythmias (frequent or complex repetitive forms)  
+- Exercise testing (acute phase & follow‑up)  
+- European Association of Preventive Cardiology (position paper)  
+- Periodical reassessment (first 2 years and yearly thereafter)  
+- LGE present (late gadolinium enhancement)  
+- ARVC (arrhythmogenic right ventricular cardiomyopathy)  
+- CMR – cardiac magnetic resonance  
+- CS – cardiac sarcoidosis  
+- EVM – endocardial voltage mapping  
+- FDG‑PET – flurodeoxyglucose positron emission tomography  
+- FU – follow‑up  
+- GCM – giant cell myocarditis  
+- GDMT – guideline‑directed medical therapy  
+- HF – heart failure  
+- HTX – heart transplant  
+- ICD – implantable cardioverter‑defibrillator  
+- LBBB – left bundle branch block  
+- LGE – late gadolinium enhancement  
+- LVAD – left ventricular assist device  
+- LVSD – left ventricular systolic dysfunction  
+- NYHA – New York Heart Association Class  
+
+These are the key heart‑disease–related terms and abbreviations cited in the provided excerpt.
+
+Page 12 Extracted Terms:
+- Myocarditis  
+- Left ventricular ejection fraction (LVEF)  
+- Myocardial injury biomarkers  
+- Holter monitoring  
+- Exercise testing  
+- Human leukocyte antigen haplotypes  
+- P/LP (pathogenic/likely pathogenic) variants  
+- TTN (titin) variants  
+- Desmoplakin (DSP) variants  
+- Arrhythmogenic cardiomyopathy  
+- Canonical Wnt–β‑catenin signaling  
+- Th2 immune polarization  
+- Cardiomyopathy (including dilated and familial forms)  
+- Genetic testing (at time of new cardiomyopathy diagnosis)  
+- Genetic screening for myocarditis patients  
+- Genetic counseling (including pre‑implantation counseling)  
+- Cascade screening  
+- Competitive sports prohibition  
+- Implantable cardioverter‑defibrillator (ICD) implantation  
+- Heart failure  
+- Arrhythmia  
+- Persistent inflammation  
+- Cardiac magnetic resonance (CMR) imaging  
+- Immune phenotyping  
+- Giant cell myocarditis  
+- Pulmonary sarcoidosis (cardiac involvement)
+
+Page 13 Extracted Terms:
+- Myocarditis  
+- Cardiomyopathy  
+- Heart failure  
+- Ventricular arrhythmia  
+- Ventricular tachycardia  
+- Non‑obstructive coronary arteries  
+- Myocardial infarction  
+- Cardiac magnetic resonance imaging (CMR)  
+- Late gadolinium enhancement  
+- T1 mapping  
+- T2 mapping  
+- Endomyocardial biopsy  
+- Immune checkpoint blockade  
+- MicroRNA  
+- Parvovirus B19 infection  
+- Cardiac sarcoidosis  
+- Idiopathic giant cell myocarditis  
+- Positron emission tomography (PET)  
+- Exercise‑induced myocarditis  
+- Desmoplakin gene truncating variant  
+- Risk stratification  
+- Immunosuppressive therapy  
+- Competitive athlete participation  
+- Pericarditis  
+- Non‑ischemic myocardial inflammation  
+- Inflammatory cardiomyopathy  
+- Aetiology of myocarditis  
+- Diagnostic criteria  
+- Management strategies  
+- Therapeutic recommendations  
+
+Page 14 Extracted Terms:
+**Key heart‑disease related terms found in the text**
+
+- Myocarditis  
+- Autoimmune myocarditis  
+- Viral myocarditis (coxsackievirus B3‑induced, viral myocarditis)  
+- Desmoplakin cardiomyopathy  
+- Arrhythmogenic cardiomyopathy  
+- Dilated cardiomyopathy  
+- Heart failure  
+- Cardiac fibrosis  
+- Cardiac remodeling  
+- Cardiac hypertrophy  
+- Cardiac injury  
+- Cardiac magnetic resonance imaging (CMR)  
+- Cardiac myosin (S2 region, alpha‑myosin)  
+- T cell‑mediated inflammation  
+- Regulatory T cells (Treg)  
+- Th17 cells  
+- Th2 cells  
+- CD4⁺ T cells  
+- CD69 (exhaustion marker)  
+- Interleukin‑17 (IL‑17)  
+- Interleukin‑4 (IL‑4)  
+- Interleukin‑37 (IL‑37)  
+- Bcl2‑like protein 12 (BCL2L12)  
+- STAT6 (signal transducer and activator of transcription 6)  
+- PKCβ (protein kinase C beta)  
+- ERK1/2 (extracellular signal‑regulated kinases 1/2)  
+- NF‑κB (nuclear factor kappa‑B)  
+- Toll‑like receptors (TLRs)  
+- Human leukocyte antigen class II (HLA‑II) associations  
+- MicroRNA‑155 (miR‑155)  
+- MicroRNA‑21 (miR‑21)  
+- Antigen‑presenting cells (APCs)  
+- I‑Aκ (MHC II molecule on APCs)  
+- Cardiomyopathy (general term)  
+- Heart transplant rejection  
+- Tissue‑based molecular diagnostic system (MMDx)  
+- Autoimmunity (in the context of cardiovascular disease)  
+- Gene‑expression profiling (for cardiac disease)  
+
+These terms capture the central diseases, cellular mechanisms, cytokines, and molecular markers relevant to heart disease as highlighted in the provided references.
+

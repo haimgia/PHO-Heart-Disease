@@ -1,0 +1,1668 @@
+Page 1 Extracted Terms:
+- AHA Scientific Statements  
+- guidelines  
+- antihypertensive agents  
+- aspirin  
+- atherosclerosis  
+- atherosclerotic cardiovascular disease  
+- atrial fibrillation  
+- behavior modification  
+- behavior therapy  
+- blood cholesterol  
+- blood pressure  
+- body mass index  
+- cardiovascular team‑based care  
+- cardiovascular  
+- cardiovascular disease  
+- cholesterol  
+- chronic kidney disease  
+- coronary artery calcium score  
+- coronary disease  
+- coronary heart disease  
+- cost  
+- diet  
+- dietary patterns  
+- dietary fats  
+- dietary sodium  
+- dyslipidemia  
+- e‑cigarettes  
+- exercise  
+- healthcare disparities  
+- health services accessibility  
+- heart failure  
+- hypertension  
+- LDL cholesterol  
+- diabetes mellitus  
+- lifestyle  
+- lipids  
+- measurement  
+- myocardial infarction  
+- nicotine  
+- nonpharmacological treatment  
+- nutrition  
+- physical activity  
+- prejudice  
+- primary prevention  
+- psychosocial deprivation  
+- public health  
+- quality indicators  
+- quality measurement  
+- risk assessment  
+- risk-enhancing factors  
+- risk factors  
+- risk reduction  
+- risk reduction discussion  
+- risk treatment discussion  
+- secondhand smoke  
+- sleep  
+- smoking  
+- smoking cessation  
+- social determinants of health  
+- socioeconomic factors  
+- statin therapy  
+- systems of care  
+- tobacco  
+- tobacco smoke pollution  
+- treatment adherence  
+- treatment outcomes  
+- type 2 diabetes mellitus  
+- waist circumference  
+- weight loss
+
+Page 2 Extracted Terms:
+Atherosclerotic cardiovascular disease (ASCVD)  
+Heart failure  
+Atrial fibrillation  
+Statin therapy  
+Aspirin use  
+Antihypertensive therapy  
+Low‑density lipoprotein cholesterol (LDL‑C)  
+High‑density lipoprotein cholesterol (HDL‑C)  
+Coronary artery calcium (CAC) scanning  
+Blood pressure  
+Hypertension  
+Type 2 diabetes mellitus  
+Metformin (first‑line therapy for diabetes)  
+Sodium‑glucose cotransporter‑2 (SGLT2) inhibitor  
+Glucagon‑like peptide‑1 (GLP‑1) receptor agonist  
+Tobacco use (risk factor)  
+Risk‑estimation for ASCVD (10‑year ASCVD risk score)  
+Lifestyle modifications (diet, exercise)
+
+Page 3 Extracted Terms:
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Cardiovascular disease (CVD)  
+- Myocardial infarction (MI)  
+- Heart failure  
+- Atrial fibrillation  
+- Blood pressure (BP)  
+- Lipid‑lowering medication  
+- Diabetes medication  
+- Aspirin therapy  
+- Exercise / physical activity  
+- Tobacco use / smoking cessation  
+- Secondhand smoke exposure  
+- Life’s Simple 7 (ideal cardiovascular health metrics)  
+- Lifestyle optimization (diet, activity, tobacco avoidance)  
+- Primary prevention of ASCVD  
+- Risk factor optimization  
+- Shared decision‑making  
+- Team‑based care  
+- Social determinants of health  
+- Clinical guideline‑directed management  
+- Diagnostic testing for cardiovascular disease  
+- Pharmacological therapy for cardiovascular risk reduction  
+- ACC/AHA primary‑prevention guidelines  
+- Cardiovascular risk assessment  
+- Lifestyle goal setting (dietary modification, exercise plans)  
+- Healthcare cost burden of cardiovascular disease (>$200 billion US annually)
+
+Page 4 Extracted Terms:
+- Cardiovascular disease (CVD)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Primary prevention of CVD/ASCVD  
+- ACC/AHA guideline (for cardiovascular prevention)  
+- Risk assessment (for cardiovascular risk)  
+- Diet (as a cardiovascular risk factor)  
+- Exercise / physical activity (cardiovascular health)  
+- Obesity  
+- Weight loss  
+- Type 2 diabetes mellitus (T2DM)  
+- Blood cholesterol / lipid levels  
+- Hypertension / high blood pressure (BP)  
+- Smoking cessation  
+- Aspirin use (for cardiovascular prevention)  
+- Cardiovascular risk  
+- Heart disease (general term)
+
+Page 5 Extracted Terms:
+- Cardiovascular disease (CVD)  
+- Myocardial infarction (MI)  
+- Stable angina  
+- Unstable angina  
+- Arterial revascularization  
+- Stroke  
+- Transient ischemic attack (TIA)  
+- Peripheral arterial disease  
+- Heart failure  
+- Atrial fibrillation  
+- Lifestyle factors: diet, exercise, physical activity  
+- Obesity  
+- Diabetes  
+- Blood cholesterol  
+- High blood pressure (BP)  
+- Smoking  
+- Aspirin use  
+- Team‑based care  
+- Shared decision‑making  
+- Social determinants of health  
+- Primary prevention  
+- Cost and value of prevention  
+- Class of Recommendation (COR)  
+- Level of Evidence (LOE)
+
+Page 6 Extracted Terms:
+**Key heart‑disease related terms extracted**
+
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Coronary heart disease (CHD)  
+- Cardiovascular disease (CVD)  
+- Myocardial infarction (MI)  
+- Hypertension (high blood pressure) – includes systolic BP (SBP), diastolic BP (DBP)  
+- Diabetes mellitus (DM, specifically type 2 DM – T2DM)  
+- Hyperlipidemia (high LDL‑C, low HDL‑C)  
+- Pooled cohort equations (PCE) – ASCVD risk estimation  
+- Glucagon‑like peptide‑1 receptor (GLP‑1R) agonists – cardiovascular benefit agents  
+- Sodium‑glucose cotransporter‑2 (SGLT‑2) inhibitors – cardiovascular benefit agents  
+- Urinalysis markers: hemoglobin A1c (HbA1c) (used in diabetes control)  
+- Agatston units (AU) – coronary calcium scoring  
+- Risk‑factor control/optimization: lifestyle modification, pharmacologic therapy (statins, antihypertensives, antidiabetic drugs)  
+- Team‑based care / multidisciplinary care (clinical strategy for ASCVD prevention)  
+- Shared decision‑making (clinical decision process for preventive therapy)  
+
+These terms capture the core disease entities, risk factors, biomarkers, therapeutic targets, and recommended clinical approaches discussed in the guideline.
+
+Page 7 Extracted Terms:
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Cardiovascular risk assessment  
+- Pooled Cohort Equations (PCE)  
+- 10‑year ASCVD risk  
+- Borderline risk (5 %–<7.5 %)  
+- Intermediate risk (≥7.5 %–<20 %)  
+- Risk‑enhancing factors  
+- Statin therapy (primary prevention)  
+- Coronary artery calcium (CAC) score  
+- Traditional cardiovascular risk factors (e.g., age, sex, LDL‑C, HDL‑C, systolic BP, smoking)  
+- Blood pressure (BP) / hypertension  
+- Lipids / dyslipidemia  
+- High blood pressure / hypertension management  
+- Obesity / overweight  
+- Weight loss / weight maintenance  
+- Body‑size perception  
+- Diabetes mellitus type 2  
+- Glycemic control (HbA1c)  
+- Lifestyle counseling (diet, exercise)  
+- Diet modifications (low‑sodium, heart‑healthy)  
+- Food access / food security  
+- Physical activity / exercise prescription  
+- Neighborhood environment / access to facilities  
+- Sleep hygiene / short sleep duration (<6 h)  
+- Tobacco use / tobacco treatment  
+- Psychosocial stressors  
+- Social support (individual and group)  
+- Health literacy assessment  
+- Socioeconomic status (SES)  
+- Housing instability  
+- Food insecurity  
+- Transportation difficulties  
+- Utility assistance needs  
+- Interpersonal safety  
+- Mental illness (comorbid)  
+- Financial strain  
+- Inadequate housing conditions  
+- Inadequate social support  
+- Exposure to adversity (violence, trauma)  
+- Advanced age (≥75 y)  
+- Racial/ethnic disparities in cardiovascular outcomes  
+- Primary prevention of ASCVD  
+- Cardiovascular outcomes  
+- Social determinants of health (SDOH)  
+
+These terms capture the key heart‑disease concepts, risk factors, interventions, and social determinants discussed in the guideline excerpt.
+
+Page 8 Extracted Terms:
+- ASCVD risk  
+- Lifetime ASCVD risk  
+- 10‑year ASCVD risk  
+- 30‑year ASCVD risk  
+- Primary prevention of cardiovascular disease  
+- Lipid management  
+- Blood‑pressure (BP) management  
+- Stage 1 hypertension (BP 130–139/80–89 mm Hg)  
+- Coronary artery calcium (CAC) score  
+- Risk‑enhancing factors  
+- Risk calculators (e.g., PCE, Framingham, Reynolds, SCORE, QRISK/JBS3)  
+- PCE (Pooled Cohort Equations)  
+- Framingham CVD risk score  
+- Reynolds risk score  
+- SCORE (Systematic Coronary Risk Evaluation)  
+- QRISK / JBS3  
+- Clinical decision support tools  
+- Risk thresholds (low < 5 %, borderline 5 %–< 7.5 %, intermediate ≥ 7.5 %–< 20 %, high ≥ 20 %)  
+- Statin therapy (e.g., for elevated ASCVD risk or familial hypercholesterolemia)  
+- Familial hypercholesterolemia  
+- Traditional cardiovascular risk factors  
+- Race‑specific risk estimation (non‑Hispanic White, non‑Hispanic Black, other ethnic groups)  
+- Age‑specific risk assessment (20–39 yrs, 40–59 yrs, 60–75 yrs, > 75 yrs)  
+- Risk assessment frequency (every 4–6 years)  
+- Lifestyle interventions (heart‑healthy lifestyle, diet, exercise)  
+- Comorbidities (e.g., chronic inflammatory conditions, autoimmune disease, HIV infection, socioeconomic disadvantage)  
+- Over‑ or underestimation of risk by PCE  
+- Life expectancy considerations  
+- Shared decision‑making in cardiovascular prevention
+
+
+
+Page 9 Extracted Terms:
+**Key terms related to heart disease**
+
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Cardiovascular disease (CVD)  
+- Coronary artery calcium (CAC)  
+- Coronary artery calcium score  
+- Coronary atherosclerosis  
+- Coronary artery calcium measurement  
+- Coronary artery calcium score in Agatston units (AU)  
+- Pooled Cohort Equation (PCE)  
+- Risk calculators  
+- Risk‑enhancing factors  
+- Risk reclassification  
+- Cardiovascular risk estimation  
+- Cardiovascular risk stratification  
+- Primary hypercholesterolemia  
+- LDL‑cholesterol (LDL‑C)  
+- HDL‑cholesterol (HDL‑C)  
+- Non‑HDL‑cholesterol  
+- Lipoprotein(a) [Lp(a)]  
+- Apolipoprotein B (apoB)  
+- High‑sensitivity C‑reactive protein (hs‑CRP)  
+- Chronic kidney disease (CKD)  
+- Chronic inflammatory disease  
+- Rheumatoid arthritis (RA)  
+- Systemic lupus erythematosus (lupus)  
+- Human immunodeficiency virus (HIV)  
+- Metabolic syndrome  
+- Elevated triglycerides  
+- Elevated blood pressure  
+- Elevated glucose  
+- Low HDL‑cholesterol  
+- Diabetes mellitus  
+- Ankle‑brachial index (ABI)  
+- South Asian ancestry (high‑risk race/ethnicity)  
+- Preeclampsia  
+- Premature menopause (before age 40)  
+- Early menopause (before age 55 in men, before age 65 in women)  
+- Erectile dysfunction  
+- Statin therapy  
+- Aspirin (antiplatelet)  
+
+These terms capture the principal concepts and risk‑enhancing factors discussed in the provided guideline excerpt.
+
+Page 10 Extracted Terms:
+**Key Heart‑Disease–Related Terms Extracted from the Text**
+
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Coronary artery calcium (CAC) score / measurement  
+- Coronary heart disease (CHD)  
+- Statin therapy / statins  
+- Cholesterol (dietary & blood)  
+- Lipid lowering therapy  
+- Risk estimation tools (e.g., ASCVD Risk Estimator, PCE, 30‑year/lifetime risk estimator)  
+- Risk reclassification & discrimination  
+- Non‑calcified plaque  
+- Lifetime ASCVD risk  
+- 30‑year ASCVD risk  
+- Cardiovascular mortality / deaths  
+- Obesity epidemic  
+- Diabetes mellitus  
+- Hypertension  
+- Lifestyle factors impacting cardiovascular risk  
+- Nutrition and diet (heart‑healthy diet)  
+- Vegetables, fruits, legumes, nuts, whole grains, fish  
+- Saturated fat  
+- Monounsaturated fat  
+- Polyunsaturated fat  
+- Trans fats  
+- Dietary cholesterol  
+- Sodium  
+- Processed meats (e.g., bacon, salami, ham, hot dogs, sausage)  
+- Refined carbohydrates  
+- Sweetened beverages  
+- Sugar and high‑carbohydrate diets  
+- Low‑carbohydrate diets  
+- Mediterranean diet  
+- Plant‑based diet  
+
+These terms encapsulate the primary concepts related to heart disease prevention, risk assessment, treatment, and lifestyle recommendations presented in the guideline excerpt.
+
+Page 11 Extracted Terms:
+- Cardiovascular disease (CVD)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Myocardial infarction (MI)  
+- Stroke  
+- Cardiovascular mortality / death  
+- Heart disease  
+- Coronary events / coronary artery disease  
+- Blood pressure (BP) / Hypertension  
+- Dietary sodium  
+- Trans fatty acids  
+- Saturated fatty acids  
+- Unsaturated fatty acids  
+- Dietary fats  
+- Plant protein  
+- Animal protein  
+- Red meat  
+- Processed red meat  
+- Poultry  
+- Fish  
+- Dairy products  
+- Eggs  
+- Nuts and seeds  
+- Mediterranean diet  
+- DASH diet (Dietary Approaches to Stop Hypertension)  
+- PREDIMED trial  
+- PURE study (Prospective Urban Rural Epidemiology)  
+- REGARDS study (REasons for Geographic and Racial Differences in Stroke)  
+- ARIC study (Atherosclerosis Risk in Communities)  
+- Type 2 diabetes mellitus (T2DM)  
+- Sugar‑sweetened beverages  
+- Artificially sweetened beverages  
+- Added sugar  
+- Low‑carbohydrate diet  
+- Refined carbohydrates  
+- Fried foods  
+- Added fats  
+- Organ meats  
+- Low‑calorie sweetened beverages  
+
+Page 12 Extracted Terms:
+- ASCVD (Atherosclerotic Cardiovascular Disease)  
+- Cardiovascular disease  
+- Coronary heart disease  
+- Myocardial infarction (MI)  
+- Stroke  
+- Endothelial dysfunction  
+- Insulin resistance  
+- Inflammation  
+- Arrhythmias  
+- Blood pressure (BP)  
+- Hypertension  
+- Lipids  
+- Lipoproteins  
+- LDL cholesterol  
+- HDL cholesterol  
+- Total cholesterol  
+- Trans fat  
+- Partially hydrogenated oils  
+- High‑carbohydrate diet  
+- Low‑carbohydrate diet  
+- Animal protein (e.g., lamb, beef, pork, chicken)  
+- Plant protein (e.g., nuts, whole‑grain breads)  
+- Dietary fat  
+- Dietary carbohydrate  
+- Cardiovascular risk  
+- Risk factors  
+- Physical activity  
+- Moderate‑intensity aerobic activity  
+- Vigorous‑intensity aerobic activity  
+- Sedentary behavior  
+- Exercise guidelines (≥150 min/week moderate or ≥75 min/week vigorous)  
+- Resistance exercise  
+- Glycemic control  
+- Diabetes  
+- BP lowering  
+- Cardiovascular health  
+- Mortality rate  
+- Mortality risk  
+- Lifestyle counseling  
+- Physical activity counseling  
+- Aerobic exercise safety  
+- Dose‑response relationship to ASCVD events and death.
+
+Page 13 Extracted Terms:
+ASCVD (atherosclerotic cardiovascular disease)  
+Cardiovascular disease  
+Heart failure  
+Cardiometabolic risk factors  
+Physical activity (general)  
+Sedentary behavior  
+Moderate‑intensity aerobic physical activity  
+Vigorous‑intensity aerobic physical activity  
+Light‑intensity physical activity  
+Moderate‑to‑vigorous physical activity  
+Physical activity intensity levels (METs) (e.g., 1.6–2.9 METs for light, 3.0–5.9 METs for moderate, ≥6 METs for vigorous)
+
+Page 14 Extracted Terms:
+- Cardiovascular disease  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Heart failure  
+- Atrial fibrillation  
+- Hypertension (high blood pressure)  
+- Blood pressure (BP)  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- Triglycerides  
+- Body mass index (BMI)  
+- Waist circumference  
+- Physical activity (exercise)  
+- Weight loss (as prevention strategy)
+
+Page 15 Extracted Terms:
+- Cardiovascular disease  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Cardiometabolic risk  
+- Metabolic syndrome  
+- Obesity  
+- Overweight  
+- Body mass index (BMI)  
+- Waist circumference  
+- Waist‑hip ratio  
+- Dual‑energy X‑ray absorptiometry (DXA)  
+- Bioimpedance  
+- Type 2 diabetes mellitus (T2DM)  
+- Glycemic control  
+- Hemoglobin A1c (HbA1c)  
+- Sodium‑glucose cotransporter‑2 (SGLT‑2) inhibitor  
+- Glucagon‑like peptide‑1 receptor (GLP‑1R) agonist  
+- Heart‑healthy dietary pattern  
+- Mediterranean diet  
+- DASH diet  
+- Vegetarian/vegan diet  
+- Physical activity  
+- Moderate‑intensity physical activity  
+- Vigorous‑intensity physical activity  
+- Metformin  
+- Cardiovascular risk factors  
+- Weight loss  
+- Central adiposity  
+- ASCVD events  
+- Cholesterol management  
+- Hypertension  
+- Cardiovascular risk factor treatment  
+- Lifestyle interventions  
+- Bariatric surgery  
+- FDA‑approved drugs  
+- National Heart, Lung, and Blood Institute (NHLBI)  
+- Cardiovascular disease prevention guidelines  
+
+Page 16 Extracted Terms:
+- Cardiovascular disease (CVD)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- CVD events  
+- CVD death  
+- Primary prevention of cardiovascular disease  
+
+Page 17 Extracted Terms:
+**Terms related to heart disease extracted from the guideline text**
+
+- ASCVD (atherothrombotic cardiovascular disease)  
+- Cardiovascular disease (CVD)  
+- Heart failure  
+- Myocardial infarction (MI)  
+- Coronary artery disease (CAD)  
+- Coronary artery calcium score  
+- Statin therapy  
+- LDL‑C (low‑density lipoprotein cholesterol)  
+- HDL‑C (high‑density lipoprotein cholesterol)  
+- Total cholesterol  
+- Hypercholesterolemia  
+- Lipid‑lowering therapy  
+- SGLT‑2 inhibitors  
+- GLP‑1 receptor agonists  
+- Glycemic control (diabetes mellitus) as a risk factor  
+- Hypertension / high blood pressure  
+- 10‑year ASCVD risk score  
+- Primary prevention of CVD  
+- Secondary prevention of CVD  
+- Risk‑enhancing factors  
+- Risk discussion / shared decision making  
+- Intensive/statistically significant risk reduction  
+- Cholesterol clinical practice guidelines  
+- Clinical statements on ASCVD outcomes  
+- Coronary artery calcium score thresholds (0, 1‑99, ≥100)  
+- Intensive statin intensity (moderate‑intensity, high‑intensity)  
+- Maximally tolerated statin therapy  
+
+These terms collectively capture the key cardiovascular disease concepts and therapeutic considerations highlighted in the guideline excerpts.
+
+Page 18 Extracted Terms:
+Primary ASCVD prevention  
+ASCVD risk factors  
+Cholesterol management  
+Low‑density lipoprotein cholesterol (LDL‑C)  
+Statin treatment  
+Statin safety  
+Statin‑associated side effects  
+Moderate‑intensity statin therapy  
+High‑intensity statin therapy  
+Randomized controlled trial (RCT)  
+Cardiovascular risk factor  
+Coronary artery calcium (CAC)  
+Ankle‑brachial index (ABI)  
+Apolipoprotein B (apoB)  
+Lipoprotein(a) (Lp(a))  
+High‑sensitivity C‑reactive protein (hs‑CRP)  
+Coronary heart disease (CHD)  
+Human immunodeficiency virus (HIV)  
+Lifetime risk of ASCVD  
+10‑year ASCVD risk  
+Cardiovascular disease (CVD)  
+Primary prevention  
+Risk assessment  
+Risk discussion  
+Clinical trial  
+Placebo comparison  
+Ethnically and racially diverse population  
+Intermediate‑risk patients  
+Statin benefit  
+Cardiovascular disease prevention policies
+
+(Note: All terms are directly referenced or implied in the guideline text.)
+
+Page 19 Extracted Terms:
+**Key heart‑disease–related terms identified in the guideline excerpt**
+
+1. ASCVD (atherosclerotic cardiovascular disease)  
+2. Hard ASCVD endpoint  
+3. LDL‑C (low‑density lipoprotein cholesterol)  
+4. Statin therapy  
+5. High‑intensity statin  
+6. Moderate‑intensity statin  
+7. Rosuvastatin  
+8. Pravastatin  
+9. JUPITER (Justification for the Use of Statins in Prevention) trial  
+10. 10‑year ASCVD risk  
+11. 20‑year ASCVD risk  
+12. Cardiovascular mortality  
+13. Cardiovascular death  
+14. Myocardial infarction (MI)  
+15. Coronary revascularization  
+16. Primary prevention of cardiovascular disease  
+17. Diabetes (type 1 and type 2)  
+18. Diabetes‑related ASCVD risk  
+19. Hypercholesterolemia (primary severe hypercholesterolemia)  
+20. LDL‑C ≥ 190 mg/dL (≥ 4.9 mmol/L)  
+21. High‑sensitivity C‑reactive protein (hsCRP)  
+22. 7.5 % 10‑year risk threshold (PCE ≥ 7.5 %)  
+23. High‑sensitivity CRP ≥ 2.0 mg/L  
+24. Global risk  
+25. Residual risk  
+26. Risk‑enhancing factors (family history of premature ASCVD, elevated hsCRP, lipid‑rich environment)  
+27. Lipid‑increasing effect of statins (LDL‑C lowering)  
+28. Pooled Cohort Equations (PCE)  
+29. Coronary event  
+30. Cardiovascular event  
+
+These terms capture the core concepts, risk measures, therapeutic strategies, and patient populations discussed in the cited ACC/AHA guideline for primary prevention of cardiovascular disease.
+
+Page 20 Extracted Terms:
+- ASCVD (atherosclerotic cardiovascular disease)  
+- Cardiovascular disease  
+- Heart disease  
+- Primary prevention of cardiovascular disease  
+- Statin therapy  
+- Elevated lifetime ASCVD risk  
+- Metabolic syndrome  
+- Psoriasis  
+- Rheumatoid arthritis  
+- HIV  
+- Protease inhibitors  
+- Lipoprotein (a)  
+- Triglycerides  
+- Non‑HDL‑C (total cholesterol – HDL‑C)  
+- Apolipoprotein B  
+- Coronary artery calcium (CAC)  
+- Coronary artery calcium score  
+- CAC measurement  
+- Risk reclassification  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- Pooled Cohort Equations (PCE)  
+- Diabetes mellitus (type 1 and type 2)  
+- Diabetes‑specific risk enhancers:  
+  - Long duration of diabetes (≥10 yr for T2DM; ≥20 yr for type 1)  
+  - Albuminuria (≥30 µg albumin/mg creatinine)  
+  - Estimated glomerular filtration rate (eGFR) < 60 mL/min/1.73 m²  
+  - Retinopathy  
+  - Neuropathy  
+  - Ankle‑brachial index (ABI) < 0.9  
+- Family history of premature ASCVD  
+- Cigarette smoking  
+- Chronic inflammatory conditions  
+- Statin‑associated symptoms  
+- Risk‑enhancing factors (e.g., elevated lipoprotein (a), metabolic syndrome, inflammatory diseases, HIV, protease inhibitors)
+
+Page 21 Extracted Terms:
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Hypertension  
+- Blood pressure (BP)  
+- Systolic blood pressure (SBP)  
+- Diastolic blood pressure (DBP)  
+- Antihypertensive medications  
+- BP‑lowering medication  
+- Nonpharmacological interventions  
+- Weight loss  
+- Heart‑healthy dietary pattern  
+- Sodium reduction  
+- Dietary potassium supplementation  
+- Physical activity  
+- Structured exercise program  
+- Alcohol consumption  
+- Primary prevention of cardiovascular disease  
+- Cardiovascular disease (CVD)  
+- Coronary heart disease  
+- Stroke  
+- Heart failure  
+- Chronic kidney disease  
+- Type 2 diabetes mellitus (T2DM)  
+- 10‑year ASCVD risk  
+- ACC/AHA pooled cohort equations  
+- Meta‑analysis  
+- Randomized controlled trials (RCTs)  
+- Mortality (death from stroke, heart disease, or other vascular disease)  
+- Modifiable risk factors  
+- BP target (<130/80 mmHg)  
+- ASCVD event risk
+
+
+Page 22 Extracted Terms:
+- Cardiovascular disease (CVD)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Primary prevention of cardiovascular disease  
+- Hypertension  
+- Blood pressure (BP)  
+- Systolic blood pressure (SBP)  
+- Diastolic blood pressure (DBP)  
+- BP‑lowering medications  
+- Antihypertensive drug treatment  
+- Stroke  
+- BP thresholds for treatment  
+- Class of recommendation (clinical guideline)  
+- Nonpharmacological interventions for hypertension  
+- Weight loss / weight reduction  
+- Healthy diet  
+- DASH dietary pattern (Dietary Approaches to Stop Hypertension)  
+- Dietary sodium reduction  
+- Dietary potassium intake  
+- Physical activity  
+- Aerobic exercise  
+- Dynamic resistance exercise  
+- Isometric resistance exercise  
+- Moderation of alcohol intake  
+- Cardiovascular risk assessment  
+- Normotension (normal blood pressure)
+
+Page 23 Extracted Terms:
+- Cardiovascular disease (CVD)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Hypertension  
+- Blood pressure (BP)  
+- Systolic blood pressure (SBP)  
+- Diastolic blood pressure (DBP)  
+- Coronary events  
+- Stroke  
+- Myocardial infarction (MI)  
+- Cardiovascular mortality  
+- Tobacco use  
+- Smoking cessation 
+
+Page 24 Extracted Terms:
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Coronary heart disease (CHD)  
+- Myocardial infarction (MI)  
+- Stroke  
+- Cardiovascular disease (CVD)  
+- Cardiovascular risk  
+- Hypertension  
+- Arrhythmias  
+- Electronic nicotine delivery systems (ENDS) – cardiovascular risk  
+- Cardiovascular and pulmonary diseases (combined term)
+
+Page 25 Extracted Terms:
+- Cardiovascular disease  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Heart failure  
+- Myocardial infarction (MI)  
+- Arrhythmia  
+- Angina  
+- Primary prevention  
+- Cigarette smoking  
+- Tobacco cessation  
+- Tobacco dependence  
+- Chronic disease management  
+- Risk factor (tobacco use)  
+- Premature death (associated with ASCVD)
+
+Page 26 Extracted Terms:
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Primary prevention of ASCVD  
+- Secondary prevention of ASCVD  
+- Low‑dose aspirin (75–100 mg daily)  
+- Aspirin contraindication (increased bleeding risk)  
+- Myocardial infarction (MI)  
+- Stroke  
+- Atherothrombosis  
+- Platelet inhibition (irreversible)  
+- Gastrointestinal bleeding  
+- Peptic ulcer disease  
+- Chronic kidney disease (CKD)  
+- Thrombocytopenia  
+- Coagulopathy  
+- Non‑steroidal anti‑inflammatory drugs (NSAIDs)  
+- Steroids  
+- Direct oral anticoagulants (DOACs)  
+- Warfarin  
+- Risk estimators (e.g., Pooled Cohort Equations – PCE)  
+- 10‑year ASCVD risk threshold  
+- Smoking restrictions in homes and vehicles  
+- Second‑hand smoke exposure  
+- Electronic nicotine delivery systems (ENDS)  
+- Hazard–benefit ratio  
+- Cardiovascular disease prevention guidelines (ACC/AHA, European guidelines)  
+- Elevated ASCVD risk  
+- Antithrombotic therapy  
+- Coronary heart disease (implied by ASCVD context)
+
+Page 27 Extracted Terms:
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Myocardial Infarction (MI)  
+- Cardiovascular Disease (CVD)  
+- Coronary Artery Calcium Score  
+- Prophylactic Aspirin (low‑dose/high‑dose)  
+- Bleeding Risk (including gastrointestinal bleeding)  
+- Peptic Ulcer Disease  
+- Thrombocytopenia  
+- Coagulopathy  
+- Chronic Kidney Disease (CKD)  
+- Non‑steroidal Anti‑inflammatory Drugs (NSAIDs)  
+- Steroids  
+- Direct Oral Anticoagulants (DOACs)  
+- Warfarin  
+- Lipid Targets (LDL, HDL, triglycerides)  
+- Blood‑Pressure (BP) Targets  
+- Glucose Targets (HbA1c)  
+- Family History of Premature MI  
+- Risk‑Enhancing Factors  
+- High‑Risk ASCVD  
+- Low‑Risk ASCVD  
+- Age (≥70 years, <40 years)  
+- Body Weight (low‑weight vs high‑weight)  
+- Risk‑Benefit Ratio of Aspirin  
+- Cost‑Effectiveness / Value in Cardiovascular Care  
+
+These terms capture the primary concepts related to heart disease addressed in the guideline excerpt.
+
+Page 28 Extracted Terms:
+- ASCVD (Atherosclerotic Cardiovascular Disease)  
+- CVD (Cardiovascular Disease)  
+- Coronary artery calcium measurement  
+- Antihypertensive therapy  
+- Statin therapy (cholesterol‑lowering therapy)  
+- Primordial prevention  
+- Primary prevention  
+- Cardiovascular risk factors  
+- Tobacco avoidance  
+- Brisk physical activity  
+- Healthy dietary pattern  
+- Trans fats  
+- Added sugars  
+- Sugar‑sweetened beverages  
+- Red meats  
+- Sodium  
+- Saturated fats  
+- Lipid‑lowering medication  
+- Risk‑enhancing factors  
+- Quantitative risk estimation  
+- Absolute risk of future ASCVD event  
+- Cost‑effectiveness analysis  
+- Quality‑adjusted life‑years (QALYs)  
+- Social determinants of ASCVD risk  
+- Health literacy  
+- Lifestyle improvements (diet, exercise, smoking cessation)
+
+Page 29 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- ASCVD (Atherosclerotic cardiovascular disease)
+- Atherosclerotic cardiovascular disease prevention
+- AHA (American Heart Association)
+- ACC (American College of Cardiology)
+- American College of Cardiology/American Heart Association (ACC/AHA) Guideline
+- American College of Cardiology/American Heart Association Task Force
+- Primary prevention of cardiovascular disease
+- Cardiovascular disease
+- Cardiovascular health
+- Coronary heart disease
+- Heart disease
+- Hypertension
+- Blood pressure
+- High blood pressure
+- Blood cholesterol
+- Cholesterol management
+- Lipid management
+- Ideal cardiovascular health
+- Risk factors for cardiovascular disease
+- Mortality (cardiovascular mortality)
+- Morbidity (cardiovascular morbidity)
+- Behavioral risk factors
+- Protective factors
+- Patient‑centered approaches
+- Comprehensive ASCVD prevention
+- Team‑based care
+- Pharmacist interventions in cardiovascular care
+- Diabetes care (as a cardiovascular risk modifier)
+- Class of recommendation
+- Level of evidence
+- Evidence‑based guidelines
+- Clinical practice guidelines
+- Systematic review
+- Meta‑analysis
+- Statin therapy (implicitly referenced in cholesterol management)
+
+Page 30 Extracted Terms:
+- Cardiovascular disease  
+- Heart disease  
+- Hypertension  
+- Blood pressure  
+- Blood pressure control  
+- Blood pressure management  
+- Atherosclerotic cardiovascular disease  
+- Myocardial infarction  
+- Stroke  
+- Cardiometabolic disease  
+- Coronary artery disease  
+- Heart failure  
+- Lipid management / Dyslipidemia  
+- Cholesterol  
+- LDL cholesterol  
+- HDL cholesterol  
+- Triglycerides  
+- Hyperlipidemia  
+- Prevention of cardiovascular disease  
+- Primary prevention of cardiovascular disease  
+- Secondary prevention of cardiovascular disease  
+- Cardiovascular risk  
+- Cardiovascular risk assessment  
+- Cardiovascular risk score  
+- Atherosclerotic cardiovascular disease risk score  
+- Framingham risk score  
+- Risk factor modification  
+- Lifestyle modification  
+- Physical activity  
+- Sedentary behavior  
+- Dietary patterns  
+- Obesity  
+- Body mass index (BMI)  
+- Overweight  
+- Body size misperception  
+- Sleep disturbances / sleep deficiency  
+- Health literacy  
+- Social determinants of health  
+- Built environment  
+- Neighborhood environment  
+- Health disparities / health inequalities  
+- Advanced practice providers  
+- Team‑based care  
+- Shared decision‑making  
+- Patient activation  
+- Medication adherence  
+- Glycemic control (in type 2 diabetes)  
+- Preventive cardiology  
+- Clinical guidelines on cardiovascular disease  
+- Lifestyle interventions for cardiovascular health  
+- Cardiovascular disease outcomes  
+- Cardiovascular disease prevention strategies  
+- Cardiovascular disease risk reduction  
+
+*(Listed as key terms relevant to heart disease extracted from the provided clinical guideline references.)*
+
+Page 31 Extracted Terms:
+- ACC/AHA  
+- 2019 ACC/AHA Guideline on Primary Prevention of Cardiovascular Disease  
+- 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APH/ASPC/NLA/PCNA Guideline on Blood Cholesterol Management  
+- 2013 ACC/AHA Guideline on Treatment of Blood Cholesterol  
+- ASCVD (Atherosclerotic Cardiovascular Disease)  
+- Cardiovascular disease (CVD)  
+- Cardiovascular risk assessment  
+- Coronary artery calcium (CAC) score  
+- Coronary heart disease (CHD)  
+- Coronary artery disease (CAD)  
+- Myocardial infarction (MI)  
+- Angina pectoris  
+- Atherosclerosis  
+- Chronic disease risk behaviors  
+- Lipids (total cholesterol, LDL, HDL, triglycerides)  
+- Low‑density lipoprotein (LDL)  
+- High‑density lipoprotein (HDL)  
+- Non‑HDL cholesterol  
+- C‑reactive protein (CRP)  
+- Statins (e.g., rosuvastatin, atorvastatin)  
+- Statin eligibility  
+- Lifespan risk of cardiovascular disease  
+- Lifetime risk of cardiovascular disease  
+- 10‑year ASCVD risk calculator  
+- Multi‑Ethnic Study of Atherosclerosis (MESA)  
+- Framingham Risk Score  
+- ESC guidelines (European Society of Cardiology)  
+- Coronary artery calcium zero (CAC=0) as negative risk marker  
+- Traditional cardiovascular risk factors  
+- Family history of premature coronary heart disease  
+- Pre‑eclampsia  
+- Preterm delivery  
+- Early menopause  
+- Erectile dysfunction as a cardiovascular predictor  
+- HIV infection and cardiovascular risk  
+- Rheumatoid arthritis and cardiovascular events  
+- Systemic lupus erythematosus (SLE) and myocardial infarction  
+- Smoking cessation guidelines  
+- Diabetes mellitus type 2 and cardiovascular risk  
+- Glycaemic control  
+- Insomnia and risk of cardiovascular disease  
+- Social engagement and chronic disease risk  
+- Psychological status and cardiovascular health  
+- Multimorbidity  
+- Risk prediction functions  
+- Coronary artery calcium versus age in older adults  
+- Negative risk markers (e.g., CAC=0)  
+- Non‑traditional risk markers  
+- Risk factor burden at age 50  
+- Risk factor burden at age 70  
+- Coronary artery calcium imaging  
+- Cardiovascular health outcomes in astronauts (AstroCHARM)  
+- Guideline‑based statin eligibility evaluation  
+- Coronary artery calcium prevalence and prognostic implications  
+- BioImage Study (personalized statin allocation)  
+- Coronary artery calcium improvement of risk assessment  
+- Coronary artery calcium score interpretation  
+- Coronary calcification in low‑risk women  
+- Coronatory artery calcium as a prognostic tool  
+- Coronary calcium scoring in asymptomatic individuals  
+- Coronary artery calcium and longevity  
+- Coronary artery calcium in African American individuals  
+- Coronary artery calcium in Asian Americans  
+- Coronary artery calcium in different ethnicities  
+- Cardiovascular disease risk calculators  
+- ASCVD risk prediction models  
+- Coronary artery calcium and statin therapy initiation  
+- Coronary artery calcium and lifestyle preventive therapies  
+- Coronary artery calcium and statin allocation  
+- Coronary artery calcium as a determinant of future cardiovascular events  
+- Cardiovascular disease outcomes in the Jackson Heart Study  
+- Coronary artery calcium and treatment decisions  
+- Cardiovascular health promotion series  
+- Coronary artery calcium and clinical decision making.
+
+Page 32 Extracted Terms:
+- Cardiovascular disease (CVD)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Primary prevention of CVD  
+- Secondary prevention of CVD  
+- Cardiovascular risk prediction / risk assessment  
+- Pooled cohort equations (ACC/AHA)  
+- Framingham risk score / study  
+- Reynolds risk score  
+- European Society of Cardiology (ESC/EAS) guidelines  
+- American College of Cardiology / American Heart Association (ACC/AHA) guidelines  
+- Joint British Societies (JBS3) consensus  
+- Canadian Cardiovascular Society dyslipidaemia guidelines  
+- US Preventive Services Task Force recommendations (aspirin, statin use)  
+- Statin therapy / statin prescribing  
+- Aspirin use for primary prevention  
+- Dyslipidemia management  
+- Lipid goals (LDL‑C, HDL‑C, triglycerides)  
+- Coronary artery calcium (CAC) scoring  
+- Coronary artery calcium testing guidance  
+- Hypertension / blood pressure management  
+- Lifestyle modification (diet, exercise, smoking cessation)  
+- Mediterranean diet (extra‑virgin olive oil, nuts)  
+- Plant‑based diets  
+- Diet quality (nutrient composition, fiber)  
+- C‑reactive protein (CRP) as a risk marker  
+- Risk factor clustering (age, sex, smoking, diabetes, hyperlipidemia, hypertension)  
+- Socioeconomic position / social deprivation status  
+- Race/ethnicity related risk variation  
+- Gender‑specific risk models  
+- Revascularization (PCI, CABG)  
+- Global cardiovascular risk (e.g., Reynolds score)  
+- Risk factor algorithms for specific populations (e.g., Veterans Affairs, Women’s Health Initiative, China‑PAR, Korean risk model)  
+- Prevention strategies in specialty populations (rheumatoid arthritis, diabetes)  
+- Cardiovascular outcomes (myocardial infarction, stroke, heart failure)  
+- Clinical decision tools (e.g., clinical risk calculators, calculators embedded in electronic health records)  
+- Risk prediction performance (validity, calibration, discrimination)  
+- Risk score recalibration / customization  
+- Evidence‑based guideline implementation  
+- Prevention of cardiovascular disease in adults  
+
+These terms capture the key concepts related to heart disease and cardiovascular disease prevention and management that are referenced throughout the provided guideline citations.
+
+Page 33 Extracted Terms:
+- Heart disease  
+- Cardiovascular disease  
+- Coronary heart disease  
+- Myocardial infarction  
+- Stroke  
+- Ischemic heart disease  
+- Ischemic stroke  
+- Cardiovascular mortality  
+- Cardiometabolic health  
+- Trans fatty acids (risk factor for heart disease)  
+- Dietary sodium (risk factor for heart disease)  
+- Added sugar (risk factor for heart disease)  
+- Red and processed meat (risk factor for heart disease)  
+- Long‑chain n‑3 polyunsaturated fatty acids (protective factor for heart disease)  
+- Pro‑vegetarian food pattern (protective factor for heart disease)  
+
+Page 34 Extracted Terms:
+- Cardiovascular disease  
+- Heart disease  
+- Cardiovascular disease prevention  
+- Coronary heart disease  
+- Coronary artery disease  
+- Stroke  
+- Ischemic heart disease  
+- Heart failure  
+- Atrial fibrillation  
+- Hypertension  
+- Type 2 diabetes mellitus  
+- Metabolic syndrome  
+- Obesity  
+- Overweight  
+- Central obesity (waist circumference, waist‑hip ratio)  
+- Body mass index (BMI)  
+- Bariatric surgery (gastric bypass, sleeve gastrectomy, adjustable gastric banding)  
+- Intensive lifestyle intervention (diet, exercise)  
+- Physical activity  
+- Aerobic training  
+- Resistance training (strength training)  
+- Isometric exercise  
+- Sedentary behaviour  
+- Subclinical coronary artery disease  
+- Acute cardiovascular events  
+- Cardiovascular morbidity  
+- Cardiovascular mortality  
+- Cardiometabolic health  
+- Cardiovascular disease risk factors  
+- ACC/AHA primary‑prevention guidelines  
+- European society of cardiology cardiovascular‑disease‑prevention guidelines  
+- American Heart Association/ACC guidelines on obesity and overweight  
+- WHO guidelines on body‑mass index for Asian populations  
+- American Heart Association scientific statements on physical activity in health care settings  
+- American Heart Association Council on nutritional, physical activity, and metabolism  
+- American Heart Association Council on clinical cardiology  
+- American Heart Association task force on practice guidelines  
+- American College of Cardiology/Heart Association task force on obesity  
+- American College of Cardiology/Heart Association task force on type 2 diabetes prevention  
+- National Physical Activity Plan (American Heart Association)
+
+Page 35 Extracted Terms:
+- Cardiovascular disease  
+- Coronary artery disease  
+- Coronary heart disease  
+- Cardiovascular risk  
+- Cardiovascular outcomes  
+- Heart disease  
+- Stroke  
+- Acute coronary events  
+- Vascular events  
+- High blood cholesterol  
+- LDL cholesterol  
+- Statin therapy  
+- Rosuvastatin  
+- Lovastatin  
+- Simvastatin  
+- Ezetimibe  
+- Empagliflozin  
+- Dapagliflozin  
+- Canagliflozin  
+- Liraglutide  
+- Semaglutide  
+- Albiglutide  
+- GLP‑1 receptor agonist  
+- C‑reactive protein
+
+Page 36 Extracted Terms:
+- Coronary artery calcium score  
+- Statin therapy  
+- Familial hypercholesterolemia  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- High‑density lipoprotein cholesterol (HDL‑C)  
+- Apolipoprotein B  
+- Lipoprotein(a)  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Coronary heart disease (CHD)  
+- Cardiovascular disease (CVD)  
+- Primary prevention of cardiovascular disease  
+- Cardiovascular risk assessment  
+- Cardiovascular risk scores (e.g., Framingham, ACC/AHA)  
+- High‑intensity statin therapy  
+- Cholesterol‑lowering interventions  
+- Metabolic syndrome  
+- Type 2 diabetes mellitus  
+- Type 1 diabetes mellitus  
+- Myocardial infarction (MI)  
+- Acute coronary syndrome (ACS)  
+- Dyslipidemia  
+- Elevated high‑sensitivity C‑reactive protein (hs‑CRP)  
+- Psoriasis (as a cardiovascular risk factor)  
+- Human immunodeficiency virus (HIV) (as a cardiovascular risk factor)  
+- Coronary artery disease (CAD)  
+- Coronary artery calcium (CAC) testing  
+- Statin eligibility criteria  
+- Coronary artery plaque  
+- Lipid‑lowering agents (e.g., pravastatin, atorvastatin, rosuvastatin, simvastatin)  
+- Coronary artery calcium reclassification  
+- Cardiovascular event risk  
+- Cardiovascular mortality  
+- Risk discrimination  
+- Risk calibration  
+- Lifestyle preventive therapies  
+- Calibrated risk scores  
+- Clinical utility of genetic sequencing (e.g., FH genes)  
+- Emerging lipid‑lowering therapies  
+- Cardiovascular risk stratification in multi‑ethnic cohorts.
+
+Page 37 Extracted Terms:
+**Key heart‑disease related terms extracted from the provided text**
+
+- Coronary artery disease  
+- Cardiovascular disease (CVD)  
+- Atherosclerosis  
+- Coronar​ry artery calcium (CAC)  
+- CAC score  
+- Statin eligibility / statin therapy  
+- Cholesterol / dyslipidemia  
+- Primary prevention  
+- Risk stratification  
+- Non‑traditional risk markers  
+- C‑reactive protein (CRP)  
+- Family history of coronary heart disease  
+- Coronary heart disease (CHD)  
+- Myocardial infarction (MI)  
+- Peripheral arterial disease (PAD)  
+- Peripheral neuropathy  
+- Diabetic retinopathy  
+- Diabetes mellitus (type 2)  
+- Albuminuria / renal function as CVD predictors  
+- Stroke / cerebrovascular disease  
+- Hypertension / high blood pressure  
+- Sodium intake / sodium reduction  
+- Potassium intake / potassium supplementation  
+- DASH diet (Dietary Approaches to Stop Hypertension)  
+- Exercise training / aerobic exercise  
+- Isometric exercise training  
+- Lifestyle modification  
+- Weight loss / weight reduction  
+- Blood pressure management  
+- Clinical guidelines (ACC/AHA, ESC, AHA/ACC)  
+- Trial of Hypertension Prevention (THP)  
+- PREMIER trial  
+- Global sodium consumption  
+- Renin‑angiotensin‑aldosterone system (RAS) effects  
+- Lipid profile (cholesterol, triglycerides)  
+
+These terms capture the central concepts related to heart disease discussed in the cited guidelines and studies.
+
+Page 38 Extracted Terms:
+- Blood pressure  
+- Hypertension  
+- Systolic blood pressure  
+- Diastolic blood pressure  
+- Intensive blood pressure lowering  
+- Standard blood pressure control  
+- Antihypertensive treatment  
+- Blood pressure lowering drugs  
+- SPRINT study  
+- ACC/AHA guideline  
+- DASH diet  
+- Exercise  
+- Resistance training  
+- Alcohol consumption  
+- Alcohol reduction  
+- Chronic kidney disease  
+- Renal disease  
+- Proteinuria  
+- Protein restriction  
+- Angiotensin‑converting enzyme inhibition  
+- AASK trial  
+- REIN‑2 trial  
+- Type 2 diabetes mellitus  
+- Diabetes  
+- Left ventricular hypertrophy  
+- Cardiovascular disease  
+- Coronary heart disease  
+- Cardiovascular risk  
+- Metabolic risk  
+- Lifestyle interventions  
+- Diet  
+- Weight loss  
+- Metabolic syndrome  
+- Hypercholesterolemia  
+- Hyperlipidemia  
+- Smoking  
+- Physical activity  
+- Lifestyle factors  
+- Markov decision analysis  
+- Meta‑analysis  
+- Systematic review  
+- Randomized controlled trial  
+- Prospective study  
+- Vascular mortality  
+- Risk factor management  
+- Blood pressure target  
+- Microalbuminuria  
+- Macroalbuminuria
+
+Page 39 Extracted Terms:
+- Cardiovascular disease  
+- Primary prevention of cardiovascular disease  
+- Blood pressure  
+- Cardiovascular biomarkers  
+- Hypertension  
+- Cardiovascular risk  
+- Cardiovascular risk assessment  
+- Myocardial infarction  
+- Stroke  
+- Diabetes mellitus  
+- Cardiovascular events  
+- Heart failure  
+- Coronary artery disease (implied)  
+- Tobacco use  
+- Smoking cessation  
+- Electronic cigarettes  
+- Cardiac sympathetic activity  
+- Oxidative stress  
+- DASH diet  
+- Intensive blood‑pressure control  
+- Intensive glucose lowering  
+- Intensive blood‑pressure reduction  
+- Blood‑pressure trajectories  
+- Hypertension definition (Seventh Report/JNC7)  
+- Cardiovascular disease prevention  
+- Antihypertensive medication treatment  
+- Intensive blood‑pressure reduction studies  
+- Cardiovascular outcomes in diabetes  
+- Cardiovascular risk with second‑hand smoke exposure  
+- Cardiovascular risk in smokers  
+- Cardiovascular risk in e‑cigarette users  
+
+Page 40 Extracted Terms:
+- Cardiovascular disease  
+- Primary prevention  
+- Aspirin  
+- Bleeding risk  
+- Coronary circulation  
+- Cardiovascular events  
+- Atherosclerosis / Atherosclerotic cardiovascular disease  
+- Heart failure  
+- Stroke  
+- Peripheral arterial disease  
+- Diabetes mellitus  
+- Antithrombotic therapy  
+- Low‑dose aspirin  
+- High‑dose aspirin  
+- Acute coronary events  
+- Body weight / dose relationship  
+- European Society of Cardiology guidelines  
+- American Heart Association statements  
+- American Diabetes Association position statement
+
+Page 41 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- Cardiovascular disease  
+- Primary prevention of cardiovascular disease  
+- Blood‑pressure control  
+- Hypertension (HTN)  
+- Intensive blood‑pressure management  
+- Statin therapy / statin use  
+- Coronary heart disease (CHD)  
+- Stroke (cerebrovascular disease)  
+- Vascular risk levels  
+- Cardiovascular events  
+- Lifestyle counseling  
+- Behavioral counseling  
+- Diet/healthy diet  
+- Physical activity/exercise  
+- Weight‑loss interventions  
+- Obesity  
+- Glucose control / abnormal glucose  
+- Type 2 diabetes mellitus  
+- Tobacco cessation  
+- Aspirin (for primary prevention)  
+
+These terms capture the key concepts related to heart disease and its prevention that appear in the provided guideline excerpts.
+
+Page 42 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+- Cardiovascular  
+- Coronary  
+- Heart  
+- Myocardial infarction (MI)  
+- CVD (Cardiovascular Disease)  
+- CHD (Coronary Heart Disease)  
+- Cerebrovascular  
+- Stroke  
+- Microvascular  
+- Mortality  
+- Prevent*  
+- Tobacco Use  
+- Smoking / cigarette use  
+- Electronic Cigarettes / e‑cigarettes / vape / vaping (ENDS)  
+- Aspirin (acetylsalicylic acid)  
+- Clopidogrel  
+- Diet / Diet Therapy (healthy diet)  
+- Obesity / Weight Loss (overweight)  
+- Type 2 Diabetes Mellitus (diabetes, prediabetes, impaired glucose tolerance)  
+
+These terms collectively capture disease entities, risk factors, preventive therapies, and related interventions discussed in the guideline.
+
+Page 43 Extracted Terms:
+- Cardiovascular disease  
+- Primary prevention of cardiovascular disease  
+- Coronary heart disease (CHD)  
+- Atherosclerosis  
+- Acute coronary syndrome (ACS)  
+- Angina (stable, unstable)  
+- Unstable angina  
+- Myocardial infarction (MI)  
+- ST‑elevation myocardial infarction (STEMI)  
+- Non‑ST‑elevation myocardial infarction (NSTEMI)  
+- Cardiogenic shock  
+- Myocardial stunning  
+- No‑reflow phenomenon  
+- Sudden cardiac death  
+- Heart arrest  
+- Stroke (cerebrovascular, brain infarction, brain‑stem infarction)  
+- Cerebrovascular disease  
+- Hypertension  
+- Lipids  
+- Cholesterol (hypercholesterolemia)  
+- Diabetes mellitus  
+- Obesity  
+- Smoking  
+- Aspirin (antiplatelet therapy)  
+- Waist circumference (obesity marker)  
+- Exercise & physical activity (modifiable risk factor)  
+
+These terms capture the core diseases, syndromes, risk factors, and related interventions discussed in the guideline excerpts.
+
+Page 44 Extracted Terms:
+**Key terms related to heart disease**
+
+- Cerebral Infarction  
+- Myocardial ischemia  
+- Dementia multi infarct  
+- Infarction anterior cerebral artery  
+- Infarction middle cerebral artery  
+- Infarction posterior cerebral artery  
+- Myocardial revascularization  
+- Coronary artery bypass  
+- Internal mammary coronary artery anastomosis  
+- Angioplasty  
+- Angioplasty transluminal percutaneous coronary  
+- Heart failure (HF)  
+- Hospitalization / rehospitalization  
+- Atherectomy coronary  
+- Coronary stent  
+- CABG (coronary artery bypass graft)  
+- Bypass grafts  
+- Carotid pathology  
+- Non‑coronary revascularization procedure  
+- Carotid revascularization  
+- Lower extremity revascularization  
+- Percutaneous transluminal angioplasty (PTA)  
+- Stent placement  
+- Abdominal aortic aneurysm repair  
+- AAA repair  
+- Risk score  
+- Coronary risk modification  
+- Cardiovascular diseases (CVD)  
+- Cardiovascular disease  
+- Coronary disease  
+- Coronary artery disease (CAD)  
+- Myocardial infarction (MI)  
+- CHF / CHD  
+- Cerebrovascular disorders  
+- Dyspnea paroxysmal  
+- Edema cardiac  
+- Exercise test (Graded exercise test / GXT)  
+- Lifestyle / exercise / training / walking  
+- VO₂ max / maximal metabolic equivalent (METs)  
+- Physical activity  
+- Acute Coronary Syndrome (ACS)  
+- Acute coronary syndromes  
+- Angina unstable  
+- Cardiogenic shock (shock)  
+- Myocardial stunning  
+- No‑reflow phenomenon  
+- Cardiac arrest  
+- ST‑elevation myocardial infarction (STEMI)  
+- Non‑ST‑elevation myocardial infarction (NSTEMI)  
+- Death / sudden cardiac arrest  
+- Stroke  
+- Brain infarction / brain stem infarctions  
+- Lateral medullary syndrome  
+
+Page 45 Extracted Terms:
+- Cardiovascular diseases
+- Cardiovascular OR CVD
+- Cardiovascular disease
+- Coronary disease
+- coronary
+- Coronary artery disease
+- Myocardial infarction
+- Heart failure
+- CHF OR CHD
+- Cerebrovascular disorders
+- “dyspnea paroxysmal”
+- “edema cardiac”
+- physiopathology
+- Non‑coronary revascularization procedure
+- Carotid revascularization
+- Lower extremity revascularization
+- Percutaneous transluminal angioplasty
+- Stent placement
+- Abdominal aortic aneurysm repair
+- AAA repair
+- complications
+- Event? OR outcome? OR episode?
+- Risk score
+- Coronary risk modification
+
+Page 46 Extracted Terms:
+**Key terms related to heart disease**
+
+- ACC/AHA Guideline  
+- Primary Prevention  
+- Cardiovascular Disease (CVD)  
+- Heart Disease  
+- Prevention of Heart Disease  
+- Cardiology  
+- Preventive Cardiology  
+- Cardiologist / Cardiologists  
+- Cardiac  
+- Cardiac Disease  
+- Coronary Artery Disease (CAD)  
+- Heart Failure  
+- Hypertension  
+- Dyslipidemia  
+- Diabetes / Diabetes Mellitus  
+- Statins  
+- Blood Pressure (BP)  
+- Lifestyle Modification  
+- Physical Activity / Exercise  
+- Smoking Cessation  
+- Nutrition / Diet  
+- Cardiovascular Risk Assessment  
+- Risk Factors  
+- Framingham Risk Score  
+- ASCVD Risk Calculator  
+- Lipid Management  
+- Lipids  
+- LDL‑C / LDL  
+- HDL‑C / HDL  
+- Triglycerides  
+- Atherosclerosis  
+- Plaque  
+- Endothelial Function  
+- Inflammation  
+- Biomarkers (e.g., hs‑CRP)  
+- Systolic Blood Pressure  
+- Diastolic Blood Pressure  
+- Blood Glucose / HbA1c  
+- Weight Management / Obesity  
+- Sleep Apnea  
+- Mediterranean Diet  
+- DASH Diet  
+- Non‑invasive Imaging  
+- Stress Test  
+- Coronary CT Angiography  
+- Echocardiography  
+- Cardiac Catheterization  
+- Heart Rate Control  
+- β‑Blockers  
+- ACE Inhibitors  
+- Angiotensin‑Receptor Blockers (ARBs)  
+- Calcium Channel Blockers  
+- Antiplatelet Therapy (e.g., Aspirin, Clopidogrel)  
+- PCSK9 Inhibitors  
+- Bile Acid Sequestrants  
+- Fibrates  
+- Niacin  
+- Lipoprotein(a) / Lp(a)  
+- Apolipoprotein B  
+- LDLR  
+- Cardiovascular Risk Algorithm  
+- Prevention Guidelines  
+- Clinical Statements  
+- Evidence Grade / Recommendation Level  
+- Implementation Strategies  
+- Physician Education / Patient Education  
+- Shared Decision‑Making  
+- Multidisciplinary Care  
+- Cardiovascular Institute / Prevention Program  
+- Quality Improvement / Performance Measures  
+- Health Policy / Quality Metrics  
+
+
+These terms capture the principal concepts and interventions associated with heart disease prevention and care as referenced throughout the guideline and author affiliations.
+
+Page 47 Extracted Terms:
+Cardiovascular disease  
+Primary prevention of cardiovascular disease  
+Cardiology  
+Heart disease  
+Cardiovascular risk  
+Cardiovascular medications  
+Cardiopulmonary arrest  
+Out‑of‑hospital cardiovascular event  
+ACC/AHA  
+AHA  
+Cleveland Heart Lab  
+Tendyne  
+Athersys  
+Cardiovascular device  
+Cardiovascular therapy  
+Coronary artery disease  
+Heart failure  
+Myocardial infarction  
+Arrhythmia  
+Stroke  
+Percutaneous coronary intervention (PCI)  
+Coronary artery bypass grafting (CABG)  
+Implantable cardioverter‑defibrillator (ICD)  
+Cardiac resynchronization therapy (CRT)  
+Transcatheter aortic valve replacement (TAVR)  
+Heart valve replacement  
+Cardiomyopathy  
+Angina  
+Hypertension  
+Dyslipidemia  
+Diabetes mellitus
+
+
+
+Page 48 Extracted Terms:
+- Cardiovascular Disease  
+- Heart Disease  
+- Heart Failure  
+- Cardiac Electrophysiology  
+- Primary Prevention of Cardiovascular Disease  
+- Cardiovascular Prevention  
+- Cardiology  
+- Cardiovascular Medicine  
+- ACC/AHA Guideline  
+- American Heart Association  
+- American College of Cardiology  
+- Heart Failure Society of America  
+- Cardiovascular Division  
+- Cardiovascular Research  
+- Cardiovascular Health  
+- Cardiovascular Epidemiology  
+- Cardiovascular Risk Factors  
+- Cardiovascular Outcomes  
+- Cardiovascular Management  
+- Cardiovascular Screening  
+
+Page 49 Extracted Terms:
+- ACC/AHA  
+- Primary Prevention  
+- Cardiovascular Disease  
+- Heart Disease  
+- Cardiology  
+- Cardiovascular Medicine  
+- Cardiac Rehabilitation  
+- Nuclear Cardiology  
+- American Heart Association  
+- American Society of Nuclear Cardiology  
+- National Heart, Lung, and Blood Institute (NHLBI)  
+- Cardiovascular Research  
+- Cardiac Prevention  
+- Cardiovascular Disease Prevention  
+- Cardiac Rehabilitation and Prevention  
+- Cardiovascular Health  
+- Heart Failure (inferred from cardiology focus)
+
+Page 50 Extracted Terms:
+- Cardiovascular disease  
+- Heart disease  
+- Primary prevention of cardiovascular disease  
+- ACC/AHA guideline  
+- Cardiologic / cardiology  
+- Cardiovascular disease prevention  
+- Lipid disorders  
+- LDL‑C (low‑density lipoprotein cholesterol)  
+- Atherosclerosis  
+- Lipid metabolomics  
+- Advanced lipid disorders program  
+- Cardiovascular disease fellowship program  
+- Cardiovascular disease (in clinical statements and guidelines)
+
+Page 51 Extracted Terms:
+- Cardiovascular disease  
+- Primary prevention of cardiovascular disease  
+- Heart disease  
+- Cardiovascular imaging  
+- Cardiac computed tomography (Cardiac CT)  
+- Preventive cardiology  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- National Heart, Lung, and Blood Institute (NHLBI)  
+- American College of Cardiology (ACC)  
+- American Heart Association (AHA)  
+- ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease  
+- Cardiovascular computed tomography  
+- Cardiac imaging modalities  
+- Clinical statements and guidelines related to cardiovascular disease  
+- Cardiovascular disease prevention  
+
+These terms capture the key cardiovascular/heart disease concepts referenced in the provided text.
+

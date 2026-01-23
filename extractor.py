@@ -13,7 +13,7 @@ load_dotenv()
 
 OPEN_ROUTER_API_KEY = os.getenv("OPEN_ROUTER_API_KEY")
 
-GPT_OSS_ENDPOINT = os.getenv("GPT-OSS-ENDPOINT")
+GPT_OSS_ENDPOINT = os.getenv("GPT_OSS_ENDPOINT")
 
 def extract_text(pdf_file):
     doc = pymupdf.open(pdf_file) # open a document
@@ -36,12 +36,13 @@ def extract_concepts(text):
 
     # calls openrouter API
     client = OpenAI(
-        base_url=GPT_OSS_ENDPOINT
+        base_url=GPT_OSS_ENDPOINT,
+        api_key="dummy-key"
     )
 
     # API call to extract concepts
     response = client.chat.completions.create(
-    model="gpt-oss-20b",
+            model="gpt-oss:latest",
     messages=[
             {"role": "system", "content": "You are an expert at extracting terms related to heart disease from clinical guidelines."},
             {"role": "user", "content": f"Extract key terms related to heart disease from the following text:\n\n{text}\n\nFormat the output as a list of terms."}
