@@ -28,7 +28,7 @@ def extract_text(pdf_file):
             text = page.get_text().encode("utf8") # get plain text (is in UTF-8)
 
             terms = extract_concepts(text.decode('utf8'))
-            print(f"Extracted terms from page {i + 1}:\n {terms}\n")
+            #print(f"Extracted terms from page {i + 1}:\n {terms}\n")
             f.write(f"Page {i + 1} Extracted Terms:\n{terms}\n\n")
 
 
@@ -57,7 +57,7 @@ def extract_concepts(text):
     return terms
 
 def extract_concepts_ollama(text):
-    print("Extracting concepts using Ollama...")
+    #print("Extracting concepts using Ollama...")
     messages = [
         {
             "role": "system",
