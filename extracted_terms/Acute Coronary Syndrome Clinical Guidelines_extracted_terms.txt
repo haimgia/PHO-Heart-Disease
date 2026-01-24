@@ -1,1015 +1,3300 @@
 Page 1 Extracted Terms:
+**Key heart‑disease related terms**
+
 - Acute Coronary Syndromes (ACS)  
 - ST‑Elevation Myocardial Infarction (STEMI)  
-- Non‑ST‑Elevation Acute Coronary Syndromes (NSTE‑ACS)  
-- Myocardial Infarction (MI)  
+- Non‑ST‑Elevation Acute Coronary Syndromes (NST‑ACS)  
 - Coronary Artery Disease (CAD)  
-- Coronary Artery Revascularization  
-- Percutaneous Coronary Intervention (PCI)  
-- Primary Percutaneous Coronary Intervention  
+- Primary Percutaneous Coronary Intervention (PCI)  
 - Dual Antiplatelet Therapy (DAPT)  
-- Cardiovascular Angiography  
+- Coronary Artery Revascularization  
+- Myocardial Infarction (MI)  
+- Coronary Angiography  
+- Cardiac Catheterization  
+- ACS Management Guideline  
+- Revascularization Therapy  
 - Cardiovascular Interventions  
-- Duration of Dual Antiplatelet Therapy in Coronary Artery Disease  
+- Emergency Cardiovascular Care  
+- Cardiovascular Angioplasty  
+
+These terms capture the core concepts and clinical interventions discussed in the guideline text.
 
 Page 2 Extracted Terms:
 - Acute Coronary Syndrome (ACS)  
-- Acute Coronary Syndromes (plural)  
-- Angina, unstable  
-- Anticoagulants  
-- Antiplatelet therapy  
-- Aspirin  
-- Atrial fibrillation  
-- Beta‑blocker therapy  
-- Cardiogenic shock  
-- Cardiovascular diseases  
-- Catheterization laboratory  
-- Coronary angiography  
-- Coronary artery disease (CAD)  
-- Coronary syndrome  
-- Emergency medical services (EMS)  
-- Fibrinolytic agents / fibrinolytic therapy  
-- Glycoprotein IIb/IIIa inhibitors  
-- Hemorrhage  
-- Intracoronary imaging  
-- Intravenous P2Y12 inhibition  
-- Major adverse cardiovascular events (MACE)  
-- Morphine  
-- Multivessel CAD (multivessel coronary artery disease)  
-- Myocardial infarction (MI)  
-- Non‑ST‑segment elevation myocardial infarction (NSTEMI)  
-- Oral P2Y12 inhibitors  
-- Oxygen therapy  
-- Percutaneous coronary intervention (PCI)  
-- Prehospital assessment / prehospital care  
-- Primary percutaneous coronary intervention (PPCI)  
-- Revascularization  
-- Renin‑Angiotensin‑Aldosterone System (RAAS) inhibitors  
-- Risk stratification tools  
-- Risk (general)  
-- ST‑segment elevation myocardial infarction (STEMI)  
-- Time factors (time‑to‑treatment)  
-- Treatment outcome  
-- Vascular access approach for PCI  
-- Aspirational thrombectomy (aspiration thrombectomy)  
-- CABG surgery (coronary artery bypass graft)  
-- Regional systems of STEMI care  
-- Routine invasive approach (vs. selective invasive approach)  
-- Standard medical therapies for STEMI and NSTE‑ACS  
-- Cardiac arrest management  
-- Analgesics (pain management)  
-- Lipid management  
-- Parenteral anticoagulation  
-- Reperfusion strategies (including fibrinolysis and PCI)  
-- In‑hospital assessment of ACS patients  
-- Emergency medical services (EMS) considerations for ACS  
-- Prehospital management considerations for suspected ACS  
-- Revascularization in ACS with cardiogenic shock  
+- Coronary Artery Disease (CAD)  
+- Myocardial Infarction (MI)  
+- ST‑Segment Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑Segment Elevation Myocardial Infarction (NSTEMI/NSTE‑ACS)  
+- Unstable Angina  
+- Coronary Syndromes  
+- Fibrinolytic Therapy (Fibrinolytic Agents)  
+- Percutaneous Coronary Intervention (PCI)  
+- Primary PCI (PPCI)  
+- Urgent Coronary Artery Bypass Grafting (CABG)  
+- Antiplatelet Therapy  
+- Aspirin (acetylsalicylic acid)  
+- P2Y12 Inhibitors (oral and intravenous)  
+- Glycoprotein IIb/IIIa Inhibitors  
+- Parenteral Anticoagulation (heparin, enoxaparin, etc.)  
+- Anticoagulants (general)  
+- Beta‑Blocker Therapy  
+- Renin‑Angiotensin‑Aldosterone System (RAAS) Inhibitors (ACE inhibitors, ARBs, aldosterone antagonists)  
+- Lipid Management (statins, LDL‑c reduction)  
+- Oxygen Therapy  
+- Analgesics (morphine, etc.)  
+- Cardiogenic Shock  
+- Risk Stratification Tools (e.g., TIMI, GRACE scores)  
+- Prehospital Assessment and Management  
+- Emergency Medical Services (EMS)  
+- Regional STEMI Care Systems  
+- Intravenous Glycoprotein IIb/IIIa Inhibition  
+- Intravenous P2Y12 Inhibition  
+- Use of Aspiration Thrombectomy  
+- Use of Intracoronary Imaging (IVUS, OCT)  
+- Vascular Access Approach for PCI (radial vs femoral)  
+- Routine Invasive vs Selective Invasive Approach in NSTE‑ACS  
+- Multivessel Coronary Disease Management in ACS  
+- Revascularization Strategies in Cardiogenic Shock  
 
-*(All terms are presented as distinct, heart‑disease‑related concepts extracted from the provided guideline text.)*
+These terms capture the core heart‑disease concepts and therapeutic approaches outlined in the guideline.
 
 Page 3 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
+- ST‑segment elevation ACS (STEMI)  
+- Non‑ST‑segment elevation ACS (NSTEMI)  
 - Cardiogenic Shock  
-- Mechanical Complications (of ACS)  
-- Electrical Complications (of ACS)  
-- Sudden Cardiac Death  
-- Pericarditis (post‑MI)  
-- Myocardial Infarction (MI)  
-- Left Ventricular (LV) Thrombus  
+- Mechanical complications of ACS  
+- Electrical complications of ACS  
+- Sudden cardiac death  
+- Pericarditis after myocardial infarction (MI)  
+- Left ventricular (LV) thrombus after MI  
 - Cardiac Intensive Care Unit (CICU)  
-- Anemia in ACS  
-- Telemetry  
-- Non‑invasive Diagnostic Testing  
-- Discharge Planning  
-- Patient Education  
-- Post‑discharge Follow‑up / Systems of Care Coordination  
-- Cardiac Rehabilitation  
 - Dual Antiplatelet Therapy (DAPT)  
-- Percutaneous Coronary Intervention (PCI)  
-- Antiplatelet Therapy  
-- Anticoagulation (post‑discharge)  
-- Lipid‑lowering Therapy / Lipid Levels Reassessment  
-- Sodium‑Glucose Co‑Transporter‑2 (SGLT‑2) Inhibitors  
-- Glucagon‑Like Peptide‑1 (GLP‑1) Receptor Agonists  
-- Chronic Colchicine Therapy  
-- Immunization (post‑ACS)  
-- P2Y12 Inhibitors (e.g., ticagrelor, prasugrel, clopidogrel)  
 - Aspirin  
+- P2Y12 inhibitor  
 - Ticagrelor  
 - Prasugrel  
 - Clopidogrel  
-- Proton Pump Inhibitor (PPI)  
-- High‑Intensity Statin Therapy  
+- Triple antiplatelet therapy  
+- Proton pump inhibitor (PPI)  
+- Bleeding risk management in ACS  
+- Long‑term anticoagulation in ACS  
+- High‑intensity statin therapy  
+- Low‑density lipoprotein (LDL) cholesterol  
 - Ezetimibe  
 - Evolocumab  
 - Alirocumab  
 - Inclisiran  
-- Bempedoic Acid  
-- Low‑Density Lipoprotein Cholesterol (LDL‑C)  
-- Non‑ST‑segment Elevation ACS (NSTE‑ACS)  
-- ST‑segment Elevation ACS (STEMI) – implied in guideline context  
-- Invasive Strategy (early angiography/revascularization)  
-- Revascularization (PCI or CABG)  
-- Radial Access Approach (vs. femoral)  
-- Femoral Access Approach  
-- Intracoronary Imaging (IVUS/OCT)  
-- Complex Coronary Lesions  
-- Major Adverse Cardiovascular Events (MACE)  
-- Gastrointestinal Bleeding Risk  
-- Bleeding Risk Management  
-- Hospitalization (in‑patient management)  
-- Long‑Term Anticoagulation  
-- P2Y12 Inhibitor Monotherapy (post‑PCI)  
-- Risk Stratification (ischemic vs. bleeding risk)  
-- Mechanical Circulatory Support (MCS) in ACS with cardiogenic shock.
+- Bempedoic acid  
+- Lipid‑lowering agents  
+- SGLT‑2 inhibitors  
+- GLP‑1 receptor agonists  
+- Chronic colchicine therapy  
+- Immunization (vaccine recommendations)  
+- Invasive strategy (angiography, revascularization)  
+- Percutaneous Coronary Intervention (PCI)  
+- Radial access approach (radial artery)  
+- Femoral access approach  
+- Intracoronary imaging  
+- Risk stratification (ischemic risk, bleeding risk)  
+- Coronary artery disease (CAD)  
+- Revascularization (stenting, CABG)  
+- Mechanical circulatory support (MCS)  
+- Anemia management in ACS  
+- Telemetry monitoring  
+- Length of hospital stay  
+- Non‑invasive diagnostic testing before discharge  
+- Discharge planning  
+- Patient education  
+- Post‑discharge follow‑up  
+- Cardiac rehabilitation  
+- Secondary prevention strategies  
+- Evidence gaps and future research directions  
+
 
 Page 4 Extracted Terms:
-- Acute Coronary Syndromes (ACS)  
-- ST‑segment elevation myocardial infarction (STEMI)  
-- Non‑ST‑segment elevation ACS (NSTEMI/unstable angina)  
+**Key Heart‑Disease–Related Terms Extracted**
+
 - Complete revascularization  
-- Coronary artery bypass graft surgery (CABG)  
+- ST‑segment elevation myocardial infarction (STEMI)  
+- Non‑ST‑segment elevation acute coronary syndrome (NSTE‑ACS)  
+- Coronary artery bypass graft (CABG)  
 - Multivessel percutaneous coronary intervention (PCI)  
-- Coronary artery disease (CAD)  
-- Multivessel disease  
-- Non‑culprit stenoses  
 - Cardiogenic shock  
-- Emergency revascularization  
-- Culprit vessel  
-- Non‑infarct‑related arteries  
-- Microaxial flow pump (e.g., Impella)  
-- Acute myocardial infarction (AMI)  
-- Bleeding complications  
-- Limb ischemia  
-- Renal failure / acute kidney injury  
-- Vascular access  
-- Weaning of mechanical circulatory support  
+- Microaxial flow pump (intra‑aortic balloon pump, V‑AX, Impella, etc.)  
 - Red blood cell transfusion  
-- Hemoglobin level (target 10 g/dL)  
-- Anemia (acute or chronic)  
-- Secondary prevention  
+- Hemoglobin level (10 g/dL target)  
+- Secondary prevention (post‑discharge care)  
 - Fasting lipid panel  
-- Lipid‑lowering therapy (e.g., statins)  
-- Cardiac rehabilitation (including home‑based programs)  
+- Lipid‑lowering therapy (statins, PCSK9 inhibitors, etc.)  
+- Cardiac rehabilitation (in‑person & home‑based programs)  
 - Cardiovascular disease (CVD)  
+- Cardiovascular health  
+- Clinical practice guidelines  
 - American College of Cardiology (ACC)  
 - American Heart Association (AHA)  
-- Guideline methodology / clinical practice guidelines  
+- Revascularization strategy  
+- Culprit vessel  
+- Non‑infarct‑related arteries  
+- Bleeding complications  
+- Limb ischemia  
+- Renal failure  
+- Vascular access  
+- Weaning of mechanical support  
+- Clinical judgment  
 - Shared decision‑making  
-- Comorbid conditions / comorbidities  
-- Value assessment (cost‑value considerations)  
-- Drug, device, or intervention evaluation.
+- Patient engagement  
+
+These terms capture the central concepts, interventions, and policy references relevant to heart disease within the guideline excerpt.
 
 Page 5 Extracted Terms:
-- Acute Coronary Syndromes (ACS)  
-- Angina, unstable  
-- Anticoagulants  
-- Aspirin  
-- Atrial fibrillation  
-- Cardiovascular diseases  
-- Coronary artery disease (CAD)  
-- Coronary syndrome  
-- Fibrinolytic agents  
-- Major adverse cardiovascular events (MACE)  
-- Myocardial infarction (MI)  
-- Non‑ST‑elevation myocardial infarction (NSTEMI)  
-- ST‑elevation myocardial infarction (STEMI)  
-- Percutaneous coronary intervention (PCI)  
-- Revascularization  
-- Morphine (as a treatment for chest pain)  
-- Hemorrhage (as a complication)  
-- Emergency medical services (EMS) – prehospital care for cardiac events  
-- Guideline‑directed medical therapy (GDMT)  
-- Risk assessment (cardiovascular risk)  
-- Treatment outcome (cardiac outcomes)  
+Acute coronary syndrome  
+Angina, unstable  
+Anticoagulants  
+Aspirin  
+Atrial fibrillation  
+Cardiovascular diseases  
+Coronary artery disease (CAD)  
+Coronary syndrome  
+Emergency medical services  
+Fibrinolytic agents  
+Major adverse cardiovascular events (MACE)  
+Morphine  
+Myocardial infarction  
+Non–ST-elevation myocardial infarction (NSTEMI)  
+Percutaneous coronary intervention (PCI)  
+Prehospital  
+Revascularization  
+Risk  
+ST-elevation myocardial infarction (STEMI)  
+Time factors  
+Treatment outcome  
+Guideline-directed medical therapy  
+Clinical evaluation  
+Diagnostic testing  
+Pharmacological treatments  
+Procedural treatments  
+Cardiovascular community  
+Heart disease
 
 Page 6 Extracted Terms:
-**Key heart‑disease terms extracted from the text**
-
 - Acute Coronary Syndromes (ACS)  
-- Acute Myocardial Infarction (AMI)  
-- Type 1 myocardial infarction  
-- Type 2 myocardial infarction  
 - ST‑Elevation Myocardial Infarction (STEMI)  
-- ST‑segment elevation myocardial infarction (full phrase)  
-- Non‑ST‑Elevation Acute Coronary Syndromes (NSTEMI)  
-- Coronary Artery Disease (CAD)  
-- Coronary Heart Disease (CHD)  
-- Percutaneous Coronary Intervention (PCI)  
-- Primary Percutaneous Coronary Intervention  
+- Non‑ST‑Elevation Acute Coronary Syndromes (NSTE‑ACS)  
+- Primary Percutaneous Coronary Intervention (PCI)  
+- Coronary Artery Revascularization  
 - Dual Antiplatelet Therapy (DAPT)  
-- Reperfusion therapy  
-- Secondary prevention (post‑MI)  
-- Coronary artery revascularization  
-- Cardiovascular mortality  
-- Cardiovascular morbidity  
-- Chest pain (typical AMI symptom)  
-- Non‑chest‑pain symptoms (atypical ACS presentation)  
-- Cardiovascular risk factors (e.g., hypertension, hyperlipidemia, diabetes, smoking)  
-- Racial disparities in CAD/MI incidence and outcomes  
-- Sex‑related disparities in ACS presentation, treatment, and outcomes  
-- Guideline‑directed medical therapy (GDMT)  
-- Cardiovascular imaging  
-- Cardiovascular surgery (cardiovascular surgeons)  
-- Economic impact of myocardial infarction (direct medical costs, indirect productivity loss)  
+- Coronary Artery Disease (CAD)  
+- Acute Myocardial Infarction (AMI)  
+- Myocardial Infarction (MI)  
+- Recurrent MI  
+- Secondary Prevention  
+- Guideline‑Recommended Medications  
+- Guideline‑Directed Medical Therapy  
+- Coronary Revascularization  
+- Cardiac Imaging  
+- Interventional Cardiology  
+- Cardiovascular Surgery  
+- Critical‑Care Cardiology  
+- Cardiovascular Risk Factors  
+- Racial and Sex Disparities in ACS Care  
 
-*(All terms are directly mentioned or implied in the provided guideline excerpt and are central to the clinical management of heart disease.)*
+(Each term is a key concept pertaining to heart disease extracted from the guideline text.)
 
 Page 7 Extracted Terms:
-- Acute Coronary Syndromes (ACS)  
-- Myocardial Infarction (MI)  
-- Obstructive Coronary Artery Disease  
+- Acute Coronary Syndromes  
+- Acute Myocardial Infarction  
+- Coronary Artery Disease  
 - Coronary Artery Revascularization  
 - Chronic Coronary Disease  
-- Chest Pain (Angina)  
+- Myocardial Infarction (non‑obstructive)  
+- Invasive Management of Acute Myocardial Infarction  
+- Invasive Management of Acute MI Complicated by Cardiogenic Shock  
 - Cardiogenic Shock  
+- Classification of Cardiogenic Shock  
 - SHOCK Stage Classification  
 - Mechanical Complications of Acute Myocardial Infarction  
-- Invasive Management of Acute Myocardial Infarction Complicated by Cardiogenic Shock  
-- Left Ventricular Thrombus  
-- Heart Failure  
-- Atrial Fibrillation (AF)  
-- Atherosclerotic Cardiovascular Disease (ASCVD)  
-- High Blood Pressure / Hypertension  
-- Blood Cholesterol / Hypercholesterolemia  
-- Primary Prevention of Cardiovascular Disease  
-- Stroke  
-- Transient Ischemic Attack (TIA)  
-- Home‑Based Cardiac Rehabilitation  
-- Out‑of‑Hospital Cardiac Arrest  
-- Cardiac Catheterization Laboratory Management  
-- Classification of Cardiogenic Shock (SCAI)  
-- Evaluation and Diagnosis of Chest Pain  
-- Management of Patients with Chronic Coronary Disease  
-- Management of Patients at Risk for and with Left Ventricular Thrombus  
-- Management of Heart Failure (HFSA)  
-- Management of Atrial Fibrillation  
+- Diagnosis and Management of Chest Pain  
+- Cardiac Catheterization Laboratory Management of Out‑of‑Hospital Cardiac Arrest  
+- Management of Heart Failure  
+- Atrial Fibrillation Management  
+- Left Ventricular Thrombus Management  
+- Cardiac Rehabilitation  
+- Blood Cholesterol Management  
+- Hypertension (High Blood Pressure) Management  
+- Stroke Prevention in Stroke and Transient Ischemic Attack  
+- Prevention of Cardiovascular Disease  
 - Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults  
-- Management of Blood Cholesterol (Lipid Management)  
-
-*Additional guideline‑related classification terms (useful for context):*  
-- Class of Recommendation (COR)  
-- Level of Evidence (LOE)  
-- PICO[TS] Structure  
-
-These terms capture the primary heart‑disease conditions, interventions, and related clinical concepts presented in the guideline excerpt.
+- Diagnosis and Management of Atrial Fibrillation  
+- Management of Patients with Chronic Coronary Disease  
+- Invasive Management of Acute MI with Cardiogenic Shock (specific to acute MI)
 
 Page 8 Extracted Terms:
-- ACEi (angiotensin‑converting enzyme inhibitor)  
-- ACS (acute coronary syndromes)  
-- AF (atrial fibrillation)  
-- AMI (acute myocardial infarction)  
-- ARB (angiotensin receptor blocker)  
-- ASCVD (atherosclerotic cardiovascular disease)  
-- CABG (coronary artery bypass grafting)  
-- CAD (coronary artery disease)  
-- CCD (chronic coronary disease)  
-- CDP (clinical decision pathway)  
-- CICU (cardiac intensive care unit)  
-- CR (cardiac rehabilitation)  
-- cTn (cardiac troponin)  
-- CVD (cardiovascular disease)  
-- DAPT (dual antiplatelet therapy)  
-- DOAC (direct oral anticoagulant)  
-- ECG (electrocardiogram)  
-- FDA (US Food and Drug Administration)  
-- FFR (fractional flow reserve)  
+- ACEi – Angiotensin‑converting enzyme inhibitor
+- ACS – Acute coronary syndromes
+- AF – Atrial fibrillation
+- AMI – Acute myocardial infarction
+- ARB – Angiotensin receptor blocker
+- ASCVD – Atherosclerotic cardiovascular disease
+- CABG – Coronary artery bypass grafting
+- CAD – Coronary artery disease
+- CCD – Chronic coronary disease
+- CDP – Clinical decision pathway
+- CICU – Cardiac intensive care unit
+- CR – Cardiac rehabilitation
+- cTn – Cardiac troponin
+- CVD – Cardiovascular disease
+- DAPT – Dual antiplatelet therapy
+- DOAC – Direct oral anticoagulant
+- ECG – Electrocardiogram
+- FDA – U.S. Food and Drug Administration
+- FFR – Fractional flow reserve
 
 Page 9 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
-- Unstable Angina  
-- Non‑ST‑segment Elevation Myocardial Infarction (NSTEMI)  
-- ST‑segment Elevation Myocardial Infarction (STEMI)  
-- Myocardial Infarction (MI)  
-- Type 1 MI  
-- Type 2 MI  
-- MINOCA (MI with Non‑obstructive Coronary Artery Disease)  
-- Non‑obstructive Coronary Artery Disease  
-- Atherosclerotic Plaque Rupture  
-- Plaque Erosion  
-- Plaque Instability  
-- Lipid Accumulation  
-- Inflammation of Atherosclerotic Plaque  
-- Coronary Artery Thrombosis  
-- Microemboli  
-- Coronary Artery Spasm  
-- Coronary Artery Dissection  
-- Embolism  
-- Myocardial Ischemia  
-- Subendocardial Ischemia  
-- Transmural Myocardial Ischemia  
-- Myocardial Necrosis (Myonecrosis)  
-- High‑sensitivity Cardiac Troponin (hs‑cTn)  
-- First Medical Contact (FMC)  
-- Glucagon‑like Peptide‑1 (GLP‑1)  
-- Heart Failure (HF)  
-- Intra‑aortic Balloon Pump (IABP)  
-- Implantable Cardioverter‑Defibrillator (ICD)  
-- Intravascular Ultrasound (IVUS)  
-- Low‑density Lipoprotein (LDL)  
-- Low‑density Lipoprotein Cholesterol (LDL‑C)  
-- Left Ventricle (LV)  
-- Left Ventricular Ejection Fraction (LVEF)  
-- Major Adverse Cardiovascular Event (MACE)  
-- Mechanical Circulatory Support (MCS)  
-- Multivessel Disease (MVD)  
-- Non‑ST‑segment Elevation ACS (NSTE‑ACS)  
-- Optical Coherence Tomography (OCT)  
-- Odds Ratio (OR)  
-- Percutaneous Coronary Intervention (PCI)  
-- Proprotein Convertase Subtilisin/Kexin type 9 (PCSK9)  
-- Primary Percutaneous Coronary Intervention (PPCI)  
-- Proton Pump Inhibitor (PPI)  
-- Quality of Life (QOL)  
-- Randomized Controlled Trial (RCT)  
-- Return of Spontaneous Circulation (ROSC)  
-- Sodium‑glucose Cotransporter‑2 (SGLT‑2)  
-- Unfractionated Heparin (UFH)  
-- Venoarterial Extracorporeal Membrane Oxygenation (VA‑ECMO)  
-- Chest Pain  
-- Coagulation Cascade  
-- Epicardial Vessels  
-- Coronary Circulation  
+- Unstable angina  
+- Non‑ST‑segment elevation myocardial infarction (NSTEMI)  
+- ST‑segment elevation myocardial infarction (STEMI)  
+- Myocardial infarction (MI)  
+- Myocardial ischemia  
+- Coronary artery  
+- Plaque rupture  
+- Plaque erosion  
+- Atherosclerosis  
+- Thrombosis  
+- Coagulation cascade  
+- Myonecrosis  
+- First medical contact (FMC)  
+- Glucagon‑like peptide‑1 (GLP‑1)  
+- Heart failure (HF)  
+- High‑sensitivity cardiac troponin (hs‑cTn)  
+- Intra‑aortic balloon pump (IABP)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Intravascular ultrasound (IVUS)  
+- Low‑density lipoprotein (LDL)  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- Left ventricle (LV)  
+- Left ventricular ejection fraction (LVEF)  
+- Major adverse cardiovascular event (MACE)  
+- Mechanical circulatory support (MCS)  
+- Myocardial infarction with non‑obstructive coronary artery disease (MINOCA)  
+- Multivessel disease (MVD)  
+- Non‑ST‑segment elevation acute coronary syndrome (NSTE‑ACS)  
+- Optical coherence tomography (OCT)  
+- Odds ratio (OR)  
+- Percutaneous coronary intervention (PCI)  
+- Proprotein convertase subtilisin/kexin type 9 (PCSK9)  
+- Primary percutaneous coronary intervention (PPCI)  
+- Proton pump inhibitor (PPI)  
+- Quality of life (QOL)  
+- Randomized controlled trial (RCT)  
+- Return of spontaneous circulation (ROSC)  
+- Sodium‑glucose cotransporter‑2 (SGLT‑2)  
+- Unfractionated heparin (UFH)  
+- Veno‑arterial extracorporeal membrane oxygenation (VA‑ECMO)  
+- Coronary artery spasm  
+- Coronary embolism  
+- Coronary artery dissection  
+- Epicardial vessel  
+- Plaque contents exposure  
+- Plaque instability  
+- Thrombus formation  
+- Intrinsic flow compromise in myocardium  
+- Atherosclerotic plaque instability  
+- Coagulation cascade activation  
+- Myocardial necrosis (myonecrosis)
 
 Page 10 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
 - Myocardial ischemia  
 - Cardiovascular complications  
 - Recurrent cardiovascular events  
-- Chronic Coronary Disease (CCD)  
-- Acute myocardial infarction (AMI)  
-- ST‑segment elevation myocardial infarction (STEMI)  
-- Non‑ST‑segment elevation ACS (NSTE‑ACS)  
+- Acute inflammatory milieu  
+- Stable coronary disease  
+- Chronic coronary disease (CCD)  
+- 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline  
+- 12‑lead ECG  
+- STEMI (ST‑segment elevation myocardial infarction)  
+- NSTE‑ACS (non‑ST‑segment elevation acute coronary syndrome)  
 - Primary percutaneous coronary intervention (PPCI)  
-- Percutaneous coronary intervention (PCI)‑capable hospital  
+- PCI‑capable hospital  
 - Emergency medical services (EMS)  
 - First medical contact (FMC)  
-- FMC‑to‑first‑device time  
-- 12‑lead electrocardiogram (ECG)  
-- Serial ECGs  
-- ST‑segment depression  
-- T‑wave inversion  
-- R wave / R‑S ratio > 1  
-- ST‑segment elevation (≥1 mm in ≥2 contiguous leads; ≥2 mm in men < 40 y; ≥1.5 mm in women)  
-- Posterior leads (V7‑V9)  
-- Left circumflex occlusion  
-- Left bundle‑branch block (LBBB)  
-- New LBBB  
-- Acute pericarditis (ECG mimic)  
-- Left ventricular hypertrophy (LVH) (ECG mimic)  
-- Brugada syndrome (ECG mimic)  
-- Right ventricular pacing (ECG mimic)  
-- Takotsubo syndrome (ECG mimic)  
-- Early repolarization (ECG mimic)  
+- Time to reperfusion  
 - Cardiac catheterization team  
 - Arrhythmias  
 - Cardiac arrest  
-- Reperfusion therapy  
-- Risk stratification  
-- Long‑term management (post‑ACS)  
-- Discharge medications (antiplatelet, anticoagulant, statin, β‑blocker, ACE‑I/ARB, etc.)  
-- Inflammatory milieu (post‑ACS)  
-- AHA/ACC/ACCP/ASPC/NLA/PCNA Chronic Coronary Disease Guideline (2023)  
-- Pre‑hospital assessment and management  
-- Triage strategy  
-- Vital signs assessment  
-- Focused history and physical examination  
+- Vital signs  
 - Electrocardiographic interpretation for suspected ACS  
-- ST‑segment changes in other conditions (pericarditis, LVH, LBBB, Brugada, pacing, Takotsubo, early repolarization)  
+- Ischemic changes on ECG  
+- ST‑segment depression ≥0.5 mm in ≥2 contiguous leads  
+- T‑wave inversion >1 mm in ≥2 contiguous leads  
+- ST‑segment elevation ≥1 mm in ≥2 contiguous leads (J‑point)  
+- R wave prominence or R/S ratio >1  
+- Left ventricular hypertrophy (LVH)  
+- Left bundle branch block (LBBB / LBBB)  
+- Brugada syndrome  
+- Right ventricular pacing  
+- Takotsubo syndrome (stress‑cardiomyopathy)  
+- Early repolarization pattern  
+- Posterior leads (V7–V9)  
+- Left circumflex occlusion  
+- Acute myocardial infarction (AMI)  
+- J‑point definition  
+- V2–V3 lead criteria (male/female thresholds)  
+- Acute pericarditis  
+- STEMI equivalent conditions  
+- Prehospital assessment and management of suspected ACS  
+- Primary PCI triage strategy  
+- STEMI recognition and activation protocol  
+- ECG serial monitoring for nondiagnostic STEMI  
+- Critical time metrics: FMC‑to‑first‑device ≤90 min  
+- Early advance notification to PCI‑capable hospital  
+- EMS transport for suspected ACS  
+- Structured prehospital history and physical examination  
+- Hemodynamic monitoring during transport  
+- Early reperfusion strategy  
+- Emergency department (ED) triage for ACS  
+- Clinical suspicion of ACS  
+- Persistent chest pain symptoms  
+- Dynamic ST‑segment changes  
+- Coronary artery disease (CAD)  
+- Coronary artery occlusion  
+- Cardiac catheterization procedure  
+- Reperfusion therapy  
+- Cardiovascular event prevention  
+- Post‑acute management of ACS  
+- Medication therapy for stable coronary disease  
+- Extended therapy beyond one year post‑ACS  
+- Acute coronary event classification (STEMI vs. NSTE‑ACS)  
+- ECG interpretation criteria (ST‑depression, ST‑elevation, T‑wave changes)  
+- ECG lead placement for posterior ischemia  
+- Age‑ and sex‑based ST‑elevation thresholds  
+- Cardiac ischemia diagnosis and management guidelines  
 
-*(All terms above are key heart‑disease‑related concepts extracted from the provided guideline excerpt.)*
+*(List includes core clinical, diagnostic, therapeutic, and guideline‑related terms pertinent to heart disease found in the provided text.)
 
 Page 11 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
 - ST‑segment elevation myocardial infarction (STEMI)  
 - Non‑ST‑segment elevation myocardial infarction (NSTEMI)  
-- ST‑segment elevation (electrocardiographic criteria)  
-- 12‑lead electrocardiogram (12‑lead ECG)  
-- Pre‑hospital ECG acquisition  
-- Primary percutaneous coronary intervention (PPCI)  
-- Percutaneous coronary intervention (PCI)‑capable facility  
+- ST‑segment elevation (STEMI criteria)  
+- 12‑lead electrocardiogram (ECG)  
+- Electrocardiographic tracings  
 - Coronary reperfusion  
+- Percutaneous coronary intervention (PCI)  
+- Primary PCI (PPCI)  
+- PCI‑capable facility  
+- Cardiogenic shock  
 - Heart failure (HF)  
 - Ventricular arrhythmias  
-- Cardiogenic shock  
-- Mortality (death) risk  
-- Patient triage (based on ECG findings)  
-- Electrocardiographic tracings transmission  
-- Reperfusion time  
-- Trained EMS personnel / paramedics  
-- Electrocardiographic classification of ACS  
-- Acute myocardial infarction (MI)  
-- Cardiovascular emergency management  
-- Guideline recommendations (Section 8, “Cardiogenic Shock Management”)  
+- Prehospital setting  
+- Emergency medical services (EMS) personnel (paramedics)  
+- Cardiac complications  
+- Triage to PCI‑capable facility  
+
+
 
 Page 12 Extracted Terms:
-- Acute Coronary Syndromes (ACS)  
+- Acute Coronary Syndrome (ACS)  
 - ST‑segment elevation myocardial infarction (STEMI)  
 - Non‑ST‑segment elevation ACS (NSTE‑ACS)  
-- Electrocardiogram (ECG) / electrocardiographic changes  
+- Electrocardiogram (ECG)  
 - ST‑segment elevation  
-- ST‑segment depression  
-- Posterior ECG leads (V7‑V9)  
-- Primary percutaneous coronary intervention (PPCI)  
-- Percutaneous coronary intervention (PCI)  
-- Time‑to‑device / FMC‑to‑first‑device time  
-- Door‑to‑balloon time  
+- Posterior STEMI  
+- Pre‑hospital ECG  
+- Primary percutaneous coronary intervention (PPCI or PPCI)  
+- Coronary reperfusion  
+- First‑medical‑contact (FMC)  
+- PCI‑capable hospital  
 - Catheterization laboratory activation  
-- Emergency department (ED) bypass  
-- Regional STEMI care system  
-- Myocardial salvage  
-- Mortality (1‑year mortality)  
+- Single‑call transfer protocol  
+- ED bypass to catheterization laboratory  
 - Acute myocardial infarction (AMI)  
-- Type 1 myocardial infarction (type 1 MI) – atherothrombosis, plaque rupture/erosion  
-- Type 2 myocardial infarction (type 2 MI) – supply‑demand mismatch  
-- Type 3 myocardial infarction (type 3 MI) – cardiac death with ischemic changes/ventricular arrhythmia  
-- Type 4a myocardial infarction – peri‑PCI MI (≤48 h)  
-- Type 4b myocardial infarction – post‑PCI stent/scaffold thrombosis  
-- Type 4c myocardial infarction – post‑PCI stent restenosis  
-- Type 5 myocardial infarction – peri‑CABG MI (≤48 h)  
-- Coronary artery bypass grafting (CABG)  
+- Type 1 myocardial infarction (Type 1 MI)  
+- Type 2 myocardial infarction (Type 2 MI)  
+- Type 3 myocardial infarction (Type 3 MI)  
+- Type 4a peri‑PCI myocardial infarction (PCI MI)  
+- Type 4b post‑PCI myocardial infarction (stent‑related MI)  
+- Type 4c post‑PCI myocardial infarction (stent restenosis)  
+- Type 5 peri‑coronary artery bypass grafting myocardial infarction (CABG MI)  
 - Myocardial infarction with non‑obstructive coronary arteries (MINOCA)  
 - Spontaneous coronary artery dissection (SCAD)  
-- Atherothrombosis  
-- Plaque disruption (rupture, erosion)  
-- Ischemic symptoms / myocardial ischemia  
-- Ventricular arrhythmia  
-- Pre‑hospital ECG / serial ECGs  
-- Emergency medical services (EMS)  
-- PCI‑capable hospital  
-- Non‑PCI‑capable hospital  
-- Reperfusion therapy  
-- System‑level interventions (e.g., pre‑hospital catheterization activation)  
-- Clinical suspicion of ACS  
-- Chest pain evaluation  
-- Cardiac biomarkers  
-- Autopsy‑diagnosed MI  
+- Infarct‑related artery  
+- Reperfusion time  
+- Time‑to‑device  
+- Coronary artery bypass grafting (CABG)  
+- Percutaneous coronary intervention (PCI)
 
 Page 13 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
-- ST‑elevation Myocardial Infarction (STEMI)  
-- Non‑ST‑elevation ACS (NSTE‑ACS)  
-- Acute Myocardial Infarction (AMI) / Myocardial Infarction (MI)  
-- High‑sensitivity cardiac troponin (hs‑cTn)  
-- Cardiac troponin (cTn) – Troponin I, Troponin T  
-- 12‑lead Electrocardiogram (ECG) / Serial ECG  
-- Ischemic ECG changes (ST‑segment elevation, ST‑segment depression, T‑wave inversion)  
+- ST‑segment Elevation Myocardial Infarction (STEMI)  
+- Non–ST‑segment Elevation ACS (NSTE‑ACS)  
+- Myocardial Infarction (MI)  
+- Acute Myocardial Infarction (AMI)  
+- Cardiac Troponin (cTn)  
+- High‑Sensitivity Cardiac Troponin (hs‑cTn)  
+- 12‑lead Electrocardiogram (ECG)  
+- Serial ECG monitoring  
 - Chest pain  
 - Cardiogenic shock  
 - Hemodynamic instability  
-- Mechanical complications of MI  
+- Mechanical complications (of the heart)  
 - Cardiac catheterization  
-- Fibrinolytic therapy (thrombolysis)  
-- Reperfusion therapy (primary PCI, thrombolysis)  
-- Point‑of‑care ultrasound (POCUS) / Urgent echocardiography  
-- Right‑sided ECG leads (right ventricular involvement)  
-- Posterior STEMI (posterior lead ECG)  
-- Anteroseptal leads (V1‑V3)  
-- Inferior STEMI  
-- Major adverse cardiovascular events (MACE)  
-- Clinical decision pathways (CDPs)  
-- National Cardiovascular Data Registry (NCDR) ACTION  
-- 99th percentile upper reference limit (URL) for troponin  
-- Biomarker of myocardial injury  
-- High‑sensitivity assay vs. conventional troponin assay  
-- Dynamic ECG abnormalities  
-- Serial troponin measurements (1‑2 h for hs‑cTn, 3‑6 h for conventional cTn)  
-- Clinical suspicion of ACS  
-- Emergency Department (ED) presentation  
-- History and physical examination for ACS  
-- Risk stratification / patient exercise capacity  
-- Patient preference in diagnostic testing  
-- Electrocardiographic findings (ST‑segment changes, T‑wave inversions)  
-- Timing of ECG acquisition (within 10 minutes)  
-- Repeated ECG for evolving changes  
-- Evidence‑based guidelines (AHA/ACC)  
+- Fibrinolytic therapy  
+- Reperfusion therapy  
+- Posterior STEMI  
+- Right ventricular involvement  
+- Major Adverse Cardiovascular Events (MACE)
 
 Page 14 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
-- Acute coronary syndrome (singular)  
 - ST‑segment elevation myocardial infarction (STEMI)  
 - Non‑ST‑segment elevation myocardial infarction (NSTEMI)  
-- Myocardial infarction (MI)  
 - Cardiac troponin (cTn)  
 - High‑sensitivity cardiac troponin (hs‑cTn)  
 - Clinical decision pathway (CDP)  
-- Chest pain guideline (2021 AHA/ACC/Multisociety Chest Pain Guideline)  
-- Low‑risk, intermediate‑risk, high‑risk categories (risk stratification)  
-- Initial assessment (of patients with suspected ACS)  
-- AHA (American Heart Association)  
-- ACC (American College of Cardiology)  
-- Multisociety guideline  
-- Coronary artery disease (implied by “coronary” in ACS)  
-- Cardiovascular risk assessment  
-- Evidence‑based recommendations (Class of Recommendation)  
+- Risk categories: low, intermediate, high risk  
+- Class of Recommendation  
+- Chest pain  
+- AHA/ACC/Multisociety guideline  
+- 2025 Acute Coronary Syndromes Guideline  
+- 2021 Chest Pain Guideline
 
 Page 15 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
-- Myocardial ischemia  
-- High‑sensitivity cardiac troponin (hs‑cTn)  
-- Cardiac troponin (cTn)  
-- 99th percentile upper reference limit  
-- Limit of quantification (LoQ)  
-- Delta (Δ) hs‑cTn (change in troponin)  
-- ST‑segment elevation myocardial infarction (STEMI)  
-- Non‑ST‑segment elevation myocardial infarction (NSTEMI)  
+- ST‑segment–elevation myocardial infarction (STEMI)  
+- Non–ST‑segment–elevation myocardial infarction (NSTEMI)  
 - Unstable angina  
-- GRACE Risk Score (Global Registry of Acute Coronary Events)  
-- TIMI Risk Score (Thrombolysis in Myocardial Infarction)  
-- Killip classification / Killip class  
-- Major adverse cardiovascular events (MACE)  
+- Acute coronary event  
+- Myocardial ischemia  
+- Cardiac injury  
+- High‑sensitivity cardiac troponin (hs‑cTn)  
+- Cardiac troponin (cTn) assay  
+- 99th percentile upper reference limit  
+- Delta hs‑cTn (change in troponin)  
+- Cardiac Diagnostic Pathway (CDP)  
+- Serial troponin testing (0, 1–2 h)  
+- ST‑segment deviation  
+- Killip class (II–IV)  
+- Pulmonary congestion (clinical, CXR, lung US)  
 - Heart failure (HF)  
-- Pulmonary congestion (detected by physical exam, chest X‑ray, lung ultrasound)  
-- B‑type natriuretic peptide (BNP)  
-- N‑terminal pro‑B‑type natriuretic peptide (NT‑proBNP)  
-- Creatine kinase‑MB (CK‑MB)  
+- Major Adverse Cardiac Events (MACE)  
+- Myocardial infarction (MI)  
 - Coronary artery disease (CAD)  
 - Coronary stenosis (≥50 %)  
-- Left bundle branch block (LBBB)  
-- Systolic blood pressure (SBP)  
-- Heart rate (beats per minute)  
-- Age thresholds (≥65 y, 65‑74 y, ≥75 y)  
-- Diabetes mellitus  
-- Hypertension  
-- Angina (≥3 risk factors)  
-- Aspirin use (prior 7 days)  
-- Revascularization (urgent)  
-- Routine invasive vs. selective invasive approach  
-- Mortality / death (in‑hospital, 14‑day, 30‑day, 6‑month, 1‑year, 3‑year)  
-- Cardiovascular events  
-- Serial testing (0 h and 1‑2 h or 3‑6 h)  
-- Risk stratification tools  
-- Risk factors for CAD  
+- Creatine kinase‑myocardial band (CK‑MB)  
+- B‑type natriuretic peptide (BNP)  
+- N‑terminal pro‑BNP (NT‑proBNP)  
+- International guidelines (e.g., Circulation ACS guideline)  
+- Global Registry of Acute Coronary Events (GRACE) risk score  
+- Thrombolysis In Myocardial Infarction (TIMI) risk score  
+- Aspirin use (pre‑hospital/within 7 days)  
 - Time to treatment (>4 h)  
-- Weight (<67 kg)  
-- Biomarkers (cardiac and non‑cardiac)  
-- Serum creatinine  
-- ST‑segment deviation (≥0.5 mm)  
-- Cardiac arrest on admission  
-- Clinical decision pathways (CDPs)  
-- Negative predictive value (NPV)  
-- High‑sensitivity assay vs. conventional cTn assay  
-- Troponin assay characteristics (analytical characteristics)  
+- Invasive vs. selective invasive strategy (routine invasive approach)  
+- Left bundle branch block (LBBB)  
+- High‑negative predictive value (>99.5 %)  
+- Diagnostic thresholds for hs‑cTn  
+- Cardiovascular event risk assessment  
+- Revascularization (urgent/refractory)  
+
+These terms capture the key heart‑disease concepts discussed in the text.
 
 Page 16 Extracted Terms:
+**Key terms related to heart disease**
+
 - Acute Coronary Syndromes (ACS)  
-- B‑type Natriuretic Peptide (BNP)  
-- Heart Failure (HF)  
-- Major Adverse Cardiac Events (MACE)  
-- Cardiogenic Shock  
 - Acute Myocardial Infarction (AMI)  
 - ST‑Elevation Myocardial Infarction (STEMI)  
-- Cardiac Arrest (including out‑of‑hospital cardiac arrest, OHCA)  
-- Return of Spontaneous Circulation (ROSC)  
-- Emergency Medical Services (EMS)  
-- Emergency Department (ED)  
+- Non‑STEMI (NSTEMI)  
+- B‑type Natriuretic Peptide (BNP)  
+- Cardiogenic Shock  
+- Cardiac Arrest  
 - Primary Percutaneous Coronary Intervention (PPCI)  
 - Percutaneous Coronary Intervention (PCI)  
-- Mechanical Circulatory Support (MCS)  
-- Revascularization  
-- PCI‑capable Hospital / PCI‑capable Center  
-- Advanced Therapies (e.g., MCS)  
 - Coronary Angiography  
-- Risk Stratification / Risk Scores  
-- Shock Severity Scales (e.g., SCAI shock stages)  
-- ARREST Trial (Advanced Reperfusion Strategies for Patients With Out‑of‑Hospital Cardiac Arrest and Refractory Ventricular Fibrillation)  
-- CARES Registry (Cardiac Arrest Registry to Enhance Survival)  
-- Ventricular Fibrillation (VF)  
-- Non‑shockable Rhythm  
-- Bystander Cardiopulmonary Resuscitation (CPR)  
-- Cardiopulmonary Resuscitation (CPR) Duration >30 min  
-- Arterial pH < 7.2  
-- Lactate > 7 mmol/L  
-- Age > 85 years  
-- End‑Stage Renal Disease / Renal Failure  
-- Comatose vs. Non‑comatose Status  
-- Neurologic Status (e.g., normal, partial/minimal response)  
-- Electrocardiogram (ECG) – ST‑segment Elevation  
-- Survival to Hospital Discharge  
-- Observational Studies (outcome data)  
-- Reperfusion Therapy  
-- Shock‑related Mortality  
-- Triage to PCI‑capable Facility  
-- “Revascularization in ACS With Cardiogenic Shock” (Section 8.1)  
-- “MCS in Patients With ACS and Cardiogenic Shock” (Section 8.2)  
+- Mechanical Circulatory Support (MCS)  
+  - (Sub‑types: Intra‑Aortic Balloon Pump, Impella, ECMO – commonly referenced in MCS)  
+- Shock Severity Scales (risk‑stratification tools for cardiogenic shock)  
+- Major Adverse Cardiac Events (MACE)  
+- Heart Failure (HF)  
+- Electrocardiogram (ECG) / Electrocardiographic changes (ST‑segment elevation)  
+- Return of Spontaneous Circulation (ROSC)  
+- Shockable Rhythm (ventricular fibrillation, ventricular tachycardia)  
+- Non‑shockable Rhythm (asystole, pulseless electrical activity)  
+- Advanced Reperfusion Strategies (e.g., ARREST trial, CARES registry)  
+
+These terms encapsulate the central concepts, diagnostic markers, management strategies, and outcome metrics discussed in the guideline excerpts.
 
 Page 17 Extracted Terms:
+**Key heart‑disease‑related terms extracted from the guideline text**
+
 - Acute Coronary Syndromes (ACS)  
-- ST‑segment Elevation Myocardial Infarction (STEMI)  
-- Non‑ST‑Elevation Acute Coronary Syndromes (NSTE‑ACS)  
-- Myocardial Infarction (MI)  
-- Cardiac arrest  
+- ST‑Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑Elevation ACS (NSTE‑ACS)  
 - Primary Percutaneous Coronary Intervention (PPCI)  
 - Emergency coronary angiography  
 - Delayed coronary angiography  
-- Invasive therapies  
-- Oxygen therapy / supplemental oxygen  
+- Cardiac arrest (post‑CPR, comatose)  
+- Hemodynamic stability  
+- Neurologic recovery / prognosis  
 - Hypoxia (oxygen saturation < 90 %)  
-- Oxygen saturation ≥ 90 % (normoxia)  
+- Supplemental oxygen therapy  
+- Oxygen saturation (SpO₂)  
+- Angina / chest pain  
 - Myocardial oxygen supply  
-- Anginal symptoms  
-- Cardiovascular outcomes  
-- Myocardial injury  
 - Vasoconstriction  
 - Oxidative stress  
-- AVOID trial (Air Versus Oxygen in ST‑Segment‑Elevation Myocardial Infarction)  
-- DETO2X‑AMI trial (Efficacy and Outcome Study of Supplemental Oxygen Treatment in Patients With Suspected Myocardial Infarction)  
-- Rehospitalization with MI  
-- Analgesics  
-- Chest pain  
-- Sympathetic activation  
+- Myocardial injury  
+- Infarct size  
+- Short‑term mortality  
+- Long‑term mortality  
+- Re‑hospitalization with MI  
+- U‑shaped oxygenation–mortality relationship  
+- AVOID (Air Versus Oxygen in STEMI) trial  
+- DETO2X‑AMI (Efficacy and Outcome Study of Supplemental Oxygen Treatment in MI) trial  
+- Analgesic therapies in ACS  
 - Nitrates  
-- Opiates  
-- Coronary revascularization  
-- Hemodynamically stable  
-- Comatose after cardiac arrest  
-- 12‑lead ECG  
-- ST‑segment elevation (on ECG)  
-- Neurologic prognosis (favorable / unfavorable)  
-- In‑hospital survival  
-- 6‑month survival  
-- Neurologic recovery  
-- Dialysis‑related disease (patients on dialysis)  
-- Standard medical therapies for STEMI and NSTE‑ACS  
-- Oxygen saturation target range (94 %–96 %)  
+- Opiate medications  
+- Routine vs. conservative oxygen administration  
+- Clinical benefit (or lack thereof)  
+- Cardiovascular outcomes  
+
+These terms capture the core clinical concepts, interventions, outcomes, and study references addressed in the guideline excerpt.
 
 Page 18 Extracted Terms:
+**Key heart‑disease terms extracted from the guidelines**
+
 - Acute Coronary Syndromes (ACS)  
-- Percutaneous Coronary Intervention (PCI)  
-- P2Y12 inhibitors  
-- Non‑aspirin Nonsteroidal Anti‑Inflammatory Drugs (NSAIDs)  
-- Major Adverse Cardiovascular Events (MACE)  
-- Aspirin (loading dose, low‑dose, full‑dose)  
+- Angina / Anginal pain  
 - Antiplatelet therapy  
-- Atherothrombotic events  
-- Vascular death  
-- Acute Myocardial Infarction (AMI) / Myocardial Infarction (MI)  
-- Stroke  
-- Dual Antiplatelet Therapy (DAPT)  
-- Anticoagulant therapy  
+- Antiplatelet therapy in patients on anticoagulation post‑discharge  
+- Aspirin  
+- Aspirin desensitization (for hypersensitivity)  
 - Aspirin hypersensitivity  
-- Aspirin desensitization  
-- Platelet thromboxane A₂ suppression  
-- Gastrointestinal bleeding  
-- Nitroglycerin (sublingual, intravenous)  
-- Hemodynamically stable patient  
-- Systolic Blood Pressure (SBP)  
-- Right‑ventricular (RV) infarction  
-- Pulmonary edema  
-- Morphine (IV)  
-- Fentanyl (IV)  
-- Phosphodiesterase‑5 (PDE5) inhibitors (avanafil, sildenafil, vardenafil, tadalafil)  
-- Cardiac chest pain (analgesic treatment options)  
-- Anti‑ischemic medications  
-- Secondary prevention (post‑MI)  
-- Invasive vs. non‑invasive management strategies  
-- Hemodynamic tolerability  
-- Tachyphylaxis (to nitrates)  
-- Anticoagulation post‑discharge  
-- Loading dose (aspirin, P2Y12 inhibitor)  
-- Maintenance dose (aspirin)  
-- Oral vs. rectal vs. intravenous drug administration  
-- Platelet inhibition  
-- Coronary events  
-- Vascular events  
-- Cardiovascular risk reduction  
-- Bleeding risk (minor, major)  
-- Drug‑drug interactions (e.g., nitrates with PDE5 inhibitors)  
+- Aspirin loading dose (162–325 mg)  
+- Aspirin maintenance dose (75–100 mg/day)  
+- Aspirin discontinuation strategy  
+- Atherothrombotic events  
+- Baseline management strategy (invasive or non‑invasive)  
+- Bleeding risk (minor and gastrointestinal bleeding)  
+- Calcium channel blockers (mentioned in context of anti‑ischemic therapy)  
+- Coronary artery disease (CAD)  
+- Coronary events (MI, stroke)  
+- Dual Antiplatelet Therapy (DAPT)  
+- Dual antiplatelet therapy in ACS  
+- Dual antiplatelet therapy discontinuation (P2Y12 inhibitor discontinuation)  
+- Dual antiplatelet therapy in the first 12 months post‑discharge  
+- Dual antiplatelet therapy during hospitalization (oral P2Y12 inhibitors)  
+- Drug interactions with opiates and oral P2Y12 inhibitors  
+- End points: mortality, MACE (major adverse cardiovascular events)  
+- Gastric / intestinal absorption of P2Y12 inhibitors  
+- Glycoprotein IIb/IIIa inhibitors (in the broader guideline context)  
+- Myocardial infarction (MI)  
+- Non‑aspirin non‑steroidal anti‑inflammatory drugs (NSAIDs) – their impact on MACE risk  
+- Oral P2Y12 inhibitors (clopidogrel, ticagrelor, prasugrel, etc.)  
+- PCI (Percutaneous Coronary Intervention)  
+- Post‑discharge antiplatelet therapy  
+- Right ventricular infarction (RV infarction)  
+- Stroke (as a cardiovascular event)  
+- Titrated intravenous (IV) nitrates (e.g., nitroglycerin)  
+- Vascular death  
+- Vascular events (including MI and stroke)  
+- Vascular death after AMI  
+- Non‑invasive management of ACS  
+- Invasive strategy for ACS (including PCI)  
+- Pharmacodynamics of oral antiplatelet therapy  
+- Pharmacologic delay of P2Y12 inhibitor effects by opioids (morphine, fentanyl)  
+
+*These terms capture the clinical concepts, therapies, and outcomes discussed in the extracted guideline text that are directly relevant to heart disease management.*
 
 Page 19 Extracted Terms:
-- Acute Coronary Syndromes (ACS)  
-- ST‑segment elevation myocardial infarction (STEMI)  
-- Non‑ST‑segment elevation acute coronary syndromes (NSTE‑ACS)  
-- Atherosclerotic cardiovascular disease (ASCVD)  
-- Myocardial infarction (MI)  
-- Major adverse cardiovascular events (MACE)  
-- Major bleeding  
-- Aspirin (low‑dose 75‑100 mg, high‑dose 81 mg/325 mg)  
-- Ticagrelor  
-- Prasugrel  
-- Clopidogrel  
-- Oral P2Y12 inhibitors  
-- Platelet P2Y12 receptor antagonists  
-- Platelet aggregation  
-- Platelet inhibition  
-- Percutaneous coronary intervention (PCI)  
-- Primary percutaneous coronary intervention (PPCI)  
-- Stent thrombosis  
-- Fibrinolytic therapy  
-- Stroke  
-- Transient ischemic attack (TIA)  
-- Coronary artery revascularization  
-- Chronic coronary disease  
-- Antiplatelet therapy  
-- Loading dose  
-- Maintenance dose  
-- Invasive strategy  
-- Angiography  
-- Upstream treatment  
-- Net clinical outcomes  
-- Bleeding risk  
-- Age‑adjusted dosing  
-- Body‑weight‑adjusted dosing  
-- Contraindication / contraindicated  
-- Class of Recommendation (COR)  
-- Level of Evidence (LOE)  
+Acute Coronary Syndromes (ACS)  
+ST‑segment elevation myocardial infarction (STEMI)  
+Non–ST‑segment elevation acute coronary syndromes (NSTE‑ACS)  
+Atherosclerotic cardiovascular disease (ASCVD)  
+Myocardial infarction (MI)  
+Major adverse cardiovascular events (MACE)  
+Platelet‑activating factor P2Y12 receptor inhibitors  
+Clopidogrel  
+Prasugrel  
+Ticagrelor  
+Aspirin (low‑dose, 81 mg, 75‑100 mg)  
+High‑dose aspirin (162‑325 mg)  
+Loading dose (aspirin, clopidogrel, prasugrel, ticagrelor)  
+Maintenance dose (aspirin, clopidogrel, prasugrel, ticagrelor)  
+Percutaneous coronary intervention (PCI)  
+Primary percutaneous coronary intervention (PPCI)  
+Fibrinolytic therapy  
+Stent thrombosis  
+Platelet aggregation  
+Bleeding risk (major bleeding, increased risk of bleeding)  
+Net clinical outcomes (stroke, transient ischemic attack)  
+Antiplatelet therapy (dual antiplatelet therapy, DAPT)  
+Coronary artery revascularization  
+Chronic coronary disease guidelines  
+Guideline recommendations  
+Evidence grade (COR, LOE)
 
 Page 20 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
-- ST‑segment elevation myocardial infarction (STEMI)  
-- Non‑ST‑segment elevation ACS (NSTE‑ACS)  
-- Myocardial infarction (MI)  
-- Major adverse cardiovascular events (MACE)  
-- Stent thrombosis  
-- Coronary artery bypass graft (CABG) surgery  
-- Percutaneous coronary intervention (PCI)  
-- Dual antiplatelet therapy (DAPT)  
-- P2Y12 inhibitors (oral)  
+- ST‑segment Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑segment Elevation ACS (NSTE‑ACS)  
+- Myocardial Infarction (MI)  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Dual Antiplatelet Therapy (DAPT)  
+- Coronary Artery Disease (CAD)  
+- Coronary Thrombosis / Stent Thrombosis  
+- Major Adverse Cardiac Events (MACE)  
+- Bleeding Risk / Bleeding Complications  
+- Net Clinical Benefit (MACE + Bleeding)  
+- Oral P2Y12 Inhibitors  
 - Clopidogrel  
 - Prasugrel  
 - Ticagrelor  
 - Aspirin (ASA)  
-- Fibrinolytic therapy  
-- Transient ischemic attack (TIA)  
+- Platelet Activation / Inhibition  
+- Transient Dyspnea  
+- Pharmacodynamic Variability  
+- Hyporesponder Status  
+- Fibrinolytic Therapy  
+- Transient Ischemic Attack (TIA)  
 - Stroke  
-- Bleeding risk / bleeding complications  
-- Dyspnea (subjective transient)  
-- Platelet inhibition (pharmacodynamic effect)  
-- Platelet activation  
-- Net clinical benefit (MACE + bleeding)  
-- Net harm (in specific subgroups)  
-- Age ≥ 75 years (dose‑reduction consideration)  
-- Body weight < 60 kg (dose‑reduction consideration)  
-- Oral anticoagulant (contraindication for certain P2Y12 choices)  
+- Body Weight Threshold (<60 kg)  
+- Age Threshold (≥75 years)  
+- Platelet Inhibition Loading Dose  
+- Metabolic Transformation (liver biotransformation)  
+- Drug Potency (clopidogrel vs prasugrel vs ticagrelor)  
+- DAPT Strategy Guidelines (Section 11.1)  
+- Clinical Trial: TRITON‑TIMI 38  
+- Clinical Trial: PLATO  
+- Clinical Trial: TRITON‑TIMI 38, PLATO, and other RCTs mentioned  
+- Net Harm (prasugrel vs clopidogrel in certain subgroups)  
+- DAPT Duration after CABG  
+- DAPT Duration in the first 12 months post‑discharge  
+- Platelet Inhibition Variability in Clopidogrel  
+- Risk of Bleeding in P2Y12 Inhibitor Therapy  
+- Primary Prevention of STEMI/PCR  
+- Secondary Prevention after ACS  
+
+These terms capture the diseases, treatments, risk factors, clinical outcomes, and guideline recommendations discussed in the provided text.
 
 Page 21 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
-- Non‑ST‑elevation ACS (NSTE‑ACS)  
+- Non‑ST‑Elevation ACS (NSTE‑ACS)  
+- ST‑Elevation Myocardial Infarction (STEMI)  
 - Myocardial Infarction (MI)  
 - Cardiovascular death  
 - Stroke  
-- Major adverse cardiovascular events (MACE)  
 - Stent thrombosis  
-- P2Y12 inhibitors  
-- Clopidogrel  
-- Prasugrel  
-- Ticagrelor  
-- Non‑CABG major bleeding  
-- Life‑threatening bleeding  
-- High bleeding risk  
+- Percutaneous Coronary Intervention (PCI)  
 - Coronary artery bypass grafting (CABG)  
+- Invasive strategy  
 - Elective CABG  
 - Urgent CABG  
-- Percutaneous coronary intervention (PCI)  
-- Invasive management strategy  
-- Planned invasive strategy  
-- Upstream therapy (pre‑PCI antiplatelet therapy)  
-- Pretreatment (pre‑loading)  
-- Loading dose  
-- Antiplatelet therapy  
-- Pharmacodynamic variability  
-- Cytochrome P450 metabolism (prodrug activation)  
-- Vascular death  
-- All‑cause death  
+- Major Adverse Cardiac Events (MACE)  
 - Ischemic events  
-- Early invasive management (< 24 h)  
-- Angiography (coronary anatomy assessment)  
-- Randomized controlled trial (RCT)  
-- Double‑blind trial  
-- Placebo‑controlled trial  
-- PLATO trial  
-- TRITON‑TIMI 38 trial  
-- CURE trial  
-- Composite endpoint (cardiovascular death, MI, or stroke)  
+- Bleeding (including non‑CABG major bleeding and life‑threatening bleeds)  
+- Clopidogrel (P2Y12 inhibitor, prodrug)  
+- Prasugrel (P2Y12 inhibitor)  
+- Ticagrelor (P2Y12 inhibitor)  
+- P2Y12 inhibitor therapy  
+- Vascular death  
+- Coronary anatomy  
+- Coronary angiography  
+- Pretreatment (loading dose)  
+- Cytochrome P450 enzyme system (metabolism of clopidogrel)  
+- CURE trial (Clopidogrel in Unstable Angina to Prevent Recurrent Events)  
+- PLATO trial (P2Y12 inhibitor study of ticagrelor vs. clopidogrel)  
+- TRITON‑TIMI 38 trial (pragmatic comparison of prasugrel and clopidogrel)  
+- Open‑label trial (comparative efficacy of prasugrel vs. ticagrelor)  
+- Meta‑analysis of clopidogrel in ACS undergoing PCI  
 
 Page 22 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
 - ST‑Elevation Myocardial Infarction (STEMI)  
-- Non‑ST‑Elevation Acute Coronary Syndromes (NSTE‑ACS)  
-- Primary Percutaneous Coronary Intervention (PPCI)  
+- Non‑STEMI Acute Coronary Syndromes (NSTE‑ACS)  
 - Percutaneous Coronary Intervention (PCI)  
-- Stent thrombosis  
-- Major adverse cardiovascular events (MACE)  
-- Cardiovascular death  
-- Recurrent myocardial infarction (MI)  
+- Primary PCI (PPCI)  
+- Coronary Reperfusion / Revascularization  
+- Stent Thrombosis  
+- Major Adverse Cardiac Events (MACE)  
+- Cardiovascular Death  
+- Myocardial Infarction (MI)  
 - Stroke  
-- All‑cause death  
-- Bleeding (major and minor)  
-- P2Y12 inhibitor  
+- Bleeding (minor & major)  
+- Antiplatelet Therapy  
+- P2Y12 Inhibitors  
+- Clopidogrel  
 - Prasugrel  
 - Ticagrelor  
-- Clopidogrel  
-- Aspirin  
-- Fibrinolytic therapy / thrombolysis  
-- Occluded infarct‑related artery  
-- Urgent revascularization  
-- Metoprolol  
-- Cangrelor (intravenous P2Y12 inhibitor)  
-- Intravenous P2Y12 inhibition  
-- Coronary artery bypass grafting (CABG)  
-- Platelet inhibition / platelet function restoration  
-- Periprocedural ischemic events  
-- Loading dose (e.g., clopidogrel 300 mg)  
-- Maintenance dose (e.g., clopidogrel 75 mg daily)  
+- Cangrelor (intravenous P2Y12 antagonist)  
+- Fibrinolytic Therapy  
+- CABG (Coronary Artery Bypass Grafting)  
+- Loading Dose (300 mg then 75 mg daily)  
+- Intravenous vs Oral P2Y12 inhibition  
+- Preloading / Pre‑administration of P2Y12 inhibitors  
+- Pre‑hospital ticagrelor  
 - TRITON‑TIMI 38 trial  
 - PLATO trial  
 - CLARITY‑TIMI 28 trial  
 - COMMIT trial  
-- ACC/AHA/SCAI Guideline for Coronary Artery Revascularization  
-- Reperfusion (coronary reperfusion)  
-- Angiography  
-- Ischemic events (early recurrent ischemic events)  
-- Evidence Table / Level of Evidence (LOE)  
-- Coronary artery disease (CAD) (implicit throughout)  
+- Intravenous cangrelor trials (RCTs 1–3)  
+- Meta‑analysis on clopidogrel pretreatment  
+- Registry data on preloading efficacy  
+- Transition strategy from intravenous to oral P2Y12 inhibition  
+- Clinical endpoints: death, reinfarction, stroke, ischemic events, bleeding.
 
 Page 23 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
-- ST‑Elevation Myocardial Infarction (STEMI)  
-- Non‑ST‑Elevation Acute Coronary Syndromes (NSTE‑ACS)  
-- Myocardial Infarction (MI)  
-- Ischemia‑driven revascularization  
-- Stent thrombosis  
+- ST‑Segment Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑Segment Elevation Acute Coronary Syndrome (NSTE‑ACS)  
 - Percutaneous Coronary Intervention (PCI)  
+- Coronary Revascularization  
+- Cangrelor  
+- Clopidogrel  
+- Prasugrel  
+- Ticagrelor  
+- P‑2Y12 inhibitors  
+- Glycoprotein IIb/IIIa inhibitors  
+- Abciximab  
+- Eptifibatide  
+- Tirofiban  
+- Glycoprotein IIb/IIIa receptor  
+- Intravenous glycoprotein IIb/IIIa inhibitors  
+- Intracoronary glycoprotein IIb/IIIa inhibitors  
 - Large thrombus burden  
-- No‑reflow phenomenon  
+- No‑reflow  
 - Slow flow  
-- Large anterior STEMI  
-- Distal embolization of thrombus  
-- Coronary artery revascularization  
-- Drug‑eluting stents (DES)  
-- Bleeding risk / bleeding complications  
-- Platelet aggregation  
-- Platelet cross‑linking  
-- Fibrinogen  
-- von Willebrand factor  
-
-**Pharmacologic agents / drug classes**  
-- Cangrelor (intravenous P2Y12 inhibitor)  
-- Clopidogrel (oral P2Y12 inhibitor)  
-- Prasugrel (oral P2Y12 inhibitor)  
-- Ticagrelor (oral P2Y12 inhibitor)  
-- Glycoprotein IIb/IIIa receptor inhibitors (intravenous or intracoronary)  
-  - Abciximab  
-  - Eptifibatide  
-  - Tirofiban  
-
-**Clinical trials / studies**  
-- CHAMPION PHOENIX trial  
-- CHAMPION PLATFORM trial  
-- CHAMPION PCI trial  
-- Pooled analysis of CHAMPION trials  
-
-**Guidelines / recommendations**  
-- 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization  
-- 2025 Acute Coronary Syndromes Guideline (Circulation)  
-
-**Procedural terms**  
-- Intravenous bolus  
-- Intravenous infusion (≥ 2 hours)  
-- Intracoronary administration  
-- “Upstream” administration of glycoprotein IIb/IIIa inhibitors  
-- Transition from intravenous cangrelor infusion to oral P2Y12 inhibitor  
-- Loading dose (e.g., clopidogrel 600 mg, prasugrel 60 mg, ticagrelor 180 mg)  
-- Immediate loading after discontinuation of cangrelor  
-
-**Outcome endpoints**  
-- All‑cause death  
-- Ischemic events  
+- Stent thrombosis  
+- Intraprocedural ischemic events  
 - Infarct size  
-- Thrombus resolution  
-
-These terms capture the principal heart‑disease concepts, conditions, interventions, pharmacologic agents, trials, and guideline references presented in the excerpt.
+- Drug‑eluting stents  
+- Coronary thrombus resolution  
+- Peri‑procedural ischemic events  
+- Ischemia‑driven revascularization  
+- Bleeding risk (in context of glycoprotein inhibitors)  
+- Intravenous bolus  
+- Intravenous infusion  
+- Loading dose  
+- Adjunctive therapy  
+- Rescue or bail‑out therapy  
+- Upstream administration  
+- Clinical guideline recommendations (e.g., 2025 ACS Guideline, 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization)
 
 Page 24 Extracted Terms:
-- Acute Coronary Syndromes (ACS)  
-- Non‑ST‑segment Elevation Acute Coronary Syndrome (NSTE‑ACS)  
-- ST‑segment Elevation Myocardial Infarction (STEMI)  
-- Myocardial Infarction (MI) – Type 1 MI  
-- Coronary atherothrombosis  
-- Coronary spasm  
-- Stress cardiomyopathy  
-- Myocarditis  
-- Major Adverse Cardiovascular Events (MACE)  
+- Acute Coronary Syndrome (ACS)  
+- Non–ST‑Segment Elevation ACS (NSTE‑ACS)  
+- ST‑Elevation Myocardial Infarction (STEMI)  
 - Percutaneous Coronary Intervention (PCI)  
-- Coronary Artery Bypass Grafting (CABG)  
-- Coronary angiography (invasive coronary angiography)  
-- Glycoprotein IIb/IIIa inhibitor (e.g., eptifibatide)  
+- Coronary Angiography  
+- Glycoprotein IIb/IIIa Inhibitor  
 - Eptifibatide  
-- P2Y12 inhibitors (e.g., clopidogrel)  
 - Clopidogrel  
-- Unfractionated heparin (UFH)  
-- Enoxaparin (low‑molecular‑weight heparin)  
+- Bleeding Complications  
+- Ischemic Events  
+- Parenteral Anticoagulation  
+- Unfractionated Heparin (UFH)  
+- Enoxaparin  
 - Fondaparinux  
-- Bivalirudin (direct thrombin inhibitor)  
-- Argatroban (direct thrombin inhibitor)  
-- Heparin‑induced thrombocytopenia (HIT)  
-- Thrombin generation  
-- Platelet aggregation  
-- Fibrinolytic therapy (thrombolysis)  
-- Reperfusion therapy  
-- Intravenous anticoagulation  
-- Parenteral anticoagulation  
-- Catheter thrombosis  
-- Vascular access site considerations  
-- Renal function considerations  
-- Antiplatelet agents  
-- Anticoagulant agents  
-- Early invasive approach  
-- Upstream anticoagulant therapy  
-- Adjunctive therapy (adjunctive glycoprotein IIb/IIIa inhibition)  
-- Procedural outcomes  
-- Periprocedural myocardial necrosis  
-- Ischemic events  
-- Bleeding complications  
-- Mortality reduction  
-- Revascularization (including PCI and CABG)  
-- Hospital stay (duration of anticoagulation)  
-- Diagnostic reclassification (e.g., to non‑atherothrombotic ACS)  
+- Bivalirudin  
+- Fibrinolytic Therapy  
+- Catheter Thrombosis  
+- Major Adverse Cardiac Events (MACE)  
+- Atherothrombosis  
+- Thrombin Generation  
+- Platelet Aggregation  
+- Heparin‑Induced Thrombocytopenia (HIT)  
+- Argatroban  
+- Low‑Molecular‑Weight Heparin (LMWH)  
+- Coronary Artery Revascularization  
+- Coronary Plaque Rupture  
+- Plaque Erosion  
+- Type‑1 Myocardial Infarction (MI)  
+- Stress Cardiomyopathy  
+- Myocarditis  
+- EARLY‑ACS Trial (Early Glycoprotein IIb/IIIa Inhibition in Non‑ST‑Elevation ACS)
 
 Page 25 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
-- Unstable Angina  
+- Non‑ST‑elevation Acute Coronary Syndromes (NSTE‑ACS)  
+- ST‑elevation Myocardial Infarction (STEMI)  
 - Myocardial Infarction (MI)  
-- ST‑segment Elevation Myocardial Infarction (STEMI)  
-- Non‑ST‑Elevation Acute Coronary Syndrome (NSTE‑ACS)  
-- Dual Antiplatelet Therapy (DAPT)  
-- Revascularization  
+- Unstable Angina  
+- Coronary Revascularization  
 - Percutaneous Coronary Intervention (PCI)  
-- Primary Percutaneous Coronary Intervention (PPCI)  
 - Coronary Artery Bypass Grafting (CABG)  
-- Heparin‑Induced Thrombocytopenia (HIT)  
-- Unfractionated Heparin (UFH)  
-- Low‑Molecular‑Weight Heparin (LMWH)  
-- Enoxaparin  
+- Dual Antiplatelet Therapy (DAPT)  
+- Aspirin  
+- Heparin (unfractionated heparin, UFH)  
+- Heparin‑induced Thrombocytopenia (HIT)  
+- Low‑molecular‑weight Heparin (LMWH) – e.g., enoxaparin  
 - Fondaparinux  
-- Bivalirudin (direct thrombin inhibitor)  
+- Bivalirudin  
 - Antithrombin  
-- Factor Xa inhibition  
+- Factor Xa  
+- Thrombin  
 - Activated Clotting Time (ACT)  
 - Activated Partial Thromboplastin Time (aPTT)  
-- Creatinine Clearance (CrCl)  
-- Catheter Thrombosis (guiding‑catheter thrombus)  
-- Bleeding Academic Research Consortium (BARC) bleeding criteria  
-- Ischemic events  
-- Reinfarction  
-- Thrombin activity  
-- Activated Protein C  
-- Fibrinolytic therapy  
-- Antiplatelet therapy (e.g., aspirin)  
-- Anticoagulation  
-- Thrombus formation  
-- Protamine (heparin reversal agent)  
-- OASIS‑5 trial (Fondaparinux in high‑risk NSTE‑ACS)  
-- BRIGHT‑4 trial (Bivalirudin vs. Heparin in STEMI)  
-- Meta‑analysis (comparative efficacy/safety)  
-- Relative risk (RR)  
-- Confidence interval (CI)  
-- Early revascularization  
-- Radial access (PCI)  
-- Composite endpoint (all‑cause death or BARC bleeding)  
+- Catheter Thrombosis  
+- Ischemic Events  
+- Major Bleeding  
+- Bleeding Academic Research Consortium (BARC)  
+- Creatinine Clearance (CrCl) (relevant to drug dosing in cardiovascular therapy)
 
 Page 26 Extracted Terms:
 - Acute Coronary Syndromes (ACS)  
 - ST‑Elevation Myocardial Infarction (STEMI)  
-- Non‑ST‑Elevation Acute Coronary Syndromes (NSTE‑ACS)  
+- Non‑ST‑Elevation Acute Coronary Syndrome (NSTE‑ACS)  
 - Primary Percutaneous Coronary Intervention (PPCI)  
-- Bivalirudin  
+- Percutaneous Coronary Intervention (PCI)  
 - Unfractionated Heparin (UFH)  
-- Glycoprotein IIb/IIIa inhibitors  
-- Major bleeding  
-- Major Adverse Cardiac Events (MACE)  
-- Bleeding Academic Research Consortium (BARC) types 3‑5  
-- ACUITY trial (A Comparison of Angiomax Versus Heparin in Acute Coronary Syndromes)  
-- MATRIX trial (Minimizing Adverse Hemorrhagic Events by Transradial Access Site and Systemic Implementation of AngioX)  
-- Enoxaparin (low‑molecular‑weight heparin)  
-- ATOLL trial (Acute Myocardial Infarction Treated with Primary Angioplasty and Intravenous Enoxaparin or Unfractionated Heparin)  
-- Death (all‑cause mortality)  
-- Myocardial Infarction (MI)  
-- Procedural failure  
-- Net clinical benefit (death, MI, or major bleeding)  
+- Low‑molecular‑weight heparin (Enoxaparin)  
+- Bivalirudin  
 - Fondaparinux  
-- Catheter thrombosis (guiding‑catheter thrombus)  
-- OASIS‑5 trial (Outcomes of a Prospective Study of Enoxaparin vs. Standard Therapy in Acute ST‑Elevation Myocardial Infarction)  
-- OASIS‑6 trial (The Safety and Efficacy of Fondaparinux vs. Control Therapy in Patients with STEMI)  
-- Fibrinolytic therapy / thrombolytic therapy  
-- GUSTO trial (Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Coronary Arteries)  
-- ASSENT‑3 trial (Assessment of the Safety and Efficacy of a New Thrombolytic Regimen)  
-- ExTRACT‑TIMI 25 study (Enoxaparin and Thrombolysis Reperfusion for Acute Myocardial Infarction Treatment‑Thrombolysis in Myocardial Infarction 25)  
-- Tissue Plasminogen Activator (tPA)  
-- Streptokinase  
-- Non‑fatal recurrent MI  
+- Glycoprotein IIb/IIIa inhibitors  
+- Stent thrombosis  
+- Major bleeding  
+- Major Adverse Cardiovascular Events (MACE)  
+- Ischemic outcomes  
+- Mortality / Death  
+- Recurrent acute coronary syndromes (ACS)  
+- Urgent revascularization  
+- Catheter thrombosis  
+- Coronary complications  
+- Fibrinolytic therapy  
+- Thrombolytic agents (streptokinase, tissue plasminogen activator)  
+- Heparin infusion  
+- Subcutaneous enoxaparin injections  
+- ExTRACT‑TIMI 25 trial  
+- GUSTO trial  
+- ASSENT‑3 trial  
+- ACUITY trial  
+- MATRIX trial  
+- OASIS‑5 trial  
+- OASIS‑6 trial  
+- Meta‑analysis of ACS trials
+
+Page 27 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Myocardial Infarction (MI)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Low‑Density Lipoprotein Cholesterol (LDL‑C)  
+- High‑intensity statin therapy  
+- Moderate‑intensity statin therapy  
+- Statin intolerance  
+- Non‑statin lipid‑lowering therapy  
+- Ezetimibe  
+- Proprotein Convertase Subtilisin/Kexin Type 9 (PCSK9) inhibitors  
+- Monoclonal antibodies to PCSK9  
+- Bempedoic acid  
+- Inclisiran  
+- Coronary Artery Disease (CAD)  
+- Cardiovascular death  
+- Ischemic stroke  
+- ASCVD (Atherosclerotic Cardiovascular Disease) event rates  
+- LDL‑cholesterol target levels  
+- Lipid profile measurement  
+- Lipid management post‑ACS  
+- Cholesterol Treatment Trialists (CTT) meta‑analysis  
+- A to Z (Aggrastat to Zocor) study  
+- PROVE IT‑TIMI 22 trial  
+- IMPROVE IT trial  
+
+Page 28 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Non‑ST‑Elevation Myocardial Infarction (NSTEMI)  
+- Acute Myocardial Infarction (AMI)  
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Cardiovascular Disease (CVD)  
+- Low‑Density Lipoprotein Cholesterol (LDL‑C)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Proprotein Convertase Subtilisin/Kexin Type 9 (PCSK9)  
+- Niemann‑Pick C1‑Like 1 protein (NPC1L1)  
+- Evolocumab (PCSK9 monoclonal antibody)  
+- Alirocumab (PCSK9 monoclonal antibody)  
+- Inclisiran (small interfering RNA PCSK9 inhibitor)  
+- Bempedoic Acid (ATP‑citrate lyase inhibitor)  
+- Ezetimibe (NPC1L1 cholesterol‑absorption inhibitor)  
+- Statin therapy (high‑dose; statin‑related adverse effects)  
+- Intracoronary imaging (plaque assessment & regression)  
+- Plaque regression / plaque components  
+- Injection‑site reaction (adverse effect of PCSK9 therapies)  
+- Elevated liver‑function tests (adverse effect of ezetimibe)  
+- Gout and gallstones (adverse effect of bempedoic acid)  
+- Muscle‑related adverse effects (increased with concomitant statins)  
+- FDA approval status (regulatory context for cardiovascular drugs)
+
+Page 29 Extracted Terms:
+- Acute Coronary Syndrome (ACS)  
+- Acute Coronary Syndromes  
+- Statin intolerance  
+- Statin-associated muscle symptoms  
+- Ezetimibe  
+- PCSK9 inhibitors (monoclonal antibodies)  
+- Inclisiran  
+- Bempedoic acid (ATP citrate lyase inhibitor)  
+- Bempedoic acid + ezetimibe combination therapy  
+- Major Adverse Cardiovascular Events (MACE)  
+- Atherosclerotic Cardiovascular Disease (ASCVD)  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- Hyperlipidemia  
+- High‑intensity statin therapy  
+- Moderate‑intensity statin therapy  
+- Low‑intensity statin therapy  
+- Atorvastatin (40‑80 mg)  
+- Rosuvastatin (20‑40 mg)  
+- Atorvastatin (10‑20 mg)  
+- Rosuvastatin (5‑10 mg)  
+- Simvastatin (20‑40 mg; 10 mg)  
+- Pravastatin (40‑80 mg; 10‑20 mg)  
+- Lovastatin (40 mg; 20 mg)  
+- Fluvastatin XL (80 mg)  
+- Fluvastatin (40 mg BID; 20‑40 mg)  
+- Pitavastatin (1‑4 mg)  
+- IMPROVE IT trial  
+- FOURIER trial  
+- ODYSSEY OUTCOMES trial  
+- CLEAR Outcomes trial  
+- Neurocognitive events  
+- Hemorrhagic stroke  
+- Polyvascular disease  
+- Coronary disease  
+- Diabetes mellitus (as a cardiovascular risk factor)  
+- Elevated cardiovascular biomarkers  
+- Secondary cardiovascular prevention  
+- Cardiovascular outcomes research  
+- Niemann‑Pick C1‑Like 1 protein (NPC1L1)  
+- Statin‑intolerant patient management strategies  
+- LDL‑C lowering efficacy (≥50 %, 30‑49 %, <30 %)
+
+Page 30 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- ST‑Segment Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑Segment Elevation Acute Coronary Syndrome / NSTEMI (NSTE‑ACS)  
+- Early initiation of oral beta‑blocker therapy  
+- Beta‑blockers (e.g., metoprolol, carvedilol)  
+- Myocardial oxygen demand reduction (via heart rate, blood pressure, contractility)  
+- Left ventricular ejection fraction (LVEF) < 40 %  
+- Stabilized heart failure (HF)  
+- Post‑myocardial infarction (post‑MI) patients  
+- Pre‑reperfusion era trials  
+- Killip class II‑IV acute heart failure  
+- Low cardiac output state / cardiogenic shock risk  
+- PR interval > 0.24 ms  
+- Second‑ or third‑degree heart block (without pacemaker)  
+- Severe bradycardia  
+- Active bronchospasm  
+- Randomized controlled trials (RCTs)  
+- COMMIT trial (Clopidogrel and Metoprolol in Myocardial Infarction)  
+- Metoprolol high‑dose IV/PO therapy  
+- Intravenous beta‑blocker use prior to reperfusion  
+- Carvedilol in STEMI with PCI  
+- Major adverse cardiovascular events (MACE)  
+- Renin‑Angiotensin‑Aldosterone System (RAAS) inhibitors  
+- Angiotensin‑converting enzyme inhibitor (ACE‑i)  
+- Angiotensin receptor blocker (ARB)  
+- Mineralocorticoid receptor antagonist  
+- All‑cause death  
+- High‑risk ACS (LVEF ≤ 40 %, hypertension, diabetes mellitus, anterior STEMI)  
+- Coronary revascularization (PCI/CABG)  
+- Clinical benefit of long‑term beta‑blocker therapy post‑discharge  
+- Optimal beta‑blocker duration in preserved LVEF patients.
+
+Page 31 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Acute Coronary Syndromes  
+- Acute Myocardial Infarction (AMI)  
+- ST‑Elevation Myocardial Infarction (STEMI)  
+- Heart Failure (HF)  
+- Left Ventricular Systolic Dysfunction  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Angiotensin‑Converting Enzyme Inhibitor (ACEi)  
+- Angiotensin Receptor Blocker (ARB)  
+- Mineralocorticoid Receptor Antagonist  
+- Eplerenone  
+- Sacubitril‑Valsartan  
+- Major Adverse Cardiovascular Events (MACE)  
+- All‑cause death  
+- Cardiovascular death  
+- Hypotensive events  
+- Hyperkalemia  
+- Chronic kidney disease  
+- Survival benefit  
+- Natriuretic peptides  
+- Beta blocker  
+- Percutaneous Coronary Intervention (PCI)  
+- Reperfusion therapy  
+- Regional STEMI care  
+- Prehospital STEMI care  
+- Hospital‑based STEMI care  
+- Total ischemic time  
+- Cardiac surgical care  
+- Advanced care modalities  
+- 30‑day mortality  
+- Non‑fatal cardiac failure  
+
+These terms capture the principal diagnoses, therapeutic agents, clinical outcomes, and care‐system concepts discussed in the guideline excerpt.
+
+Page 32 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- ST‑Segment Elevation Myocardial Infarction (STEMI)  
+- Reperfusion  
+- First Medical Contact (FMC)  
+- Percutaneous Coronary Intervention (PCI)  
+- Primary Percutaneous Coronary Intervention (PPCI)  
+- Cardiac Catheterization Laboratory  
+- Emergency Medical Services (EMS)  
+- Emergency Department (ED)  
+- Electrocardiogram (ECG)  
+- Ischemic Symptoms  
+- Heart Attack  
+- STEMI Performance Measures  
+- Class of Recommendation  
+- Cardiac Catheterization Center  
+- FMC‑to‑Device Time  
+- STEMI Care System Pathway  
+
+
+
+Page 33 Extracted Terms:
+**Key Heart‑Disease Terms Extracted**
+
+- Acute Coronary Syndromes (ACS)  
+- ST‑Elevation Myocardial Infarction (STEMI)  
+- Emergency Medical Services (EMS)  
+- Primary Percutaneous Coronary Intervention (PPCI / PPCI)  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Cardiogenic shock  
+- Hemodynamic instability  
+- Infarct‑related artery  
+- Myocardial salvage  
+- First medical contact (FMC) to device activation time  
+- Ischemic symptoms  
+- Ongoing ischemia  
+- Life‑threatening arrhythmia  
+- Fibrinolytic therapy  
+- TIMI 3 epicardial flow grade  
+- Radial vascular access  
+- Femoral vascular access  
+- Intracranial hemorrhage  
+- Acute kidney injury  
+- Recurrent ischemia  
 - Reinfarction  
-- Low‑molecular‑weight heparin (LMWH)  
-- Ischemic outcomes / ischemic events  
-- Bleeding events  
-- Transradial access  
-- Anticoagulant (parenteral and sub‑cutaneous)  
+- Emergency revascularization  
+- SHOCK trial (Should We Emergently Revascularize Occluded Coronaries for Cardiogenic Shock)  
+- AHA Mission: Lifeline program  
+- STEMI care system (regional STEMI system of care)  
+- Emergency revascularization strategy  
+- Early death reduction  
+- Clinical outcomes (survival, infarct size, reperfusion success)  
+- Data collection and sharing in STEMI care  
+- Transfer time to PCI‑capable hospital  
+- AHA/AACC/SCAI Guidelines for Coronary Artery Revascularization  
+- Coronary artery disease (implied context)
+
+Page 34 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- ST‑Elevation Myocardial Infarction (STEMI)  
+- Primary Percutaneous Coronary Intervention (PPCI) / PCI  
+- Coronary Artery Bypass Grafting (CABG)  
+- Cardio‑gic Shock  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Major Adverse Cardiac Events (MACE)  
+- Myocardial Infarction (MI)  
+- Fibrinolytic Therapy  
+- First Medical Contact (FMC)  
+- Reperfusion Strategy  
+- Non‑PCI‑Capable Hospital  
+- Intravenous Thrombolysis  
+- In‑hospital Mortality  
+- Ongoing Ischemia  
+- Infarct Size  
+- Multivessel Coronary Artery Disease (CAD)  
+- Mechanical Complications (e.g., mechanical valve failure, ventricular rupture)  
+- Outcomes: Mortality at 30 days, 6 months, 1 year, 6 years  
+- Clinical Trials / Studies:  
+  - FITT‑STEMI trial  
+  - Occluded Artery Trial (OAT)  
+  - DECOPI (Desobstruction Coronaire en Post‑Infarctus)  
+  - 2025 Acute Coronary Syndromes Guideline  
+  - 2021 ACC/AHA/SCAI Guideline for Coronary Artery Re‑vascularization  
+- Guidelines:  
+  - "Revascularization in ACS With Cardiogenic Shock"  
+  - "Mechanical Complications"  
+  - "Management of Multivessel CAD in STEMI"
+
+Page 35 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- ST‑segment Elevation Myocardial Infarction (STEMI)  
+- Non‑STEMI (implied as other ACS presentations)  
+- Percutaneous Coronary Intervention (PCI)  
+- Primary Percutaneous Coronary Intervention (PPCI)  
+- Fibrinolytic therapy  
+- Myocardial Infarction (MI)  
+- Coronary reperfusion  
+- Reperfusion modality  
+- Major Adverse Cardiac Events (MACE)  
+- Hemodynamic instability  
+- Infarct size  
+- Large infarct territory  
+- Hemorrhagic stroke  
+- Major noncerebral bleeding  
+- Congestive heart failure (CHF)  
+- Shock  
+- Reinfarction  
+- Late presenters (12‑24 hours after symptom onset)  
+- Pre‑hospital fibrinolysis  
+- Pharmaco‑invasive approach (fibrinolysis followed by PCI)  
+- TIMI (not explicitly mentioned, but related to reperfusion)  
+- STREAM trial (Strategic Reperfusion Early After Myocardial Infarction)  
+- Time to first medical contact (FMC)  
+- Time from FMC to device activation (≤120 minutes threshold)  
+- Time from symptom onset (≤12 hours window)  
+- Time‑dependent reduction in mortality and morbidity  
+- Tenecteplase  
+- Alteplase  
+- Reteplase  
+- Fibrin‑specific fibrinolytic agents  
+- Non‑fibrin‑specific agents  
+- Patency rates  
+- Immunogenicity  
+- Recurrent MACE  
+- Non‑PCI‑capable hospital  
+- PCI‑capable hospital  
+- Reperfusion strategy  
+- Recurrent morbidity and mortality rates  
+- Early presenters (≤3 hours after symptom onset)  
+- Large anterior infarction  
+- Low bleeding risk  
+- Large area of myocardium at risk  
+- Revascularization  
+- Coronary artery disease (implied)  
+- Reperfusion delay  
+- Transfer delays  
+- Reperfusion benefit  
+- Clinical benefit  
+- Morbidity and mortality rates  
+- Recurrent myocardial infarction  
+- Recurrent cardiac events  
+
+(Note: Each entry represents a key term or concept related to heart disease and its management as extracted from the guideline text.)
+
+Page 36 Extracted Terms:
+- Acute Coronary Syndromes  
+- ST‑segment Elevation Myocardial Infarction (STEMI)  
+- Myocardial Infarction (MI)  
+- Fibrinolytic Therapy  
+- Alteplase (tPA)  
+- Tenecteplase (TNK‑tPA)  
+- Reteplase (rPA)  
+- Coronary Angiography  
+- Percutaneous Coronary Intervention (PCI)  
+- Rescue PCI  
+- Reperfusion  
+- Failed Reperfusion  
+- Re‑occlusion  
+- Coronary Revascularization  
+- Intracranial Hemorrhage (as a contraindication to fibrinolysis)  
+- ST‑segment Elevation (definition criteria)  
+- Hemodynamic Instability  
+- Electrical Instability  
+- Ischemic Stroke (relevant contraindication)  
+- Antiplatelet Therapy  
+- Anticoagulant Therapy  
+- Catheterization  
+- Transfer to PCI‑capable Center  
+- Parenteral Anticoagulation  
+- Oral P2Y12 Inhibitors  
+- Fibrin‑Specific Fibrinolytic Agents  
+- ST‑segment Elevation Resolution Criteria  
+- Cardiogenic Shock (implied by hemodynamic instability)  
+- Aortic Dissection (contraindication but relevant to cardiac care)
+
+Page 37 Extracted Terms:
+- Acute coronary syndromes (ACS)  
+- Non‑ST‑segment elevation acute coronary syndrome (NSTE‑ACS)  
+- ST‑segment elevation myocardial infarction (STEMI)  
+- Coronary angiography  
+- Percutaneous coronary intervention (PCI)  
+- Fibrinolytic therapy (fibrinolysis)  
+- Reperfusion  
+- Recurrent ischemic events  
+- Major adverse cardiovascular events (MACE)  
+- Myocardial infarction (MI) / reinfarction  
+- Heart failure (HF)  
+- Early invasive strategy  
+- Routine invasive strategy  
+- Selective invasive strategy  
+- Pharmaco‑invasive strategy  
+- Revascularization  
+- Hemodynamic instability  
+- Electrical instability  
+- Refractory angina  
+- Early transfer to specialized center  
+- Femoral artery access  
+- Radial artery access  
+- Glycoprotein IIb/IIIa inhibitors  
+- Antiplatelet therapy  
+- Anticoagulant therapy  
+- Blowing (major/minor) bleeding  
+- Stroke  
+- Death  
+- Intermediate, high, and low risk of ischemic events  
+- Clinical trials, meta‑analyses, network meta‑analysis (study designs)  
+- Composite primary endpoints (death, reinfarction, stroke, HF)  
+- Timing of angiography (≤24 hours, >24 hours, immediate)  
+- Recurrent coronary artery stenosis or suboptimal flow  
+- Treatment arms (rescue PCI, conservative care, repeat fibrinolytic therapy)  
+- Era of reperfusion therapy (fibrinolysis‑only, pharmaco‑invasive, PPCI)  
+- Outcomes: mortality, reduced MACE, bleeding rates, rehospitalisation.
+
+Page 38 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Non‑ST‑segment Elevation Acute Coronary Syndromes (NSTE‑ACS)  
+- Coronary Artery Disease (CAD)  
+- Myocardial Infarction (MI)  
+- Recurrent MI  
+- Recurrent Ischemia  
+- Major Adverse Cardiovascular Events (MACE)  
+- Coronary Revascularization  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Coronary Angiography  
+- Invasive Approach (Routine Invasive Strategy)  
+- Selective Invasive Approach  
+- Non‑invasive Risk Stratification  
+- Non‑invasive Stress Testing  
+- Coronary CT Angiography (CCTA)  
+- Cardiac Computed Tomography (CT) Angiography  
+- Cardiac Biomarkers  
+- High‑Sensitivity Cardiac Troponin (hs‑cTn)  
+- Hematology‑Guided Antiplatelet Therapies  
+- Drug‑Eluting Stents (DES)  
+- Radial Approach for Coronary Angiography  
+- Acute Coronary Syndrome Guidelines  
+- Myocardial Infarction with Non‑Obstructive Coronary Artery Disease (MINOCA)  
+- Non‑obstructive Coronary Artery Disease  
+- AHA Scientific Statement  
+- Hospital Discharge in ACS management  
+- Recurrent Ischemic Symptoms  
+- Non‑invasive Testing Prior to Discharge  
+- Invasive Coronary Angiography Prior to Discharge  
+- Class of Recommendation (for guideline tiers)
+
+Page 39 Extracted Terms:
+Acute Coronary Syndromes (ACS)  
+Non‑ST‑Elevation Acute Coronary Syndromes (NSTE‑ACS)  
+NSTEMI (Non‑ST‑Elevation Myocardial Infarction)  
+Unstable Angina  
+Coronary Angiography  
+Routine Invasive Strategy  
+Selective Invasive Approach  
+Revascularization  
+Percutaneous Coronary Intervention (PCI)  
+Coronary Artery Bypass Grafting (CABG)  
+Myocardial Infarction (MI)  
+Major Adverse Cardiovascular Events (MACE)  
+GRACE Risk Score  
+TIMI Risk Score  
+Cardiac Biomarkers  
+CK‑MB (Creatine Kinase MB)  
+Troponin (conventional, older generation)  
+High‑Sensitivity Cardiac Troponin (hs‑cTn)  
+Coronary CT Angiography  
+Noninvasive Stress Testing  
+Refractory or Recurrent Angina  
+Hemodynamic Instability  
+Electrical Instability  
+Acute Pulmonary Edema  
+Heart Failure (HF)  
+Mitral Regurgitation  
+PCI‑Capable Hospital  
+Dual Antiplatelet Therapy (DAPT)  
+Bleeding Risk  
+Thrombocytopenia (platelet count <50 × 10⁹/L)  
+Advanced Kidney Disease (non‑dialysis)  
+Acute Renal Failure  
+Limited Life Expectancy (<1‑2 years)  
+Advanced Dementia  
+Coronary Anatomy precluding PCI/CABG  
+Patient Preference  
+Emergency Invasive Strategy (<2 hours from admission)  
+Timing of Intervention (Early vs Delayed)  
+TIMACS Trial (Timing of Intervention in Acute Coronary Syndromes)  
+VERDICT Trial (Very Early vs Deferred Invasive Evaluation)  
+GRACE Risk Score >140  
+Diabetes  
+Age >75 years  
+Steep Rise in Cardiac Biomarkers (ongoing ischemia)
+
+Page 40 Extracted Terms:
+**Key terms related to heart disease (from the excerpt provided):**
+
+1. Acute Coronary Syndromes (ACS)  
+2. Non–ST‑segment elevation acute coronary syndromes (NSTE‑ACS)  
+3. Percutaneous Coronary Intervention (PCI)  
+4. Transradial access / radial approach  
+5. Transfemoral access / femoral approach  
+6. Radial artery  
+7. Femoral artery  
+8. Coronary artery bypass graft (CABG)  
+9. Bypass conduit (radial artery, ulnar artery, distal radial artery)  
+10. Mechanical circulatory support (MCS)  
+11. Ultrasound guidance (for vascular access)  
+12. Bleeding complications  
+13. Vascular complications  
+14. Mortality / death  
+15. Hemorrhage / bleeding risk  
+16. Global Registry of Acute Coronary Events (GRACE) score  
+17. Heart failure (HF)  
+18. Troponin (Tn)  
+19. Thrombolysis in Myocardial Infarction (TIMI)  
+20. Ventricular fibrillation (VF)  
+21. Ventricular tachycardia (VT)  
+22. ACC/AHA/SCAI Guideline  
+23. Cardiovascular Surgical Team  
+24. Heart Team approach  
+25. CATHETERIZATION LABORATORY recommendations  
+26. Evidence Table / Level of Evidence (LOE)  
+27. Class of Recommendation (COR)  
+28. Meta‑analysis (individual patient data)  
+29. Clinical, anatomical, or technical reasons (affecting access choice)  
+
+These terms capture the key concepts and entities related to the management and complications of heart disease discussed in the text.
+
+Page 41 Extracted Terms:
+- Acute Coronary Syndrome (ACS)  
+- ST‑Elevation Myocardial Infarction (STEMI)  
+- Percutaneous Coronary Intervention (PCI)  
+- Transradial approach  
+- Transfemoral approach  
+- Radial access  
+- Femoral access  
+- Major bleeding  
+- Vascular complications  
+- MACE (Major Adverse Cardiovascular Events)  
+- Net adverse clinical events  
+- Coronary artery revascularization  
+- Aspiration thrombectomy  
+- Myocardial infarction (MI) size  
+- Left ventricular (LV) function  
+- Coronary patency  
+- Coronary thrombus  
+- Balloon angioplasty  
+- Stent deployment  
+- Stent malapposition  
+- Coronary dissections  
+- Intravascular ultrasound (IVUS)  
+- Optical coherence tomography (OCT)  
+- Coronary stent implantation  
+- Left main artery lesions  
+- Complex lesions  
+- Recurrent myocardial infarction  
+- Target vessel revascularization  
+- Stent thrombosis  
+- Heart failure (HF)  
+- Stroke / transient ischemic attack  
+- Thrombus burden  
+- No‑reflow phenomenon
+
+Page 42 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Acute Coronary Syndromes (ACS)  
+- Coronary artery disease (CAD)  
+- Multivessel coronary artery disease (MVD)  
+- ST‑segment–elevation myocardial infarction (STEMI)  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Left main coronary artery disease  
+- Target vessel failure  
+- Cardiac death  
+- Target vessel myocardial infarction (MI)  
+- Ischemia‑driven target vessel revascularization  
+- Target lesion revascularization  
+- Stent thrombosis (definite or probable)  
+- Major adverse cardiac events (MACE)  
+- Minimum stent area (MSA)  
+- Malapposition  
+- Underexpansion  
+- Tissue protrusion  
+- Edge disease / edge dissection  
+- Optical coherence tomography (OCT)  
+- Intravascular ultrasound (IVUS)  
+- Intracoronary imaging guidance  
+- Angiographic guidance  
+- Intracoronary imaging (general)  
+- Calcification extent  
+- Lipid presence  
+- Thrombus formation  
+- Fibroatheroma  
+- Plaque rupture  
+- Plaque burden  
+- Plaque length  
+- External elastic lamina diameter  
+- Coronary artery diameter stenosis severity  
+- Cardiogenic shock  
+- Renal failure (associated risk in PCI)
+
+These terms represent the core concepts, diagnostic features, interventions, and outcomes discussed in the provided guideline excerpt.
+
+Page 43 Extracted Terms:
+**Key terms related to heart disease extracted from the guideline text:**
+
+- Acute Coronary Syndromes (ACS)  
+- ST‑elevation myocardial infarction (STEMI)  
+- Major adverse cardiovascular events (MACE)  
+- Myocardial infarction (MI)  
+- Recurrent MI  
+- Recurrent ischemia  
+- Cardiac mortality (cardiovascular death)  
+- Angina (refractory angina)  
+- Angina‑related quality of life (QOL)  
+- Coronary artery disease (CAD)  
+- Multivessel coronary artery disease (MVD)  
+- Complete revascularization (CR)  
+- Culprit artery only revascularization  
+- Staged percutaneous coronary intervention (PCI)  
+- Immediate (single‑procedure) multivessel PCI  
+- Physiology‑guided PCI  
+- Fractional flow reserve (FFR)  
+- Angiography‑guided PCI  
+- Coronary artery bypass grafting (CABG)  
+- Left main coronary artery disease  
+- Left anterior descending (LAD) artery disease  
+- Chronic total occlusion (CTO)  
+- Diabetes mellitus (as a CAD risk factor)  
+- Bleeding risk from dual antiplatelet therapy (DAPT)  
+- Ischemia‑driven revascularization  
+- Unplanned revascularization  
+- Cerebrovascular events  
+- Heart failure (HF)  
+- Re‑infarction (reinfarction)  
+- Hospitalization for heart failure  
+- Network meta‑analysis
+
+These terms capture the core concepts, interventions, clinical outcomes, and patient subgroups addressed in the 2025 Acute Coronary Syndromes Guideline.
+
+Page 44 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- ST‑segment Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑segment Elevation Acute Coronary Syndromes (NSTE‑ACS)  
+- Cardiogenic shock  
+- Multivessel Percutaneous Coronary Intervention (PCI)  
+- Culprit lesion PCI / culprit‑only PCI  
+- Non‑culprit lesion PCI  
+- Complete revascularization  
+- Staged multivessel PCI  
+- Coronary Artery Disease (CAD)  
+- Multivessel Disease (MVD)  
+- Left Main Coronary Artery stenosis  
+- Left Anterior Descending (LAD) artery disease  
+- Complex CAD (including left‑main, 3‑vessel, diffuse disease)  
+- Diabetes mellitus with coronary involvement  
+- Left Ventricular (LV) dysfunction / severe LV dysfunction  
+- Major Adverse Cardiovascular Events (MACE)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Coronary Artery Bypass Grafting (CABG) vs PCI decision  
+- Heart Team approach  
+- Physiological assessment (e.g., fractional flow reserve) of non‑culprit stenosis  
+- Renal replacement therapy / kidney failure in PCI context  
+- CULPRIT‑SHOCK trial  
+- Right/Left coronary artery involvement  
+- Coronary artery bypass grafting (CABG) surgery  
+- Percutaneous Coronary Intervention (PCI)  
+- Angiographic assessment  
+- Clinical outcomes (death, renal outcomes, rehospitalization)  
+
+These terms capture the key heart‑disease concepts and procedures discussed in the guideline excerpt.
+
+Page 45 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- ST‑segment Elevation Myocardial Infarction (STEMI)  
+- Non–ST‑segment Elevation Acute Coronary Syndromes (NSTE‑ACS)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Percutaneous Coronary Intervention (PCI)  
+- Multivessel Disease (MVD)  
+- Major Adverse Cardiac Events (MACE)  
+- Functional Assessment in Elderly MI Patients With Multivessel Disease (FIRE trial)  
+- Single Staged Versus Multistaged PCI in Multivessel NSTEMI Patients (SMILE trial)  
+- BIOVASC trial  
+- Fractional Flow Reserve (FFR)  
+- Fractional Flow Reserve Versus Angiography for Multivessel Evaluation (FAME trial)  
+- Fractional Flow Reserve vs. Angiography‑Guided Strategy for Management of Non‑Infarction Related Artery Stenosis in Patients with Acute Myocardial Infarction (FRAME‑AMI trial)  
+- Fractional Flow Reserve Versus Angiographically Guided Management to Optimise Outcomes in Unstable Coronary Syndromes (FAMOUS‑NSTEMI trial)  
+- Cardiogenic Shock  
+- CULPRIT‑SHOCK trial  
+- Culprit Lesion Only PCI vs. Multivessel PCI  
+- Angiography‑guided PCI  
+- Culprit‑only PCI  
+- Emergency revascularization  
+- Hemodynamic instability  
+- Renal replacement therapy  
+- Survival benefit with revascularization  
+- Risk of death or renal failure with multivessel PCI  
+- Stent deployment  
+- Revascularization procedures  
+- Coronary artery revascularization (clinical guideline context)  
+- Angiographic assessment of stenosis (≥50 %)  
+- Minimum vessel diameter (>2.5 mm)  
+- Drug‑eluting stents (implicit in PCI)
+
+Page 46 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Myocardial infarction (MI)  
+- ST‑segment elevation myocardial infarction (STEMI)  
+- Non‑ST‑segment elevation myocardial infarction (NSTEMI)  
+- Cardiogenic shock  
+- Revascularization  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Multivessel PCI  
+- Culprit lesion  
+- Non‑culprit lesion  
+- Microaxial intravascular flow pump (microaxial pump)  
+- Intra‑aortic balloon pump (IABP)  
+- Venoarterial extracorporeal membrane oxygenation (VA‑ECMO)  
+- Mechanical circulatory support (MCS)  
+- Hemodynamic stabilization  
+- Bridge to surgery  
+- Shock (SHOCK) trial  
+- CULPRIT‑SHOCK trial  
+- FITT‑STEMI trial  
+- Primary percutaneous coronary intervention (PPCI)  
+- Renal replacement therapy (as outcome endpoint)
+
+Page 47 Extracted Terms:
+- Acute Coronary Syndrome (ACS)  
+- Acute Myocardial Infarction (AMI)  
+- ST‑Segment Elevation Myocardial Infarction (STEMI)  
+- Cardiogenic shock  
+- DanGer‑SHOCK trial  
+- SCAI shock stages (C, D, E)  
+- Microaxial flow pump (MCP)  
+- Mechanical circulatory support (MCS) devices  
+- Intra‑aortic balloon pump (IABP)  
+- Veno‑arterial extracorporeal membrane oxygenation (VA‑ECMO)  
+- Extracorporeal Life Support (ECLS)  
+- ECMO‑CS trial  
+- ECLS‑SHOCK trial  
+- IABP‑SHOCK II trial  
+- Ventricular septal rupture (VSR)  
+- Mechanical complications of AMI  
+- Bridge to surgery  
+- Early revascularization  
+- Percutaneous coronary intervention (PCI)  
+- End‑organ hypoperfusion  
+- Arterial lactate (≥2.5 mmol/L)  
+- Central venous oxygen saturation (SvO₂ < 55 %)  
+- PaO₂ (oxygen partial pressure)  
+- LVEF (left ventricular ejection fraction) < 45 %  
+- Hypotension (SBP < 100 mm Hg)  
+- Renal replacement therapy  
+- Limb ischemia  
+- Major bleeding  
+- Peripheral vascular complications  
+- In‑hospital mortality  
+- 30‑day mortality  
+- All‑cause mortality  
+- Absolute risk reduction  
+- Hazard ratio (HR)  
+- Odds ratio (OR)  
+- Glasgow Coma Scale score < 8  
+- Right ventricular failure  
+- Overt right ventricular failure  
+- Large‑bore access  
+- Clinical guidelines (2025 Acute Coronary Syndromes Guideline)
+
+Page 48 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Myocardial Infarction (MI / AMI)  
+- Cardiogenic Shock  
+- Mechanical Complications of ACS  
+- Ventricular Septal Rupture  
+- Mitral Valve Insufficiency (due to papillary muscle infarction)  
+- Free Wall Rupture  
+- Heart Failure (HF)  
+- Sudden Cardiac Death  
+- Intra‑Aortic Balloon Pump (IABP)  
+- Veno‑Arterial Extracorporeal Membrane Oxygenation (VA‑ECMO)  
+- Extracorporeal Life Support (ECLS)  
+- Mechanical Circulatory Support (MCS)  
+- Temporary MCS Devices  
+- Reperfusion Therapy  
+- Cardiac Surgical Expertise  
+- Cardiac Intensive Care Unit (CICU)  
+- Shock Teams  
+- Cardiac Transplantation  
+- Durable Left Ventricular Assist Device (LVAD)  
+- Percutaneous Structural Intervention  
+- Acute Mitral Regurgitation  
+- Heart Team Approach  
+- Early Corrective Surgery  
+- Delayed Surgery (post‑AMI)  
+- End‑Organ Injury  
+- Hemodynamic Stabilization  
+- Left‑to‑Right Shunting  
+- Multidisciplinary Care  
+- Peri‑operative Mortality  
+
+These terms capture the key concepts related to heart disease and its management discussed in the guideline excerpt.
+
+Page 49 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Myocardial infarction (MI)  
+- Left ventricular ejection fraction (LVEF)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Ventricular arrhythmias  
+- Sudden cardiac death (SCD)  
+- Atrial fibrillation (AF)  
+- Atrial flutter  
+- Second‑degree atrioventricular block, Mobitz type II  
+- High‑grade atrioventricular block  
+- Alternating bundle‑branch block  
+- Third‑degree atrioventricular block (infranodal)  
+- Permanent pacing  
+- Temporary wearable cardioverter‑defibrillator  
+- Arrhythmic complications  
+- Heart failure (HF)  
+- Coronary revascularization  
+- Percutaneous coronary intervention (PCI)  
+- Fibrinolytic therapy  
+- Antiarrhythmic therapy  
+- Electrophysiologic interventions  
+- Mechanical complications of acute myocardial infarction (e.g., rupture, pseudo‑aneurysm)  
+- Left atrium (LA)  
+- Left ventricle (LV)  
+- Mitral regurgitation (MR)  
+- National/American Heart Association (AHA), American College of Cardiology (ACC), Heart Rhythm Society (HRS) guideline documents  
+- MADIT II (Multicenter Automatic Defibrillator Implantation Trial)  
+- Evidence‑based guideline terminology (e.g., “recommended”, “reasonable”)
+
+Page 50 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Prophylactic implantable cardioverter‑defibrillator (ICD) implantation  
+- Left Ventricular Ejection Fraction (LVEF)  
+- New York Heart Association (NYHA) functional class  
+- Ventricular tachycardia (VT)  
+- Ventricular fibrillation (VF)  
+- Myocardial infarction (MI)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Sudden cardiac death  
+- Beta‑blocker therapy  
+- Antiarrhythmic drug therapy  
+- Radiofrequency catheter ablation  
+- Wearable cardioverter‑defibrillator (WCD)  
+- ST‑elevation myocardial infarction (STEMI)  
+- High‑degree atrioventricular (AV) block  
+- Cardiogenic shock  
+- Pericarditis after myocardial infarction  
+- Inducible ventricular arrhythmia  
+- Temporary pacemaker insertion  
+- Permanent pacemaker insertion  
+- Defibrillator in Acute Myocardial Infarction Trial (DINAMIT)  
+- VEST trial (Vest Prevention of Early Sudden Death)  
+- Ventricular arrhythmias occurring >48 hours post‑reperfusion  
+- Non‑arrhythmic deaths following ICD implantation or MI  
+- LVEF thresholds (≤ 35 % and ≤ 40 %) predictive of ICD benefit
+
+Page 51 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Myocardial Infarction (MI)  
+- Dressler’s syndrome  
+- Pericarditis (acute & late)  
+- Pericardial effusion  
+- High‑dose aspirin therapy  
+- Colchicine therapy  
+- Glucocorticoids  
+- Non‑steroidal anti‑inflammatory drugs (NSAIDs)  
+- Left ventricular (LV) thrombus  
+- ST‑segment elevation myocardial infarction (STEMI)  
+- Anterior STEMI  
+- Left ventricular ejection fraction (LVEF)  
+- LV aneurysm  
+- Left anterior descending (LAD) artery  
+- Echocardiogram (transthoracic echo)  
+- Cardiac magnetic resonance imaging (MRI)  
+- Dual antiplatelet therapy (DAPT)  
+- Anticoagulation (warfarin, DOAC, vitamin K antagonists)  
+- Direct oral anticoagulants (DOACs)  
+- Vitamin K antagonist  
+- Cardiac intensive care unit (CICU)  
+- Cardiogenic shock  
+- Arrhythmias (torsades, VT/VF)  
+- Reperfusion therapy (PCI, thrombolysis)  
+- Angina (ongoing)  
+- Hemodynamic instability  
+- Stroke (thromboembolic complication)  
+- Systemic embolization  
+- Bleeding risk  
+- Thromboembolic risk  
+- ECG findings (PR‑segment depression, concave ST elevation, dynamic T‑wave changes)  
+- Friction pericardial rub  
+- Pleuritic chest pain  
+- Residual thrombus monitoring  
+- Anticoagulant duration (3 months, prolonged)  
+- Imaging for LV thrombus detection  
+- Clinical risk assessment for anticoagulation  
+- Pericarditis diagnostic criteria  
+- Clinical management of pericarditis (aspirin dose, colchicine dosing)
+
+Page 52 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Acute Coronary Syndromes (ACS)  
+- Myocardial infarction (MI)  
+- ST‑elevation myocardial infarction (STEMI)  
+- Non‑ST elevation myocardial infarction (NSTEMI)  
+- Cardiac intensive care unit (CICU)  
+- Hemodynamic instability  
+- Uncontrolled arrhythmias  
+- Heart failure (HF)  
+- Cardiogenic shock  
+- Angina  
+- Ischemic symptoms  
+- Cardiac catheterization  
+- Telemetry monitoring  
+- Intermediate care unit  
+- ACTION ICU risk score  
+- Signs / symptoms of heart failure  
+- Heart rate  
+- Systolic blood pressure (SBP)  
+- Troponin  
+- Serum creatinine  
+- Prior revascularization  
+- Chronic lung disease  
+- ST‑segment depression  
+- Age > 70 years  
+- Anemia  
+- Blood transfusion  
+- Hemoglobin level (≥ 10 g/dL, < 7–8 g/dL)  
+- Cardiovascular events  
+- Restrictive transfusion strategy  
+- Liberal transfusion strategy  
+- Myocardial Ischemia and Transfusion (MINT) trial  
+- End‑stage renal disease (ESRD)  
+- Cardiac surgery  
+- Percutaneous coronary intervention (PCI)  
+- Cardiac death  
+- Recurrent myocardial infarction  
+
+These terms capture the clinical concepts, procedures, scoring systems, and outcomes discussed in the guideline excerpt.
+
+Page 53 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Myocardial Infarction (MI)  
+- ST‑Segment Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑Segment Elevation Acute Coronary Syndrome (NSTE‑ACS)  
+- Percutaneous Coronary Intervention (PCI)  
+- Primary Percutaneous Coronary Intervention (PPCI)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Left Ventricular (LV) function  
+- Left Ventricular dysfunction  
+- Left Ventricular thrombus  
+- Ventricular wall motion abnormalities  
+- Mechanical complications of MI (e.g., LV free‑wall rupture, papillary muscle rupture)  
+- Valvular dysfunction (e.g., mitral regurgitation)  
+- Killip class  
+- TIMI Flow Grade  
+- Zwolle score  
+- Troponin (troponin‑negative)  
+- Acute kidney injury (AKI)  
+- Heart failure (HF)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Telemetry monitoring  
+- Continuous ST‑segment monitoring  
+- Transthoracic echocardiography (TTE)  
+- Cardiac magnetic resonance imaging (CMR)  
+- Left ventriculography  
+- Myocardial perfusion imaging  
+- Revascularization (e.g., coronary revascularization)  
+- Clinical risk stratification  
+- Early discharge strategy  
+- Same‑day discharge  
+- Post‑discharge prescription medications  
+- Follow‑up after discharge  
+- Intermediate care unit (ICU)  
+
+(Note: Terms are listed in bullet format for clarity.)
+
+Page 54 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Coronary heart disease (CHD)  
+- Myocardial infarction (MI, sometimes referred to as AMI)  
+- Cardiac rehabilitation (CR) – center‑based and home‑based  
+- Secondary prevention of cardiovascular disease (CVD)  
+- Functional status  
+- Quality of life (QOL)  
+- Readmission (30‑day readmission)  
+- Hospital discharge planning  
+- Transition from hospital to home  
+- Hospital‑to‑Home Initiative  
+- AMI Toolkit  
+- Digital health interventions (for transition of care)  
+- Risk factor modification (e.g., smoking cessation, physical activity, healthy diet)  
+- Medication adherence and optimization  
+- Health and nutrition education  
+- Psychological support (depression & anxiety screening)  
+- Life’s Essential 8 (AHA lifestyle recommendations)  
+- Cardiovascular mortality  
+- All‑cause death  
+- All‑cause hospitalization  
+- Under‑utilization of cardiac rehabilitation  
+- Intensive care unit (ICU) services (as a readmission risk factor)  
+- Chronic coronary disease  
+- American Heart Association (AHA) recommendations  
+- Cardiovascular disease (CVD)  
+- Coronary artery disease (sometimes used interchangeably with CHD)  
+- Cardiovascular risk factors (hyperlipidemia, hypertension, diabetes, etc.)  
+- Patient education (symptom monitoring, return to daily routine, psychosocial considerations)  
+- Multicomponent integrated care (combination of quality improvement strategies)  
+
+These terms capture the principal clinical concepts, interventions, and outcomes discussed in the guideline text regarding heart disease.
+
+Page 55 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Myocardial infarction (MI / AMI)  
+- Coronary heart disease (CHD)  
+- Cardiac rehabilitation (CR)  
+- Exercise‑based CR programs  
+- Home‑based CR programs  
+- Center‑based CR programs  
+- Hybrid CR models  
+- Digital health tools  
+- Remote monitoring  
+- Risk factor education and counseling  
+- Lifestyle management (dietary counseling, smoking cessation, weight control)  
+- Risk factor control (lipids, blood pressure, diabetes)  
+- Psychological interventions  
+- Re‑infarction risk reduction  
+- Cardiovascular mortality  
+- Cardiovascular death  
+- Recurrent myocardial infarction  
+- Rehospitalization  
+- Quality of life (QOL)  
+- Ischemic symptoms assessment  
+- Bleeding risk assessment (medication or procedural)  
+- Diagnostic testing (repeat echocardiogram, staged PCI)  
+- Influenza vaccination status  
+- Medication reconciliation  
+- Sublingual nitroglycerin prescribing  
+- Primary prevention (secondary prevention)  
+- Self‑care education and adherence  
+- Social determinants of health (medication access, CR attendance barriers)  
+
+These terms capture the key concepts related to heart disease discussed in the guideline text.
+
+Page 56 Extracted Terms:
+- Acute Coronary Syndromes  
+- Dual Antiplatelet Therapy (DAPT)  
+- Aspirin  
+- P2Y12 inhibitor  
+- Ticagrelor  
+- Clopidogrel  
+- Prasugrel  
+- Monotherapy  
+- Gastrointestinal bleeding  
+- Proton Pump Inhibitor (PPI)  
+- Percutaneous Coronary Intervention (PCI)  
+- Cardiac Rehabilitation  
+- Major Adverse Cardiovascular Events (MACE)  
+- Oral Anticoagulants  
+- Bleeding risk  
+- High bleeding risk  
+- High gastrointestinal bleeding risk  
+- De‑escalation of DAPT  
+
+Page 57 Extracted Terms:
+- Acute coronary syndrome (ACS)  
+- ST‑elevation myocardial infarction (STEMI)  
+- Non‑ST‑elevation acute coronary syndrome (NSTE‑ACS)  
+- Unstable angina  
+- Dual antiplatelet therapy (DAPT)  
+- Aspirin  
+- Oral P2Y12 inhibitor  
+- Ticagrelor  
+- Prasugrel  
+- Clopidogrel  
+- Ticagrelor monotherapy  
+- Clopidogrel monotherapy  
+- Aspirin monotherapy  
+- De‑escalation strategy (switching P2Y12 inhibitors)  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Major adverse cardiovascular events (MACE)  
+- Bleeding risk  
+- Thrombotic risk  
+- Gastrointestinal bleeding  
+- Proton pump inhibitor (PPI)  
+- Antiplatelet therapy  
 - Antithrombotic therapy  
-- Guideline‑recommended post‑procedure infusion (2‑ to 4‑hour bivalirudin infusion)  
-- Clinical endpoint (primary, secondary)  
-- Hospital discharge (duration of therapy)  
-- Intravenous anticoagulation  
-- Sub‑cutaneous anticoagulation  
-- Invasive vs. non‑invasive management strategies.
+- Platelet inhibition / pharmacodynamic response  
+- High bleeding risk  
+- High thrombotic risk  
+- Early thrombotic events  
+- Late thrombotic events  
+- Ischemic events / ischemic efficacy  
+- Net clinical benefit / harm  
+- Shorter DAPT strategy  
+- Prothrombotic state  
+- CURE trial (Clopidogrel in Unstable Angina to Prevent Recurrent Events)
+
+Page 58 Extracted Terms:
+**Key heart‑disease–related terms identified in the text**
+
+- Acute coronary syndromes (ACS)  
+- Dual antiplatelet therapy (DAPT)  
+- Single antiplatelet therapy (SAPT)  
+- Oral anticoagulant (OAC)  
+- Percutaneous coronary intervention (PCI)  
+- Drug‑eluting stent (DES)  
+- Bioresorbable polymer‑coated stent  
+- Clopidogrel  
+- Ticagrelor  
+- Prasugrel  
+- P2Y12 inhibitor  
+- Platelet function assays  
+- Genotyping (CYP2C19 polymorphisms)  
+- Proton‑pump inhibitor (PPI) therapy  
+- Omeprazole  
+- Gastric/ gastrointestinal bleeding  
+- Ischemic events (myocardial infarction, stroke)  
+- High bleeding risk  
+- Guided de‑escalation of DAPT  
+- Unguided de‑escalation of DAPT  
+- De‑escalation strategy (switching to clopidogrel)  
+- Antiplatelet efficacy  
+- Bleeding risk reduction  
+- Management of high bleeding risk patients (MASTER DAPT trial)  
+
+These terms capture the core concepts related to cardiovascular disease management, antiplatelet therapy, procedural interventions, and associated risks discussed in the excerpt.
+
+Page 59 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- ST‑elevation myocardial infarction (STEMI)  
+- Myocardial infarction (MI)  
+- Dual antiplatelet therapy (DAPT)  
+- Triple antithrombotic therapy  
+- Aspirin  
+- P2Y12 inhibitors (e.g., clopidogrel, ticagrelor)  
+- Clopidogrel  
+- Ticagrelor  
+- Oral anticoagulant (OAC)  
+- Direct oral anticoagulant (DOAC)  
+- Vitamin K antagonist (e.g., warfarin)  
+- Percutaneous coronary intervention (PCI)  
+- High bleeding risk  
+- Major bleeding  
+- Minor bleeding  
+- Major adverse cardiovascular events (MACE)  
+- Ischemic events  
+- Chronic kidney disease (CKD)  
+- Estimated glomerular filtration rate (eGFR)  
+- Hemoglobin level  
+- Platelet count (thrombocytopenia)  
+- Intracranial hemorrhage (ICH)  
+- Nonsteroidal anti‑inflammatory drugs (NSAIDs)  
+- Steroids  
+- Active malignancy  
+- Brain arteriovenous malformation  
+- Ischemic stroke  
+- Anticoagulation therapy  
+- Aspirin discontinuation (1–4 weeks post‑ACS)  
+- Antiplatelet therapy guidelines  
+- Academic Research Consortium (ARC) high‑bleeding‑risk criteria  
+- Age ≥ 75 years  
+- Long‑term oral anticoagulation  
+- Renal function (CKD stages)  
+- Major/minor bleeding criteria  
+- Non‑deferrable major surgery on DAPT  
+- Recent major surgery or trauma (within 30 days)
+
+Page 60 Extracted Terms:
+**Key heart‑disease–related terms extracted from the text**
+
+- Acute Coronary Syndromes (ACS)  
+- Percutaneous Coronary Intervention (PCI)  
+- Dual Antiplatelet Therapy (DAPT)  
+- Aspirin  
+- P2Y12 inhibitors (clopidogrel, prasugrel, ticagrelor)  
+- Oral anticoagulant  
+- Low‑intensity vs. high‑intensity anticoagulation  
+- Atrial fibrillation (AF)  
+- Stent thrombosis  
+- Myocardial infarction (MI)  
+- Coronary revascularization  
+- Lipid‑lowering therapy  
+- Statin intolerance (requiring ≥2 statins)  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- LDL‑C target levels  
+- Major Adverse Cardiovascular Events (MACE)  
+- Cardiovascular events (stroke, death, MI, stent thrombosis)  
+- High‑potency (high‑intensity) statin  
+- LDL‑C lowering strategy (rapid, intensive)  
+- Lipid management guidelines  
+- Early follow‑up and lipid testing  
+- PALM (Provider Assessment of Lipid Management) registry  
+- AUGUSTUS trial (antithrombotic therapy after ACS/PCI in AF)  
+
+These terms capture the principal clinical concepts, therapies, outcomes, and guideline recommendations relevant to heart disease discussed in the passage.
+
+Page 61 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Myocardial infarction (MI)  
+- Heart failure (HF)  
+- Left ventricular (LV) systolic function  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Coronary artery disease (CAD)  
+- Major adverse cardiovascular events (MACE)  
+- Cardiovascular death  
+- Resuscitated cardiac arrest  
+- Stroke (ischemic)  
+- Urgent coronary revascularization  
+- Angina  
+- Coronary revascularization procedures  
+- Coronary artery bypass graft (CABG)  
+- Lipid‑lowering therapy  
+- Aspirin therapy  
+- Statin therapy  
+- Glucagon‑like peptide‑1 (GLP‑1) receptor agonists  
+- Sodium‑glucose co‑transporter‑2 (SGLT‑2) inhibitors  
+- Empagliflozin  
+- Dapagliflozin  
+- Canagliflozin  
+- Ertugliflozin  
+- Colchicine  
+- Anti‑inflammatory therapy  
+- High‑sensitivity C‑reactive protein (hs‑CRP)  
+- Plaque volume  
+- Non‑cardiovascular death  
+- Acute kidney injury  
+- Hypovolemia  
+- Urinary tract infection  
+- Genital mycotic infection  
+- Ketoacidosis (perioperative)
+
+Page 62 Extracted Terms:
+**Heart‑Disease–Related Terms**
+
+- Acute Coronary Syndrome (ACS)  
+- Myocardial infarction (MI)  
+- Coronary artery disease / coronary heart disease  
+- ST‑segment elevation (ST‑elevation)  
+- ST‑segment–elevation myocardial infarction (STEMI)  
+- Cardiac arrest  
+- Revascularization (e.g., percutaneous coronary intervention – PCI)  
+- Primary PCI  
+- Fibrinolysis / fibrinolytic therapy  
+- Coronary angiography / coronary catheterization  
+- Invasive risk stratification  
+- Telemetry monitoring  
+- Life‑threatening arrhythmias  
+- Atrioventricular (AV) block  
+- Atrial fibrillation (AF)  
+- Ischemia / severe recurrent ischemia  
+- Rehospitalization for ischemia  
+- Reperfusion therapy  
+- Stent thrombosis  
+- Major adverse cardiovascular events (MACE)  
+- Cardiovascular death  
+- Non‑fatal MI  
+- Immunization for cardiovascular risk reduction (e.g., influenza vaccine, pneumococcal vaccine)  
+- FLUVACS (Flu Vaccination in Acute Coronary Syndromes) study  
+- Cardiovascular morbidity and mortality  
+- ASCVD (atherosclerotic cardiovascular disease)  
+- Risk scores for death/recurrent MI prediction  
+- Telemetry duration in ACS management  
+- Preloading of oral P2Y12 inhibitors (loading dose prior to angiography)  
+- Pulmonary complications (COVID‑19, pneumococcal pneumonia) as cardiovascular event risk enhancers  
+- Colchicine use post‑MI (ongoing trials)  
+
+These terms capture the core clinical concepts, interventions, outcomes, and risk factors discussed in the guideline excerpt.
+
+Page 63 Extracted Terms:
+- Acute Coronary Syndrome (ACS)  
+- ST‑Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑Elevation ACS (NSTE‑ACS)  
+- Non‑ST‑Elevation Myocardial Infarction (NSTEMI)  
+- Multivessel Disease (MVD)  
+- Percutaneous Coronary Intervention (PCI)  
+- Culprit‑Only PCI  
+- Multivessel PCI  
+- Coronary Artery Bypass Graft (CABG)  
+- Coronary Angiography  
+- Cardiogenic Shock  
+- Mechanical Circulatory Support (MCS)  
+- Microaxial Flow Pump  
+- Chronic Coronary Syndrome (CCS)  
+- Left Ventricular Thrombus  
+- Antiplatelet Therapy  
+- Clopidogrel  
+- P2Y12 Inhibitors (oral & parenteral)  
+- Beta Blockers  
+- Sacubitril‑Valsartan  
+- Non‑statin Lipid‑Lowering Therapies  
+- PCSK9 Inhibitors  
+- GLP‑1 Receptor Agonists  
+- Aspirin  
+- Direct Oral Anticoagulants (DOACs)  
+- Colchicine  
+- Post‑MI Pericarditis  
+- Cardiac Rehabilitation (CR) – home‐based vs facility‐based  
+- Residual Unrevascularized Coronary Artery Disease (CAD)  
+- Vascular Complications  
+- Bleeding Risk  
+- Major Adverse Cardiac Events (MACE)  
+- Long‑Term Secondary Prevention  
+- Diabetes  
+- Overweight/Obesity
+
+Page 64 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- Acute Coronary Syndromes (ACS)  
+- ST‑elevation myocardial infarction (STEMI)  
+- Non‑ST‑elevation acute coronary syndromes  
+- Primary percutaneous coronary intervention (PCI)  
+- Coronary artery revascularization  
+- Coronary artery disease (CAD)  
+- Dual antiplatelet therapy (DAPT)  
+- Cardiovascular disease  
+- Heart disease  
+- 2013 ACCF/AHA guideline for the management of ST‑elevation myocardial infarction  
+- 2014 AHA/ACC guideline for the management of patients with non‑ST‑elevation acute coronary syndromes  
+- 2016 ACC/AHA guideline focused update on duration of dual antiplatelet therapy  
+- 2021 ACC/AHA/SCAI guideline for coronary artery revascularization  
+- ACC/AHA clinical practice guidelines  
+- American College of Cardiology (ACC)  
+- American Heart Association (AHA)  
+- SCAI (Society for Cardiovascular Angiography and Interventions)  
+- Myocardial infarction  
+- Coronary artery disease management  
+- Cardiovascular disease and comorbid conditions  
+- Heart disease and stroke statistics (circulation data)
+
+Page 65 Extracted Terms:
+Acute Coronary Syndromes (ACS)  
+Myocardial infarction (MI)  
+ST‑segment–elevation myocardial infarction (STEMI)  
+Non‑ST‑segment–elevation ACS (NSTE‑ACS)  
+Acute coronary syndrome  
+Coronary artery disease (CAD)  
+Coronary heart disease  
+Percutaneous coronary intervention (PCI)  
+Coronary stent  
+Cardiogenic shock  
+Left ventricular thrombus  
+Chronic coronary disease  
+Atrial fibrillation (AF)  
+Heart failure (HF)  
+Heart failure with reduced ejection fraction (HFrEF)  
+Heart failure with preserved ejection fraction (HFpEF)  
+Cardiac rehabilitation  
+Chest pain evaluation  
+Mechanical complications of MI (e.g., ventricular septal defect, free‑wall rupture)  
+Catheterization laboratory management for cardiac arrest  
+Out‑of‑hospital cardiac arrest  
+Stroke prevention  
+Transient ischemic attack (TIA)  
+Hypertension  
+Elevated blood pressure  
+Dyslipidemia / high‑cholesterol / lipid management  
+Statins (including high‑intensity statin therapy)  
+Low‑density lipoprotein cholesterol (LDL‑C) goals  
+Cardiovascular risk factors (e.g., diabetes, smoking)  
+Sex, gender, and ethnicity disparities in cardiovascular care  
+Racial and ethnic differences in heart disease outcomes  
+Sex differences in symptom presentation and treatment of MI  
+Pre‑vention and control of hypertension  
+Management of patients with left ventricular thrombus  
+Guidelines for blood cholesterol management (ACC/AHA)  
+Guidelines for prevention, detection, and management of high blood pressure (ACC/AHA)  
+Guidelines for primary prevention of cardiovascular disease (ACC/AHA)  
+Guidelines for evaluation and diagnosis of chest pain (ACC/AHA)  
+Guidelines for prevention of stroke in patients with stroke/TIA (ACC/AHA)  
+Guidelines for management of heart failure (ACC/AHA/HFSA)  
+Guidelines for management of chronic coronary disease (ACC/AHA)  
+Guidelines for diagnosis and management of atrial fibrillation (ACC/AHA)  
+Guidelines for home‑based cardiac rehabilitation (ACC/AHA)  
+Consensus statements on cardiogenic shock classification (SCAI)  
+Consensus updates on cardiogenic shock stages (SCAI)  
+Safety and effectiveness of antithrombotic therapy in coronary artery disease  
+Evaluation of out‑of‑hospital cardiac arrest patients in the catheterization laboratory  
+Out‑of‑hospital cardiac arrest management guidelines  
+Management of patients at risk for and with left ventricular thrombus (ACC/AHA)  
+Non‑obstructive coronary artery disease (MINOCA)  
+Sex‑specific criteria for myocardial infarction diagnosis  
+Statin use disparities in post‑MI patients  
+Guidelines for prevention of acute coronary syndrome.
+
+Page 66 Extracted Terms:
+- Acute Coronary Syndrome (ACS)  
+- Myocardial Infarction (MI)  
+- ST‑Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑Elevation Acute Coronary Syndrome (NSTE‑ACS)  
+- Coronary Artery Disease (CAD)  
+- Chronic Coronary Disease  
+- Chest Pain (diagnostic evaluation)  
+- Prehospital 12‑lead Electrocardiography (ECG)  
+- Cardiac Arrest (during transport or self‑transport)  
+- Primary Percutaneous Coronary Intervention (PCI)  
+- Fibrinolytic (Thrombolytic) Therapy  
+- Mechanical Reperfusion  
+- Spontaneous Coronary Artery Dissection (SCAD)  
+- Type 2 Myocardial Infarction  
+- Acute Non‑Ischemic Myocardial Injury  
+- Cardiovascular Risk (post‑MI)  
+- Left Bundle‑Branch Block (LBBB)  
+- STEMI Equivalent (e.g., LBBB‑equivalent ECG)  
+- Electrocardiogram (ECG) Interpretation  
+- ST‑Segment Elevation (in ECG)  
+- Door‑to‑Balloon Time  
+- Emergency Medical Services (EMS) Transport  
+- Prehospital Notification/Advance Notification  
+- Regionalization of STEMI Care  
+- Cath Lab Preactivation  
+- Reperfusion Timing Metrics  
+- Prehospital Serial ECGs  
+- Chest Pain Evaluation Guidelines  
+- STEMI Receiving Center (SRC) Networks  
+
+These terms capture the core heart‑disease concepts addressed in the guideline excerpts.
+
+Page 67 Extracted Terms:
+- Acute Coronary Syndrome (ACS)  
+- Acute Chest Pain  
+- Myocardial Infarction (MI)  
+- ST‑Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑Elevation Myocardial Infarction (NSTEMI)  
+- High‑sensitivity Troponin (TnT / TnI)  
+- Conventional Troponin  
+- Electrocardiogram (ECG)  
+- 0/1‑hour Algorithm (ESC)  
+- 0/3‑hour Algorithm (ESC)  
+- HEART Pathway  
+- EDACS (Emergency Department Assessment of Chest Pain Score)  
+- TIMI Risk Score  
+- GRACE Risk Score  
+- PURSUIT Risk Score  
+- Coronary Artery Disease (CAD)  
+- Angiographic Severity  
+- Ejection Fraction  
+- Heart Failure  
+- Right Ventricular Infarction  
+- Biomarkers of Cardiac Damage  
+- Clinical Decision Rules  
+- Rapid Rule‑Out Strategies  
+- Risk Stratification Tools  
+- Universal Definition of Myocardial Infarction (2018)  
+- Coronary Risk Scores  
+- Lung Ultrasound (in ACS)  
+- Coronary Care Unit  
+- Emergency Department (ED) Management of Chest Pain  
+- Mortality Prediction  
+- Clinical Outcomes in ACS  
+- Standardization of Cardiac Biomarker Assays  
+- Diagnostic Performance of Troponin Assays  
+- Chest Pain Evaluation Guidelines (AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR)  
+- Acute Coronary Syndrome Management Algorithms  
+- Short‑term and Long‑term Outcomes in MI  
+- Biomarker Utilization in ACS  
+- Ischemic and Bleeding Risk Assessment  
+
+These terms capture the primary concepts and tools related to heart disease discussed throughout the cited clinical statements and guidelines.
+
+Page 68 Extracted Terms:
+- Acute coronary syndrome  
+- ST‑elevation myocardial infarction (STEMI)  
+- Non‑ST‑elevation acute coronary syndrome (NSTE‑ACS)  
+- Myocardial infarction  
+- Cardiac arrest  
+- Out‑of‑hospital cardiac arrest  
+- Cardiogenic shock  
+- Coronary angiography  
+- Percutaneous coronary intervention (PCI)  
+- Oxygen therapy  
+- High‑sensitivity troponin  
+- Troponin I  
+- Troponin T  
+- NT‑proBNP (N‑terminal pro‑B‑type natriuretic peptide)  
+- SCAI stage classification  
+- SCAI grade  
+- MIRACLE score  
+- PEARL study  
+- COACT trial  
+- EMERGE trial  
+- ARREST trial  
+- NULL‑PLEASE score  
+- OHCA score (Out‑of‑Hospital Cardiac Arrest score)  
+- CAHP score (Cardiac Arrest Hospital Prognosis)  
+- Early invasive strategy  
+- Early versus delayed coronary angiography  
+- Targeted temperature management  
+- Catheterization laboratory management of comatose patients  
+- American Heart Association scientific statement  
+- European Society of Cardiology (ESC) guideline  
+- American Heart Association guideline on cardiogenic shock  
+- ACC/AHA guideline on acute coronary syndromes  
+- SCAI expert consensus statement on out‑of‑hospital cardiac arrest  
+- SCAI expert consensus on shock stage classification  
+- SCAI grade for cardiac arrest  
+- PARADISE‑MI trial (NT‑proBNP prognostication)  
+- MERLIN‑TIMI 36 trial (cardiac biomarker assessment)  
+- VALIANT study (heart failure post‑MI predictors)  
+- JACC review topic of the week (cardiac shock care centers)  
+- SCAI SHOCK stage classification update  
+- Early predictors of poor outcome after cardiac arrest (e.g., neurological recovery)  
+- Oxygenation strategies in acute myocardial infarction  
+- High‑flow oxygen in suspected acute coronary syndrome  
+- Air versus oxygen therapy in STEMI  
+- SOCCER trial (oxygen therapy on myocardial salvage)
+
+Page 69 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- ST‑elevation myocardial infarction (STEMI)  
+- Non‑ST‑segment elevation acute coronary syndrome (NSTE‑ACS)  
+- Acute myocardial infarction (AMI)  
+- Unstable angina  
+- Coronary artery disease (CAD)  
+- Ischemia  
+- Oxygen therapy  
+- Oxygen saturation  
+- Nitroglycerin (nitroglycerin spray, sublingual tablets, intravenous)  
+- Isosorbide dinitrate  
+- Nitro‑vasodilators  
+- Morphine  
+- Fentanyl  
+- Clopidogrel  
+- Aspirin (acetylsalicylic acid)  
+- Ticagrelor  
+- Prasugrel  
+- P2Y12 inhibitors  
+- Intravenous streptokinase  
+- Oral aspirin  
+- Low‑dose aspirin  
+- High‑dose aspirin  
+- NSAIDs (non‑steroidal anti‑inflammatory drugs)  
+- COX‑2 inhibitors  
+- Cyclo‑oxygenase‑2 inhibitors  
+- Aspirin sensitivity/desensitization  
+- Antiplatelet therapy  
+- Antithrombotic therapy  
+- Platelet inhibition  
+- Primary percutaneous coronary intervention (PCI)  
+- Coronary angiography  
+- Coronary angioplasty  
+- Restenosis  
+- Beta‑blockers (implicit in ACS management)  
+- Antihypertensive drugs (early treatment)  
+- Heparin  
+- Nitroglycerin‑sildenafil interaction (tadalafil, avanafil, sildenafil citrate)  
+- Ventricular function  
+- Mortality and morbidity in ACS  
+- Meta‑analysis and systematic review (reference to methodology)  
+- Clinical trials: GISSI‑3, ISIS‑4, ISIS‑2, Antithrombotic Trialists Collaboration, PLATO, Wiviott SD (prasugrel trial), Sabatine MS (clopidogrel addition), Yusuf S (clopidogrel + aspirin), Chen ZM (clopidogrel + aspirin), etc.  
+
+Page 70 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- ST‑elevation myocardial infarction (STEMI)  
+- Non‑ST‑elevation acute coronary syndrome (NSTE‑ACS)  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Saphenous vein graft  
+- Platelet inhibition  
+- Antiplatelet therapy  
+- P2Y12 inhibitors  
+- Ticagrelor  
+- Clopidogrel  
+- Prasugrel  
+- Cangrelor  
+- Glycoprotein IIb/IIIa inhibitors  
+- Abciximab  
+- Eptifibatide  
+- Tirofiban  
+- Bivalirudin  
+- Heparin  
+- Fibrinolytics  
+- Aspirin  
+- Intravenous (IV) platelet blockade  
+- Intracoronary (IC) blockade  
+- Intravenous cangrelor during PCI  
+- Intravenous glycoprotein IIb/IIIa inhibitors  
+- Clopidogrel response variability  
+- Genetic determinants of clopidogrel response  
+- CYP2C19 polymorphisms  
+- Reperfusion therapy  
+- Primary PCI  
+- Pre‑PCI pretreatment  
+- Pre‑hospital ticagrelor  
+- Pre‑hospital abciximab  
+- Aspiration thrombectomy  
+- Transradial rescue PCI  
+- PRISM‑PLUS trial  
+- INFUSE‑AMI trial  
+- MISTRAL study  
+- 2025 Acute Coronary Syndromes Guideline  
+- 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization  
+- 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for Chronic Coronary Disease  
+- Dual antiplatelet therapy (DAPT)  
+- Combination of clopidogrel and aspirin  
+- Recurrent ischemic events  
+- Mortality benefit (in CABG context)  
+- Coronary artery  
+- Myocardial infarction  
+- Unstable angina  
+- Non‑Q‑wave myocardial infarction  
+- Randomized double‑blind study  
+- Prospective randomized study  
+- Systematic review and meta‑analysis  
+- Randomized clinical trial  
+- Platelet reactivity  
+- Antiplatelet response  
+- Pre‑treated P2Y12 inhibitors  
+- Intraprocedural outcomes  
+- Cardiovascular events  
+- Major bleeding  
+- Intracoronary infusion of abciximab  
+- Intravenous infusion of abciximab  
+- Intravenous infusion of eptifibatide  
+- Intravenous infusion of tirofiban  
+- Intracoronary versus intravenous drug administration  
+
+These terms capture the core concepts, interventions, medications, study designs, and guideline references related to heart disease present in the supplied text.
+
+Page 71 Extracted Terms:
+**Key Heart‑Disease Terms Identified**
+
+- Acute Coronary Syndromes (ACS)  
+- ST‑segment elevation myocardial infarction (STEMI)  
+- Non‑ST‑segment elevation myocardial infarction (NSTEMI)  
+- Unstable angina (unstable coronary artery disease)  
+- Myocardial infarction (MI)  
+- Percutaneous coronary intervention (PCI)  
+- Primary PCI  
+- Revascularization  
+- Coronary artery revascularization  
+- Intracoronary drug delivery  
+- Intravenous drug delivery  
+- Anticoagulation  
+- Antithrombotic therapy  
+- Glycoprotein IIb/IIIa inhibitors  
+- Bivalirudin  
+- Enoxaparin (low‑molecular‑weight heparin)  
+- Unfractionated heparin  
+- Fondaparinux  
+- Heparin‑induced thrombocytopenia (HIT)  
+- Argatroban  
+- Ticagrelor  
+- Clopidogrel  
+- Eptifibatide  
+- Abciximab  
+- Tenecteplase  
+- Recombinant tissue plasminogen activator (rt‑PA) / tissue plasminogen activator (tPA)  
+- Thrombolysis / thrombolytic therapy  
+- Thrombin generation / activity  
+- Activated clotting time (ACT)  
+- Reperfusion therapy  
+- Global Use of Strategies To Open Coronar‑y Arteries (GUSTO)  
+- ACC/AHA/SCAI guideline  
+- 4th Universal Definition of Myocardial Infarction  
+- Coronary artery disease (CAD)  
+- Coronary intervention (including transradial PCI)  
+- Acute Catheterization and Urgent Intervention Triage (ACUITY) trial  
+- OASIS, ATOLL, FUTURA/OASIS‑8, STENIC, BRIGHT, GUSTO‑IIb, etc. (key clinical trials/registries)  
+- Aspirin therapy  
+- Parenteral anticoagulation strategies  
+- Coronary artery stenosis  
+- Coronary artery thrombosis  
+
+These terms capture the major clinical entities, interventions, medications, and guideline references relevant to heart disease as presented in the supplied text.
+
+Page 72 Extracted Terms:
+- Acute Coronary Syndromes  
+- ST‑elevation myocardial infarction  
+- Myocardial infarction  
+- Coronary artery disease  
+- Chest pain / angina  
+- Heart failure  
+- Arrhythmia  
+- Atherosclerosis  
+- Ischemia  
+- Revascularization  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Cardiovascular disease (CVD)  
+- Cardiovascular events  
+- Statin therapy  
+- Atorvastatin  
+- Simvastatin  
+- Rosuvastatin  
+- Pravastatin  
+- Ezetimibe  
+- PCSK9 inhibitors  
+- Evolocumab  
+- Alirocumab  
+- Bempedoic acid  
+- Inclisiran  
+- Lipid management  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- Very‑low LDL‑C  
+- High‑density lipoprotein cholesterol (HDL‑C)  
+- Total cholesterol  
+- Triglycerides  
+- Lipoprotein(a)  
+- Lipid‑lowering therapy  
+- Statin intolerance  
+- Cardiovascular risk stratification  
+- High‑risk cardiovascular profile  
+- Biomarkers (troponin, high‑sensitivity troponin)  
+- Clinical trials / studies  
+- MIRACL trial  
+- A to Z trial  
+- IMPROVE‑IT trial  
+- FOURIER trial  
+- ODYSSEY OUTCOMES trial  
+- EVOPACS trial  
+- PROVE‑IT‑TIMI 22 study  
+- CLEAR Wisdom trial  
+- GAUSS‑3 trial  
+- PIONEER trials (not explicitly mentioned but implied by PCSK9 inhibitors)  
+- Guidelines (AHA/ACC, ACC/AHA/ACC/AAPA, etc.)  
+- Guidelines for cholesterol management  
+- Guidelines for acute coronary syndromes  
+- Guidelines for statin intolerance  
+- Guidelines for high‑risk cardiovascular disease  
+- Peripheral artery disease (as a manifestation of CVD)  
+- Polyvascular disease  
+- Atherogenic lipoproteins  
+- Coronary plaque assessment  
+- Coronary plaque phenotype  
+- Coronary plaque burden  
+- Cardiovascular outcomes  
+- Mortality post‑myocardial infarction  
+- Recurrent cardiovascular events  
+- Risk reduction strategies  
+- Lipid‐lowering intensity  
+- LDL‑C level targets  
+- Lipid‑lowering agents  
+
+(Any term related to a heart‑related condition, its treatment, risk assessment, or evidence source has been included.)
+
+Page 73 Extracted Terms:
+Acute Coronary Syndromes  
+Acute myocardial infarction  
+ST‑segment elevation myocardial infarction (STEMI)  
+Beta‑blocker therapy  
+Metoprolol  
+Carvedilol  
+Captopril  
+Ramipril  
+Valsartan  
+Telmisartan  
+Enalapril  
+Eplerenone  
+Angiotensin‑converting‑enzyme inhibitor (ACE‑I)  
+Angiotensin receptor blocker (ARB)  
+Angiotensin‑neprilysin inhibitor (ARNI)  
+Neprilysin inhibition  
+Aldosterone blocker  
+Percutaneous coronary intervention (PCI)  
+Primary PCI (PPCI)  
+Door‑to‑balloon time  
+Thrombolytic therapy  
+Primary angioplasty  
+Revascularization  
+Cardiogenic shock  
+Heart failure  
+Left ventricular dysfunction  
+Left ventricular ejection fraction  
+Infarct size  
+Mortality  
+Morbidity  
+Vascular events  
+Regional STEMI system  
+STEMI network  
+FAST‑MI program  
+FITT‑STEMI trial  
+Mission: Lifeline STEMI system  
+Cardioprotection
+
+Page 74 Extracted Terms:
+- Acute coronary syndrome  
+- Acute myocardial infarction  
+- ST‑segment elevation myocardial infarction (STEMI)  
+- Non‑ST‑segment elevation myocardial infarction (NSTEMI)  
+- Coronary artery bypass graft (CABG)  
+- Percutaneous coronary intervention (PCI)  
+- Primary percutaneous coronary intervention (PPCI)  
+- Angioplasty  
+- Reperfusion therapy  
+- Mechanical reperfusion  
+- Thrombolytic therapy  
+- Fibrinolysis  
+- Coronary artery revascularization  
+- Cardiogenic shock  
+- Door‑to‑balloon time  
+- Emergency medical services (EMS)  
+- Regionalization of STEMI care  
+- Transradial access  
+- Transfemoral access  
+- Coronary artery disease  
+- Infarct‑related artery  
+- STEMI networks  
+- Pharmacoinvasive strategy  
+- Primary PCI versus thrombolysis  
+- Recurrent myocardial infarction  
+- Coronary intervention strategy  
+- Revascularization strategy  
+- Clinical outcomes after myocardial infarction  
+- Time to reperfusion  
+- Late presentation of myocardial infarction  
+- Transfer for PPCI (interhospital transfer)
+
+Page 75 Extracted Terms:
+- Acute myocardial infarction  
+- ST‑segment‑elevation myocardial infarction (STEMI)  
+- Non‑ST‑segment‑elevation myocardial infarction (NSTEMI)  
+- Acute coronary syndrome (ACS)  
+- Percutaneous coronary intervention (PCI)  
+- Primary PCI  
+- Rescue angioplasty / rescue PCI  
+- Coronary angiography  
+- Coronary artery revascularization  
+- Pharmacoinvasive strategy  
+- Fibrinolytic therapy  
+- Thrombolytic therapy (intravenous thrombolysis)  
+- Tissue plasminogen activator (t‑PA)  
+- Alteplase (Alteplase)  
+- Front‑loaded alteplase administration  
+- Tenecteplase (TNK‑tPA)  
+- Reteplase  
+- ST‑segment resolution / ST‑resolution  
+- Door‑in–door‑out time  
+- Reperfusion therapy  
+- Meta‑analysis of reperfusion strategies  
+- Transradial or radial artery access for coronary intervention  
+- ACC/AHA/SCAI guideline for coronary artery revascularization  
+- ACC/AHA guideline for acute coronary syndromes  
+- American Heart Association (AHA)  
+- American College of Cardiology (ACC)  
+- TIMI trial (Thrombolysis In Myocardial Infarction)  
+- NORDISTEMI study  
+- STREAM trial  
+- MERLIN trial  
+- GRAcia‑1 trial  
+- Capital AMI study  
+- Late Assessment of Thrombolytic Efficacy (LATE) study  
+- Early invasive strategy  
+- Standard therapy versus early routine PCI after fibrinolysis  
+
+*(All terms are extracted directly from the references and guideline citations, focusing on cardiovascular conditions, interventions, and key clinical concepts mentioned in the text.)*
+
+Page 76 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Acute coronary syndrome (ACS)  
+- ST‑elevation myocardial infarction (STEMI)  
+- Non‑ST‑elevation myocardial infarction (NSTEMI)  
+- Unstable angina  
+- Myocardial infarction (MI)  
+- Coronary artery disease (CAD)  
+- Coronary angiography  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery revascularization  
+- Coronary artery bypass grafting (CABG)  
+- Radial access (radial artery approach)  
+- Femoral access (femoral artery approach)  
+- Trans‑ulnar access  
+- Trans‑radial access (conventional & distal)  
+- Aspiration thrombectomy (thrombus aspiration)  
+- Thrombectomy (manual, intracoronary)  
+- Glycoprotein IIb/IIIa inhibitor (e.g., tirofiban)  
+- Intracoronary abciximab  
+- Radial artery graft vs. saphenous vein graft  
+- Routine invasive strategy  
+- Selective invasive strategy  
+- Early invasive strategy  
+- Delayed invasive strategy  
+- Timing of intervention  
+- Meta‑analysis (individual‑patient data, randomized trial)  
+- Randomized controlled trial (RCT)  
+- Multicentre study  
+- Clinical guideline / statement  
+- ACC/AHA/SCAI guideline  
+- ACC/AHA guideline  
+- American Heart Association (AHA)  
+- American College of Cardiology (ACC)  
+- National cardiovascular data registries  
+- Cardiovascular outcomes  
+- Mortality (all‑cause, cardiovascular)  
+- Major bleeding  
+- Safety and efficacy  
+- Patient preference (vascular access)  
+- Prospective randomised trial  
+- Early invasive vs. conservative strategy  
+- Long‑term outcome  
+- Individual‑patient data meta‑analysis.
+
+Page 77 Extracted Terms:
+- Acute Coronary Syndromes  
+- ST‑segment Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑segment Elevation Myocardial Infarction (NSTEMI)  
+- Acute Myocardial Infarction  
+- Myocardial Infarction  
+- Coronary Artery Disease (CAD)  
+- Coronary Revascularization  
+- Primary Percutaneous Coronary Intervention (PCI)  
+- Angioplasty  
+- Coronary Angiography  
+- Drug‑Eluting Stent (DES)  
+- Bare‑Metal Stent (BMS)  
+- Stent Thrombosis  
+- Thrombus Aspiration  
+- Intravascular Ultrasound (IVUS)  
+- Optical Coherence Tomography (OCT)  
+- Optical Frequency Domain Imaging (OFDI)  
+- Intravascular Imaging  
+- Intravascular Imaging‑Guided PCI  
+- Angiography‑Guided PCI  
+- Fractional Flow Reserve (FFR)  
+- Multivessel Coronary Disease  
+- Complete Revascularization  
+- Culprit Lesion  
+- Staged Revascularization  
+- Preventive Angioplasty  
+- Cardiogenic Shock  
+- Reperfusion  
+- Distal Embolization  
+- Infarct Size  
+- Infarct‑Related Artery  
+- Revascularization Strategy  
+- PCI Strategies  
+- Acute Coronary Intervention  
+- Coronary Stent Implantation  
+- Coronary Intervention  
+- Imaging Guidance in PCI  
+- Stent Implantation   
+- Coronary Angiographic Guidance  
+
+
+
+Page 78 Extracted Terms:
+- Acute coronary syndrome (ACS)  
+- Non‑ST‑segment elevation myocardial infarction (NSTEMI)  
+- ST‑segment elevation myocardial infarction (STEMI)  
+- Myocardial infarction (MI)  
+- Coronary artery disease (CAD)  
+- Multivessel coronary artery disease  
+- Coronary artery bypass grafting (CABG)  
+- Percutaneous coronary intervention (PCI)  
+- Culprit‑only PCI  
+- Complete revascularization  
+- Staged revascularization  
+- Immediate revascularization  
+- Fractional flow reserve (FFR)  
+- Angiography‑guided strategy  
+- Drug‑eluting stents (DES)  
+- Coronary artery bypass graft surgery  
+- Cardiogenic shock  
+- Ischemic cardiomyopathy  
+- Left‑main coronary artery disease  
+- Coronary artery revascularization  
+- FAME study (Fractional flow reserve vs Angiography for Multivessel Evaluation)  
+- FAMOUS‑NSTEMI trial  
+- BIOVASC trial  
+- SMILE trial  
+- PRIME‑FFR study  
+- POST‑IT registry  
+- R3F registry  
+- SYNTAX trial  
+- ACC/AHA/SCAI revascularization guidelines  
+- National Cardiovascular Data Registry (NCDR) ACTION registry  
+- Timing of CABG after myocardial infarction  
+- Coronary angiogram  
+- Coronary arterial revascularization strategies  
+- Hybrid revascularization strategies  
+- Coronary artery bypass surgery outcomes  
+- Cardiac catheterization laboratory use in ACS  
+- Coronary arterial lesion assessment  
+- Coronary arterial intervention outcomes  
+- Coronary artery disease management guidelines  
+- Revascularization decision‑making with FFR  
+- Multivessel PCI vs culprit‑only PCI comparison  
+- Early versus staged PCI in cardiogenic shock  
+- Coronary artery disease in patients with diabetes  
+- Left‑main coronary artery revascularization outcomes  
+- Coronary artery bypass grafting mortality in cardiogenic shock  
+- Coronary artery revascularization in ischemic cardiomyopathy  
+- Coronary artery intervention trials and meta‑analyses  
+
+(These terms capture the core concepts related to heart disease and coronary revascularization discussed in the provided guideline text.)
+
+Page 79 Extracted Terms:
+- Acute coronary syndrome  
+- Cardiogenic shock  
+- Myocardial infarction  
+- ST‑elevation myocardial infarction (STEMI)  
+- Non‑ST‑elevation myocardial infarction (NSTEMI)  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Revascularization  
+- Early revascularization  
+- Mechanical circulatory support (MCS)  
+- Extracorporeal membrane oxygenation (ECMO)  
+- Venoarterial extracorporeal membrane oxygenation (VA‑ECMO)  
+- Intra‑aortic balloon pump (IABP)  
+- Intra‑aortic balloon counterpulsation (IABC)  
+- Left ventricular assist device (LVAD)  
+- Microaxial LVAD (Impella LP5.0)  
+- Percutaneous LVAD (pLVAD)  
+- Impella device  
+- Mechanical complications of myocardial infarction  
+- Post‑infarction mechanical complications  
+- Ventricular septal rupture (VSR)  
+- Ventricular free‑wall rupture  
+- Papillary muscle rupture  
+- Mitral valve surgery  
+- Vascular access (femoral artery)  
+- Ultrasound‑guided vascular access  
+- Ultrasound‑guided femoral artery cannulation  
+- FAUST trial (Femoral Arterial Access With Ultrasound Trial)  
+- UNIVERSAL trial (routine ultrasound‑guided femoral vascular access)  
+- IABP‑SHOCK II study  
+- ECMO‑CS randomized clinical trial  
+- IMPLESS‑STIC study (Impella plus IABP for cardiogenic shock)  
+- SHOCK trial (cardiogenic shock after MI)  
+- APEX‑AMI trial (mechanical complications after percutaneous coronary intervention)  
+- GUSTO‑I trial (global utilization of streptokinase and tPA)  
+- Nationwide registry data (e.g., Dutch, Japanese, UK national registries)  
+- Society of Thoracic Surgeons (STS) database  
+- Surgical repair of ventricular septal defect  
+- Interventional closure of ventricular septal defect  
+- Delayed surgery for VSR with mechanical circulatory support  
+- Transition to heart transplantation after VSR  
+- Risk factors for mechanical complications post‑MI  
+- Angiographic patterns in VSR  
+- Clinical outcomes (short‑term, long‑term survival)  
+- Mortality prediction in cardiogenic shock  
+- Major bleeding risk with MCS devices  
+- Cost‑effectiveness of MCS strategies  
+- Randomized controlled trial (RCT)  
+- Meta‑analysis of MCS devices  
+- Retrospective cohort study  
+- Temporal trends in cardiogenic shock incidence  
+- Cardiogenic shock classification systems  
+- Cardiac intensive care unit (CICU) outcomes  
+- Mechanical bridge to definitive treatment  
+- Early surgical intervention post‑MI  
+- Vascular complications from device insertion  
+- Patient‑characteristics influencing MCS outcomes
+
+Page 80 Extracted Terms:
+- Acute Coronary Syndromes  
+- Coronary Artery Disease  
+- Acute Myocardial Infarction  
+- ST‑Segment Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑Segment Elevation Myocardial Infarction (NSTEMI)  
+- Percutaneous Coronary Intervention (PCI)  
+- Primary Percutaneous Coronary Intervention  
+- Coronary Revascularization  
+- Coronary Artery Bypass Graft (CABG)  
+- Cardiogenic Shock  
+- Cardiac Free‑Wall Rupture  
+- Cardiac Tamponade  
+- Mechanical Complications of Myocardial Infarction  
+- Acute Mitral Regurgitation  
+- Papillary Muscle Tear  
+- Transcatheter Edge‑to‑Edge Mitral Valve Repair  
+- Ventricular Septal Defect  
+- Intra‑aortic Balloon Pump/Support  
+- Left Ventricular Dysfunction  
+- Reduced Ejection Fraction  
+- Heart Failure  
+- Sudden Cardiac Death  
+- Ventricular Arrhythmias  
+- High‑Degree Atrioventricular (AV) Block  
+- First‑Degree AV Block  
+- Second‑Degree AV Block (Mobitz I & II)  
+- Third‑Degree (Complete) AV Block  
+- Bradycardia  
+- Conduction Delay  
+- Electro‑Mechanical Dissociation  
+- Temporary Pacemaker  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Wearable Cardioverter‑Defibrillator  
+- Catheter Ablation of Ventricular Fibrillation  
+- Electrophysiologic Testing  
+- Electrophysiology  
+- Atrial Fibrillation  
+- Pericarditis  
+- Post‑Pericardiotomy Syndrome  
+- Pericardial Effusion  
+- Recurrent Pericarditis  
+- Colchicine Therapy  
+- Aspirin Therapy for Pericarditis  
+- Indomethacin Therapy for Pericarditis  
+- Prednisone Therapy for Pericarditis  
+- Clinical Arrhythmias  
+- Secondary Prevention of Arrhythmias  
+- Primary Prevention of Arrhythmias  
+- Risk Stratification after Myocardial Infarction  
+- Cardiac Conduction System  
+- Acute Coronary Event Complications  
+- Post‑Revascularization Arrhythmic Risk  
+- Implantation Timing of ICD  
+- ICD Therapy Compliance  
+- Cardiac Electrophysiology Procedures  
+- Acute Coronary Syndrome Management  
+- Post‑MI Management  
+- Acute Coronary Syndromes Guideline  
+- Cardiogenic Shock Guideline  
+- Heart Rhythm Society Guidelines.
+
+Page 81 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Acute Myocardial Infarction (AMI)  
+- ST‑segment‑Elevation Myocardial Infarction (STEMI)  
+- Non‑ST‑segment‑Elevation Myocardial Infarction (NSTEMI)  
+- Left Ventricular Thrombus  
+- Left Ventricular Thrombosis  
+- Peripheral Percutaneous Coronary Intervention (PCI)  
+- Primary Percutaneous Coronary Intervention (Primary PCI)  
+- Coronary Angioplasty  
+- Cardiac Magnetic Resonance Imaging (CMR)  
+- Post‑operative Pericardial Effusion  
+- Pericarditis (acute)  
+- Colchicine Therapy for Pericarditis  
+- Non‑steroidal Anti‑inflammatory Drugs (NSAIDs) for Pericardial Effusion  
+- Steroid Therapy during Myocardial Infarction  
+- Left Ventricular Free‑Wall Rupture  
+- Arrhythmias  
+- Sustained Ventricular Tachycardia (VT)  
+- Ventricular Fibrillation (VF)  
+- Telemetry Monitoring  
+- Cardiac Intensive Care Unit (CICU)  
+- Anemia in Acute Coronary Syndromes  
+- Red Blood Cell Transfusion  
+- Transfusion Thresholds (Restrictive vs. Liberal)  
+- Blood Transfusion Guidelines (AABB, Cochrane Review)  
+- Major Cardiovascular Events  
+- Major Bleeding  
+- Mortality (in-hospital and long‑term)  
+- Prognostic Assessment after Primary Angioplasty  
+- Early Discharge After PCI/Angioplasty  
+- Length of Hospital Stay  
+- Post‑acute Care Planning  
+- Risk Scores (e.g., for need of intensive care, predicting length of stay)  
+- Telemetry‑based Prediction of In‑hospital Adverse Outcomes  
+- STEMI Surveillance (e.g., ischemic ST‑segment episodes)  
+- Acute Catheterization and Urgent Intervention Trials (ACUIT)  
+- Real‑world Outcomes after Transfusion Strategies (REALITY trial)  
+
+*(This list captures the principal disease‑related concepts, clinical entities, diagnostic modalities, therapeutic interventions, and outcome measures present in the cited guideline excerpt.)*
+
+Page 82 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Myocardial Infarction (MI)  
+- Acute Myocardial Infarction (AMI)  
+- Coronary Heart Disease (CHD)  
+- Coronary Artery Disease (CAD)  
+- Heart Failure (HF)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Left Ventricular Function  
+- Cardiac Magnetic Resonance Imaging (MRI)  
+- Percutaneous Coronary Intervention (PCI)  
+- ST‑Segment Elevation Myocardial Infarction (STEMI)  
+- Noninvasive Diagnostic Testing  
+- Cardiac Rehabilitation (CR)  
+- Home‑based Cardiac Rehabilitation  
+- Telehealth Cardiac Rehabilitation  
+- Secondary Prevention of MI  
+- Medication Adherence / Medication‑Taking  
+- Readmission / Rehospitalization after ACS  
+- Hospital‑to‑Home Initiatives  
+- Life’s Essential 8 (AHA)  
+- Acute Coronary Syndrome Toolkit (AHA)  
+- Clinical Outcomes (mortality, morbidity, quality of life)  
+- Cardiovascular Risk Factors (hypertension, diabetes, dyslipidemia)  
+- Mechanical Complications of MI  
+- Left Ventricular Thrombus  
+- Chronic Coronary Disease (CCSD)  
+- Multimorbidity in ACS patients  
+- Clinical Practice Guidelines (ACC/AHA, AHA/ACC/JACC)  
+- American Heart Association (AHA) Statements/Guidelines  
+- American College of Cardiology (ACC) Guidelines  
+- Chronic Coronary Disease Management  
+- Readiness and Utilization of Cardiac Rehabilitation  
+- Cardiovascular Magnetic Resonance (CMR) Studies  
+- Stress Testing (noninvasive)  
+- Patient Education strategies in ACS  
+- Socioeconomic status and cardiovascular outcomes  
+- Telehealth and remote rehabilitation efficacy 
+
+Page 83 Extracted Terms:
+- Acute Coronary Syndromes  
+- Cardiac Rehabilitation  
+- Intensive Cardiac Rehabilitation  
+- Exercise Training  
+- Physical Activity  
+- Coronary Artery Bypass Grafting (CABG)  
+- Percutaneous Coronary Intervention (PCI)  
+- Stenting  
+- Dual Antiplatelet Therapy (DAPT)  
+- Ticagrelor  
+- Clopidogrel  
+- Aspirin  
+- P2Y12 Inhibitors  
+- Platelet Inhibition  
+- Drug‑Eluting Stents  
+- Myocardial Infarction  
+- Unstable Angina  
+- ST‑Elevation MI  
+- Non‑ST‑Elevation MI  
+- Coronary Thrombosis  
+- Bleeding Risk  
+- Major Bleeding  
+- High Bleeding Risk  
+- Proton Pump Inhibitor (PPI)  
+- Omeprazole  
+- Lansoprazole  
+- Pantoprazole  
+- Gastrointestinal Bleeding  
+- Secondary Coronary Prevention  
+- Coronary Risk Factors  
+- Cardiovascular Outcomes  
+- Mortality  
+- Cardiovascular Events  
+- Risk Scoring (e.g., PRECISE‑DAPT, PARIS)
+
+Page 84 Extracted Terms:
+- Acute Coronary Syndromes (ACS)  
+- Myocardial Infarction (MI)  
+- Unstable Angina  
+- Coronary Artery Disease (CAD)  
+- Percutaneous Coronary Intervention (PCI)  
+- Coronary Stenting (Drug‑Eluting Stent, Bare‑Metal Stent)  
+- Coronary Artery Revascularization  
+- Atrial Fibrillation (AF)  
+- Chronic Coronary Disease  
+- Coronary Stent Implantation  
+- Stent‑Induced Intimal Hyperplasia  
+- Dual Antiplatelet Therapy (DAPT)  
+- Dual Antithrombotic Therapy (DAT)  
+- Triple Therapy  
+- P2Y12 Inhibitor  
+- Clopidogrel  
+- Ticagrelor  
+- Prasugrel  
+- Aspirin  
+- Platelet Inhibition  
+- Platelet Function Testing  
+- Platelet Reactivity  
+- Clopidogrel Resistance  
+- Antiplatelet Therapy  
+- Antithrombotic Therapy  
+- Dabigatran  
+- Edoxaban  
+- Warfarin  
+- Vitamin K Antagonist  
+- Non‑Vitamin K Antagonist Oral Anticoagulants (NOACs)  
+- Prolonged Dual Antiplatelet Therapy  
+- Short‑Term Dual Antiplatelet Therapy  
+- Duration of Dual Antiplatelet Therapy (3 , 6 , 12 , 24 months)  
+- Proton Pump Inhibitor (PPI)  
+- Cytochrome P450 Polymorphisms  
+- Clinical Outcomes  
+- Major Adverse Cardiac Events (MACE)  
+- Bleeding Risk  
+- High Bleeding Risk  
+- Coronary Artery Disease with Atrial Fibrillation
+
+Page 85 Extracted Terms:
+- Acute Coronary Syndrome  
+- Percutaneous Coronary Intervention (PCI)  
+- Stent Thrombosis  
+- Atrial Fibrillation  
+- Antithrombotic Therapy  
+- Aspirin  
+- Dual Antiplatelet Therapy (DAPT)  
+- Triple Antithrombotic Therapy  
+- High Bleeding Risk  
+- Oral Anticoagulation  
+- Statin Therapy  
+- Low‑Density Lipoprotein (LDL) Cholesterol  
+- Intensive Lipid Lowering  
+- Lipid‑Lowering Therapy  
+- Cholesterol Management  
+- Atherosclerotic Cardiovascular Disease  
+- Myocardial Infarction  
+- Heart Failure  
+- Reduced Ejection Fraction (HFrEF)  
+- Preserved Ejection Fraction (HFpEF)  
+- Mildly Reduced Ejection Fraction  
+- SGLT‑2 Inhibitors (e.g., dapagliflozin, empagliflozin, canagliflozin)  
+- GLP‑1 Receptor Agonists (e.g., semaglutide, liraglutide)  
+- Chronic Colchicine (low‑dose colchicine)  
+- Anti‑Inflammatory Therapy  
+- Platelet‑Leukocyte Interaction  
+- Perioperative Cardiovascular Management  
+- Preoperative Fasting in Cardiac Patients  
+
+
+
+
+Page 86 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Acute Coronary Syndrome (ACS)  
+- Myocardial infarction (MI)  
+- Coronary artery disease (CAD)  
+- Coronary heart disease (CHD)  
+- Cardiovascular events  
+- Cardiovascular death  
+- Cardiovascular mortality  
+- Cardiovascular outcomes  
+- Plaque stabilization  
+- Chronic coronary disease  
+- Secondary prevention of coronary ischemic events  
+- Cardiovascular disease (CVD)  
+
+These terms capture the primary concepts related to heart disease discussed in the provided excerpt.
+
+Page 87 Extracted Terms:
+- Acute Coronary Syndromes  
+- Interventional Cardiology  
+- Cardiovascular Medicine  
+- Cardiac Surgery  
+- Heart Failure  
+- Acute MI (myocardial infarction)  
+- PCI (percutaneous coronary intervention)  
+- Structural Heart Interventions  
+- Coronary  
+- Heart & Vascular Center  
+- TIMI Study Group  
+- Heart Disease  
+- Cardiology  
+- Heart  
+- MI  
+- Injury after PCI  
+
+Page 88 Extracted Terms:
+- Acute Coronary Syndromes  
+- Cardiology  
+- Cardiac  
+- Coronary  
+- Heart  
+- Heart disease  
+- Heart center  
+- Duke Heart Center  
+- Heart and Vascular Center (Emory)  
+- Emory Heart and Vascular Center  
+- Center for Heart Disease Prevention  
+- Cardiovascular  
+- Cardiovascular disease  
+- NHLBI (National Heart, Lung, and Blood Institute)  
+- ACC (American College of Cardiology)  
+- AHA (American Heart Association)  
+- Medtronic  
+- Abbott  
+- Roche Diagnostics  
+- GlaxoSmithKline  
+- Amgen  
+- AstraZeneca  
+- Beckman Coulter  
+- Eli Lilly  
+- Janssen Pharmaceuticals  
+- Merck  
+- Novo Nordisk  
+- Regeneron  
+- Siemens  
+- Varian Medical Systems  
+- Verve Therapeutics  
+- LianBio  
+- Cytokinetics  
+- Novartis  
+- Bodyport  
+
+Page 89 Extracted Terms:
+Acute Coronary Syndromes  
+Cardiac ICU  
+Cardiovascular Fellowship  
+Cardiovascular Medicine  
+Cardiovascular Division  
+Cardiac Surgery  
+Interventional Cardiology  
+Heart Failure  
+Cardiology  
+Cardiovascular  
+Cardiac  
+American Heart Association (AHA)  
+American College of Cardiology (ACC)  
+Society for Cardiovascular Angiography and Interventions (SCAI)  
+European Heart Journal–Acute Cardiovascular Care  
+European Journal of Heart Failure  
+Cardiovascular Care  
+Cardiovascular Disease 
+
+Page 90 Extracted Terms:
+Acute Coronary Syndromes  
+Coronary Artery Disease  
+Interventional Cardiologist  
+Cardiovascular Interventions  
+Cardiac Rehabilitation  
+Acute Cardiac Care  
+Cardiac Bio‑Markers  
+Pulmonary Embolism (cardiovascular event)  
+Minneapolis Heart Institute  
+Cleveland Clinic – Cardiac Care  
+Heart Disease (general term)
+
+Page 91 Extracted Terms:
+- Acute Coronary Syndromes  
+- Myocardial Infarction (MI)  
+- Percutaneous Coronary Intervention (PCI)  
+- Cardiovascular  
+- Cardiovascular disease  
+- Cardiology  
+- Cardiac  
+- Heart  
+- Coronary artery disease  
+- Coronary artery  
+- Coronary  
+- CardioVascular  
+- TIMI (Thrombolysis in Myocardial Infarction)
+
+Page 92 Extracted Terms:
+- Acute Coronary Syndromes  
+- Acute Coronary Syndrome guideline  
+- Coronary artery disease  
+- Coronary artery  
+- Right coronary artery  
+- Angioplasty  
+- Stent placement  
+- Perforation during angioplasty  
+- Spontaneous bleed  
+- Iatrogenic dissection of right coronary artery  
+- Cardiac catheterization laboratory  
+- Cardiac catheterization  
+- Interventional cardiology  
+- Cardiovascular medicine  
+- Cardiac electrophysiology  
+- Cardiovascular service line  
+- Heart rhythm (as in Heart Rhythm Society)  
+- Coronary revascularization  
+- Cardiovascular intervention  
+- Acute myocardial infarction (implied within ACS context)  
+- Cardiac catheterization laboratory procedure  
+- Coronary artery intervention  
+- Stenting  
+- Coronary artery bypass (implied by angioplasty context)  
+- Cardiovascular risk management  
+- Cardiac catheterization procedure  
+- Coronary artery disease management  
+- Cardiac electrophysiology procedure  
+- Coronary artery intervention outcomes  
+- Cardiovascular disease (general)
 

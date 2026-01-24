@@ -1,0 +1,5254 @@
+Page 1 Extracted Terms:
+- Adult congenital heart disease  
+- Aortic coarctation  
+- Aortic valve stenosis  
+- Cardiac catheterization  
+- Cardiac surgical procedures  
+- Cor triatriatum  
+- Coronary vessel anomalies  
+- Discrete subaortic stenosis  
+- Ductus arteriosus (including patent ductus arteriosus)  
+- Ebstein anomaly  
+- Congenital heart defects  
+- Heart septal defects (e.g., ventricular septal defect)  
+- Pulmonary valve stenosis  
+- Tetralogy of Fallot  
+- Transposition of the great vessels  
+- Ventricular outflow obstruction  
+- Reoperation (post‑surgical)  
+- Follow‑up studies / treatment outcomes  
+- Survival rate / therapy outcomes
+
+Page 2 Extracted Terms:
+- Heart Failure  
+- Heart Transplantation  
+- Mechanical Circulatory Support (MCS)  
+- Cyanosis  
+- Shunt Lesions  
+- Atrial Septal Defect (ASD)  
+- Ventricular Septal Defect (VSD)  
+- Atrioventricular Septal Defect (AVSD)  
+- Anomalous Pulmonary Venous Connections  
+- Patent Ductus Arteriosus (PDA)  
+- Cor Triatriatum Sinister  
+- Congenital Mitral Stenosis (including Shone Complex)  
+- Subaortic Stenosis  
+- Congenital Aortic Valve Diseases  
+- Supravalvar Aortic Stenosis  
+- Coarctation of the Aorta  
+- Ebstein Anomaly  
+- Valvular Pulmonary Stenosis  
+- Double‑Chambered Right Ventricle (DCRV)  
+- Isolated Branch Pulmonary Artery Stenosis  
+- Tetralogy of Fallot  
+- Pulmonary Atresia with Intact Ventricular Septum  
+- Right Ventricle‑to‑Pulmonary Artery Conduits  
+- Dextro‑Transposition of the Great Arteries (dTGA)  
+- Congenitally Corrected Transposition of the Great Arteries (CCTGA)  
+- Truncus Arteriosus  
+- Double‑Outlet Right Ventricle (DORV)  
+- Fontan Palliation of Single‑Ventricle Physiology  
+- Eisenmenger Syndrome  
+- Anomalous Aortic Origin of a Coronary Artery  
+- Anomalous Coronary Artery Arising from the Pulmonary Artery  
+- Coronary Artery Fistula  
+- Vascular Rings  
+- Pulmonary Artery Slings  
+- Genetic Syndromes Screening (related to cardiac anomalies)  
+- Reproductive Health, Pregnancy, and Contraception (cardiovascular considerations)
+
+Page 3 Extracted Terms:
+**Key Heart‑Disease–Related Terms Extracted from the Guideline**
+
+- Adult Congenital Heart Disease (ACHD)  
+- ACHD Program  
+- ACHD Cardiologist  
+- AP Classification (e.g., Class IA, IC–D, IIB–D, IIIA–D, IIC–D, IIA–D)  
+- Non‑cardiac Surgery  
+- Perioperative Complications  
+- Guideline‑Based Medical Therapy (GDMT)  
+- Invasive Cardiac Procedures  
+- Risk Stratification  
+- Periprocedural Planning  
+- Post‑procedural Care  
+- Anesthesia Collaboration with ACHD Expertise  
+- Cardiac Surgery  
+- Cyanosis Management  
+- Heart Failure  
+- Heart Transplantation  
+- Mechanical Circulatory Support (MCS)  
+- Genetic Syndromes Screening  
+- Genetic Evaluation Referral  
+- Reproductive Health (Pregnancy & Contraception)  
+- Assisted Reproductive Technology  
+- Routine Cesarean Delivery Policy  
+- Physical Activity, Exercise, Sports Participation  
+- Severe Pulmonary Hypertension  
+- Eisenmenger Syndrome  
+- Atrial Septal Defect (ASD)  
+- Pulmonary Arterial Hypertension (PAH)  
+- Pulmonary Hypertension Specialists  
+- Left‑to‑Right Shunt (Qp:Qs)  
+- Pulmonary Artery (PA) Systolic Pressure  
+- Pulmonary Vascular Resistance (PVR)  
+- Secundum ASD  
+- Transcatheter Closure of ASD  
+- Surgical Repair of ASD  
+- Pulmonary Vascular Resistance Ratio (PVR to systemic resistance)  
+- Pulmonary Artery Pressure ≥ 50 % of systemic  
+
+*(Additional terms such as “net left‑to‑right shunt,” “≥ 1.5:1 Qp:Qs,” and “≥ 1/3 systemic resistance” are included within the list of measurement criteria above.)*
+
+Page 4 Extracted Terms:
+- Atrial Septal Defect (ASD)  
+- Ventricular Septal Defect (VSD)  
+- Atrioventricular Septal Defect (AVSD)  
+- Anomalous Pulmonary Venous Connections (APVC)  
+- Patent Ductus Arteriosus (PDA)  
+- Cor Triatriatum Sinister  
+- Pulmonary Arterial Hypertension (PAH)  
+- Pulmonary Vascular Resistance (PVR)  
+- Qp:Qs ratio (left‑to‑right shunt ratio)  
+- Right Ventricular (RV) dilation  
+- Right Ventricular Outflow Tract (RVOT) obstruction  
+- Double‑Chambered Right Ventricle (DCRV)  
+- Left Ventricular (LV) systolic dysfunction  
+- Left Ventricular ejection fraction (EF) < 50%  
+- Pulmonary hypertension (PH)  
+- Pulmonary hypertension specialist  
+- Heart failure (HF)  
+- Functional status / functional class  
+- Dyspnea on exertion  
+- Cardiac imaging (echocardiography, MRI, CT angiography)  
+- Surgical repair / closure  
+- Gradient across obstruction (mm Hg)  
+- Residual shunt  
+- Net left‑to‑right shunt (Qp:Qs ≥ 1.5:1)  
+- RV size and function assessment  
+- Left atrial hypertension  
+- Coronary artery disease (implicitly related)  
+- Cardiac catheterization  
+- CMR (cardiac magnetic resonance)  
+- CT (computed tomography) angiography  
+- Ventricular hypertrophy (RV or LV)  
+- Hemodynamic measurements (systolic pressure, systemic pressure)  
+- Perianeurysmal obstruction  
+- Cardiopulmonary risk assessment  
+- Surgical resection (membrane removal, valve repair)  
+- Repaired vs unrepaired congenital defects  
+- Ventricular function monitoring  
+- Chronic embolism risk  
+- Paradoxical embolism  
+
+These terms encapsulate the key heart‑disease concepts discussed in the guideline excerpts.
+
+Page 5 Extracted Terms:
+- Cor Tiatriatum Sinister  
+- Atrial Fibrillation  
+- Atrial Flutter  
+- Prior Stroke  
+- Left Atrial Thrombus  
+- Chronic Anticoagulation  
+- Rhythm Control Strategy  
+- Clinical Decompensation  
+- Congenital Mitral Stenosis  
+- Shone Complex  
+- Pulmonary Hypertension  
+- Bicuspid Aortic Valve  
+- Aortic Diameter > 4 cm  
+- Thoracic Aortic Disease  
+- Aortic Dissection  
+- Lifelong Surveillance  
+- Valve Replacement (Surgical / Transcatheter)  
+- Heart Valve and ACHD Expert Teams  
+- Coarctation of the Aorta  
+- Exertional Symptoms  
+- Coronary Artery Disease Evaluation  
+- Electrophysiological Study  
+- Catheter Ablation  
+- Ventricular Preexcitation  
+- Supraventricular Tachycardia  
+- Valvular Pulmonary Stenosis (Moderate/Severe)  
+- Tricuspid Regurgitation  
+- Right Ventricular Dysfunction  
+- Pulmonary Valve Intervention  
+- Isolated Pulmonary Regurgitation  
+- Cardiovascular Magnetic Resonance (CMR) Imaging  
+- Right Ventricular (RV) Volumes  
+- RV Systolic Function  
+- Cardiac Catheterization  
+- Double‑Chambered Right Ventricle (DCRV)  
+- RVOT Obstruction  
+- Cardiac CT  
+- Branch Pulmonary Artery Stenosis  
+- Pulmonary Artery Dilation  
+- Stenting  
+- Balloon Angioplasty  
+- Tetralogy of Fallot (TOF)  
+- Echocardiography  
+- Pulmonary Valve Dysfunction  
+- Right Atrial Size  
+- Ventricular Size  
+- Residual Ventricular Septal Defects (VSDs)  
+- RV Systolic Pressure  
+- Right Ventricular Outflow Tract (RVOT)  
+- Transcatheter Pulmonary Valve Replacement  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Monomorphic Ventricular Tachycardia  
+- Adjunctive Catheter Ablation  
+- Pulmonary Valve Replacement (Surgical / Transcatheter)
+
+Page 6 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+- **Right Ventricle‑to‑Pulmonary Artery (RV‑to‑PA) Conduit**  
+- **Right Ventricle**  
+- **Pulmonary Artery**  
+- **Coronary CT**  
+- **Conduit Calcification**  
+- **Anatomic Characteristics**  
+- **Coronary Artery Proximity**  
+- **Transcatheter Intervention**  
+- **Pulmonary Regurgitation (PR)**  
+- **Stenosis**  
+- **Functional Capacity**  
+- **Arrhythmia**  
+- **Severe Stenosis**  
+- **Severe Regurgitation**  
+- **Cardiovascular Status**  
+- **Dextro‑Transposition of the Great Arteries (d‑TGA)**  
+- **Atrial Switch**  
+- **Progressive Exercise Intolerance**  
+- **Heart Failure (HF)**  
+- **Cardiopulmonary Exercise Testing**  
+- **Interatrial Baffle**  
+- **Venous Stenosis**  
+- **Transvenous Pacemaker**  
+- **Implantable Cardioverter‑Defibrillator (ICD)**  
+- **Invasive Hemodynamic Assessment**  
+- **Medical, Percutaneous, or Surgical Intervention**  
+- **Baffle Stenosis**  
+- **Residual Baffle Leaks**  
+- **Biomarkers**  
+- **Disease‑Specific Risk Scores**  
+- **Cardiac Events**  
+- **HF Transplant Centers**  
+- **Ambulatory Monitoring**  
+- **Bradycardia**  
+- **Sinus Node Dysfunction**  
+- **Beta Blockers**  
+- **Rate‑Slow‑ing Agents**  
+- **Resting Electrocardiogram (ECG)**  
+- **Outpatient Ambulatory Rhythm Monitoring**  
+- **Tachyarrhythmia**  
+- **Baffle Leak**  
+- **Baffle Leak Closure**  
+- **Systemic or Pulmonary Venous Pathway Stenosis**  
+- **Liver Congestion**  
+- **Mechanical Support**  
+- **Transplantation**  
+- **ACHD Cardiologist**  
+- **Guideline‑Directed Medical Therapy (GDMT)**  
+- **Anticoagulation**  
+- **Sinus Rhythm**  
+- **Atrial Arrhythmia**  
+- **Intra‑atrial Reentrant Arrhythmias**  
+- **Atrial Fibrillation**  
+- **Oral Anticoagulation**  
+- **Embolic Events**  
+- **Transvenous Lead Placement**  
+- **Catheter‑Based Interventions**  
+- **Systemic Thromboembolism**  
+- **Future Baffle Occlusion**  
+- **Physiological Tests of Myocardial Perfusion**  
+- **Myocardial Ischemia**  
+- **Coronary Angiography**  
+- **Cross‑Sectional Imaging**  
+- **Functional Coronary Assessment**  
+- **Anatomic Etiology**
+
+Page 7 Extracted Terms:
+- Arterial Switch Operation  
+- Myocardial ischemia  
+- Coronary revascularization  
+- Supravalvar PA stenosis  
+- Branch PA stenosis  
+- RV hypertension  
+- RV dysfunction  
+- Tricuspid regurgitation  
+- Exercise capacity  
+- d‑Transposition of the great arteries (d‑TGA)  
+- Rastelli Repair  
+- Congenitally corrected transposition of the great arteries (CCTGA)  
+- Transthoracic echocardiography  
+- Chamber function  
+- Systemic tricuspid valve function  
+- Septal defects  
+- LVOT stenosis  
+- Ambulatory rhythm monitoring  
+- Atrioventricular block (high‑grade)  
+- Physiologic pacing  
+- Cardiac resynchronization therapy (CRT)  
+- Conduction system pacing  
+- Fontan circulation  
+- Fontan circulatory failure  
+- Heart failure (HF)  
+- Transplant cardiology  
+- Hepatocellular carcinoma  
+- Fontan‑associated liver disease  
+- Hepatic fibrosis / cirrhosis  
+- Advanced cardiac imaging  
+- Cardiovascular magnetic resonance (CMR)  
+- Computed tomography (CT)  
+- Transesophageal echocardiography  
+- Thrombus  
+- Emboli  
+- Liver biopsy  
+- Sinus node dysfunction  
+- Atrial flutter  
+- Atrial fibrillation  
+- Cardioversion (pharmacologic or electrical)  
+- Cardiac transplantation  
+- Transplant‑free survival  
+- Apical site pacing  
+- Nonapical site pacing  
+- Portal hypertension  
+- CT angiography  
+- Radiologic protocols (avoid false‑negative/false‑positive)
+
+Page 8 Extracted Terms:
+- Fontan circulation  
+- Fontan palliation  
+- Single‑ventricle physiology  
+- Hemodynamically significant stenosis  
+- Fontan pressure  
+- Pulmonary arteries (PAs)  
+- Systemic ventricular volume overload  
+- Antiplatelet therapy  
+- Anticoagulation  
+- Vitamin K antagonist  
+- Atrial flutter  
+- Atrial fibrillation  
+- Atriopulmonary Fontan  
+- HLHS (Hypoplastic Left Heart Syndrome)  
+- Norwood repair  
+- Eisenmenger syndrome  
+- Pregnancy (in Eisenmenger)  
+- Bosentan  
+- Phosphodiesterase‑type 5 inhibitors  
+- Sildenafil  
+- Tadalafil  
+- PAH‑directed therapy  
+- Endothelin receptor antagonist  
+- Atrial arrhythmias  
+- Sinus rhythm  
+- Exercise program  
+- Oral anticoagulation  
+- Intracardiac shunt  
+- Permanent pacing  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Endocardial leads  
+- Annual laboratory evaluation  
+- Liver function testing  
+- Renal function testing  
+- Hematologic abnormality  
+- Annual biochemical and hematological testing  
+- Hemodynamics  
+- Systemic thromboembolism
+
+Page 9 Extracted Terms:
+- Congenital heart disease (ACHD)  
+- ACHD centers  
+- ACHD cardiologist  
+- Multidisciplinary team (complex‑care decision making)  
+- Cardiac procedures  
+- Non‑cardiac procedures  
+- Endocarditis risk evaluation  
+- Bioprosthetic pulmonary valves  
+- Subacute bacterial endocarditis  
+- Tetralogy of Fallot  
+- Pulmonary valve replacement  
+- Right ventricular end‑systolic volume (>80 mL/m²)  
+- Right ventricular end‑diastolic volume (referenced)  
+- Arrhythmia management  
+- Ventricular tachycardia  
+- Ablation therapy  
+- Secundum atrial septal defect  
+- Pulmonary arterial hypertension  
+- Left‑to‑right shunt  
+- Pulmonary vascular resistance (≤ 2 Wood units; 2–5 Wood units)  
+- Atrial arrhythmias  
+- Systemic right ventricle  
+- Fontan circulation  
+- Heart failure therapy (guideline‑directed medical therapy)  
+- Systemic left ventricle  
+- Pacing strategies (systemic right ventricle / Fontan)  
+- Eisenmenger syndrome  
+- Pulmonary vasodilators  
+- Phosphodiesterase‑5 inhibitors  
+- Endothelin receptor antagonists  
+- Fontan‑screening for liver disease  
+- Alpha‑fetoprotein  
+- Hepatologist consultation  
+- American College of Cardiology (ACC)  
+- American Heart Association (AHA)  
+- Anomalous aortic origin of a coronary artery (AAOCA)  
+- Ventricular arrhythmias (AAOCA presentation)  
+- High‑risk anatomy (AAOCA)  
+- Vascular rings  
+- Pulmonary artery slings  
+
+*(Each item is a key term related to heart disease extracted from the guidelines text.)*
+
+Page 10 Extracted Terms:
+- Guideline‑directed medical therapy (GDMT)  
+- Adults with congenital heart disease (ACHD)  
+- Cardiovascular disease  
+- Cardiac imaging  
+- Percutaneous coronary intervention  
+- Coronary artery bypass grafting  
+- Heart failure management  
+- Arrhythmia treatment  
+- Device therapy (e.g., pacemaker, implantable cardioverter‑defibrillator)  
+- Pharmacologic therapy (beta‑blockers, ACE inhibitors, ARBs, diuretics, anticoagulants)  
+- Clinical evaluation of cardiac symptoms  
+- Diagnostic testing for heart disease  
+- Shared decision‑making in cardiac care  
+- Patient engagement in cardiac treatment planning  
+- Comorbidities influencing cardiac outcomes  
+- Randomized controlled trials (RCTs) in cardiology  
+- Systematic reviews of cardiac interventions  
+- Evidence‑based guideline recommendations for heart disease  
+- ACC/AHA Joint Committee on Clinical Practice Guidelines  
+- National Academy of Medicine (formerly Institute of Medicine) – cardiology standards  
+- Cost‑value analysis of cardiac drugs and devices  
+- Knowledge‑chunk format for cardiovascular guideline presentation  
+- Flow diagrams for cardiac decision pathways  
+- Contraindications and drug–drug interactions in cardiac therapy  
+- Regulatory approval of cardiac drugs and devices in the United States.
+
+Page 11 Extracted Terms:
+- Adult congenital heart disease  
+- Aortic coarctation  
+- Aortic valve stenosis  
+- Cardiac catheterization  
+- Cardiac surgical procedures  
+- Congenital heart disease  
+- Cor triatriatum  
+- Coronary vessel anomalies  
+- Diagnostic imaging  
+- Discrete subaortic stenosis  
+- Patent ductus arteriosus  
+- Ebstein anomaly  
+- Congenital heart defects  
+- Ventricular septal defects  
+- Pulmonary valve stenosis  
+- Reoperation  
+- Surgery  
+- Survival rate  
+- Tetralogy of Fallot  
+- Therapy  
+- Transposition of the great vessels  
+- Treatment outcome  
+- Ventricular outflow obstruction  
+- Valvular heart disease  
+- Bicuspid aortic valve disease  
+- Aortopathy associated with bicuspid aortic valve  
+- Conotruncal abnormalities  
+- Heart failure  
+- Cardiovascular diseases  
+- Aortic disease  
+- Inherited connective‑tissue disorders with cardiac manifestations (e.g., Marfan syndrome, hypertrophic cardiomyopathy)  
+- Patent foramen ovale  
+- Anatomic variants of the heart  
+- Congenital valve disease (distinct from acquired valvular disease)
+
+Page 12 Extracted Terms:
+- Adult Congenital Heart Disease (ACHD)  
+- Coronary artery disease  
+- Heart failure  
+- Arrhythmias  
+- Valvular heart disease  
+- Chest pain  
+- Coronary artery revascularization  
+- Aortic disease  
+- Chronic coronary disease  
+- Atrial fibrillation  
+- Genetic basis for congenital heart disease  
+- Multimodality imaging during follow‑up care of congenital heart disease  
+- Transition to adulthood for adolescents with congenital heart disease  
+- Repaired tetralogy of Fallot (arrhythmias)  
+- Dual‑organ transplantation (heart‑kidney, heart‑liver)  
+- Neurodevelopmental outcomes for individuals with congenital heart disease  
+- Psychological outcomes and interventions for congenital heart disease  
+
+*(These terms represent the major cardiac conditions, procedures, and related concepts referenced in the guideline.)*
+
+Page 13 Extracted Terms:
+- American College of Cardiology  
+- American Heart Association  
+- ACHD Guideline (Acute Congenital Heart Disease)  
+- Clinical strategies  
+- Interventions  
+- Treatments  
+- Diagnostic testing
+
+Page 14 Extracted Terms:
+- ACHD (adult congenital heart disease)  
+- congenital heart disease  
+- anatomic lesions  
+- anatomical repairs  
+- International Paediatric and Congenital Cardiac Code  
+- anatomic complexity (simple–complex I–III)  
+- physiological stage (A–D)  
+- residual anatomic sequelae  
+- advanced heart failure  
+- pulmonary arterial hypertension (PAH)  
+- valve replacement  
+- arrhythmias  
+- Fontan circulation  
+- systemic right ventricle  
+- truncus arteriosus  
+- coarctation of the aorta (COA)  
+- ventricular dysfunction  
+- mortality risk  
+- surgical outcomes  
+- maternal and fetal complications of pregnancy  
+- risk‑stratification tools  
+- non‑cardiac procedures at ACHD centers  
+- invasive cardiac procedures  
+- cardiac anesthesia  
+- reproductive health, pregnancy, and delivery  
+- hemodynamic stress  
+- ACHD consultation  
+- routine diagnostic studies  
+- follow‑up intervals  
+- biomarkers (e.g., N‑terminal pro‑hormone of B‑type natriuretic peptide, NT‑proBNP)  
+- unplanned heart‑failure hospitalizations  
+- endocarditis.
+
+Page 15 Extracted Terms:
+- Adult Congenital Heart Disease (ACHD)  
+- Acquired heart disease  
+- Atrial septal defect (ASD)  
+- Patent ductus arteriosus (PDA)  
+- Ventricular septal defect (VSD)  
+- Pulmonic stenosis  
+- Anomalous aortic origin of a coronary artery from the opposite sinus  
+- Anomalous coronary artery arising from the pulmonary artery  
+- Anomalous pulmonary venous connection (partial or total)  
+- Atrioventricular septal defect (partial or complete)  
+- Congenital aortic valve disease  
+- Congenital mitral valve disease  
+- Coarctation of the aorta  
+- Cor triatriatum sinister  
+- Dextro‑transposition of the great arteries (TGA) after arterial switch operation  
+- Ebstein anomaly  
+- Infundibular right ventricular outflow obstruction / double‑chamber right ventricle  
+- Peripheral pulmonary artery stenosis  
+- Sinus venosus defect  
+- Subvalvular aortic stenosis  
+- Supravalvar aortic stenosis  
+- Tetralogy of Fallot  
+- Vascular ring or sling  
+- Double‑outlet ventricle  
+- Fontan physiology  
+- Interrupted aortic arch  
+- Pulmonary atresia (all forms)  
+- Single‑ventricle anatomy (including double‑inlet left ventricle, tricuspid/mitral atresia, hypoplastic left heart)  
+- Congenitally corrected TGA (CCTGA, levo‑TGA)  
+- Dextro‑TGA after atrial switch (Mustard/Senning) operation  
+- Dextro‑TGA after Rastelli operation  
+- Truncus arteriosus  
+- Unrepaired or partially palliated cyanotic congenital heart defect  
+- Heart failure  
+- B‑type natriuretic peptide (BNP)  
+- N‑terminal pro‑B‑type natriuretic peptide (NT‑proBNP)  
+- New York Heart Association (NYHA) functional class  
+- Endocarditis  
+- Eisenmenger syndrome  
+- Pulmonary arterial hypertension (low‑risk, intermediate‑risk, high‑risk)  
+- Arrhythmia (including sustained or high‑burden tachyarrhythmia)  
+- Tachyarrhythmia  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Permanent pacemaker  
+- Hypoxemia (mild, moderate, severe)  
+- Valve dysfunction (mild, moderate, severe)  
+- Ventricular dysfunction (mild, moderate, severe)  
+- Ventricular enlargement (mild)  
+- Shunt (trivial/small, hemodynamically significant)  
+- Hemodynamic sequelae  
+- Hemodynamic significance  
+- Physiological stage (A, B, C, D) in ACHD classification.
+
+Page 16 Extracted Terms:
+- AAOCA (anomalous aortic origin of a coronary artery)  
+- ACHD (adult congenital heart disease)  
+- AP (anatomic and physiological)  
+- APVC (anomalous pulmonary venous connection)  
+- ASD (atrial septal defect)  
+- AVSD (atrioventricular septal defect)  
+- BAV (bicuspid aortic valve)  
+- BNP (B‑type natriuretic peptide)  
+- CCTGA (congenitally corrected transposition of the great arteries)  
+- CMR (cardiovascular magnetic resonance)  
+- COA (coarctation of the aorta)  
+- CPET (cardiopulmonary exercise testing)  
+- CRT (cardiac resynchronization therapy)  
+- CT (computed tomography)  
+- DCRV (double‑chambered right ventricle)  
+- d‑TGA (dextro‑transposition of the great arteries)  
+- FALD (Fontan‑associated liver disease)  
+- GDMT (guideline‑directed medical therapy)  
+- HLHS (hypoplastic left heart syndrome)  
+- ICD (implantable cardioverter‑defibrillator)  
+- NYHA (New York Heart Association functional classification)  
+- Qp:Qs (pulmonary‑to‑systemic blood flow ratio)  
+- Arrhythmia (atrial or ventricular tachyarrhythmias)  
+- Valvular heart disease (VHD) – mild, moderate, severe  
+- Exercise capacity – objective and subjective limits  
+- Hypoxemia (resting SpO₂ ≤ 92 %)  
+- Severe hypoxemia (SpO₂ ≤ 85 %)  
+- Hypoxia (tissue oxygenation inadequate)  
+- Cyanosis (blue/purple discoloration, ≥ 5 g/dL desaturated Hb)  
+- Pulmonary arterial hypertension (mean PA pressure ≥ 20 mm Hg, PAWP ≤ 15 mm Hg, PVR ≥ 2 WU)  
+- Pulmonary arterial hypertension risk categories (3‑strata)  
+- Hemodynamically significant intrathoracic shunt (Qp:Qs ≥ 1.5, chamber enlargement)  
+- Ventricular dysfunction  
+- Hemodynamics  
+- Right heart catheterization  
+- Hemodinamically significant intracardiac shunt  
+- Cardiac resynchronization therapy (CRT)  
+- Implanted defibrillator (ICD)  
+
+These terms capture the key clinical concepts related to heart disease as presented in the guideline text.
+
+Page 17 Extracted Terms:
+- Acute congenital heart disease (ACHD)  
+- Adult congenital heart disease (ACHD)  
+- Left ventricular (LV)  
+- Left ventricular outflow tract (LVOT)  
+- Mechanical circulatory support (MCS)  
+- Magnetic resonance (MR)  
+- N-terminal pro‑brain natriuretic peptide (NT‑proBNP)  
+- Pulmonary artery (PA)  
+- Pulmonary arterial hypertension (PAH)  
+- Pulmonary atresia with intact ventricular septum (PA‑IVS)  
+- Patent ductus arteriosus (PDA)  
+- Pulmonary vascular resistance (PVR)  
+- Pulmonary‑to‑systemic blood flow ratio (Qp:Qs)  
+- Right ventricular (RV)  
+- Right ventricular end‑diastolic volume (RVEDV)  
+- Right ventricular outflow tract (RVOT)  
+- Right ventricle‑to‑pulmonary artery (RV‑to‑PA)  
+- Sudden cardiac death (SCD)  
+- Sinus venosus atrial septal defect (SVASD)  
+- Tetralogy of Fallot (TOF)  
+- Ventricular septal defect (VSD)  
+- Transition education  
+- Transfer of care policies and procedures  
+- Loss to care (attrition)  
+- Transition education policies  
+- Transition education procedures  
+- Transfer-of-care protocols  
+- Comprehensive transfer of care  
+- Structured transition education  
+- Patient‑centered transition education  
+- Transition education success metrics  
+
+Page 18 Extracted Terms:
+**Key terms related to heart disease in the guideline**
+
+- Adult Congenital Heart Disease (ACHD)  
+- Congenital Heart Disease (CHD)  
+- Transfer of care from pediatric to ACHD providers  
+- Lifelong continuum of congenital heart disease care  
+- Gaps in care delivery  
+- Morbidity  
+- Premature mortality  
+- Electronic medical records (EMR)  
+- Nurse navigator  
+- Social worker  
+- Insurance barriers  
+- Distance to clinic  
+- Work and career disruptions  
+- Critical care stages: diagnosis, palliative interventions, transfer to ACHD, lifelong ACHD care, reinterventions  
+- Continuous patient education  
+- Congenital heart disease diagnosis specifics (name, anatomy, physiology)  
+- Surgical procedures for CHD  
+- Diagnostic evaluation  
+- Reproductive health education  
+- Development of independent skills (appointments, prescriptions, provider contact, insurance maintenance)  
+- Lifelong specialized CHD care by ACHD cardiologists  
+- Seamless transitions from pediatric to ACHD  
+- Socioeconomic stress (risk factor for loss to care)  
+- Ethnic disparities (non‑White patients)  
+- Readiness for transfer of care  
+- Referral policies to ACHD care  
+- Tracking of transfer patients (via EMR and databases)  
+- Early childhood (0‑12 years) CHD care  
+- Adolescence to young adulthood (13‑18 years) CHD care  
+- Young adulthood (18‑26 years) CHD care  
+- Adulthood (18‑80+ years) CHD care  
+- ACHD cardiologists and programs  
+- Adult care hospitals  
+- ACHD advocacy organizations  
+- Telehealth as a care option  
+- Advanced practice providers (e.g., nurse practitioners, physician assistants)  
+- General cardiologists (for local care)  
+- Geographic availability of ACHD cardiologists  
+- Loss to care  
+- Barriers to care (insurance, distance, socioeconomic factors)  
+- Electronic health records and databases for monitoring care continuity  
+- Policies and procedures for transfer, referral, and tracking of patients  
+- Pediatric cardiology/heart centers  
+- Payors (insurance carriers)  
+- Congenital heart disease advocacy organizations 
+
+Page 19 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Adult Congenital Heart Disease (ACHD)  
+- ACHD clinical class (AP class)  
+- Cardiologist / ACHD cardiologist  
+- ACHD program / multidisciplinary ACHD program  
+- Complex congenital anatomy and physiology  
+- Cardiac interventions & surgical repairs  
+- Long‑term complications of congenital heart disease  
+- Diagnostic testing & follow‑up  
+
+**Clinical and procedural domains**
+
+- Advanced imaging  
+  - Cardiac computed tomography (CT)  
+  - Cardiovascular magnetic resonance (CMR)  
+  - Echocardiography  
+- Heart failure management  
+- Heart or multiorgan transplant evaluation & listing  
+- Diagnostic and interventional heart catheterization  
+- Electrophysiology (arrhythmia, device implantation, EP study)  
+- Cardiac surgery / cardiothoracic surgery  
+- Cardiac anesthesia & ICU support  
+
+**Specialist and support services**
+
+- Congenital cardiac surgeon  
+- Advanced practice provider  
+- Registered nurse  
+- Cardiac intensivist  
+- Advanced heart‑failure and transplant cardiologist  
+- Cardiac catheterization interventionalist  
+- Electrophysiologist  
+- Cardiac anesthesiologist  
+- Maternal‑fetal medicine specialist  
+- Hepatologist  
+- Pulmonary hypertension specialist  
+- Cardiovascular genetics specialist  
+- Palliative medicine specialist  
+- Social worker  
+- Psychologist  
+
+**Systemic/organizational factors**
+
+- Barriers to care (geographic distance, insurance coverage, socioeconomic challenges)  
+- Clinical evaluation for worsening AP class  
+- Referral for advanced imaging beyond local expertise  
+- Referral for worsening heart failure  
+- Referral for transplant evaluation  
+- Referral for diagnostic/interventional therapies  
+- Referral for electrophysiology studies  
+- Referral for cardiothoracic surgery  
+- Pregnancy risk assessment/management  
+- Non‑cardiac surgery in high‑risk populations (AP classes IC–D, IIA–D, IIIA–D)  
+- Need for ACHD cardiac anesthesia and ICU support  
+
+**Administrative and accreditation terms**
+
+- Board certification (American Board of Internal Medicine, American Board of Pediatrics)  
+- Accreditation Council for Graduate Medical Education (ACGME) training programs  
+- High‑quality integrated multidisciplinary care  
+- Evidence Table / guideline recommendations  
+
+These terms capture the central concepts and entities related to heart disease management as presented in the clinical statements and guidelines excerpt.
+
+Page 20 Extracted Terms:
+- Adult Congenital Heart Disease (ACHD)  
+- Congenital heart disease  
+- Complex congenital heart disease  
+- Heart failure  
+- Arrhythmias (including bradyarrhythmias)  
+- Cyanosis  
+- Pulmonary hypertension / Pulmonary vascular disease  
+- Valvular disease  
+- Ventricular function (systemic and subpulmonary)  
+- Persistent shunts (right‑to‑left shunts)  
+- Endocarditis prophylaxis  
+- Erythrocytosis  
+- Frailty  
+- Perioperative complications (in the context of heart disease)  
+- Pre‑operative optimization for cardiac risk  
+- Risk stratification for cardiac patients  
+- Periprocedural planning in cardiac patients  
+- Management of anticoagulation in cardiac patients  
+- Management of venous/arterial access in cardiac patients  
+
+(These terms capture the key heart‑disease concepts addressed in the excerpt.)
+
+Page 21 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Adult Congenital Heart Disease (ACHD)  
+- Single‑ventricle physiology  
+- Residual lesions / residual disease  
+- Pre‑operative evaluation  
+- Vascular resistances  
+- Cyanosis  
+- ACHD anatomic classification II/III  
+- ACHD physiological stages C/D  
+- ACHD program / specialized center  
+- Systemic and pulmonary shunts  
+- Post‑operative complications  
+- Fluid shifts  
+- Blood‑pressure variation  
+- Oxygenation / ventilation parameters  
+- Arrhythmias  
+- Fontan physiology  
+- Pulmonary vascular disease  
+- Transpulmonary gradient  
+- Systemic ventricular preload  
+- Anesthetic planning for ACHD  
+- Preload / afterload management  
+- Vasoactive medications  
+- Ventilator strategies  
+- Pulmonary vascular resistance (PVR)  
+- Hemodynamic monitoring  
+- Coagulopathy risk  
+- Paradoxical embolism (right‑to‑left shunts)  
+- Ventricular septal defect (VSD)  
+- Eisenmenger syndrome  
+- Heart failure  
+- Adverse cardiovascular outcomes  
+- Health‑care utilization in ACHD patients  
+- Neurocognitive and mental‑health considerations in ACHD (depression, anxiety, PTSD, cognitive decline, frailty)
+
+Page 22 Extracted Terms:
+- Adult Congenital Heart Disease (ACHD)  
+- Congenital heart disease (CHD)  
+- ACHD cardiologist  
+- Cardiology (congenital)  
+- Cardiac surgery  
+- Cardiac catheter‑based procedures  
+- Electrophysiology (EP) procedures  
+- Invasive cardiac procedures  
+- Cardiac anesthesia  
+- Perioperative complications  
+- Risk stratification  
+- Preprocedural evaluation  
+- Postprocedural care  
+- Guideline‑based therapy  
+- Clinical outcomes  
+- Periprocedural planning  
+- Procedural optimization  
+- High‑risk cardiac surgery  
+- Device implantation (cardiac/EP)  
+- Anesthesiologist with CHD expertise  
+- Acquired cardiovascular disease in ACHD patients  
+- Multidisciplinary collaboration (ACHD, anesthesiology, surgery, EP)
+
+Page 23 Extracted Terms:
+- Adult congenital heart disease (ACHD)  
+- Atrioventricular (AV) complex pathology  
+- Ablation protocol (AP) complexity  
+- Palliated single ventricle physiology  
+- Cyanosis  
+- Valve disease  
+- Heart failure  
+- Arrhythmias  
+- Invasive cardiac procedures  
+- Periprocedural care  
+- Procedural risk‑scoring systems  
+- Coronary artery disease (CAD)  
+- Aortic aneurysm  
+- Calcific valvar stenosis  
+- Iron deficiency anemia in ACHD  
+- Hyperviscosity syndrome  
+- Cerebral abscess  
+- Stroke  
+- Neurologic deficits  
+- Anesthesia management in ACHD  
+- Ventilation strategies in ACHD surgery  
+- Cardio‑obstetrics care  
+- Pregnancy‑related cardiovascular complications  
+- Family planning in ACHD patients  
+- Congenital heart surgery fellowship  
+- ACHD cardiology board certification  
+- Electrophysiology in ACHD  
+- Interventional cardiology in ACHD  
+- Multidisciplinary ACHD team  
+- Ancillary imaging for ACHD  
+- Surgical palliation sequelae  
+- Hemodynamics of congenital lesions  
+- Anesthetic pharmacology in ACHD  
+- Co‑surgeon model (ACHD + acquired disease)
+
+Page 24 Extracted Terms:
+- Atrial‑ventricular congenital heart disease (ACHD)  
+- Cyanotic heart disease  
+- Cyanosis  
+- Hypoxemia  
+- Right‑to‑left shunt  
+- Secondary erythrocytosis  
+- Hyperviscosity syndrome  
+- Hematocrit >65 %  
+- Iron‑deficiency anemia  
+- Pheochromocytoma  
+- Paraganglioma  
+- Eisenmenger syndrome  
+- Stroke (ischemic)  
+- Transient ischemic attack (TIA)  
+- Pulmonary embolism  
+- Thrombosis  
+- Coagulation cascade  
+- Hypercoagulability  
+- Hypocoagulability  
+- Hemoptysis  
+- Epistaxis  
+- Exercise intolerance  
+- Myocardial ischemia  
+- Neurologic complications (brain abscess, stroke)  
+- Pregnancy‑related cardiovascular complications  
+- Estrogen‑containing oral contraceptives (thromboembolic risk)  
+- Anticoagulation and antiplatelet therapy  
+- International normalized ratio (INR)  
+- Hyperviscosity symptoms (headache, visual disturbance)  
+- Hyperviscosity management (rehydration, iron replacement, phlebotomy)  
+
+These terms capture the primary heart‑disease–related concepts discussed in the guideline excerpt.
+
+Page 25 Extracted Terms:
+- Adult Congenital Heart Disease (ACHD)  
+- Cyanosis (cyanotic ACHD)  
+- Tachycardia  
+- Hypertension  
+- Pheochromocytoma  
+- Paraganglioma  
+- Plasma fractionated metanephrines  
+- 24‑hour urinary fractionated metanephrines  
+- Hyperuricemia  
+- Gout  
+- Reduced exercise capacity (in ACHD patients)  
+- Supplemental oxygen use during exercise  
+- Hyperviscosity symptoms  
+- Iron deficiency (annual screening)  
+- Hematocrit (HCT)
+
+Page 26 Extracted Terms:
+- ACHD (Aneuploidy or Congenital Heart Disease)  
+- Acute phlebotomy (removal of 250–500 mL blood)  
+- Hyperviscosity syndrome  
+- Cyanosis  
+- Iron deficiency  
+- Stroke risk  
+- Systemic left ventricular (LV) dysfunction  
+- Biventricular circulation  
+- Cardiac resynchronization therapy (CRT)  
+- Guideline‑directed medical therapy (GDMT) for heart failure  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Sudden cardiac death (SCD)  
+- Mechanical circulatory support  
+- Heart transplantation  
+- Fontan physiology (single‑ventricle)  
+- Systemic right ventricle (dextro‑TGA with atrial switch, CCTGA)  
+- Endocarditis  
+- Bradyarrhythmia  
+- Restrictive physiology  
+- Multimorbidity  
+- Frailty  
+- Polypharmacy  
+- Ventricular activation pattern  
+- Myocardial contraction  
+- Electrical dyssynchrony  
+- Cardiac remodeling  
+- Overall survival  
+- Quality of life  
+- Heart failure hospitalization  
+- Hematocrit level  
+- Isotonic fluid replacement.
+
+Page 27 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+- Acquired congenital heart disease (ACHD)  
+- Systemic left ventricle (LV)  
+- LV systolic dysfunction / severe LV dysfunction (ejection fraction ≤ 35%)  
+- Global Guideline‑Directed Medical Therapy (GDMT)  
+- Angiotensin Receptor–Neprilysin Inhibitors (ARNI)  
+- Sodium‑Glucose Cotransporter 2 Inhibitors (SGLT2i)  
+- Heart failure (HF) symptoms  
+- Heart failure hospitalization  
+- New York Heart Association (NYHA) functional class (II–III)  
+- Biomarkers of cardiac strain  
+- Sudden Cardiac Death (SCD)  
+- SCD risk calculator (e.g., from CONCOR registry)  
+- Ebstein anomaly  
+- Post‑operative Fontan physiology  
+- Systemic right ventricle  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Primary‑prevention ICD placement  
+- Inappropriate ICD shocks (e.g., in Tetralogy of Fallot)  
+- Heart transplantation (HTx)  
+- Mechanical Circulatory Support (MCS)  
+- Temporary MCS (e.g., implantable vascular devices)  
+- Durable MCS (LV or biventricular support)  
+- Bridge to transplantation  
+- Destination therapy  
+- Multiorgan transplantation (heart‑lung, heart‑kidney, heart‑liver)  
+- Fontan‑related transplantation indications  
+- Transplant wait‑list management  
+- High‑volume transplant centers with ACHD accreditation  
+- Cardiogenic shock  
+
+These terms capture the clinical entities, therapies, devices, and patient populations discussed in the guidelines.
+
+Page 28 Extracted Terms:
+- Adult Congenital Heart Disease (ACHD)  
+- Ventricular dysfunction  
+- Systemic ventricular dysfunction  
+- Heart failure  
+- Advanced heart failure  
+- Heart‑failure‑related hospital admissions  
+- Cardiopulmonary exercise stress testing (CPET)  
+- Heart transplantation  
+- Heart‑lung transplantation  
+- Heart‑kidney transplantation  
+- Heart‑liver transplantation  
+- Multiorgan transplantation  
+- Eisenmenger syndrome  
+- Fontan palliation  
+- Fontan physiology  
+- Durable mechanical circulatory support (MCS)  
+- Temporary mechanical circulatory support  
+- Mechanical circulatory support (MCS)  
+- Advanced liver fibrosis  
+- Conotruncal defects  
+- Heterotaxy  
+- 22q11.2 deletion syndrome  
+- Congenital heart disease  
+- Genetic syndromes screening  
+
+Page 29 Extracted Terms:
+- Conotruncal anomalies  
+- Infundibulum (outflow tract)  
+- Great arteries  
+- 22q11.2 deletion syndrome (DiGeorge syndrome, velocardiofacial syndrome)  
+- Tetralogy of Fallot  
+- Ventricular septal defect (VSD)  
+- Pulmonary atresia  
+- Interrupted aortic arch type B  
+- Truncus arteriosus  
+- Down syndrome (trisomy 21)  
+- Atrial septal defect (ASD)  
+- Atrioventricular septal defect (AVSD)  
+- Holt‑Oram syndrome (TBX5)  
+- Klinefelter syndrome (47,XXY) – patent ductus arteriosus, ASD, mitral valve prolapse  
+- Noonan syndrome (PTPN11, KRAS, SOS1, RAF1, NRAS, BRAF, MAP2K1) – pulmonary stenosis, ASD, hypertrophic cardiomyopathy, AVSD  
+- Turner syndrome (45,X) – bicuspid aortic valve, coarctation of the aorta, aortopathies, partial anomalous pulmonary venous connection, atherosclerosis risk  
+- Williams syndrome (7q11.23 deletion) – supravalvar aortic stenosis, branch pulmonary artery stenosis, supravalvar pulmonary stenosis, coronary ostial stenosis, QTc prolongation, mid‑aortic narrowing syndrome  
+- Alagille syndrome (JAG1) – peripheral or branch pulmonary artery stenosis, coarctation of the aorta, aortic stenosis, septal defects, mid‑aortic narrowing  
+- Heterotaxy syndrome  
+  - ZIC3, SHROOM3, GRK5, ANKS3, NODAL, CFC1, LEFTY2, GDF1, SMAD2, ACVR2B  
+  - Situs abnormalities, ciliary dysfunction, functional asplenia, conduction abnormalities, biliary atresia, atrioventricular septal defects (balanced/unbalanced), malposed great vessels, interrupted IVC, bilateral SVC, atrial isomerism  
+- Bicuspid aortic valve  
+- Coarctation of the aorta  
+- Aortic arch abnormalities  
+- Pulmonary stenosis  
+- Left‑ventricular hypertrophy / hypertrophic cardiomyopathy  
+- Coronary ostial stenosis  
+- QTc prolongation  
+- Atherosclerosis risk (associated with Turner syndrome)  
+- Partial anomalous pulmonary venous connection  
+- Aortic stenosis  
+- Valvular disease (mitral valve prolapse, pulmonary stenosis)  
+- Conduction abnormalities (associated with various syndromes)
+
+Page 30 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+1. Congenital heart disease  
+2. ACHD (Adult Congenital Heart Disease)  
+3. Genetic referral / genetic evaluation  
+4. Genetic counseling / preconception genetic counseling  
+5. Noonan syndrome  
+6. Williams syndrome  
+7. Heterotaxy syndrome  
+8. QTc prolongation  
+9. Sudden cardiac death  
+10. Cardiac monitoring  
+11. Cardiologist (ACHD cardiologist)  
+12. Cardio‑obstetrics team  
+13. Peripartum cardiomyopathy  
+14. Spontaneous coronary artery dissection  
+15. Mechanical heart valves (mechanical valvular prostheses)  
+16. Arrhythmia  
+17. Heart failure  
+18. Thromboembolic events / thrombosis  
+19. Estrogen‑containing contraceptive agents  
+20. Maternal morbidity and mortality  
+21. Pregnancy‑related cardiac complications  
+22. Pre‑risk stratification / risk scores for cardiac patients in pregnancy  
+23. Maternal cardiac risk management  
+24. Obstetric cardiac surveillance (cardiac monitoring during pregnancy)  
+25. Cesarean delivery (in the context of cardiac risk)  
+26. Assisted reproductive technology (ART) and cardiac risk  
+27. Cardiac procedural outcomes / surgical outcomes  
+28. Platelet dysfunction (in the context of Noonan syndrome)  
+29. Anesthesia‑related cardiac risk (QTc prolongation risk)  
+30. Cardiac risk stratification in pregnancy (AP classifications IB–D, IIA–D, IIIA–D)  
+
+These terms capture the primary heart‑disease concepts, syndromic associations, reproductive‑cardiac considerations, and procedural/therapeutic elements highlighted in the clinical statements and guidelines.
+
+Page 31 Extracted Terms:
+- Adult Congenital Heart Disease (ACHD)  
+- Cardio‑obstetrics team  
+- Hemodynamic effects of pregnancy  
+- Contraceptive agents (in ACHD)  
+- Modified World Health Organization (WHO) classification system  
+- CARPREG 2 score  
+- Maternal cardiac risk  
+- Fetal echocardiography  
+- Pulmonary arterial hypertension (PAH)  
+- Eisenmenger syndrome  
+- Severe ventricular dysfunction  
+- Left‑sided obstructive lesions (e.g., mitral and aortic stenosis)  
+- Systemic right ventricle with depressed function  
+- New York Heart Association (NYHA) functional class III/IV  
+- Aortopathy (≥ 5 cm diameter or connective‑tissue disorder)  
+- Mechanical heart valves  
+- Refractory ventricular arrhythmias  
+- Fontan physiology  
+- Severe native coarctation or recoarctation  
+- Cyanotic congenital heart disease  
+- Advanced NYHA class (III or IV)  
+- Systemic ventricular dysfunction (EF < 30 %)  
+
+
+
+Page 32 Extracted Terms:
+- Adult Congenital Heart Disease (ACHD)  
+- Pulmonary Arterial Hypertension (PAH)  
+- Fontan physiology  
+- Mechanical heart valves  
+- Thrombotic events / thromboembolism  
+- Anticoagulation therapy  
+- Estrogen‑containing contraceptive agents (contraindicated in ACHD)  
+- High‑risk aortopathies (high‑risk cardiac conditions)  
+- Ionizing radiation exposure  
+- Cardiac catheterization  
+- Invasive electrophysiology procedures  
+- Computed tomography (CT) scans  
+- Nuclear perfusion scans  
+- Chest X‑rays  
+- Cardiopulmonary exercise testing (CPET)  
+- Six‑minute walk test  
+- New York Heart Association (NYHA) functional class  
+- Cardiovascular procedures (general)  
+- Radiation dose‑reduction strategies (low‑dose ionizing radiation)  
+- Cancer risk associated with cardiac imaging  
+- Functional capacity assessment (exercise capacity, symptom severity)  
+- Adverse cardiovascular events (hospitalization, mortality)  
+- Maternal cardiac outcomes (in pregnancy)  
+
+These terms capture the key concepts and clinical focus areas related to heart disease within the provided guideline text.
+
+Page 33 Extracted Terms:
+- Adult Congenital Heart Disease (ACHD)  
+- Cardiopulmonary Exercise Testing (CPET)  
+- Six‑Minute Walk Test  
+- Pulmonary Arterial Hypertension (PAH)  
+- Heart Failure  
+- Mortality  
+- Major Adverse Cardiovascular Events  
+- Hemodynamic Intervention  
+- Surgical Reintervention  
+- Functional Capacity  
+- Exercise Capacity  
+- Physical Activity  
+- Sports Participation  
+- Cardiac Rehabilitation  
+- Systemic Ventricular Systolic Dysfunction  
+- Systemic Ventricular Outflow Tract Obstruction  
+- Hemodynamically Significant Arrhythmias  
+- Aortic Dilation  
+- Tetralogy of Fallot (TOF)  
+- Systemic Right Ventricle  
+- Fontan Palliation  
+- Unrepaired Cyanotic Heart Disease  
+- Metabolic Equivalents (METs)  
+- Predicted Maximum Heart Rate  
+- NT‑proBNP  
+- Fibrinogen  
+- Cardiac Autonomic Function  
+- Vascular Function  
+- Quality of Life  
+- Self‑Reported Health Status  
+- Borg Scale (breathlessness rating)  
+- Intensity Rating of Breathlessness  
+- Exercise Training  
+- Cardiac Rehab Program  
+- Cardiovascular Events
+
+Page 34 Extracted Terms:
+- Adult congenital heart disease (ACHD)  
+- Congenital shunt lesions  
+- Atrial septal defect (ASD)  
+- Ventricular septal defect (VSD)  
+- Atrio‑ventricular septal defect (AVSD)  
+- Patent ductus arteriosus (PDA)  
+- Anomalous pulmonary venous return  
+- Left‑to‑right shunt  
+- Right‑to‑left shunt  
+- Shunt magnitude / size  
+- Pulmonary‑to‑systemic blood flow ratio (Qp:Qs) ≥ 1.5  
+- Eisenmenger syndrome  
+- Pulmonary arterial hypertension (PAH)  
+- Mean pulmonary artery pressure > 20 mm Hg  
+- Pulmonary vascular resistance (PVR) > 2 Wood units  
+- Pulmonary arterial wedge pressure ≤ 15 mm Hg  
+- Resting hypoxemia / cyanosis  
+- Risk assessment tools (e.g., 3‑strata, 4‑strata models)  
+- 6‑minute walk distance (6MWD)  
+- B‑type natriuretic peptide (BNP)  
+- C‑reactive protein  
+- Echocardiography  
+- Exercise‑induced hypoxemia  
+- Formal exercise testing  
+- Rhythm monitoring  
+- Imaging studies  
+- Multidisciplinary care strategy  
+- Shared decision‑making  
+- Exercise testing for competitive sports  
+- PH‑specific therapies  
+- Endothelin‑receptor antagonists  
+- Phosphodiesterase‑5 inhibitors  
+- Prostacyclin analogs  
+- Oral prostacyclin receptor analogs  
+- Activin‑signaling inhibitors  
+- Perioperative risk  
+- Cardiovascular morbidity & mortality  
+- Competing health outcomes (e.g., exercise capacity vs. PAH progression)
+
+Page 35 Extracted Terms:
+- Atrial Septal Defect (ASD)  
+- Unrepaired ASD  
+- ASD closure  
+- Percutaneous closure  
+- Surgical closure  
+- Transcatheter closure  
+- Fenestrated closure (fenestrated repair)  
+- Partial defect closure (fenestrated closure)  
+- Closure contraindicated (high‑risk closure)  
+- Pulmonary Arterial Hypertension (PAH)  
+- Pulmonary vascular resistance (PVR)  
+- Wood units (unit of PVR measurement)  
+- Left‑to‑right shunt (Qp:Qs ratio)  
+- Qp:Qs ≥ 1.5  
+- RV dilation (right‑ventricular dilation)  
+- LV disease (left‑ventricular disease)  
+- Significant LV disease (chronically elevated left‑atrial pressure ≥ 15 mm Hg)  
+- Eisenmenger physiology  
+- Transesophageal echocardiography (TEE)  
+- Cardiac magnetic resonance imaging (CMR)  
+- Cardiac computed tomography (CT)  
+- Pulmonary venous connections  
+- Anomalous pulmonary venous return  
+- Paradoxical embolism  
+- Paradoxical embolism prevention (ASD closure)  
+- Right‑to‑left shunting  
+- Right‑heart chamber enlargement  
+- Right‑ventricular dysfunction  
+- Functional class (NYHA/WHO)  
+- Clinical outcomes  
+- Medium‑term functional status  
+- Targeted PAH therapy  
+- Risk assessment and management (pulmonary hypertension specialists)  
+- Post‑closure hemodynamic assessment  
+- Long‑term PAH therapies  
+- Treat‑and‑repair approach (treat‑and‑repair)  
+- Pre‑tricuspid shunts  
+- Shunt type: secundum, primum, sinus venosus (superior/inferior), unroofed coronary sinus  
+- Hemodynamic consequences of ASD  
+- Atrial arrhythmia (post‑closure arrhythmias)  
+- High pressure (right‑sided or left‑sided)  
+- Diagnostic imaging: transthoracic echocardiography (TTE)  
+- Cross‑sectional imaging (for distant pulmonary venous connections)  
+
+*(All terms extracted from the provided clinical guideline text.)*
+
+Page 36 Extracted Terms:
+- Atrial Septal Defect (ASD)  
+- Adult Congenital Heart Disease (ACHD)  
+- Pulmonary Arterial Hypertension (PAH)  
+- Mean Pulmonary Artery Pressure (mPAP)  
+- Pulmonary Vascular Resistance (PVR)  
+- Pulmonary Capillary Wedge Pressure (PCWP)  
+- B‑type Natriuretic Peptide (BNP)  
+- N‑terminal pro‑BNP (NT‑proBNP)  
+- Right Heart Dysfunction  
+- Right Ventricular Enlargement (RVE)  
+- Right Atrial Enlargement (RAE)  
+- Tricuspid Regurgitation (TR)  
+- Tricuspid Annular Plane Systolic Excursion (TAPSE)  
+- Right Ventricular Outflow Tract (RVOT)  
+- Electrocardiogram (ECG)  
+- Transthoracic Echocardiography  
+- Cardiac Magnetic Resonance Imaging (CMR)  
+- Cardiac Computed Tomography (CT)  
+- Exercise Testing (6‑minute walk)  
+- Hemodynamic Assessment (right heart catheterization)  
+- Pulmonary Hypertension Guidelines  
+- Risk Assessment / Risk Stratification  
+- PAH‑directed Therapy  
+- Fenestrated Patch Closure  
+- Balloon Test Occlusion  
+- Device Erosion  
+- Shunting  
+- Desaturation with exercise  
+- Functional Capacity  
+- Congestion  
+- Abdominal Distention  
+- Early Satiety  
+- Cyanosis  
+- Clubbing  
+- Accentuated S2 Heart Sound  
+- Jugular Venous Distention  
+- Peripheral Edema
+
+Page 37 Extracted Terms:
+- Atrial septal defect (ASD)  
+- Pulmonary arterial hypertension (PAH)  
+- Pulmonary vascular resistance (PVR)  
+- Left ventricular dysfunction (LV dysfunction)  
+- Right heart overcirculation  
+- Right-sided chamber enlargement  
+- Qp:Qs ratio  
+- Pulmonary capillary wedge pressure (PCWP)  
+- Tricuspid regurgitation  
+- Fenestrated closure  
+- Transcatheter closure  
+- Surgical closure  
+- Hemodynamics  
+- Functional capacity  
+- Morbidity and mortality  
+- 6‑minute walk distance  
+- Functional class  
+- Paradoxical embolism  
+- Thrombophilia  
+- Electrophysiology study  
+- Partial anomalous pulmonary venous return (PAPVR)  
+- Device placement  
+- Left atrial pressure  
+- Elevated right heart pressure  
+- Dual PAH therapy  
+- Targeted PAH therapy  
+- Residual shunt  
+- Reversal of PAH  
+- Right ventricular dimensions  
+- Direct PAH therapy  
+- Specialized PAH management  
+- Hemodynamic changes after ASD closure  
+- Right ventricular dilatation  
+
+---
+
+Page 38 Extracted Terms:
+- Atrial septal defect (ASD)  
+- Pulmonary arterial hypertension (PAH)  
+- Pulmonary hypertension (PH)  
+- Adult congenital heart disease (ACHD)  
+- Fenestrated transcatheter device  
+- Fenestrated surgical repair  
+- Dual up‑front PAH therapy  
+- Pulmonary vascular resistance (PVR)  
+- Pulmonary arterial pressures (PA pressures)  
+- Right ventricle (RV)  
+- Left heart disease  
+- Wood units (WU)  
+- Qp:Qs (pulmonary‑to‑systemic blood flow ratio)  
+- Percutaneous fenestrated ASD closure  
+- Hemodynamics (optimization)
+
+Page 39 Extracted Terms:
+- Superior SVASD  
+- Superior vena cava (SVC)  
+- Unroofed right upper pulmonary vein  
+- Left‑to‑right atrial shunt  
+- Transcatheter closure  
+- Adult congenital heart disease (ACHD)  
+- Pulmonary arterial hypertension (PAH)  
+- Pulmonary vascular resistance (PVR) – Wood units  
+- Atrial septal defect (ASD)  
+- Fenestrated closure  
+- Eisenmenger syndrome  
+- Ventricular septal defect (VSD)  
+- Perimembranous VSD  
+- Outlet VSD  
+- Double‑chambered right ventricle (DCRV)  
+- Right ventricular outflow tract (RVOT) obstruction  
+- Qp:Qs ratio  
+- Left ventricular (LV) dilation / volume overload  
+- Aortic regurgitation  
+- Infective endocarditis (with VSD involvement)  
+- Transesophageal echocardiography (TEE)  
+- Cross‑sectional imaging (e.g., CT/MRI)  
+- Sutureless or covered stent closure  
+- Treat‑to‑close approach  
+- Surgical superior SVASD repair  
+- Satisfactory procedural success (>95%)  
+- In‑hospital and 30‑day mortality (<1%)  
+- Clinical guideline recommendations (B‑NR, C‑LD)  
+- Pulmonary hypertension specialist care  
+
+(These terms capture key heart‑disease concepts referenced in the clinical statements and guidelines.)
+
+Page 40 Extracted Terms:
+- Ventricular Septal Defect (VSD)  
+- VSD closure (surgical or percutaneous)  
+- Left‑to‑right shunt  
+- Qp:Qs ratio (pulmonary/systemic flow ratio)  
+- Pulmonary Arterial Hypertension (PAH)  
+- Pulmonary Vascular Resistance (PVR) – Wood units  
+- Eisenmenger physiology / Eisenmenger syndrome  
+- Left‑ventricular volume overload  
+- Left‑ventricular dilatation / hypertrophy  
+- Left‑ventricular dysfunction  
+- Right‑ventricular dysfunction  
+- Pulmonary hypertension (general)  
+- Arrhythmia (including complete heart block)  
+- Heart failure  
+- Infective endocarditis  
+- Conduction system disease  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Transcatheter (catheter‑based) closure devices  
+- Surgical closure procedures  
+- Percutaneous closure procedures  
+- Aortic insufficiency / aortic valve disease  
+- Prolapse of the right coronary cusp (aortic valve)  
+- Sinus of Valsalva aneurysm / prolapse  
+- Double‑chambered right ventricle (DCRV)  
+- Pulmonary hypertension therapies (pharmacologic)  
+- Acute reversibility studies during cardiac catheterization  
+- Pulmonary hypertension specialist care  
+- Risk stratification for PAH  
+- Late post‑closure PAH  
+- Residual shunt  
+- Complete heart block risk (perimembranous VSD)  
+- Wood units (measure of pulmonary vascular resistance)  
+- Restrictive VSDs (pressure‑ and/or volume‑restrictive)  
+- Non‑restrictive VSDs (large, associated with Eisenmenger)  
+
+Feel free to add any additional terms that you find relevant to your clinical context.
+
+Page 41 Extracted Terms:
+- aortic insufficiency  
+- sinus of Valsalva aneurysm  
+- aortic valve cusp prolapse  
+- ventricular septal defect (VSD)  
+- aortic regurgitation  
+- early aortic valve replacement  
+- aortic valve repair  
+- Eisenmenger syndrome  
+- AR (aortic regurgitation abbreviation)  
+- LV (left ventricular)  
+- PVR (pulmonary vascular resistance)  
+- Qp:Qs (pulmonary‑to‑systemic blood flow ratio)  
+- Wood units  
+- preventive surgery  
+- conservative approach (treatment strategy)
+
+Page 42 Extracted Terms:
+- Ventricular septal defect (VSD)  
+- Aortic valve replacement  
+- Infective endocarditis  
+- Pulmonary arterial hypertension (PAH)  
+- Pulmonary vascular resistance (PVR)  
+- Eisenmenger syndrome  
+- Atrioventricular septal defect (AVSD)  
+- Left‑ventricular outflow tract obstruction (LVOT obstruction)  
+- Left‑ventricular systolic dysfunction  
+- Left‑ventricular ejection fraction (LVEF)  
+- Cardiopulmonary bypass  
+- Pre‑operative PAH therapy  
+- Peri‑operative risk  
+- Right‑ventricular failure  
+- Septic emboli to the lungs  
+- Cerebral abscesses  
+- Cerebrovascular events  
+- Antibiotic prophylaxis  
+- Percutaneous closure  
+- Surgical closure  
+- Right‑heart decompression  
+- Atrial fenestration  
+- Right‑ventricular volume overload  
+- Left‑ventricular volume overload  
+- Pulmonary hypertension management  
+- Hemodynamic shunt assessment (Qp:Qs)  
+- Long‑term PAH therapy  
+- Right‑heart monitoring  
+- Follow‑up echocardiography  
+- Electrocardiogram monitoring  
+- Functional status improvement  
+- Risk stratification for ACHD patients  
+- Adult congenital heart disease (ACHD)  
+- Severe PAH with shunt reversal  
+- Non‑restrictive VSD  
+- Restrictive VSD  
+- Unrepaired VSD  
+- Residual shunts after repair  
+- Ventricular septal defect closure strategy  
+- Cardiovascular outcomes in ACHD  
+- Complication risk with VSD repair  
+
+These terms capture the core concepts, conditions, interventions, and complications discussed in the provided guideline excerpt.
+
+Page 43 Extracted Terms:
+- Atrioventricular septal defect (AVSD)  
+- Atrioventricular canal  
+- Endocardial cushion defect  
+- Partial AVSD (incomplete atrioventricular canal / primum ASD)  
+- Complete AVSD (complete atrioventricular canal)  
+- Transitional AVSD (transitional atrioventricular canal)  
+- Atrioventricular valve regurgitation  
+- Left atrioventricular valve regurgitation  
+- Left‑ventricular dilation  
+- Left‑ventricular systolic dysfunction  
+- Left‑ventricular ejection fraction  
+- Left‑to‑right shunt (Qp:Qs)  
+- Pulmonary arterial hypertension (PAH)  
+- Pulmonary vascular resistance (PVR)  
+- Eisenmenger physiology  
+- Shunt closure  
+- Residual shunts  
+- Ventricular function  
+- Surgical repair (of AVSD, shunt, valve, or LVOT)  
+- Reoperation  
+- Arrhythmias  
+- Conduction abnormalities  
+- Complete heart block  
+- Electrocardiogram (ECG)  
+- Transthoracic echocardiogram (TTE)  
+- Cardiac catheterization  
+- Adult congenital heart disease (ACHD)  
+- Congenital heart defect / disease  
+- Pulmonary hypertension  
+- Subaortic stenosis  
+- Valvular aortic stenosis  
+- Left‑ventricular outflow tract (LVOT) obstruction  
+- LVOT gradient (peak ≥50 mm Hg, mean ≥40 mm Hg)  
+- LV function  
+- Atrioventricular node displacement  
+- His bundle displacement  
+- Left‑axis deviation pattern  
+- Late‑onset complete heart block  
+- Routine follow‑up / monitoring  
+- Pulmonary arterial hypertension guidelines (PAH guidelines)
+
+Page 44 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Adult Congenital Heart Disease (ACHD)  
+- Atrioventricular Canal Defect (AVSD) – partial and complete  
+- Left Ventricular Outflow Tract (LVOT) obstruction  
+- Mitral (left atrioventricular) valve regurgitation  
+- Left Ventricular (LV) dysfunction  
+- LV dilation / end‑systolic diameter >40 mm  
+- Atrial septal defect (ASD)  
+- Ventricular septal defect (VSD)  
+- Pulmonary hypertension (PAH)  
+- Eisenmenger physiology / syndrome  
+- Pulmonary vascular disease  
+- Pulmonary outflow tract obstruction (PVR)  
+- Anomalous Pulmonary Venous Connections (APVC)  
+- Shunt (left‑to‑right, Qp:Qs)  
+- Right ventricular (RV) size and function  
+- Peak Doppler gradients (≥ 50 mm Hg)  
+- Echocardiography / Doppler imaging  
+- Cardiovascular magnetic resonance (CMR) imaging  
+- Computed tomography (CT) angiography  
+- Cardiac catheterization  
+- Surgical repair / primary repair / reoperation  
+- Reintervention rates  
+- Operative mortality / operative risk  
+- Residual lesions / residual shunt  
+- Symptomatic vs asymptomatic presentation  
+- Functional capacity / dyspnea on exertion  
+- Surgical indications and guidelines for chronic mitral regurgitation  
+- Congenital heart surgeon expertise  
+- Long‑term survival rates (e.g., 91–94 % at 15–30 years)  
+- Reoperation risk (reoperation frequency, freedom from reoperation)  
+- Heart failure as a risk factor for death  
+
+These terms capture the principal clinical concepts, anatomical structures, diagnostic modalities, and outcome metrics related to heart disease discussed in the guideline excerpt.
+
+Page 45 Extracted Terms:
+- Adult congenital heart disease (ACHD)  
+- Anomalous pulmonary venous connections (APVC)  
+- Atrial septal defect (ASD)  
+- Right ventricle (RV)  
+- Pulmonary arterial hypertension (PAH)  
+- Qp:Qs ratio (pulmonary to systemic flow)  
+- Cardiac symptoms  
+- Reduced functional capacity  
+- Surgical repair (pulmonary vein repair)  
+- Left‑to‑right shunting (shunts)  
+- RV volume overload  
+- RV systolic function  
+- Invasive measurement (of PAH)  
+- Objective exercise intolerance  
+- Cardiothoracic surgery (as treatment option)  
+- Shunt magnitude  
+- Diastolic compliance  
+- Pulmonary vein stenosis  
+- Warden procedure (repair method)  
+- Scimitar vein (variant of APVC)  
+- Pulmonary sequestration  
+- Patent foramen ovale (implied in shunting context)  
+- PA hypoplasia  
+- Aortopulmonary collaterals  
+- Thrombosis (post‑repair risk)  
+- 3‑dimensional cardiovascular magnetic resonance (CMR) imaging  
+- Echocardiography (transthoracic and electrocardiogram)  
+- Cardiac catheterization angiography  
+- Computed tomography (CT) angiography  
+- Electrocardiogram (ECG)  
+- Transthoracic echocardiogram (TTE)
+
+Page 46 Extracted Terms:
+- Atrial partial pulmonary venous connection (APVC)  
+- Right ventricle (RV) size  
+- Right ventricular function / RV systolic dysfunction  
+- Pulmonary arterial hypertension (PAH)  
+- Pulmonary hypertension (PH)  
+- Pulmonary vein stenosis / baffle stenosis  
+- Warden procedure  
+- Superior vena cava obstruction  
+- Echocardiography (2‑D and Doppler)  
+- Cardiovascular magnetic resonance (CMR)  
+- Cardiac CT angiography  
+- Invasive hemodynamics  
+- Cardiac catheterization  
+- Left‑to‑right shunt  
+- Qp:Qs ratio  
+- Pulmonary vascular resistance (PVR)  
+- Pulmonary blood flow  
+- Cardiopulmonary exercise testing (CPET)  
+- Functional capacity  
+- Congenital heart disease (CHD) surgeons / congenital heart surgeons  
+- Patent ductus arteriosus (PDA)  
+- Adult congenital heart disease (ACHD) specialist  
+- Pulmonary artery (PA)  
+- Right‑ventricular dilation  
+- Surgical repair / baffle rerouting  
+- Obstructive sleep apnea (risk factor for PH)  
+- Intracardiac shunts (other than APVC)  
+- Connective tissue disease (cause of PH)  
+- Portal hypertension (cause of PH)  
+- Age (risk factor for complications)  
+- Scimitar syndrome (scimitar vein repair)  
+
+These terms capture the key concepts and clinical factors related to heart disease discussed in the guideline excerpt.
+
+Page 47 Extracted Terms:
+- Patent ductus arteriosus (PDA)  
+- Pulmonary arterial hypertension (PAH)  
+- Pulmonary vascular resistance (PVR)  
+- Left ventricular (LV) function  
+- Left‑sided chamber size  
+- Echocardiography  
+- Cardiac magnetic resonance imaging (CMR)  
+- Balloon test occlusion  
+- Left‑to‑right shunt  
+- Right‑to‑left shunt  
+- Eisenmenger syndrome  
+- Pulmonary hypertension (PH)  
+- Pulmonary vasodilators  
+- Electrocardiogram (ECG)  
+- Transthoracic echocardiogram (TTE)  
+- Cardiac catheterization  
+- Oxygen saturation measurement (oximetry)  
+- Hemodynamic assessment  
+- Clinical outcomes (morbidity/mortality)  
+- Left heart enlargement / dilation  
+- Ventricular dilation / dysfunction  
+- Chamber dilation  
+- Pulmonary overcirculation  
+- Systemic resistance  
+- Pulmonary capillary wedge pressure (PCWP)  
+- Mean pulmonary artery pressure (mPAP)  
+- Wood units  
+- Device closure (PDA closure)  
+- Unrepaired PDA  
+- Adult congenital heart disease (ACHD)
+
+Page 48 Extracted Terms:
+- Adult congenital heart disease (ACHD)  
+- Patent ductus arteriosus (PDA)  
+- Echocardiography  
+- Cardiac magnetic resonance imaging (CMR)  
+- Flow assessment (Qp:Qs)  
+- Left ventricular (LV) volume  
+- LV function  
+- Ductal anatomy  
+- LV remodeling  
+- LV dysfunction  
+- Pulmonary hypertension (PH)  
+- Pulmonary arterial hypertension (PAH)  
+- Transcatheter device closure  
+- Cardiac computed tomography (CT)  
+- Aortic arch  
+- Pulmonary vascular resistance (PVR)  
+- Wood units (WU)
+
+Page 49 Extracted Terms:
+- Pulmonary arterial saturation  
+- PDA insertion point  
+- Pulmonary blood flow  
+- Pulmonary vascular resistance (PVR)  
+- Pulmonary arterial hypertension (PAH)  
+- Catheter‑based calculation  
+- Transpulmonary gradient  
+- Hybrid techniques  
+- Cardiac magnetic resonance imaging (CMR)  
+- Balloon test occlusion  
+- Ductus closure tolerability  
+- Pulmonary arterial pressure  
+- Aortic pressure  
+- Left ventricular enlargement  
+- Left ventricular dysfunction  
+- Endarteritis  
+- Percutaneous closure  
+- Surgical closure  
+- Net left‑to‑right shunt  
+- Net right‑to‑left shunt  
+- Pulmonary hypertension expertise  
+- PVR Wood units (e.g., 2–5, <5, <10, >8, >10)  
+- Pulmonary systolic pressure  
+- Left atrial hypertension  
+- Cor triatriatum sinister  
+- Transesophageal echocardiography  
+- Cross‑sectional imaging  
+- Membrane orifice  
+- Pulmonary vein stenosis  
+- Atrial fibrillation  
+- Atrial flutter  
+- Left atrial thrombus  
+- Stroke  
+- Chronic anticoagulation  
+- Congenital cardiac defects  
+- Volume overload  
+- Hemodynamically insignificant shunt  
+- Mortality and morbidity risks  
+- Progressive LV enlargement  
+- PAH progression  
+- Transpulmonary gradient measurement  
+- Pulmonary blood flow measurement
+
+Page 50 Extracted Terms:
+- Cor triatriatum sinister  
+- Congenital heart disease  
+- Adult congenital heart disease (ACHD)  
+- Unrepaired cor triatriatum sinister  
+- Cor triatriatum membrane  
+- Fenestrated fibromuscular membrane  
+- Left atrial hypertension  
+- Left atrial appendage  
+- Mitral valve  
+- Mitral stenosis (shared pathophysiology)  
+- Mitral regurgitation (progression)  
+- Atrial fibrillation  
+- Atrial flutter  
+- Atrial septal defect (ASD)  
+- Persistent left superior vena cava  
+- Partial anomalous pulmonary venous return (PAPVR)  
+- Pulmonary vein stenosis  
+- Pulmonary hypertension  
+- Pulmonary arterial wedge pressure  
+- Left ventricular diastolic pressure  
+- Heart failure (gradual onset)  
+- Dyspnea on exertion  
+- Orthopnea  
+- Palpitations  
+- Systemic thromboembolism  
+- Cardioembolic events  
+- Surgical membrane resection  
+- Catheter‑based intervention (bridge to surgery)  
+- Rhythm control strategy  
+- Chronic anticoagulation  
+- Transesophageal echocardiography (TEE)  
+- Transthoracic echocardiography (TTE)  
+- Three‑dimensional echocardiography (3‑DE)  
+- Cardiac magnetic resonance imaging (CMR)  
+- Computed tomography angiography (CTA)  
+- Cardiac catheterization  
+- Fibrotic degeneration of the cor membrane  
+- Calcification of the cor membrane  
+- Fenestrated/obstructive membrane orifice  
+- Clinical sequelae of left atrial hypertension  
+- Residual anatomical abnormalities post‑repair  
+- Intracardiac repair of congenital defects  
+- Multimodality imaging for cor triatriatum sinister  
+- Routine follow‑up (physiological stages A–D)  
+- Electrocardiogram (ECG) monitoring  
+- Transthoracic echocardiogram (TTE) follow‑up  
+- 3‑D imaging of atrial chambers  
+- Clinical decompensation  
+
+(*Terms are extracted to highlight key heart‑disease concepts and related clinical interventions, diagnoses, imaging modalities, and complications discussed in the guideline text.*)
+
+Page 51 Extracted Terms:
+- **Cor triatriatum sinister**  
+- **Left atrial membrane**  
+- **Systemic thromboembolism**  
+- **Paradoxical embolism**  
+- **Atrial fibrillation**  
+- **Pulmonary hypertension (PAH)**  
+- **Mitral stenosis**  
+- **Congenital mitral stenosis**  
+- **Parachute mitral valve**  
+- **Supravalvar mitral ring**  
+- **Double‑orifice mitral valve**  
+- **Shone complex**  
+- **Atrial septal defect (ASD)**  
+- **Pulmonary venous stasis**  
+- **Chronic anticoagulation**  
+- **Warfarin**  
+- **Direct oral anticoagulants (DOACs)**  
+- **Intravenous anticoagulation**  
+- **Surgical resection**  
+- **Transcatheter ablation**  
+- **Maze operation**  
+- **Cardiopulmonary bypass**  
+- **Heart failure**  
+- **Pulmonary edema**  
+- **Pregnancy‑associated cardiac risk**  
+- **Postpartum cardiac decompensation**  
+- **Percutaneous balloon dilatation**  
+- **Atrial septal dilation**  
+- **Mitral valve injury**  
+- **Cardiac perforation**  
+- **Left‑heart obstructive lesions**  
+- **Invasive hemodynamic assessment**  
+- **Pulmonary over‑pressure**  
+- **Cor triatriatum membrane regrowth**  
+- **Hemodynamically severe obstruction** (≥15 mm Hg gradient)  
+- **Noninvasive Doppler interrogation**  
+- **Intracardiac repair**  
+- **Congenital heart disease (ACHD)**  
+- **Maternal and fetal cardiac risk**  
+- **Acute pulmonary hypertension**  
+- **Cardiac operative risk**
+
+Page 52 Extracted Terms:
+- Adult Congenital Heart Disease (ACHD)  
+- Congenital mitral valve disease  
+- Mitral valve prolapse  
+- Balloon mitral valvuloplasty  
+- Mitral stenosis  
+- Atrioventricular septal defect (AVSD)  
+- Left atrioventricular valve regurgitation  
+- Shone complex  
+- Pulmonary hypertension  
+- Pre‑capillary pulmonary hypertension  
+- Post‑capillary pulmonary hypertension  
+- Right heart catheterization  
+- Subaortic stenosis  
+- Exercise stress testing  
+- Surgical repair (membrane resection, myectomy)  
+- Left ventricular (LV) dysfunction  
+- LV hypertrophy  
+- Aortic regurgitation  
+- Aortic valve stenosis  
+- Membranous obstruction (subaortic obstruction)  
+- Mitral valve attachments  
+- Endocardial cushion tissue  
+- Hypertrophic cardiomyopathy  
+- Heart block  
+- Reoperation (surgical recurrence)  
+- Echocardiogram / Transthoracic echocardiogram  
+- Electrocardiogram (ECG)  
+- ACHD cardiologist (clinical follow‑up)
+
+Page 53 Extracted Terms:
+**Key terms related to heart disease**
+
+- Subaortic stenosis  
+- Aortic stenosis  
+- Congenital left ventricular outflow tract (LVOT) obstruction  
+- LVOT gradient  
+- Left ventricular outflow tract (LVOT)  
+- Left ventricular hypertrophy (LVH)  
+- Left ventricular dysfunction (LVD)  
+- Left ventricular remodeling  
+- Aortic regurgitation (AR)  
+- Bicuspid aortic valve (BAV)  
+- Coarctation of the aorta (COA)  
+- Aortic aneurysm  
+- Aortic dissection  
+- Valve replacement  
+- Transcatheter aortic valve replacement (TAVR)  
+- Adult congenital heart disease (ACHD)  
+- Exercise stress testing  
+- Exercise stress echocardiography  
+- Electrocardiogram (ECG)  
+- Transthoracic echocardiogram (TTE)  
+- Doppler echocardiography  
+- Peak gradient  
+- Threshold gradient (e.g., ≥ 50 mm Hg, ≥ 80 mm Hg)  
+- Surgical repair of subaortic stenosis  
+- Prophylactic surgery  
+- Survival rate  
+- Intervention‑free survival  
+- Risk factor for aortic dissection  
+- Surveillance for thoracic aortic disease  
+- Physiological stages (A, B, C, D) in ACHD follow‑up  
+- Follow‑up intervals (outpatient, ECG, TTE)  
+- Screening for congenital aortic valve abnormalities  
+- Shared decision‑making for valve therapy  
+
+These terms capture the primary disease entities, diagnostic and therapeutic modalities, risk stratification concepts, and guideline‑specific recommendations discussed in the text.
+
+Page 54 Extracted Terms:
+- Bicuspid aortic valve (BAV)
+- Congenital aortic valve stenosis
+- Aortic regurgitation
+- Balloon valvuloplasty
+- Aortic valve surgery
+- Aortic valve replacement
+- Transcatheter aortic valve replacement (TAVR)
+- Aortic dissection
+- Aortic dilation / aortic enlargement
+- Aortic root dilatation
+- Coarctation of the aorta (COA)
+- Root phenotype aortopathy
+- Left ventricular (LV) remodeling
+- Left ventricular ejection fraction (LVEF)
+- Hypoplastic left heart syndrome (HLHS)
+- Truncus arteriosus
+- Turner syndrome
+- Shone complex
+- NOTCH1 gene mutation
+- ADAMTS19 gene mutation
+- SMAD6 gene mutation
+- ROBO4 gene mutation
+- NT-proBNP (biomarker)
+- Echocardiography
+- Cardiac‑gated CT angiography
+- Magnetic resonance angiography (MRA)
+- Cardiovascular magnetic resonance (CMR)
+- Thoracic aortic disease
+- Aortic valve disease
+- Aortic annulus
+- Aortic arch
+- Aortic valve imaging intervals
+- Aortic valve surgical planning
+- Familial inheritance (autosomal dominant pattern)
+- Variable penetrance
+- Aortic valve repair
+- Aortic valve replacement criteria
+- Aortic valve hemodynamics (Vmax, ΔP)
+- Aortic diameter thresholds (4–5 cm)
+- Aortic growth rate ≥ 0.3 cm/year
+- Family history of aortic dissection
+- Family history of thoracic aortic disease
+- History of COA (coarctation of the aorta)
+- Periodic imaging surveillance
+- Aortic valve surgical durability in young patients
+- Aortic valve intervention age considerations
+- Coronary artery disease (implicit in cardiovascular context)
+
+Page 55 Extracted Terms:
+**Key terms related to heart disease (from the provided guideline excerpt)**  
+
+- Bicuspid aortic valve (BAV)  
+- Thoracic aortic disease  
+- Aortic valve abnormality  
+- Aortic valve interventions  
+- Valve repair  
+- Ross operation  
+- Bioprosthetic valve replacement  
+- Mechanical valve replacement  
+- Transcatheter aortic valve replacement (TAVR)  
+- Congenital heart disease (CHD)  
+- Aortic valve replacement (AVR)  
+- Aortic valve stenosis  
+- Aortic valve regurgitation  
+- Calcified aortic valve stenosis  
+- Balloon valvuloplasty / balloon dilation of the aortic valve  
+- Supravalvar aortic stenosis (SVAS)  
+- Williams syndrome  
+- Coronary ostial stenosis  
+- Coronary artery revascularization  
+- Left ventricular (LV) systolic function / LV dysfunction  
+- Ventricular function (general)  
+- Left ventricular outflow tract (LVOT) obstruction  
+- Baseline aortic imaging  
+- Baseline coronary imaging  
+- Transthoracic echocardiography (TTE) with Doppler  
+- Peak and mean pressure gradients across aortic stenosis  
+- Surgical repair of SVAS or valve  
+- Redo sternotomies  
+- Transplantation (cardiac transplant)  
+- Reproductive issues & pregnancy considerations in valve disease  
+- Sports participation & lifestyle changes in cardiac patients  
+- Sudden cardiac death (SCD) risk assessment  
+- Clinical decision‑making & shared decision‑making processes in cardiac care  
+
+These terms capture the primary disease processes, diagnostic modalities, therapeutic interventions, and clinical considerations discussed in the guideline text.
+
+Page 56 Extracted Terms:
+- Supravalvar aortic stenosis  
+- Adult congenital heart disease (ACHD)  
+- Williams syndrome  
+- Coronary ostial stenosis  
+- Coronary artery dilation  
+- Coronary artery obstruction  
+- Coronary artery anomalies  
+- Coronary artery abnormalities (diffuse stenosis, obstruction)  
+- Coronary ischemia  
+- Ischemic heart disease  
+- Arrhythmia  
+- Heart failure  
+- Left ventricular systolic dysfunction  
+- Left ventricular dysfunction  
+- LVOT (left ventricular outflow tract) obstruction  
+- Aortic valve stenosis  
+- Sinotubular junction  
+- Aortic valve leaflet adhesion  
+- Fibrotic thickening around coronary ostia  
+- Coronary revascularization  
+- Surgical repair (aortic or coronary)  
+- Transesophageal echocardiography  
+- Transthoracic echocardiography  
+- Cardiovascular magnetic resonance (CMR)  
+- MR angiography  
+- CT angiography  
+- Electrocardiography (ECG)  
+- Exercise stress testing  
+- Electrocardiogram‑gated coronary CT angiography  
+- Invasive coronary angiography  
+- Cardiologist follow‑up (ACHD cardiologist)  
+- Screening for coronary artery anomalies  
+- ELN gene (elastin) – elastin arteriopathy  
+- Reintervention rates  
+- Long‑term ventricular function  
+- Coronary perfusion impairment  
+- Coronary artery stenosis (ostial)  
+- Coronary artery diastolic filling  
+- Coronary artery systolic pressure exposure  
+- Anatomic variability  
+- Cardiovascular imaging  
+- Clinical guidelines  
+
+These terms capture the key heart‑disease concepts referenced in the guideline text.
+
+Page 57 Extracted Terms:
+**Key terms related to heart disease in the guideline**
+
+- Coarctation of the Aorta (COA)  
+- Unrepaired COA  
+- Repaired COA  
+- Aortic isthmus stenosis  
+- Aortic arch hypoplasia  
+- Bicuspid aortic valve (BAV)  
+- Left ventricular outflow tract (LVOT) disease  
+- Subaortic stenosis  
+- Supra‑valvar aortic stenosis  
+- Supra‑valvar mitral stenosis  
+- Parachute mitral valve  
+- Endothelial dysfunction  
+- Abnormal smooth‑muscle reactivity  
+- Sympathetic hyperactivity  
+- Left ventricular (LV) pressure overload  
+- LV remodeling (hypertrophy, fibrosis, impaired relaxation, impaired compliance, impaired contractility)  
+- Hypertension  
+- Blood pressure measurement (upper vs lower extremities)  
+- Ambulatory blood pressure monitoring  
+- Exercise testing (exercise‑induced hypertension)  
+- Coronary artery disease  
+- Intracranial aneurysms (brain MRI/CT angiography)  
+- Echocardiography – transthoracic Doppler mean gradient  
+- Cardiac catheterization (COA peak‑to‑peak gradient)  
+- Transcatheter stent therapy  
+- Surgical repair/stent therapy  
+- Guideline‑directed medical therapy (GDMT) for hypertension  
+- Electrocardiogram (ECG)  
+- Cardiovascular magnetic resonance (CMR)  
+- Computed tomography (CT) angiography (CTA)  
+- Magnetic resonance angiography (MRA)  
+- Diagnostic indices:  
+  - Upper‑to‑lower extremity systolic BP gradient >20 mm Hg  
+  - Doppler mean gradient >20 mm Hg  
+  - Corrected COA gradient >20 mm Hg  
+  - COA peak‑to‑peak gradient >20 mm Hg  
+  - Aortic isthmus ratio <0.5–0.7  
+  - Collateral arteries  
+- Angiogram (plain imaging of aorta)  
+- Physiological stages of follow‑up (Stages A–D)  
+- ACHD (Adult Congenital Heart Disease)  
+- LV dysfunction from chronic pressure overload  
+- Aortic root/ascending aorta aneurysms  
+- Focal aortic aneurysm, pseudoaneurysm, dissection  
+- Stent fracture  
+- Upper‑lower extremity systolic blood pressure gradient  
+- Diastolic tail in descending aorta  
+- Diastolic forward flow in abdominal aorta  
+
+These terms capture the core clinical aspects, diagnostic modalities, and management strategies discussed in the text.
+
+Page 58 Extracted Terms:
+- Aortic coarctation (COA)  
+- Aortic arch anatomy  
+- Ascending aorta dimensions  
+- Left ventricular (LV) remodeling  
+- LV diastolic dysfunction  
+- LV systolic dysfunction  
+- Left atrial dysfunction  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Pulmonary hypertension  
+- Atrial fibrillation  
+- Premature coronary artery disease  
+- Stroke  
+- Re‑coarctation (restenosis of aortic isthmus)  
+- Aortic aneurysm  
+- Pseudoaneurysm  
+- Aortic dissection  
+- Systemic hypertension  
+- Hypertension screening (office, home, ambulatory)  
+- LV hypertrophy (cardiomyocyte hyperplasia)  
+- LV pressure overload  
+- Myocardial ischemia  
+- Replacement fibrosis  
+- Exercise‑induced hypertension  
+- CPET (cardiopulmonary exercise testing)  
+- Exercise‑induced arrhythmias  
+- Vascular complications (wall injury, remodeling)  
+- Longitudinal imaging surveillance (transthoracic echocardiography, CMR, CT angiography)
+
+Page 59 Extracted Terms:
+- Coarctation of the aorta (COA)  
+- Hypertension (systemic and exercise‑induced)  
+- Antihypertensive therapy  
+- Ambulatory blood pressure monitoring  
+- Exercise testing  
+- Coronary artery disease (CAD)  
+- Myocardial infarction  
+- Atherosclerotic cardiovascular disease  
+- Hyperlipidemia  
+- Type 2 diabetes mellitus  
+- Angina  
+- Exertional dyspnea  
+- Intracranial aneurysm  
+- Magnetic resonance imaging (MRI) of the brain  
+- Computed tomography angiography (CTA) of the brain  
+- Surgical repair of COA  
+- Transcatheter COA repair / stent therapy  
+- COA pressure gradient  
+- Aortic isthmus ratio (CMR/CT angiography)  
+- Cardiac magnetic resonance (CMR) imaging  
+- Left ventricular hypertrophy (LVH)  
+- Left ventricular dysfunction  
+- Left ventricular reverse remodeling  
+- Cardiovascular events  
+- Ebstein anomaly  
+- Electrophysiological study  
+- Arrhythmia  
+- Electrophysiological ablation  
+- Ventricular preexcitation  
+- Right ventricular (RV) dimensions  
+- Right ventricular systolic function  
+- Stent fracture  
+- Restenosis  
+- Aneurysm/pseudoaneurysm  
+- Reintervention risk  
+- Institutional expertise in congenital heart disease (CHD)  
+- Cardiovascular surgery  
+- Interventionist procedures for CHD  
+
+(Each item is a key term or concept related to heart disease extracted from the provided guideline text.)
+
+Page 60 Extracted Terms:
+- Ebstein anomaly  
+- Tricuspid valve morphology & function  
+- Tricuspid regurgitation  
+- Right ventricular (RV) dysfunction  
+- RV systolic dysfunction  
+- Cardiac output  
+- Heart failure  
+- Exercise capacity (functional status)  
+- Atrial tachyarrhythmias  
+- Ventricular tachyarrhythmias  
+- Accessory pathways (pre‑excitation)  
+- Sudden cardiac death (SCD)  
+- Catheter ablation  
+- Electrophysiological (EP) study  
+- Tricuspid valve surgery  
+- Bidirectional superior cavopulmonary (Glenn) anastomosis  
+- Atrial septal defect (ASD)/Patent foramen ovale (PFO)  
+- Cyanosis  
+- Paradoxical embolism  
+- Right‑to‑left atrial shunt  
+- Multimodality imaging  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Cardiovascular magnetic resonance (CMR)  
+- Electrocardiogram (ECG)  
+- Pulmonary stenosis (associated defect)  
+- Ventricular pre‑excitation  
+- Adult congenital heart disease (ACHD)  
+- Congenitally corrected transposition of the great arteries (CCTGA)  
+
+These terms capture the central heart‑disease concepts referenced in the guideline text.
+
+Page 61 Extracted Terms:
+- Ebstein anomaly  
+- Right atrial enlargement  
+- Right ventricular (RV) dysfunction  
+- Tricuspid regurgitation (TR)  
+- Preexcitation  
+- Accessory pathways (concealed and manifest)  
+- Supraventricular tachycardia (SVT)  
+- Ventricular tachycardia (VT)  
+- Sudden cardiac death (SCD)  
+- Cardiopulmonary exercise testing (CPET)  
+- Cardiovascular magnetic resonance (CMR)  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- 3‑dimensional echo imaging  
+- Cone procedure (tricuspid valve repair)  
+- Bidirectional superior cavopulmonary (Glenn) shunt  
+- Cardiac computed tomography (CT)  
+- Catheter ablation (electrophysiologic testing)  
+- Arrhythmia surgery  
+- Atrial septal defect (ASD) closure  
+- Patent foramen ovale (PFO) closure  
+- Left ventricular hypertrophy (LVH)  
+- Diastolic dysfunction  
+- Pulmonary arterial hypertension  
+- Hemodynamic assessment  
+- RV volume loading  
+- Myopathic process in Ebstein anomaly  
+- Pre‑operative catheterization for shunt feasibility  
+- Reverse remodeling after surgical repair  
+- Risk stratification  
+- Surgical repair of tricuspid valve (repair versus replacement)  
+- Valve‑in‑valve catheter intervention  
+- Proactive intervention strategy  
+
+These terms capture the key cardiovascular disorders, diagnostic modalities, and therapeutic interventions discussed in the guideline text.
+
+Page 62 Extracted Terms:
+- Ebstein anomaly  
+- Ventricular pre‑excitation  
+- Accessory pathways  
+- High‑risk pathways  
+- Sudden cardiac death (SCD)  
+- Catheter ablation  
+- Surgical interruption of accessory pathways  
+- Atrial arrhythmias  
+- Systemic desaturation  
+- Tricuspid regurgitation (TR)  
+- Right‑ventricular (RV) dysfunction  
+- Tricuspid valve surgery  
+- Atrial septal defect (ASD) closure  
+- Patent foramen ovale (PFO) closure  
+- Arrhythmia surgery (e.g., Maze procedures)  
+- Right‑atrial Maze procedure  
+- Left‑atrial Cox Maze III procedure  
+- Balloon valvuloplasty (pulmonary)  
+- Pulmonary valve replacement (PVR)  
+- Valvular pulmonary stenosis (PS)  
+- Pulmonary valve intervention  
+- Pulmonary stenosis severity (moderate/severe)  
+- RV pressure overload  
+- Cyanosis  
+- Paradoxical embolism  
+- Hemodynamics (intracardiac pressures, cardiac output)  
+- Cardiac transplantation  
+- Bidirectional cavopulmonary shunt (Glenn shunt)  
+- Multidisciplinary team evaluation  
+- Genetic syndromes (e.g., Noonan syndrome)  
+- Dilated main pulmonary artery (PA)  
+- Dysplastic pulmonary valve cusps  
+- Symptomatic vs. asymptomatic pulmonary stenosis  
+- Percutaneous device closure  
+- Ventricular arrhythmias  
+- Atrial fibrillation  
+- Stroke volume support by RV  
+- Pediatric vs. adult surgical indications  
+- Interventional cardiology techniques  
+- Surgical risk assessment  
+- Valve anatomy (favorable/unfavorable)  
+- Suboptimal valvuloplasty results  
+
+These are the principal terms related to heart disease extracted from the guideline text.
+
+Page 63 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Pulmonary valve stenosis  
+- Pulmonary valve regurgitation  
+- Pulmonary balloon valvuloplasty  
+- Valvuloplasty (general)  
+- Surgical pulmonary valvotomy  
+- Pulmonary valve replacement  
+- Tricuspid valve regurgitation / insufficiency  
+- Right‑to‑left shunt  
+- Right ventricular outflow tract dysfunction  
+- RV systolic dysfunction  
+- Exercise‑induced hypoxemia  
+- Objective exercise capacity  
+- Cyanosis  
+- Symptomatic vs. asymptomatic patients  
+- Annular hypoplasia  
+- Valvular dysplasia  
+- Adult congenital heart disease (ACHD)  
+- Routine follow‑up for valvular pulmonary stenosis  
+- Electrocardiogram (ECG)  
+- Transthoracic echocardiogram  
+- Cardiovascular magnetic resonance (CMR) imaging  
+- Doppler velocity and gradient across the right ventricular outflow tract  
+- Peak gradient (mm Hg, m/s)  
+- Mean gradient  
+- Regurgitant fraction  
+- Regurgitant volume  
+- Vena contracta  
+- Pressure half‑time  
+- PR index (pulmonary regurgitation index)  
+- Echocardiographic features of pulmonary regurgitation  
+- Doppler spectral signal characteristics  
+- Exercise capacity decline  
+- Follow‑up intervals (physiological stages A–D)  
+
+These terms collectively capture the key anatomical, physiological, diagnostic, and interventional concepts relevant to heart disease discussed in the guideline.
+
+Page 64 Extracted Terms:
+- Pulmonary Regurgitation  
+- Pulmonary Stenosis  
+- Isolated Pulmonary Regurgitation  
+- Isolated Pulmonary Stenosis  
+- Pulmonary Valve Replacement  
+- Transcatheter Pulmonary Valve Implantation  
+- Surgical Valvotomy  
+- Balloon Valvuloplasty  
+- Right Ventricular (RV) Systolic Dysfunction  
+- RV Dilation  
+- RV Enlargement  
+- Right Ventricular (RV) Systolic Function  
+- RV Volumes  
+- Right Heart Anatomy  
+- Cardiac MRI (CMR)  
+- Echocardiography  
+- Tricuspid Regurgitation  
+- Symptoms of Heart Failure  
+- Infective Endocarditis  
+- Tetralogy of Fallot (TOF)  
+- Congenital Heart Disease (CHD)  
+- Chronic Pulmonary Regurgitation  
+- Pulmonary Valve Insufficiency  
+- Right Ventricular Remodeling  
+- Reverse Remodeling  
+- Pulmonary Valve Gradients  
+- Exercise Capacity  
+- Late Intervention  
+- Early Intervention  
+- Surveillance CMR  
+- Pulmonary Valve Function  
+
+Page 65 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Double‑Chambered Right Ventricle (DCRV)  
+- DCRV (abbreviation)  
+- Right ventricular (RV) dysfunction  
+- Right ventricular outflow tract (RVOT) obstruction  
+- Cardiac catheterization  
+- Cardiovascular magnetic resonance (CMR)  
+- Cardiac CT  
+- Surgical repair (of DCRV)  
+- Heart failure  
+- Cyanosis  
+- Exercise limitation / intolerance  
+- Asymptomatic adult with DCRV  
+- Severe RVOT obstruction  
+- Right ventricular remodeling  
+- Hypertrophied muscle bundles  
+- Right ventricular cavity  
+- Ventricular septal defect (VSD)  
+- Restrictive VSD  
+- High‑pressure inlet chamber (RV)  
+- Low‑pressure outlet chamber (RV outflow)  
+- Intravenous pressure gradient (within RV)  
+- Pulmonary regurgitation (PR)  
+- Pulmonary stenosis (PS)  
+- Tricuspid regurgitation (TR)  
+- Dyspnea  
+- Chest pain  
+- Exercise intolerance attributable to PR or other causes  
+- Pulmonary regurgitation after repair of pulmonary stenosis  
+
+These terms capture the core cardiac conditions, diagnostic tools, interventions, and clinical manifestations discussed in the guideline excerpt.
+
+Page 66 Extracted Terms:
+- Double‑Chambered Right Ventricle (DCRV)  
+- Ventricular Septal Defect (VSD)  
+- Right Ventricular Outflow Tract (RVOT)  
+- Subpulmonary Stenosis  
+- Mid‑RV Obstruction  
+- Intramyocardial Muscle Bundles  
+- Pressure Gradient (RVOT)  
+- Right‑to‑Left Shunting  
+- Left‑to‑Right Shunting  
+- Echocardiography (Transthoracic)  
+- Cardiac Computed Tomography (CT)  
+- Cardiovascular Magnetic Resonance (CMR)  
+- Cross‑Sectional Imaging  
+- Electrocardiogram (ECG)  
+- Adult Congenital Heart Disease (ACHD)  
+- Pulmonary Artery (PA) Stenosis  
+- Peripheral Pulmonary Artery Stenosis  
+- Tricuspid Regurgitation  
+- Pulmonary Regurgitation  
+- Right Ventriculotomy  
+- Right Ventricular Dysfunction  
+- Ventricular Arrhythmias  
+- Surgical Repair (Resection of Obstructive Muscle Bundles)  
+- Recurrent DCRV  
+- Postoperative Outcomes.
+
+Page 67 Extracted Terms:
+- Pulmonary branch stenosis  
+- Peripheral pulmonary artery stenosis  
+- Right ventricular (RV) hypertension  
+- RV dysfunction  
+- Tricuspid regurgitation  
+- Pulmonary hypertension  
+- Right heart failure  
+- Cyanosis (atrial‑level right‑to‑left shunting)  
+- Balloon angioplasty (pulmonary)  
+- Stent implantation (pulmonary)  
+- Pulmonary perfusion testing  
+- Transthoracic echocardiography  
+- Computed tomography (CT)  
+- Cardiac magnetic resonance (CMR)  
+- Right ventricular pressure  
+- Pulmonary blood flow  
+- Right ventricular filling pressure  
+- Exercise intolerance / exercise tolerance  
+- Ventilatory efficiency  
+- Pulmonary artery pressure gradient  
+- Restenosis  
+- Surveillance imaging  
+- Adult congenital heart disease (ACHD)  
+- Noonan syndrome  
+- Alagille syndrome  
+- Williams syndrome  
+- Maternal rubella exposure  
+- Echocardiographic imaging  
+- Cross‑sectional imaging  
+- Cardiovascular intervention  
+- ACHD interventional cardiologist  
+- Cardiac surgery (ACHD expertise)  
+- Follow‑up intervals for isolated branch pulmonary artery stenosis  
+
+Page 68 Extracted Terms:
+- Tetralogy of Fallot (TOF)  
+- Repaired Tetralogy of Fallot  
+- Pulmonary valve dysfunction (moderate PR, PR >25% by CMR)  
+- Pulmonary regurgitation  
+- Pulmonary stenosis  
+- Right ventricular outflow tract (RVOT) dysfunction  
+- Residual ventricular septal defects (VSDs)  
+- Tricuspid valve dysfunction / tricuspid regurgitation  
+- Right atrial size  
+- Right ventricular (RV) size and function  
+- Left ventricular (LV) size and function  
+- Right ventricular systolic pressure (RVSP)  
+- Right ventricular end‑systolic volume index (RVESVI)  
+- Right ventricular end‑diastolic volume (RVEDV)  
+- Left ventricular ejection fraction (LVEF)  
+- Right ventricular ejection fraction (RVEF)  
+- Ventricular tachycardia (VT)  
+- Ventricular arrhythmia / tachyarrhythmia  
+- Sudden cardiac death (SCD)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Electrophysiology evaluation  
+- Catheter ablation  
+- Anti‑arrhythmic therapy (class I/III agents, amiodarone)  
+- Electrical cardioversion  
+- Defibrillation / ICD shock  
+- Pace termination  
+- Pulmonary valve replacement (surgical or transcatheter)  
+- Transcatheter pulmonary valve placement (balloon‑expandable platform)  
+- Pulmonary valve conduit stenting  
+- Cardiac catheterization with angiography  
+- Echocardiography (including assessment of pulmonary and tricuspid valves, RVOT, etc.)  
+- Cardiovascular magnetic resonance (CMR) imaging  
+- Cardiac computed tomography (CT) angiography  
+- 12‑lead electrocardiography  
+- Contrast‑enhanced MR imaging  
+- CT angiography  
+- Surgical repair of TOF (initial surgery)  
+- RVOT anatomy (native vs conduit)  
+- Branch pulmonary artery size and flow  
+- Aortopulmonary collateral flow  
+- Myocardial fibrosis assessment (CMR)  
+- Functional tricuspid regurgitation  
+- Exercise capacity  
+
+These terms capture the core concepts related to heart disease management and surveillance in adults with repaired Tetralogy of Fallot.
+
+Page 69 Extracted Terms:
+- Adult congenital heart disease (ACHD)  
+- Tetralogy of Fallot (TOF)  
+- Right ventricular (RV)  
+- Right ventricular outflow tract (RVOT)  
+- Pulmonary valve  
+- RV‑to‑PA conduit  
+- RVOT dysfunction  
+- Branch pulmonary artery stenosis  
+- Pulmonary valve dysfunction  
+- Primary regurgitation  
+- Primary stenosis  
+- Mixed pulmonary valve disease  
+- Moderate pulmonary regurgitation  
+- CMR‑measured regurgitant fraction  
+- RV pressure  
+- RV systolic pressure  
+- Monomorphic ventricular tachycardia (VT)  
+- Sudden cardiac death (SCD)  
+- QRS duration ≥180 ms  
+- QRS fragmentation  
+- Inducible sustained ventricular arrhythmia  
+- Electrophysiology study  
+- Surgical era (pre‑1980 vs. ≥1980)  
+- Coronary artery disease  
+- Left ventricular ejection fraction (LVEF)  
+- LV dysfunction  
+- Right ventricular ejection fraction (RVEF)  
+- RV volume  
+- RV pressure  
+- Late gadolinium enhancement (LGE)  
+- LV LGE extent  
+- RV LGE present  
+- NYHA II‑III symptoms / NYHA class  
+- Supraventricular tachycardia  
+- Systemic EF <40 %  
+- Subpulmonary EF <40 %  
+- QRS duration ≥120 ms  
+- QT dispersion ≥70 ms  
+- Shunt pre‑repair  
+- Age at repair <6.5 years  
+- Peak VO₂ ≤17 mL/kg/m²  
+- B‑type natriuretic peptide (BNP) ≥127 ng/L  
+- Akinetic RVOT length ≥55 mm  
+- RVOT pressure ≥47 mm Hg  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Ventriculotomy  
+- Infundibulotomy  
+- Transannular patch  
+- RV free wall  
+- Fibrosis  
+- Scar tissue  
+- Aneurysmal area  
+- Dyskinetic area  
+- Pulmonary valve atresia  
+- RVOT obstruction  
+- RVOT resection  
+- Conduit replacement  
+- Pulmonary regurgitation  
+- Pulmonary stenosis  
+- Ventricular fibrillation (VF)  
+- ECG (electrocardiogram)  
+- Electrophysiology  
+- PREVENTION‑ACHD risk score  
+- Brompton risk score  
+- PACES risk score
+
+Page 70 Extracted Terms:
+- Tetralogy of Fallot (TOF)  
+- Repaired TOF  
+- Right Ventricular Outflow Tract (RVOT) obstruction  
+- Right ventricular (RV) function  
+- Pulmonary regurgitation (PR)  
+- RV dilation  
+- RV dysfunction  
+- Tricuspid valve regurgitation (TR)  
+- Left ventricular (LV) dysfunction  
+- Aortic root dilation  
+- Atrial arrhythmias (atrial flutter, atrial fibrillation)  
+- Ventricular arrhythmias  
+- Monomorphic ventricular tachycardia  
+- Sudden cardiac death (SCD)  
+- Pulmonary valve replacement  
+- Right ventricular systolic pressure (RVSP)  
+- Regurgitant fraction (RF)  
+- Cardiovascular magnetic resonance (CMR) imaging  
+- End‑systolic volume index (ESVi)  
+- Left ventricular end‑diastolic volume (LVEDV)  
+- Left ventricular ejection fraction (LVEF)  
+- Right ventricular end‑diastolic volume (RVEDV)  
+- Right ventricular ejection fraction (RVEF)
+
+Page 71 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Tetralogy of Fallot (TOF)  
+- Repaired Tetralogy of Fallot  
+- Unrepaired Tetralogy of Fallot  
+- Pulmonary atresia  
+- Ventricular tachycardia (VT)  
+- Sustained monomorphic ventricular tachycardia  
+- Ventricular fibrillation (VF)  
+- Sudden cardiac death (SCD)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Catheter‑based ablation  
+- Right ventricular outflow tract (RVOT)  
+- Pulmonary valve replacement (PVR)  
+- Transcatheter pulmonary valve replacement  
+- Balloon‑expandable pulmonary valve  
+- Self‑expanding pulmonary valve  
+- Coronary artery anomaly (e.g., anomalous LAD from RCA)  
+- Coronary artery compression  
+- Aortography  
+- Coronary angiography  
+- Cardiac computed tomography (CT)  
+- Cardiovascular magnetic resonance (CMR)  
+- Echocardiography (2‑D, 3‑D, M‑mode, strain imaging, Doppler)  
+- QRS duration > 180 ms  
+- QRS fragmentation  
+- Late gadolinium‑enhancement CMR  
+- Risk stratification for VT/SCD  
+- Electrocardiogram (ECG)  
+- Transthoracic echocardiogram  
+- Pulmonary regurgitation  
+- Ventricular dysfunction (right or left)  
+- Symptomatic nonsustained ventricular tachycardia  
+- Left ventricular (LV) dysfunction  
+- Pulmonary hypertension  
+- Cardiac chamber size and function  
+- Adult congenital heart disease (ACHD)  
+
+These terms capture the primary clinical entities, imaging modalities, procedural interventions, and risk‑assessment factors discussed in the guideline excerpt.
+
+Page 72 Extracted Terms:
+Tetralogy of Fallot (TOF) – repaired TOF  
+Pulmonary valve replacement (surgical & transcatheter)  
+Pulmonary regurgitation  
+Right ventricular dilation / enlargement  
+Right ventricular hypertrophy  
+Right ventricular dysfunction  
+Ventricular tachycardia (VT) – monomorphic, sustained, reentrant  
+Sudden cardiac death (SCD)  
+Pulmonary artery (PA) pressure  
+Pulmonary vascular resistance (PVR)  
+Cardiac catheterization  
+Echocardiography – diastolic dysfunction  
+Electrophysiology study (EPS) – programmed ventricular stimulation  
+Catheter ablation – VT substrate ablation, cryoablation  
+Electrocardiogram (ECG) – QRS duration, fragmentation, isthmus conduction  
+Contrast‑enhanced cardiac magnetic resonance imaging (CMR) – signal intensity, ventricular volume  
+Multidetector computed tomography (CT) angiography – wall thickness, coronary anatomy  
+Right ventricular end‑diastolic volume (RVEDV) – indexed RVEDV (RVEDVi)  
+Right ventricular end‑systolic volume index (RVESVi)  
+Right ventricular ejection fraction (RVEF) – threshold <46 %  
+Left ventricular ejection fraction (LVEF) – threshold <50 %  
+Cardiopulmonary exercise testing (CPET) – functional capacity, exercise tolerance  
+Risk stratification scores – conventional risk‑factor analysis, clinical risk scores  
+Thresholds for pulmonary valve replacement (RVEDV >80 mL/m², RVEDV ≥2× LVEDV)  
+Arrhythmia substrate identification – conduction isthmuses, QRS morphology  
+Functional class improvement post‑pulmonary valve replacement.
+
+Page 73 Extracted Terms:
+- Tetralogy of Fallot (TOF)  
+- Pulmonary valve replacement  
+- Right ventricular (RV) dysfunction / dilatation  
+- Left ventricular (LV) dysfunction  
+- Ventricular tachycardia (monomorphic)  
+- Sudden cardiac death (SCD)  
+- Implantable cardioverter‑defibrillator (ICD) placement  
+- Catheter ablation  
+- Cardiac magnetic resonance imaging (CMR) / MRI  
+- QRS duration and fragmentation  
+- Myocardial scarring  
+- Tricuspid regurgitation  
+- Heart failure  
+- Coronary artery disease  
+- Reverse Bernheim effect (ventricular‑ventricular interaction)  
+- Ventricular‑ventricular interaction  
+- Risk stratification scores  
+- Indexed right ventricular end‑diastolic volume (RVEDV)  
+- Indexed right ventricular end‑systolic volume (RVESV)  
+- Biventricular global function index  
+- Heart transplantation  
+- Mechanical circulatory support (MCS)  
+- Ventricular dysfunction (general)  
+- Cardiac arrhythmia  
+- Systolic dysfunction  
+- Diastolic dysfunction  
+- Electrophysiology study / invasive electrophysiology  
+- Ventricular remodeling  
+- Pulmonary valve dysfunction  
+- Tricuspid valve intervention  
+- Endocarditis  
+- Device lead implantation  
+- Annular dilation  
+- Ventricular systolic function  
+- Ventricular diastolic volume  
+- Ventricular end‑systolic volume  
+- Ventricular end‑diastolic volume
+
+
+
+Page 74 Extracted Terms:
+- Tetralogy of Fallot (TOF)  
+- Pulmonary regurgitation  
+- Ventricular tachycardia  
+- Arrhythmia management  
+- Pulmonary valve replacement (surgical)  
+- Pulmonary valve replacement (transcatheter)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Catheter ablation of ventricular tachycardia  
+- Pulmonary Atresia with Intact Ventricular Septum (PA‑IVS)  
+- Right Ventricular Outflow Tract (RVOT)  
+- Tricuspid valve hypoplasia  
+- Right ventricular (RV) pressure overload  
+- Coronary circulation  
+- Coronary sinusoids  
+- Coronary fistulas  
+- RV‑dependent coronary circulation  
+- Biventricular repair  
+- 1½ ventricular repair  
+- Fontan procedure  
+- Cardiac transplantation  
+- Shunt palliation  
+- Atrial arrhythmias  
+- Restrictive RV physiology  
+- Ventricular fibrosis  
+- Sudden cardiac death (SCD)  
+- Heart failure  
+- Right atrial function  
+- Right atrial strain  
+- Hepatorenal dysfunction  
+- Cardiovascular death  
+- RV‑to‑Pulmonary Artery (RV‑to‑PA) conduit  
+- Conduit stent implantation  
+- Coronary artery compression  
+- Conduit dysfunction  
+- Stent fracture  
+- Pulmonary stenosis  
+- Pulmonary regurgitation (conduit related)  
+- Infective endocarditis  
+- Thrombus  
+- Cardiac catheterization  
+- Hemodynamics of RV‑to‑PA conduit  
+- Clinical heart failure in PA‑IVS  
+- ICD therapies reduction  
+- Conduit fracture imaging  
+- Conduit dysfunction evaluation  
+- Unanticipated conduit dysfunction  
+- SCD risk reduction via ablation  
+- SCD rate increase with RV‑dependent circulation  
+- Management of right atrial strain  
+- Clinical outcomes of functional status  
+- Management of RV‑to‑PA conduit failure
+
+
+Page 75 Extracted Terms:
+- RV‑to‑PA conduit  
+- Transcatheter intervention  
+- Coronary CT  
+- Conduit calcification  
+- Anatomical characteristics  
+- Coronary artery proximity  
+- Procedural planning  
+- Severe stenosis  
+- Severe regurgitation  
+- Moderate stenosis  
+- Moderate regurgitation  
+- Sustained arrhythmia  
+- Cardiovascular status  
+- Tetralogy of Fallot (TOF)  
+- Pulmonary atresia  
+- Truncus arteriosus  
+- Aortic stenosis  
+- Transposition of the great arteries (TGA)  
+- Ross procedure  
+- Rastelli procedure  
+- Congenitally corrected transposition of the great arteries (CCTGA)  
+- Sano shunt  
+- Homograft (aortic or pulmonary)  
+- Xenograft  
+- Bioprosthetic valve  
+- Progressive stenosis  
+- Valvular regurgitation  
+- Coronary artery compression  
+- Coronary compression testing  
+- Balloon‑expanded stent  
+- Stent fracture  
+- Stent fracture‑related stenosis  
+- Pulmonary regurgitation  
+- Infective endocarditis  
+- Transcatheter pulmonary valve (MPV)  
+- Routine follow‑up  
+- Adult congenital heart disease (ACHD)  
+- Electrocardiogram (ECG)  
+- Transthoracic echocardiogram (TTE)
+
+Page 76 Extracted Terms:
+- Infective endocarditis  
+- Cardiac valve implantation  
+- RV‑to‑PA conduit  
+- Pulmonary stenosis  
+- Pulmonary regurgitation  
+- Bioprosthetic valve thrombosis  
+- Conduit dysfunction  
+- Conduit stenosis  
+- Conduit regurgitation  
+- Stent implantation  
+- Transcatheter valve placement  
+- Cardiac catheterization  
+- Echocardiography  
+- Cardiovascular magnetic resonance (CMR) imaging  
+- Coronary computed‑tomography (CT) angiography  
+- Pulmonary arterial hypertension  
+- Right ventricular dysfunction  
+- Right ventricular dilation  
+- Exercise capacity  
+- Arrhythmias (atrial and ventricular)  
+- Tricuspid regurgitation  
+- Thrombus formation (subclinical)  
+- Aspirin therapy  
+- Surgical valve replacement  
+- Transcatheter valve replacement  
+- Hemodynamic assessment  
+- Pulmonary arterial pressures  
+- Cardiac output  
+- Volume status  
+- Pulmonary arterial resistance  
+- Periprocedural complications  
+- Long‑term outcomes  
+
+Page 77 Extracted Terms:
+- Dextro‑Transposition of the Great Arteries (d‑TGA)  
+- Atrial switch (Surgically induced)
+- Systemic right ventricle  
+- Tricuspid valve (systemic AV valve)  
+- Heart failure  
+- Exercise intolerance  
+- Pulmonary hypertension  
+- Baffle leak  
+- Baffle obstruction  
+- Ventricular tachyarrhythmia  
+- Supraventricular tachyarrhythmia (atrial arrhythmias)  
+- Sustained ventricular tachyarrhythmia  
+- Sudden cardiac death (SCD)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Pacemaker (permanent)  
+- Cardiac resynchronization therapy (CRT)  
+- Guideline‑directed medical therapy (GDMT) for HFrEF  
+- Anticoagulation (oral)  
+- Transcatheter valve placement  
+- Balloon‑expandable percutaneous valves  
+- Self‑expanding valve technologies  
+- Conduit intervention  
+- Complex congenital lesions  
+- Right ventricular ejection fraction (RVEF)  
+- Systemic venous pathway stenosis  
+- Pulmonary venous pathway stenosis  
+- Exercise capacity improvement  
+- Transthoracic echocardiography (TTE)  
+- Cardiac magnetic resonance imaging (CMR)  
+- Cardiopulmonary exercise testing (CPET)  
+- Invasive hemodynamic assessment  
+- Electrocardiogram (ECG)  
+- Ambulatory rhythm monitoring  
+- Catheter‑based interventions for residual lesions  
+- Risk score application for ventricular arrhythmia & SCD  
+- Mechanical circulatory support (MCS)  
+- Transplantation (heart‑lung, heart).
+
+Page 78 Extracted Terms:
+- Regurgitation (moderate or severe)  
+- Exercise intolerance  
+- Heart failure  
+- Ventricular dysfunction  
+- Valve dysfunction  
+- Chronotropic incompetence  
+- Pathway obstruction  
+- Baffle leaks  
+- Arrhythmia (atrial, ventricular)  
+- Pulmonary arterial hypertension (PAH)  
+- Pulmonary hypertension (post‑capillary, pre‑capillary, combined)  
+- Stenosis of pulmonary and systemic venous pathways  
+- Pulmonary or systemic venous congestion  
+- Left‑to‑right shunting  
+- Ventricular overload  
+- Bidirectional shunting  
+- Cyanosis  
+- Paradoxical emboli  
+- Atrial arrhythmias (28.9% prevalence)  
+- Ventricular arrhythmias (5.8% prevalence)  
+- Sudden death  
+- Loss of sinus rhythm  
+- Permanent pacing / pacemaker  
+- Transthoracic echocardiography (TTE)  
+- Cardiovascular magnetic resonance (CMR)  
+- Late gadolinium enhancement (LGE)  
+- Myocardial scar  
+- Cardiac catheterization  
+- Electrocardiogram (ECG) / Holter monitoring  
+- Peak oxygen consumption (VO₂)  
+- Ventilation to CO₂ output slope  
+- CPET (cardiopulmonary exercise testing)  
+- Exercise‑induced cyanosis  
+- Tachyarrhythmias  
+- Bradyarrhythmias  
+- Pulmonary venous pathways  
+- d‑TGA (dextro‑transposition of the great arteries)  
+- ACHD (adult congenital heart disease)  
+- Atrial switch operation  
+- Systemic right ventricle (RV) function  
+- Tricuspid regurgitation  
+- Venous return pathways  
+- Stent or closure device (artifact in imaging)  
+
+These terms capture the cardiovascular conditions, diagnostic modalities, and relevant clinical considerations presented in the guideline excerpt.
+
+Page 79 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Pulmonary hypertension  
+- Advanced heart failure  
+- Heart–lung transplantation  
+- Permanent pacemaker (PPM)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Transvenous pacing leads  
+- Subcutaneous ICD  
+- Cardiac resynchronization therapy (CRT)  
+- d‑Transposition of the great arteries (d‑TGA)  
+- Atrial switch (Senning/Mustard procedures)  
+- Superior vena cava (SVC) pathway  
+- Azygos vein (off‑loading pathway)  
+- Baffle leak (intratrial)  
+- Thromboembolic complications (related to baffle leaks)  
+- Ventricular arrhythmia  
+- Atrial arrhythmia  
+- Supraventricular arrhythmia  
+- Left ventricular (LV) dysfunction  
+- Right ventricular (RV) dysfunction  
+- Severe tricuspid regurgitation  
+- Sudden cardiac death (SCD)  
+- Malignant arrhythmias (e.g., sustained ventricular tachycardia)  
+- ICD therapy (appropriate shocks)  
+- Holter monitoring  
+- Implantable loop recorder  
+- Intra‑atrial reentrant tachycardia (IART)  
+- Electrical cardioversion  
+- Antiarrhythmic drug therapy  
+- Catheter ablation (including 3‑D imaging, mapping, robotic magnetic navigation)  
+- Baffle‑leak intervention (e.g., closure procedures)  
+- Left‑to‑right shunt (clinical significance)  
+- QRS duration (≥120 ms)  
+- LVOT obstruction  
+- Risk stratification for mortality and major events  
+
+These terms capture the major cardiovascular conditions, interventions, and risk‑assessment elements discussed in the guideline excerpt.
+
+Page 80 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Left‑ventricular (LV) volume overload  
+- Right‑to‑left shunting  
+- Cyanosis at rest or with exercise  
+- Paradoxical emboli  
+- Baffle leak  
+- Pulmonary congestion  
+- Systemic right‑ventricle (RV) dysfunction  
+- Tricuspid regurgitation (TR)  
+- Systemic venous pathway stenosis  
+- Superior vena cava (SVC) stenosis  
+- Inferior vena cava (IVC) stenosis  
+- De‑xtro‑transposition of the great arteries (d‑TGA)  
+- Atrial switch repair  
+- Progressive systemic RV dysfunction  
+- Heart failure (HF)  
+- Refractory arrhythmias  
+- Cardiac transplantation  
+- Mechanical circulatory support (MCS)  
+- Intravenous diuretics  
+- Pulmonary vascular resistance (PVR)  
+- Tricuspid valve repair / replacement  
+- Permanent pacemaker implantation  
+- Implantable cardioverter‑defibrillator (ICD) implantation  
+- CHA₂DS₂‑VASc score  
+- Anticoagulation (vitamin K antagonists, direct oral anticoagulants)  
+- Echocardiography (transthoracic, transesophageal, agitated saline test)  
+- Cardiac resynchronization therapy (CRT)  
+- Renin–angiotensin–aldosterone system (RAAS) inhibitors  
+- Beta‑blockers  
+- Phosphodiesterase‑5 inhibitor (tadalafil)  
+- Sacubitril/valsartan  
+- Dapagliflozin.
+
+Page 81 Extracted Terms:
+- Adult congenital heart disease (ACHD)  
+- Arterial switch operation  
+- d‑TGA (dextro‑transposition of the great arteries)  
+- Neoaortic size/diameter  
+- Neoaortic root dilation  
+- Neoaortic regurgitation (insufficiency)  
+- Neoaortic valve stenosis  
+- Neoaortic valvular dysfunction  
+- Neoaortic root replacement  
+- Supravalvar pulmonary artery stenosis  
+- Branch pulmonary artery stenosis  
+- Coronary artery anatomy  
+- Coronary obstruction  
+- Coronary angiography  
+- Coronary revascularization  
+- Myocardial ischemia  
+- Echocardiography  
+- Cardiovascular magnetic resonance (CMR)  
+- Cardiac computed tomography (CT)  
+- Right ventricular hypertension  
+- Right ventricular dysfunction  
+- Tricuspid regurgitation  
+- Exercise capacity  
+- Aortic valve disease  
+- Late postoperative complications  
+- Routine follow‑up intervals  
+- Monitoring of pulmonary artery anatomy  
+- Monitoring of ventricular function  
+- Monitoring of valve function  
+- Monitoring of coronary artery patency  
+
+Page 82 Extracted Terms:
+- Neoaortic diameter  
+- Branch pulmonary artery (PA) stenosis  
+- Cardiac Magnetic Resonance Imaging (CMR)  
+- Cardiac Computed Tomography (CT)  
+- Regadenoson stress CMR perfusion  
+- Arterial switch operation  
+- Coronary artery assessment  
+- Coronary reintervention  
+- Ventricular tachycardia (VT)  
+- Sudden cardiac death (SCD)  
+- Intra‑mural course  
+- Acute angulation of the left coronary artery  
+- Clockwise rotation of the left coronary ostium  
+- Distance between left coronary ostium and neopulmonary artery  
+- Lecompte maneuver  
+- Aortic dilation/enlargement  
+- Right ventricular (RV) pressure load  
+- Neoaortic root intervention  
+- Neoaortic insufficiency (regurgitation)  
+- Neoaortic regurgitation  
+- Root diameter  
+- Aortic dissection  
+- Bicuspid aortic valve (BAV)  
+- Connective tissue disease  
+- Valve‑sparing aortic root replacement  
+- Cardiac catheterization  
+- Dynamic obstruction  
+- Perfusion imaging  
+- Pulmonary valve stenosis  
+- Transcatheter intervention  
+- Aortopulmonary fistula  
+- Exercise capacity  
+- Functional status  
+- Symptomatic ischemia  
+- Exertional dyspnea  
+- Interventional cardiology  
+- Heart disease imaging modalities  
+
+Page 83 Extracted Terms:
+- Adult Congenital Heart Disease (ACHD)  
+- Dextro‑Transposition of the Great Arteries (d‑TGA)  
+- Rastelli Repair/Operation  
+- Ventricular Septal Defect (VSD)  
+- Right Ventricular–to‑Pulmonary Artery (RV‑to‑PA) Conduit  
+- Left Ventricular Outflow Tract (LVOT) Obstruction  
+- Right Ventricular (RV) Dysfunction (systolic and diastolic)  
+- Aortic Dissection  
+- Neo‑aortic Root Diameter  
+- Prophylactic Root Replacement  
+- Thoracic Aortic Disease  
+- Arrhythmia  
+- Heart Failure  
+- Right Ventricular Outflow Tract (RVOT) Obstruction  
+- Pulmonary Regurgitation (pulmonary insufficiency)  
+- Neo‑aortic Insufficiency  
+- Coronary Artery Stenosis  
+- Infective Endocarditis  
+- Conduit Stenosis  
+- Conduit Insufficiency / Calcification  
+- Residual VSD  
+- RV Pressure/Volume Overload  
+- Tricuspid Regurgitation Velocity  
+- RV Hypertrophy  
+- RV Dilatation  
+- Transthoracic Echocardiography (Echo)  
+- Cardiac Magnetic Resonance Imaging (CMR)  
+- Cardiac Computed Tomography Angiography (CT angiography)  
+- Electrocardiogram (ECG)
+
+Page 84 Extracted Terms:
+- Congenitally Corrected Transposition of the Great Arteries (CCTGA)  
+- Atrioventricular (AV) block  
+- Systemic tricuspid valve dysfunction / regurgitation  
+- Systemic ventricular dysfunction (right‑ventricular systolic dysfunction)  
+- Subpulmonic left‑ventricular dysfunction  
+- Left‑ventricular outflow tract (LVOT) stenosis / obstruction  
+- Right‑ventricular systolic dysfunction  
+- Right‑ventricular systolic dysfunction prevalence (50–80%)  
+- Left‑ventricular systolic dysfunction prevalence (11–40%)  
+- Ventricular arrhythmias (atrial and ventricular)  
+- Cardiac remodeling  
+- Heart failure (HF) with RV dysfunction  
+- Cardiovascular mortality  
+- Structural heart lesions (tricuspid valve dysplasia, Ebstein‑like anomaly, VSD, LVOT obstruction)  
+- Atrial septal defects (ASD)  
+- Ventricular septal defect (VSD)  
+- Congenital valve dysplasia  
+- Cardiovascular magnetic resonance (CMR)  
+- Computed tomography (CT)  
+- Transthoracic echocardiography (TTE)  
+- Electrocardiogram (ECG)  
+- Ambulatory rhythm monitoring  
+- Cardiac pacing (physiological pacing, CRT, conduction‑system pacing)  
+- Global‑dose management therapy (GDMT) for heart failure  
+- Atrial–ventricular conduction system  
+- Atrial switch operation  
+- Arterial switch operation  
+- Physiological repair (surgical or transcatheter)  
+- Cardiopulmonary exercise testing (CPET)  
+- Biomarker assay (NT‑proBNP)  
+- ACHD (adult congenital heart disease)  
+- Cardiac imaging  
+- Systemic ventricular volume measurement  
+- Rhythm abnormalities  
+- Exercise training  
+- Vascular remodeling  
+
+These are the core heart‑disease–related terms and concepts extracted from the guideline text.
+
+Page 85 Extracted Terms:
+- Atrioventricular block  
+- Atrial arrhythmias  
+- Biatrial remodeling  
+- Cardiac pacing (including LV pacing, CRT, conduction‑system pacing)  
+- Cardiac electrophysiology evaluation (ambulatory rhythm monitoring)  
+- Cardiac valve disease (tricuspid valve dysplasia, mitral‑like valve anomalies)  
+- Cardiac valve replacement/repair (mechanical prosthesis, bioprosthesis)  
+- Cardiac valve surgery (tricuspid valve surgery, valve replacement)  
+- Cardiac imaging (trans‑thoracic echocardiography, 2‑D Doppler, speckle tracking, CMR, CT)  
+- Chronic heart failure symptoms  
+- Congenital corrected transposition of the great arteries (CCTGA)  
+- Coronary artery relationship to heart structures (anatomical assessment)  
+- Diagnostic monitoring (electrophysiologist’s evaluation, ambulatory rhythm monitoring)  
+- End‑organ dysfunction (right‑ventricular systolic dysfunction, left‑ventricular systolic dysfunction)  
+- Ejection fraction (right‑ventricular, left‑ventricular)  
+- Electro‑cardiographic abnormalities (high‑grade atrioventricular block)  
+- Generalized ventricular dysfunction (progressive systemic RV dysfunction)  
+- Heart failure management (GDMT, angiotensin‑receptor neprilysin inhibitor)  
+- Hemodynamic evaluation (LVOT stenosis – valvular and subvalvular)  
+- Hemodynamic burden (chronic heart failure, RV dysfunction)  
+- Impaired chronotropic response (chronotropic incompetence)  
+- Imaging frequency guidelines (CMR imaging every 1–5 years)  
+- Interventional therapy (surgical or transcatheter LVOT stenosis relief)  
+- Long‑term outcomes (mechanical prosthesis durability, valve repair durability)  
+- Management of anticoagulation (vitamin K antagonist)  
+- Advanced heart failure therapies (intra‑pump or transplant referral)  
+- Neurohormonal activation (targeted by neprilysin inhibitor)  
+- Structural lesion (LVOT stenosis, tricuspid regurgitation)  
+- Systemic ventricular dysfunction (post‑pacing, post‑surgery)  
+- Symptom‑driven pacing indications (symptomatic bradycardia, heart failure symptoms)  
+- Systemic tricuspid regurgitation severity (mild vs. severe, progressive disease)  
+- Ventricular systolic dysfunction (moderate vs. severe, residual dysfunction post‑repair)
+
+Page 86 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+- LVOT stenosis  
+- LVOT obstruction  
+- Tricuspid regurgitation  
+- Ventricular septal geometry  
+- Truncus arteriosus  
+- Cyanotic cardiac defect  
+- Pulmonary hypertension  
+- Pulmonary vascular obstructive disease  
+- Pulmonary arterial trunk  
+- VSD (ventricular septal defect)  
+- VSD closure  
+- Neoaortic insufficiency  
+- Neoaortic dilation  
+- Double‑outlet right ventricle (DORV)  
+- Mitral‑aortic discontinuity  
+- Tetralogy of Fallot (TOF)  
+- d‑Transposition of the great arteries (d‑TGA)  
+- Rastelli repair  
+- Left ventricle‑to‑aorta baffle  
+- RV‑to‑PA conduit  
+- Arterial switch operation  
+- Fontan palliation  
+- Single‑ventricle physiology  
+- Hypoplastic right or left ventricle  
+- Atrial isomerism  
+- AVSD (atrioventricular septal defect)  
+- Straddling atrioventricular valves  
+- Major pulmonary artery anomalies  
+- Reintervention (RV‑to‑PA reoperation)  
+- Reoperation for LVOT obstruction  
+- Patch leaks (VSD repair)  
+- ACHD (adult congenital heart disease)  
+- Electocardiogram  
+- Transthoracic echocardiogram  
+- Routine follow‑up intervals (physical, electrocardiogram, echocardiogram)
+
+Page 87 Extracted Terms:
+- Fontan circulation  
+- single‑ventricle physiology  
+- Fontan palliation  
+- Fontan circulatory failure  
+- heart failure  
+- heart transplantation  
+- Fontan‑associated liver disease (FALD)  
+- hepatocellular carcinoma  
+- liver fibrosis / cirrhosis  
+- hepatic testing  
+- portal hypertension  
+- liver biopsy  
+- cardiac catheterization  
+- atrial tachyarrhythmias  
+- atrial flutter  
+- atrial fibrillation  
+- supraventricular tachycardia  
+- thrombus  
+- thromboembolism  
+- Fontan‑pathway thrombosis  
+- pulmonary vasculature  
+- CT angiography  
+- MR imaging  
+- transesophageal echocardiography  
+- hypoxemia  
+- systemic ventricular overload  
+- aortopulmonary collaterals  
+- pulmonary vasodilators  
+- pulmonary hypertension  
+- ventricular pacing  
+- pacemaker implantation  
+- atrioventricular block  
+- exercise program  
+- cardiac rehabilitation  
+- catheter ablation  
+- Fontan stenosis  
+- Fontan pressure  
+- Fontan conversion surgery  
+- transplant‑free survival  
+- anticoagulation therapy  
+- aspirin therapy  
+- multidisciplinary transplant committee  
+- non‑cardiac organ dysfunction  
+- functional capacity improvement  
+- heart‑related morbidity and mortality
+
+Page 88 Extracted Terms:
+- Fontan circulation  
+- Fontan procedure  
+- Fontan palliation  
+- Fontan circulatory failure  
+- Single‑ventricle congenital heart disease  
+- Systemic venous hypertension  
+- Low cardiac output  
+- Multi‑system disease  
+- Liver cirrhosis  
+- Hepatocellular carcinoma  
+- Hepatic screening  
+- Multidisciplinary team  
+- ACHD (adult congenital heart disease) cardiologist  
+- Electrocardiogram  
+- Transthoracic echocardiogram  
+- Cardiovascular magnetic resonance (CMR) imaging  
+- Cardiac transplantation  
+- Cardiac failure/heart failure  
+- Advanced cardiac therapies  
+- Arrhythmia  
+- Thrombo‑prophylaxis  
+- Structured exercise program  
+- Catheter‑based interventions  
+- Organ dysfunction (renal, hepatic, lymphatic)  
+- Ventricular dysfunction  
+- Transplant listing and timing  
+- Multiorgan dysfunction  
+- Obesity, social obstacles, substance use (barriers to transplant)
+
+Page 89 Extracted Terms:
+- Fontan circulation  
+- Fontan pathway  
+- Single‑ventricle  
+- Hemodynamic assessment  
+- Pulmonary circulation  
+- Pulmonary pressures  
+- Ventricular pressures  
+- Systemic vascular resistance  
+- Pulmonary vascular resistance  
+- Atrial arrhythmias  
+- Atrial tachyarrhythmias  
+- Tachyarrhythmias  
+- Ventricular dysfunction  
+- Valvular disease  
+- Outflow tract obstruction  
+- Thrombotic complications  
+- Endothelial dysfunction  
+- Venous stasis  
+- Clotting mechanisms  
+- Hepatic dysfunction (Fontan‑associated)  
+- Stroke  
+- Neurocognitive decline  
+- Arteriovenous malformations  
+- Veno‑venous collaterals  
+- Aortopulmonary collaterals  
+- Shunting  
+- Cardiac CT angiography  
+- Cardiac MRI (CMR)  
+- Transthoracic echocardiography  
+- Transesophageal echocardiography  
+- Single‑ventricle congenital heart disease  
+- Fontan completion  
+- Fontan revision  
+- Fontan circulatory failure  
+- Cardiac function  
+- Cardiopulmonary assessment  
+- Pulmonary hypertension  
+- Structural heart disease  
+- Hemodynamic abnormalities  
+- Congenital heart disease  
+- Cardiac imaging  
+- Cardiac hemodynamics
+
+Page 90 Extracted Terms:
+**Key heart‑disease related terms extracted from the guideline text**
+
+- Fontan circulation
+- Fontan-associated thrombus
+- Fontan-associated liver disease (FALD)
+- Fontan circulatory failure
+- Thrombocytopenia
+- Erythrocytosis
+- Lymphopenia
+- Chronic hypoxemia
+- Protein‑losing enteropathy
+- NT‑proBNP
+- Albumin
+- 24‑hour stool α‑1 antitrypsin clearance
+- Iron studies (serum iron, total iron‑binding capacity, ferritin)
+- Fontan‑related portal hypertension
+- Combined heart–liver transplantation
+- Liver fibrosis (assessment via biopsy)
+- Trans‑esophageal echocardiography (TEE)
+- CT angiography
+- Cardiac magnetic resonance (CMR)
+- Sustained atrial flutter/fibrillation (>30 s)
+- Thromboembolic disease
+- Cerebrovascular accident (stroke)
+- Atriopulmonary Fontan
+- Anticoagulation (warfarin, non‑vitamin K oral anticoagulants)
+- Antithrombotic prophylaxis
+- Antiplatelet agents
+- Bleeding contraindications
+- Right‑to‑left shunting
+- Kawashima procedure
+- Transvenous pacemaker system
+- Ventricular pacing
+- Sinus node dysfunction
+- Loss of atrial rhythm
+- Chronotropic incompetence
+- Tachy‑brady syndromes
+- Bradycardia
+- Functional status (decreased)
+- Ventricular dysfunction
+- Pulmonary venous flow reversal
+- Adverse outcomes
+- Hemodynamic alterations
+
+These terms capture the diseases, complications, diagnostic markers, imaging modalities, and therapeutic strategies highlighted in the guideline.
+
+Page 91 Extracted Terms:
+- Fontan circulation  
+- Atrioventricular valve function  
+- Ventricular relaxation  
+- Sinus node dysfunction  
+- Electrophysiologist  
+- Device therapy (permanent device)  
+- Lead placement  
+- Atrial pacing  
+- Ventricular pacing  
+- Atrial arrhythmias  
+- Atrial flutter  
+- Intra‑atrial re‑entrant tachycardia  
+- Atrial fibrillation  
+- Acute cardioversion  
+- Ventricular dysfunction  
+- Fontan circulatory failure  
+- Antiarrhythmic medication  
+- Thrombosis risk (Fontan population)  
+- Transesophageal echocardiography  
+- Anticoagulation (post‑cardioversion)  
+- Heart transplantation  
+- Cardiac transplantation in adult congenital heart disease (ACHD)  
+- Multidisciplinary transplant team  
+- ACHD (adult congenital heart disease) specialists  
+- Heart failure/transplantation team  
+- Congenital heart disease surgery  
+- Transplant surgery  
+- Cardiac imaging  
+- Hepatology (transplant hepatology)  
+- Psychiatry  
+- Combined heart‑liver transplantation  
+- Fontan‑associated liver disease (FALD)  
+- Portal hypertension  
+- Ascites  
+- Varices  
+- Splenomegaly  
+- Epicardial apical site pacing  
+- Ventricular synchrony  
+- Exercise training (for Fontan adults)  
+- Peak VO₂  
+- Quality of life (cardiac context)  
+- Skeletal muscle mass  
+- Adiposity  
+- Resistance training  
+- Catheter ablation (atrial arrhythmias)  
+- Atrial arrhythmia burden  
+- Intra‑atrial re‑entrant tachycardia (Scar‑mediated)  
+- Focal atrial tachycardias  
+- Antiarrhythmic medical therapy (general)  
+- Pacing (general term for cardiac pacing)
+
+Page 92 Extracted Terms:
+Fontan circulation  
+Fontan pathway stenosis  
+Fontan pathway conduit (extracardiac conduit)  
+Fontan pressure  
+Fontan obstruction  
+Fontan conversion (total cavopulmonary Fontan)  
+Aortopulmonary collaterals  
+Pulmonary vasodilators  
+Pulmonary vascular resistance (PVR)  
+Ventricular preload  
+Exercise performance (anaerobic threshold)  
+Fenestration‑associated liver disease (FALD)  
+Atrial arrhythmias (recurrent atrial arrhythmias)  
+Atrial scarring  
+Conduction system injury  
+Electrophysiology ablation  
+Stenting of Fontan pathway  
+Ventricular end‑diastolic pressure  
+Atrial‑ventricular valve dysfunction  
+Common atrioventricular valve  
+Morphologic tricuspid valve  
+Protein‑losing enteropathy  
+Hypoplastic left heart syndrome (HLHS)  
+Norwood repair (HLHS/Norwood)  
+3‑dimensional imaging of the neoaorta  
+Transplantation (cardiac transplantation)  
+Multidisciplinary cardiac surgical procedures (non‑transplant)  
+Atrial maze procedure (modified Maze)  
+Venous hypertension (elevated Fontan pressure)  
+Pulmonary artery pressure  
+Catheterization in adults with Fontan circulation  
+Ventricular enlargement  
+End‑diastolic pressure  
+Aortic‑pulmonary collaterals (aortopulmonary collaterals)  
+Pulmonary artery (PA)  
+Cardiac output  
+Conventional catheter ablation.
+
+Page 93 Extracted Terms:
+**Key Heart‑Disease Related Terms Extracted**
+
+- HLHS (Hypoplastic Left Heart Syndrome)  
+- Single‑ventricle congenital heart disease  
+- Left ventricle  
+- Aortic valve  
+- Ascending aorta  
+- Fontan physiology  
+- Fontan failure  
+- Norwood repair (stage 1)  
+- Distal main pulmonary artery (PA)  
+- Hypoplastic aorta  
+- Pulmonary stump  
+- Blalock‑Taussig‑Thomas shunt  
+- RV‑to‑PA shunt  
+- Neoaorta  
+- Neoaortic dilation  
+- Neoaortic obstruction  
+- Neoaortic‑root pathology  
+- Hypoplastic aortic root  
+- Coronary ischemia  
+- Ventricular dysfunction  
+- Atrioventricular valve dysfunction  
+- Neurocognitive dysfunction  
+- Periodic imaging  
+- MR angiography  
+- CT angiography  
+- Echocardiography  
+- Cardiac transplantation  
+- Eisenmenger syndrome  
+- Right‑to‑left shunting  
+- Pulmonary arterial hypertension (PAH)  
+- Invasive hemodynamic assessment  
+- PAH‑directed therapy  
+- Endothelin receptor antagonist  
+- Phosphodiesterase‑5 inhibitor  
+- Prostacyclin therapy (inhaled/subcutaneous)  
+- Anticoagulation therapy  
+- Thromboembolic complications  
+- Pulmonary arterial thrombosis  
+- Atrial arrhythmias  
+- Intracardiac shunt  
+- Permanent pacing  
+- Implantable cardioverter–defibrillator (ICD)  
+- Endocardial leads  
+- Cyanosis  
+- Hyperviscosity  
+- Iron supplementation  
+- 6‑minute walk distance  
+- Tricuspid annular plane systolic excursion (TAPSE)  
+- NT‑proBNP  
+- World Health Organization (WHO) functional class  
+- Left ventricular ejection fraction (LV EF)  
+- High bleeding risk  
+- Perioperative risk  
+- Morbidity and mortality  
+- Clinical surveillance protocol  
+- Advanced cardiac therapies  
+
+These terms capture the principal diseases, anatomical and physiological concepts, diagnostic methods, therapeutic approaches, and risk factors discussed in the guideline text.
+
+Page 94 Extracted Terms:
+**Key terms related to heart disease**
+
+- Eisenmenger syndrome  
+- Pulmonary arterial hypertension (PAH)  
+- Congenital heart disease (CHD) / ACHD  
+- Left‑to‑right shunt defects  
+- Right‑to‑left shunt / bidirectional shunting  
+- High pulmonary vascular resistance (PVR)  
+- Chronic cyanosis  
+- Diastolic dysfunction  
+- Systolic dysfunction  
+- Arrhythmias  
+- Sudden cardiac death (SCD)  
+- Down syndrome  
+- Obstructive sleep apnea  
+- Thyroid dysfunction  
+- 6‑minute walk distance (6MWD)  
+- Supplemental oxygen therapy  
+- High‑altitude exposure  
+- Pregnancy in CHD patients  
+- Nephrotoxic exposure  
+- Mechanical circulatory support  
+- Pulmonary circulatory support  
+- Lung transplantation (with cardiac repair)  
+- Heart‑lung transplantation  
+- Endothelin‑receptor antagonists  
+- Bosentan  
+- Macitentan  
+- Phosphodiesterase‑5 (PDE5) inhibitors  
+- Sildenafil (example PDE5 inhibitor)  
+- Soluble guanylate cyclase stimulator (riociguat)  
+- Prostacyclin analogs / receptor agonists  
+- Inhaled iloprost  
+- Selexipag (oral prostacyclin receptor agonist)  
+- Activin signaling inhibitor (sotatercept)  
+- B‑type natriuretic peptide (BNP)  
+- N‑terminal proBNP (NT‑proBNP)  
+- World Health Organization (WHO) functional class  
+- Systemic vascular resistance (SVR)  
+- Risk‑assessment tools (e.g., 6MWD, hemodynamic parameters)  
+
+These terms encompass diseases, clinical features, risk factors, diagnostic markers, and therapeutic modalities relevant to heart disease, particularly in the context of Eisenmenger syndrome and associated congenital heart conditions.
+
+Page 95 Extracted Terms:
+- Eisenmenger syndrome  
+- Pulmonary arterial hypertension (PAH)  
+- Bidirectional shunting  
+- Large septal defects  
+- Pulmonary vascular resistance (PVR)  
+- Postcapillary pulmonary hypertension  
+- Valvular regurgitant lesion  
+- Right‑ventricular (RV) pressure overload  
+- Mechanical circulatory support (MCS)  
+- Transplantation (cardiac/heart‑lung)  
+- Brain natriuretic peptide (BNP)  
+- N‑terminal pro‑BNP (NT‑proBNP)  
+- Six‑minute walk distance  
+- Functional class assessment  
+- Risk stratification models  
+- Down syndrome  
+- Pretricuspid shunt  
+- Age (advanced patient age)  
+- Hypoxemia  
+- Glomerular filtration rate (GFR)  
+- Echocardiographic indices of RV dysfunction  
+- Systemic vascular resistance  
+- Volume overload  
+- Univentricular hearts  
+- Pregnancy in PAH  
+- Right‑to‑left shunting  
+- Spontaneous miscarriages  
+- PAH crises (post‑partum)  
+- Thromboembolic events  
+- Paradoxical embolism  
+- World Health Organization (WHO) class IV  
+- Maternal and fetal morbidity/mortality  
+- Multidisciplinary cardio‑obstetrics team  
+- Adult congenital heart disease (ACHD) specialists  
+- Pulmonary hypertension specialists  
+- Obstetric anesthesia  
+- Endothelin receptor antagonist therapy  
+- Macitentan (endothelin‑1 receptor antagonist)  
+- Bosentan (endothelin receptor antagonist)  
+- Phosphodiesterase‑5 inhibitors (PDE‑5i)  
+- Electrocardiogram (ECG)  
+- Transthoracic echocardiogram (TTE)  
+- ACHD cardiologist  
+
+(This list captures the key heart‑disease terms and concepts mentioned in the guideline excerpt.)
+
+Page 96 Extracted Terms:
+- Eisenmenger syndrome  
+- Pulmonary arterial hypertension (PAH)  
+- Adult congenital heart disease (ACHD)  
+- Systemic vascular resistance  
+- Oxygen saturations  
+- Phosphodiesterase‑5 inhibitor therapy  
+- 6‑minute walk distance  
+- Hemodynamics  
+- Adult with Eisenmenger syndrome clinical characteristics  
+- Upfront combination PAH therapy  
+- Monotherapy in PAH  
+- Sildenafil (PDE5 inhibitor)  
+- Ambrisentan (endothelin receptor antagonist)  
+- New York Heart Association (NYHA) functional class  
+- Pulmonary pressures (mean pulmonary artery pressure, systolic, diastolic)  
+- NT‑proBNP levels  
+- Pulmonary vascular resistance (PVR)  
+- Qp:Qs (pulmonary to systemic flow ratio)  
+- Triple vasodilator therapy  
+- Subcutaneous treprostinil  
+- Inhaled iloprost  
+- Oral prostacyclin analog selexipag  
+- Intravenous prostacyclin  
+- Paradoxical embolization  
+- Arrhythmias (atrial, ventricular)  
+- Morbidity and mortality in Eisenmenger syndrome  
+- Hemodynamic stability  
+- Cardiac anesthesia support  
+- Cardioversion for atrial arrhythmias  
+- Mild‑to‑moderate intensity exercise  
+- World Health Organization (WHO) functional class  
+- Home‑based exercise training program  
+- Competitive sports and extreme isometric exercise (to be avoided)  
+- PAH‑directed medications  
+- Prostacyclin therapy (inhaled, subcutaneous, intravenous)  
+- Small prospective trial of inhaled prostacyclin in Eisenmenger patients with normal LV function  
+- Right ventricular (RV) function  
+- Left ventricular (LV) function  
+- Clinical trials of PAH‑directed therapy in Eisenmenger syndrome  
+- Riociguat (sGC stimulator)  
+- Thrombosis in Eisenmenger syndrome  
+- Dilated pulmonary arteries (PAs)  
+- Dilated or dysfunctional cardiac chambers  
+- Intracardiac prosthetic materials (pacemaker leads)  
+- Laminated (in‑situ) thrombi  
+- Aneurysmal pulmonary arteries  
+- Cerebrovascular events (stroke, silent infarcts)  
+- Systemic arterial and venous thromboembolic events  
+- Systemic anticoagulation treatment  
+- Pulmonary hypertension management strategies.
+
+Page 97 Extracted Terms:
+- Atrial fibrillation  
+- Atrial flutter  
+- CHA₂DS₂‑VASc score  
+- HAS‑BLED score  
+- Anticoagulation  
+- Vitamin K antagonists  
+- Low‑molecular‑weight heparin  
+- Direct oral anticoagulants  
+- Eisenmenger syndrome  
+- Bleeding risk (↓ factor II, V, VII, IX, X, ↓ von Willebrand factor)  
+- Hemoptysis  
+- Intrapulmonary hemorrhage  
+- Bronchial artery erosion  
+- Pulmonary vascular disease  
+- Bidirectional shunt  
+- Right‑ventricular (RV) strain  
+- Intracardiac shunts  
+- Transvenous pacemaker leads  
+- Epicardial pacemaker leads  
+- Subcutaneous implantable cardioverter‑defibrillator (ICD)  
+- Systemic thromboembolism  
+- Coronary artery anomalies  
+- Anomalous aortic origin of a coronary artery (AAOCA)  
+- Coronary CT angiography  
+- MR angiography  
+- Myocardial ischemia attributable to AAOCA  
+- Surgical repair (coronary revascularization)  
+- High‑risk anatomy (ostial/proximal stenosis, slit‑like orifice, acute angle of takeoff, intramural course)  
+- Sudden cardiac death (SCD)  
+- Coronary fistula
+
+Page 98 Extracted Terms:
+- Anomalous Aortic Origin of the Coronary Artery (AAOCA)  
+- Coronary CT angiography  
+- Cardiac Magnetic Resonance (CMR) angiography  
+- Invasive coronary angiography  
+- Intravascular ultrasound (IVUS)  
+- Fractional flow reserve (FFR)  
+- Coronary artery stenosis  
+- Cardiovascular risk stratification  
+- Shared decision‑making  
+- Serial cardiac imaging  
+- Exercise stress testing  
+- Coronary artery disease (CAD)  
+- Coronary artery bypass graft (CABG)  
+- Coronary unroofing (surgery)  
+- Osteoplasty (surgical technique)  
+- Coronary reimplantation (surgical technique)  
+- Pulmonary translocation (surgical technique)  
+- Intramural coronary course  
+- Fibrosis imaging (via CMR)  
+- Shunt assessment  
+- Hemodynamic evaluation (for shunts)
+
+Page 99 Extracted Terms:
+- Anomalous aortic origin of a coronary artery (AAOCA)  
+- Anomalous right coronary artery (ARCA)  
+- Anomalous left coronary artery (ALCA)  
+- Anomalous left coronary artery arising from the pulmonary artery (ALCAPA)  
+- Anomalous right coronary artery arising from the pulmonary artery (ARCAPA)  
+- Sudden cardiac death (SCD)  
+- Myocardial ischemia / ischemic changes  
+- Wall‑motion abnormalities  
+- Fractional flow reserve (FFR)  
+- Coronary unroofing  
+- Osteoplasty (coronary)  
+- Coronary reimplantation  
+- Pulmonary translocation  
+- Coronary artery bypass graft (CABG)  
+- Ventricular arrhythmias  
+- Exercise stress testing  
+- Dobutamine stress testing  
+- Stress electrocardiogram (ECG)  
+- Echocardiography (transthoracic, Doppler)  
+- Nuclear imaging (myocardial perfusion)  
+- Cardiac magnetic resonance (CMR) imaging  
+- Cardiac function (ejection fraction, systolic function)  
+- Cardiac dysfunction  
+- Risk stratification  
+- Physiological impact / assessment  
+- Intramural coronary course  
+- Hypoplasia of the proximal segment  
+- Ostial stenosis  
+- Slit‑like orifice  
+- Acute angle of takeoff  
+- High‑risk features  
+- Shared decision‑making  
+- Watchful waiting  
+- Adult congenital heart disease (ACHD)  
+- Computed tomography (CT) angiography  
+- Magnetic resonance (MR) angiography  
+- Electrocardiogram (ECG) follow‑up  
+- Transthoracic echocardiogram follow‑up  
+
+Page 100 Extracted Terms:
+- Anomalous right coronary artery (ARCA) from the pulmonary artery  
+- Anomalous left coronary artery (ALCA) from the pulmonary artery  
+- Coronary artery fistula  
+- Coronary steal phenomenon  
+- Coronary artery bypass grafting (CABG)  
+- Takeuchi repair  
+- Coronary artery reimplantation  
+- Ligation/closure of coronary artery at the pulmonary artery level  
+- Ventricular dysfunction  
+- Myocardial ischemia  
+- Angina pectoris  
+- Dyspnea  
+- Heart failure  
+- Myocardial infarction  
+- Vascular ring  
+- Pulmonary artery sling  
+- Vascular ring repair  
+- Pulmonary artery sling repair  
+- Cross‑sectional imaging of aortic arch and pulmonary arteries  
+- Airway compression symptoms (e.g., stridor, wheezing)  
+- Esophageal compression symptoms (e.g., dysphagia)  
+- Congenital heart disease (CHD)  
+- Ventricular septal defect (VSD) as a common comorbidity  
+- Right internal mammary artery (RIMA) graft  
+- Left internal mammary artery (LIMA) graft  
+- Coronary artery interposition graft  
+- Sudden cardiac death (SCD) related to coronary anomalies  
+- Coronary fistula closure (surgical or catheter‑based)
+
+Page 101 Extracted Terms:
+**Key Heart‑Disease Terms Extracted**
+
+1. Adults with Congenital Heart Disease (ACHD)  
+2. TOF (Tetralogy of Fallot)  
+3. Vascular ring  
+4. Pulmonary artery (PA) sling  
+5. Pulmonary valve replacement  
+6. Pulmonary stenosis  
+7. Pulmonary regurgitation  
+8. RV‑to‑PA conduit stenosis  
+9. RV‑to‑PA conduit regurgitation  
+10. Systemic right ventricle  
+11. Pacing strategies  
+12. Arrhythmia strategies  
+13. Endocarditis risk in prosthetic valves (transcatheter or surgical)  
+14. Transcatheter or surgical prosthetic valves  
+15. Cardiac rehabilitation  
+16. Exercise testing for clinical outcomes  
+17. Genetic screening for ACHD  
+18. Neurocognitive screening in ACHD  
+19. Mental‑health screening in ACHD clinics  
+20. Hormone replacement therapy in ACHD patients  
+21. Gender‑affirming therapies in ACHD  
+22. Pulmonary function testing  
+23. Barium swallow testing  
+24. Cardiac magnetic resonance imaging (CMR)  
+25. Computed tomography (CT) angiography  
+26. Tracheal compression  
+27. Tracheomalacia  
+28. Post‑operative imaging for vascular ring/PA sling  
+29. Multidisciplinary subspecialties (pulmonary medicine, gastroenterology)  
+30. Surgical repair of vascular ring/PA sling  
+31. Asymptomatic vs symptomatic vascular ring/PA sling  
+32. Vascular ring anatomical classifications (complete, incomplete, double aortic arch, etc.)
+
+Page 102 Extracted Terms:
+- Adult Congenital Heart Disease (ACHD)  
+- Artificial Intelligence–ECG (AI‑ECG)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Failing Right Ventricle  
+- Failing Left Ventricle  
+- Heart Failure  
+- Heart Transplantation  
+- Heart‑Versus‑Liver Transplantation (in Fontan patients)  
+- Cardiac Transplantation Criteria (Fontan circulation)  
+- Sudden Cardiac Death (SCD)  
+- Primary‑Prevention Implantable Cardioverter‑Defibrillator (ICD)  
+- Shunt Lesions (e.g., ASD, VSD, patent ductus)  
+- Shunt Repair / Closure  
+- Pulmonary Arterial Hypertension (PAH)  
+- Coarctation of the Aorta (COA)  
+- Resting, Exercise, and Ambulatory Hypertension  
+- Exercise‑Induced Hypertension  
+- Re‑Coarctation  
+- Ebstein Anomaly  
+- Glenn Shunt (Bidirectional Cavopulmonary Anastomosis)  
+- Tetralogy of Fallot (TOF)  
+- Pulmonary Valve Replacement (in TOF)  
+- Left Ventricular (LV) Dysfunction (post‑TOF)  
+- Systemic Right Ventricle  
+- Tricuspid Valve Replacement (systemic right ventricle)  
+- Cardiac Resynchronization Therapy (CRT)  
+- Congenitally Corrected Transposition of the Great Arteries (CCTGA)  
+- Ventricular Septal Defect (VSD)  
+- Double‑Switch Operation  
+- Arterial Switch Operation (d‑TGA)  
+- Coronary Disease, Ostial Compression, Ischemia  
+- Aortic Root Dilation  
+- Antiplatelet Therapy  
+- Anticoagulation Therapy  
+- Pulmonary Vasodilators  
+- Fontan‑Associated Liver Disease (FALD)  
+- Protein‑Losing Enteropathy (PLE)  
+- Lymphatic Abnormalities (Fontan)  
+- Hypoplastic Left Heart Syndrome (HLHS)  
+- Single‑Ventricle Physiology  
+- Fontan Circulation  
+
+(Each entry represents a key heart‑disease term or concept from the guideline text.)
+
+Page 103 Extracted Terms:
+- Double‑chamber right ventricle  
+- Subaortic obstruction  
+- Aortic dilation  
+- Tetralogy of Fallot (TOF)  
+- Dextrotransposition of the great arteries (d‑TGA)  
+- Arterial switch operation  
+- Single‑ventricle physiology  
+- Fontan circulation  
+- Ross procedure  
+- Coronary arteries  
+- Premature coronary artery disease  
+- Obstruction (clinical threshold for intervention)  
+- Stenosis (clinical threshold for intervention)  
+- Congenital heart disease (CHD)  
+- Intervention criteria in congenital heart conditions  
+- Coronary artery disease (CAD) for congenital heart disease patients  
+
+Page 104 Extracted Terms:
+- Adult Congenital Heart Disease  
+- Congenital Heart Disease  
+- Valvular Heart Disease  
+- Aortic Disease  
+- Coronary Artery Disease  
+- Chronic Coronary Disease  
+- Heart Failure  
+- Atrial Fibrillation  
+- Arrhythmias  
+- Tetralogy of Fallot (repaired)  
+- Heart‑Kidney Transplantation  
+- Heart‑Liver Transplantation  
+- Multimodality Cardiovascular Imaging  
+- Transition to Adulthood (for congenital heart disease)  
+- Genetic Basis of Congenital Heart Disease  
+- Psychological Outcomes in Congenital Heart Disease  
+- Neurodevelopmental Outcomes in Congenital Heart Disease  
+- Cardiac Nomenclature (International Pediatric and Congenital Cardiac Code)  
+- Cardiovascular Catheterisation (Procedural and Complication Nomenclature)  
+- Cardiovascular Complications (in interventional cardiology)
+
+Page 105 Extracted Terms:
+- Adult congenital heart disease (ACHD)  
+- Congenital heart disease (CHD)  
+- Anatomic‑physiologic classification system  
+- Risk stratification / mortality prediction models  
+- ACHD mortality score  
+- Ebstein anomaly  
+- Tetralogy of Fallot  
+- Fontan procedure / Fontan circulation  
+- Valvular heart disease (VHD)  
+- Heart failure (HF)  
+- Pulmonary hypertension (PH)  
+- Infective endocarditis (IE)  
+- Arrhythmia burden  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Cardio‑pulmonary exercise testing (CPET)  
+- N‑terminal pro‑brain natriuretic peptide (NT‑proBNP)  
+- N‑terminal pro‑B‑type natriuretic peptide (NT‑proBNP)  
+- Troponin‑T  
+- Growth‑differentiation factor‑15 (GDF‑15)  
+- Peak oxygen uptake (VO₂ peak)  
+- Ventilatory efficiency (VE/VCO₂ slope)  
+- QRS duration  
+- Hospitalization trends & health‑resource utilization  
+- Transition readiness & education programs  
+- Barriers to care & access to specialty services  
+- Functional indices (e.g., New York Heart Association class)  
+- Clinical outcomes & morbidity‑mortality predictors
+
+Page 106 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+1. Congenital heart disease  
+2. Adult congenital heart disease (ACHD)  
+3. Transition (care/education)  
+4. Gaps in care  
+5. Morbidity  
+6. Mortality  
+7. Specialist care  
+8. Telemedicine / digital health technology  
+9. Social determinants of health  
+10. Distance to care / travel distance  
+11. Rural dwelling status / urban‑rural disparities  
+12. Access to care  
+13. Delivery of care  
+14. Knowledge of lifelong cardiac care  
+15. Transition education programs (e.g., STEPSTONES, TRANSITION‑CHD)  
+16. SCAI position statement on ACHD interventional training  
+17. ESC guidelines for ACHD management  
+18. AHA/ACC guideline for ACHD  
+19. Catheter ablation in ACHD  
+20. Heart transplantation in ACHD  
+21. Clinical trials / randomized controlled trials  
+22. Clinical statements / scientific statements  
+23. Risk factors for loss to follow‑up  
+24. Quality of care  
+25. Policy impact on mortality and outcomes  
+26. Patient education and readiness  
+27. Healthcare transition for youth with heart disease  
+
+(Note: Each term represents a concept, intervention, outcome, or structural factor repeatedly mentioned in the provided guideline text.)
+
+Page 107 Extracted Terms:
+**Key heart‑disease–related terms extracted from the text**
+
+- Adult congenital heart disease (ACHD)  
+- Congenital heart disease (CHD)  
+- Fontan physiology / Fontan palliation / Fontan circulation  
+- Eisenmenger syndrome  
+- Atrial septal defect (ASD)  
+- Perioperative morbidity and mortality  
+- Perioperative outcomes  
+- Perioperative cardio‑vascular evaluation and management  
+- Perioperative considerations/management for non‑cardiac surgery  
+- Non‑cardiac surgery  
+- Perioperative events  
+- Anesthesia (and anesthetic management)  
+- Frailty in ACHD  
+- Cognitive function / neurocognitive impairment / neurocognitive dysfunction  
+- Neurodevelopmental outcomes  
+- Depression in ACHD  
+- Anxiety in ACHD  
+- Post‑traumatic stress disorder (PTSD) in ACHD  
+- Mental health screening (PHQ‑4, etc.)  
+- Health‑care utilization in ACHD  
+- Stroke risk (ischemic stroke) in the peri‑operative period  
+- Clinical practice guidelines (ACC/AHA Task Force)  
+- Clinical statements & scientific statements (American Heart Association)  
+- Clinical trial / randomized controlled trial (RCT)  
+- Prospective and retrospective cohort studies on ACHD outcomes  
+
+These terms capture the primary concepts relating to heart disease and its peri‑operative, anesthetic, and psychosocial aspects that appear throughout the document.
+
+Page 108 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- Congenital heart disease (CHD)  
+- Cyanotic congenital heart disease  
+- Eisenmenger syndrome  
+- Unoperated single ventricle  
+- Heart failure  
+- Cardiac resynchronization therapy (CRT)  
+- Single‑ventricle repair  
+- Cardiac surgery / cardiac operative procedures  
+- Perioperative mortality risk  
+- Cyanosis management  
+- Iron deficiency therapy  
+- Exercise capacity / exercise intolerance  
+- Quality of life  
+- Cerebrovascular events (stroke)  
+- Brain abscess  
+- Stroke risk in cyanotic disease  
+- Pregnancy outcomes in women with heart disease  
+- Hormonal contraception & risk of venous thromboembolism  
+- Pheochromocytoma / paraganglioma  
+- Hyperuricemia  
+- Serum uric acid in Eisenmenger syndrome  
+- Oxygen therapy effect on exercise performance  
+- Hemoglobin & oxygen saturation dynamics  
+- Blood viscosity  
+- Iron metabolism & homocysteine levels  
+- Hematocrit & haemostasis  
+- Platelet microparticles  
+- Thrombogenesis / hypercoagulability  
+- Pulmonary artery thrombosis  
+- Anticoagulation in Eisenmenger syndrome  
+- Long‑term survival / prognosis  
+- Pulmonary arterial hypertension (PAH)  
+- Lung function & gas exchange in PAH/Eisenmenger  
+- Pulmonary hypertension in CHD  
+- Neurodevelopmental evaluation in CHD  
+- Restrictive lung disease in CHD  
+- Abnormal lung function in adult CHD  
+- Cardiac catheter intervention safety  
+- Operative volume & surgical learning curve  
+- Reoperative cardiac surgery outcomes  
+- Clinical management guidelines for adult congenital heart disease  
+- Practice patterns for adult congenital heart disease management  
+
+These terms encapsulate the clinical concepts, patient populations, interventions, complications, and outcomes addressed throughout the cited guidelines and literature.
+
+Page 109 Extracted Terms:
+- Congenital heart disease (CHD)  
+- Adult congenital heart disease (ACHD)  
+- Heart failure (HF)  
+- Universal definition and classification of heart failure  
+- Cardiac resynchronisation therapy (CRT)  
+- Cardiac resynchronisation therapy (CRT‑D)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Implantable cardioverter‑defibrillator (ICD) in ACHD  
+- Sodium‑glucose cotransporter‑2 (SGLT‑2) inhibitors in ACHD  
+- Angiotensin‑receptor neprilysin inhibitor (ARNI) in ACHD  
+- Sacubitril/valsartan (ARNI) in adult complex CHD  
+- Ventricular assist device (VAD) / durable VAD  
+- Mechanical circulatory support (MCS)  
+- Mechanical circulatory support (MCS) in ACHD (INTERMACS, UNOS)  
+- Heart transplantation in ACHD  
+- Heart–lung transplantation in ACHD  
+- Combined heart–liver transplantation in the failing Fontan  
+- Multi‑organ transplantation in ACHD  
+- Fontan circulation / Fontan surgery  
+- Fontan‑adult Brompton clinical score  
+- Mustard operation (surgical correction of transposition of great arteries)  
+- Transposition of the great arteries (TGA) with systemic right ventricle  
+- Ebstein anomaly  
+- Tetralogy of Fallot (TOF)  
+- Sudden cardiac death (SCD) in ACHD  
+- Ventricular arrhythmias in ACHD  
+- PRospEctiVE study (PREVENTION‑ACHD)  
+- PREVENTION‑ACHD acronym (ICB‑VSD)  
+- Heart‑failure Society of America (HFSA) consensus  
+- American Heart Association (AHA) 2022 Heart Failure Guideline  
+- Cardiac‑electrophysiology guidelines for pediatric and congenital heart disease  
+- European Society of Cardiology (ESC) heart‑failure definition  
+- INTERMACS registry for adult CHD patients on MCS  
+- German National Register for Congenital Heart Defects (GNHFD)  
+- Clinical outcomes and survival metrics in ACHD  
+- Post‑operative arrhythmias after Fontan operation  
+- Arrhythmic risk scores in systemic right ventricle  
+- Implantable cardioverter‑defibrillator shock appropriateness in repaired TOF  
+- Long‑term survival, mortality, and morbidity after heart transplantation in CHD  
+- Acute and chronic heart failure in congenital heart disease (ACC/AHA statement)  
+
+(These terms capture the key entities, therapies, devices, scores, and clinical contexts discussed in the guidelines and studies.)
+
+Page 110 Extracted Terms:
+- Congenital heart disease  
+- Adult congenital heart disease  
+- Heart transplantation  
+- Heart‑lung transplantation  
+- Combined heart‑liver transplantation  
+- Mechanical circulatory support  
+- Ventricular assist device (VAD)  
+- Continuous‑flow ventricular assist device  
+- INTERMACS (Interagency Registry for Mechanically Assisted Circulatory Support)  
+- Fontan circulation  
+- Eisenmenger syndrome  
+- Tetralogy of Fallot  
+- Pulmonary atresia  
+- Single ventricle (univentricular)  
+- Biventricular condition  
+- Heterotaxy syndrome  
+- Left ventricular systolic dysfunction  
+- Heart failure  
+- Heart failure hospitalization  
+- Peak oxygen consumption  
+- Anti‑human leukocyte antigen (anti‑HLA) antibodies  
+- Allograft tissue exposure  
+- Allograft cryopreservation  
+- Right ventricular failure (implied in Fontan context)  
+- 22q11.2 deletion syndrome  
+- Chromosomal abnormalities  
+- Copy‑number variant / de novo mutation  
+
+(Note: Terms are derived directly from the guideline titles, study descriptions, and clinical focuses within the provided text.)
+
+Page 111 Extracted Terms:
+- Congenital heart disease  
+- Pulmonary atresia  
+- Ventricular septal defect  
+- Conotruncal defects  
+- 22q11.2 deletion (DiGeorge syndrome)  
+- Noonan syndrome  
+- Williams‑Beuren syndrome  
+- Down syndrome  
+- Holt‑Oram syndrome  
+- Klinefelter syndrome  
+- Turner syndrome  
+- NKX2‑5 mutation  
+- QTc interval prolongation  
+- Cardiac repolarization abnormalities  
+- Sudden cardiac death  
+- Cardiomyopathy  
+- Heart failure  
+- Peripartum cardiomyopathy  
+- Valvular heart disease  
+- Coronary artery dissection  
+- Pregnancy outcomes in heart disease  
+- Cardiac morbidity during pregnancy  
+- Hormonal contraception cardiovascular risk  
+- Cardiac risk assessment  
+- Echocardiographic screening  
+- Cardio‑obstetrics program  
+- Multidisciplinary cardiac care  
+- Reproductive health in congenital heart disease  
+- Cardiac risk stratification  
+- Congenital cardiovascular malformations  
+- Genetic counselling for congenital heart disease  
+- Cardiac phenotypic spectrum  
+
+Page 112 Extracted Terms:
+Congenital heart disease  
+Congenital heart defects  
+Tetralogy of Fallot  
+Fontan physiology / Fontan patients  
+Eisenmenger syndrome  
+Transposition of the great arteries  
+Ebstein anomaly  
+Coarctation of the aorta  
+Pulmonary arterial hypertension  
+Pulmonary valve replacement  
+Cardiac catheterization  
+Cardiac procedures  
+Cardiac surgery  
+Cardiac radiation exposure  
+Ionizing radiation exposure  
+Heart failure  
+Cardiopulmonary exercise testing  
+Exercise capacity  
+Exercise intolerance  
+New York Heart Association (NYHA) functional class  
+NT‑proBNP  
+Cardiac biomarkers  
+Mortality risk  
+Prognosis  
+Clinical outcomes  
+Multidisciplinary heart team  
+Pregnancy heart team  
+Maternal heart disease  
+Cardiovascular disease during pregnancy  
+Reproductive health in congenital heart disease  
+Preconception counseling  
+Fertility  
+Sexual health  
+Assisted reproductive technology  
+Contraception  
+Cumulative radiation exposure  
+Long‑term chromosomal damage  
+Pharmacological management for exercise capacity  
+Cardiac imaging parameters  
+Spirometry as a predictive tool  
+
+Page 113 Extracted Terms:
+**Key heart‑disease related terms extracted from the guidelines text**
+
+- Adult congenital heart disease  
+- Eisenmenger syndrome  
+- Pulmonary arterial hypertension (PAH)  
+- Pulmonary hypertension  
+- Atrial septal defect (ASD)  
+- Shunt lesions  
+- Fontan circulation / univentricular physiology  
+- Pulmonary arterial hypertension related to congenital heart disease  
+- 6‑minute walk test  
+- Resting oxygen saturation  
+- Functional class (NYHA/WHO)  
+- Cardiopulmonary capacity  
+- Cardiorespiratory fitness  
+- Inspiratory muscle training  
+- Cardiac rehabilitation (center‑based, home‑based, virtual)  
+- Exercise training (continuous, interval, home‑based, pulmonary rehab)  
+- Exercise capacity  
+- Functional capacity  
+- B‑type natriuretic peptide (BNP)  
+- C‑reactive protein (CRP)  
+- Renal dysfunction (kidney disease)  
+- Bosentan therapy  
+- Treat‑to‑close strategy  
+- Treat‑close‑treat strategy  
+- Treat‑and‑repair strategy  
+- Competitive sports participation guidelines for athletes with cardiovascular abnormalities  
+- European Society of Cardiology / European Respiratory Society guidelines for pulmonary hypertension  
+- Refined European guidelines instrument for risk prediction in PAH  
+- Arrhythmias during exercise testing
+
+These terms capture the principal diseases, diagnostic measures, therapeutic strategies, and contexts discussed in the clinical statements and guidelines.
+
+Page 114 Extracted Terms:
+Eisenmenger syndrome  
+Pulmonary arterial hypertension  
+Atrial septal defect  
+Ventricular septal defect  
+Partial anomalous pulmonary venous drainage  
+Partial anomalous pulmonary venous connection  
+Patent foramen ovale  
+Superior sinus venosus defect  
+Secundum atrial septal defect  
+Tricuspid regurgitation  
+Pulmonary hypertension  
+Bosentan therapy  
+Macitentan therapy  
+Tadalafil therapy  
+Iloprost therapy  
+Epoprostenol therapy  
+Prostaglandin therapy  
+Sildenafil citrate therapy  
+Selexipag therapy  
+Sotatercept therapy  
+Transcatheter closure  
+Covered stent exclusion  
+Balloon occlusion test  
+Surgical repair  
+ESC/ERS guideline for pulmonary hypertension  
+AHA/ACC guideline for adult congenital heart disease  
+CHEST guideline for pulmonary arterial hypertension  
+Electrocardiography (implied by diagnostic context)  
+Echocardiography (including transesophageal)  
+Magnetic resonance imaging (four‑dimensional)  
+Computed tomography scanning  
+Hemodynamic assessment (catheterization)  
+Right ventricular function evaluation  
+Left ventricular diastolic dysfunction assessment  
+
+These terms capture the key heart‑related conditions, therapies, interventions, diagnostic modalities, and guideline references present in the text.
+
+Page 115 Extracted Terms:
+- Pulmonary arterial hypertension  
+- Pulmonary hypertension  
+- Congenital heart disease  
+- Ventricular septal defect (VSD)  
+- Isolated ventricular septal defect  
+- Supracristal ventricular septal defect  
+- Perimembranous ventricular septal defect  
+- Non‑restrictive ventricular septal defect  
+- Double‑chambered right ventricle  
+- Aortic regurgitation  
+- Aortic cusp prolapse  
+- Infective endocarditis  
+- Left‑to‑right shunt  
+- Right ventricular dysfunction  
+- Left ventricular dysfunction  
+- Pulmonary vascular resistance  
+- Pulmonary hypertensive crisis  
+- Transcatheter device closure  
+- Surgical closure of VSD  
+- Percutaneous device closure of VSD  
+- Treat‑and‑repair strategy  
+- Perioperative management of pulmonary hypertension  
+- Sildenafil therapy for pulmonary hypertension  
+- Selexipag therapy for pulmonary hypertension  
+- Macitentan therapy for pulmonary hypertension  
+- Inhaled nitric oxide (pre‑operative test)  
+- Ventricular septal defect repair techniques (patch, valve‑patch, double‑patch)  
+- Natural history of congenital ventricular septal defect  
+- Long‑term outcomes of VSD repair  
+- Survival of patients with congenital VSD  
+- Infection prevention guidelines for infective endocarditis  
+- Catheterization in congenital heart disease  
+- Lung biopsy utility in congenital heart disease management  
+- Clinical guidelines for infective endocarditis  
+- Clinical outcomes of pulmonary arterial hypertension in congenital heart disease.
+
+Page 116 Extracted Terms:
+**Key terms related to heart disease**
+
+- Congenital heart disease (CHD)  
+- Atrioventricular (AV) septal defect (AVSD)  
+  - Complete AV septal defect  
+  - Partial/transition AV septal defect  
+- Ventricular septal defect (VSD)  
+- Pulmonary arterial hypertension (PAH)  
+- Partial anomalous pulmonary venous return (PAPVR)  
+- Scimitar syndrome  
+- Patent ductus arteriosus (PDA)  
+- Left ventricular outflow tract (LVOT) obstruction  
+- Atrial septal defect (ASD)  
+  - Secundum ASD  
+  - Sinus venosus ASD  
+  - Ostium primum ASD  
+- Pulmonary hypertension (PH)  
+- Left-valvar morphology (mitral)  
+- Heart block (conduction disturbances)  
+- Left ventricular remodeling / reverse remodeling  
+- Device closure (transcatheter)  
+- Surgical closure / repair of congenital lesions  
+- Magnetic resonance imaging (MRI) in cardiac imaging  
+- Transcatheter pulmonary arterial hypertension therapy  
+- Targeted pulmonary hypertension therapy  
+- Clinical practice guideline (AHA/ACC, ACC/AHA, ESC/ERS)  
+- Scientific statement (American Heart Association)  
+- Operability assessment in adult congenital heart disease  
+- Prognostic factors for residual lesions after surgery  
+- Outcomes after specialty care for PAH  
+- Late results of VSD closure (30–35 years)  
+- Right atrial involvement in AVSD  
+- Superior QRS axis in ostium primum ASD  
+- Indications for surgery based on lung biopsy in VSD/PDA with severe PH  
+- Long‑term outcomes of unrepaired PAPVR with intact atrial septum  
+
+These terms capture the principal heart‑disease concepts, conditions, interventions, and guideline references highlighted in the provided text.
+
+Page 117 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+- Cor triatriatum sinister / sinistrum  
+- Congenital heart disease  
+- Pulmonary hypertension  
+- Pulmonary vascular resistance  
+- Left ventricular dysfunction  
+- Patent ductus arteriosus closure (surgical & transcatheter)  
+- Cardiovascular magnetic resonance  
+- Surgical repair of cor triatriatum  
+- Transcatheter balloon dilatation of cor triatriatum  
+- Inoue balloon‑dilation method  
+- Radiofrequency perforation & balloon decompression  
+- Aortic dissection  
+- Mitral insufficiency  
+- Mitral stenosis  
+- Congenital mitral stenosis (parachute mitral valve)  
+- Shone complex  
+- Subaortic stenosis (discrete subaortic stenosis)  
+- Cardioembolic stroke  
+- Thrombogenesis & arrhythmogenesis in left atrium  
+- Partial anomalous pulmonary venous return  
+- Ventricular inflow obstruction (pulmonary venous & systemic)  
+- Atrial fibrillation in adult congenital heart disease  
+- Catheter ablation for atrial fibrillation  
+- Cardiopulmonary exercise testing  
+- Pulmonary edema (postpartum, labor, pregnancy)  
+- Maternal cor triatriatum management during pregnancy  
+- Anesthetic management for cardiac surgery in pregnancy  
+- Cardiopulmonary bypass in pregnancy  
+- 3‑D echocardiographic‑guided surgical repair  
+- 2018 AHA/ACC guideline (adults with congenital heart disease)  
+- 2020 ACC/AHA guideline (valvular heart disease)  
+- 2018 AHA/ACC guideline (adults with congenital heart disease)  
+- 2020 ACC/AHA guidline (valvular heart disease)  
+- Early‑age percutaneous balloon dilatation  
+- Percutaneous balloon dilatation vs. surgical correction  
+
+These terms capture the primary heart‑related concepts, conditions, interventions, and guideline references presented in the document.
+
+Page 118 Extracted Terms:
+**Heart‑Disease Related Terms Extracted from the Text**
+
+1. Hypertrophic cardiomyopathy  
+2. Aortic regurgitation  
+3. Subaortic stenosis (including discrete subvalvular aortic stenosis)  
+4. Bicuspid aortic valve  
+5. Aortic aneurysm (ascending aortic aneurysm, thoracic aortic aneurysm)  
+6. Aortic stenosis (including supravalvular aortic stenosis and congenital aortic valve stenosis)  
+7. Transcatheter aortic valve replacement (TAVR)  
+8. Balloon aortic valvuloplasty  
+9. Supravalvar aortic stenosis  
+10. Williams syndrome (elastin‑associated arteriopathy)  
+11. Elastin arteriopathy  
+12. Left ventricular remodeling  
+13. Post‑operative heart failure  
+14. Aortic valve dysfunction  
+15. Aortic valve replacement (surgical AVR)  
+16. Aortic events (e.g., dissection, rupture)  
+17. Aortic disease (diagnosis & management)  
+18. Congenital heart disease (adult congenital)  
+19. Bicuspid vs tricuspid aortic valve outcomes  
+20. Aortic dilatation / aortic root dilation  
+21. Coronary artery stenosis (ostial)  
+22. Coronary artery aneurysm  
+23. Valvular heart disease (management)  
+24. Risk stratification by exercise testing  
+25. Doppler echocardiography (surgical timing)  
+26. Multidetector CT angiography (imaging of aortic stenosis)  
+27. Cardiac outcomes (adult survivors of supravalvar aortic stenosis)  
+28. Surgical repair (coronary ostial stenosis, supravalvar aortic stenosis)  
+29. Decision aids for prosthetic valve selection  
+30. Family screening for bicuspid aortic valve and aortic aneurysm  
+31. Aortic valve pathology (diffuse variant, elastin deficiency)  
+32. Aortic valve molecular genetics  
+33. Decision‑making in valvular heart disease (shared decision‑making)  
+34. Pediatric subvalvular aortic stenosis risk factors  
+35. Adult congenital aortic valve interventions  
+36. Aortic valve replacement outcomes in congenital versus native valve disease  
+37. Aortic stenosis in heterozygous/homozygous familial hypercholesterolemia  
+38. Aortic valve complications (e.g., restenosis, prosthetic valve dysfunction)  
+39. Aortic valve hemodynamics (flow velocity, gradient)  
+40. Aortic valve surgical indications and timing  
+
+These terms capture the key clinical entities, procedural approaches, imaging modalities, risk factors, and guideline‑specific concepts related to heart disease in the provided citations.
+
+Page 119 Extracted Terms:
+- Williams syndrome  
+- Williams‑Beuren syndrome  
+- Congenital heart disease  
+- Supravalvular aortic stenosis  
+- Coarctation of the aorta  
+- Aortic coarctation (native and repaired)  
+- Left ventricular ejection fraction  
+- Left ventricular hypertrophy  
+- Left ventricle strain imaging  
+- Coronary artery stenosis  
+- Coronary artery disease  
+- Myocardial ischemia  
+- Pulmonary hypertension  
+- Exercise‑induced hypertension  
+- Ambulatory blood pressure monitoring  
+- Endothelial dysfunction  
+- Conduit artery dysfunction  
+- Left atrial dysfunction  
+- Right heart dysfunction  
+- Intraventricular myocardial stiffness  
+- Cardiac remodeling  
+- Cardiovascular mortality  
+- Cardiac surgery (repair, stenting, transcatheter intervention)  
+- Systolic blood pressure control  
+- Hypertension management (restenosis‑free)  
+- Intracranial aneurysms screening  
+- Clinical risk stratification in congenital heart disease  
+- Prevention of sudden death in Williams‑Beuren syndrome  
+- Left ventricular mass and geometry assessment  
+- Prognostic impact of LV function in aortic stenosis  
+- Screening for intracranial aneurysms in coarctation of the aorta  
+- Pediatric and adult outcomes after coarctation repair  
+- Percutaneous intervention outcomes for coarctation  
+- Diagnostic imaging for coronary and cerebral circulation in coarctation  
+- Heart failure with preserved ejection fraction (HFpEF) in coarctation patients  
+
+Page 120 Extracted Terms:
+- Coarctation of the aorta  
+- Endovascular treatment  
+- Stent trials  
+- Transcatheter interventions  
+- Left ventricular reverse remodeling  
+- Left ventricular remodeling  
+- Cardiovascular burden  
+- Congenital heart disease (CHD)  
+- Ebstein’s anomaly  
+- Accessory pathway ablation  
+- Wolff‑Parkinson‑White syndrome  
+- Echocardiography  
+- Cardiac magnetic resonance imaging (CMR)  
+- Cone operation (cone reconstruction)  
+- Biventricular function  
+- Catheter ablation of ventricular arrhythmia  
+- Electrophysiologic studies (EPS)  
+- Tricuspid valve imaging  
+- Right ventricular unloading  
+- Bi‑directional cavo‑pulmonary shunt  
+- Surgical intervention timing  
+- Hemodynamic determinants of aerobic capacity  
+- Supraventricular arrhythmias  
+- Percutaneous atrial septal defect (ASD) closure  
+- Mortality in Ebstein’s anomaly  
+- Occult left ventricular dysfunction  
+- Atrial fibrillation (AF)  
+- Arrhythmia management in adult CHD  
+- Cardiopulmonary exercise testing  
+- Pulmonary stenosis  
+- Percutaneous balloon valvuloplasty (balloon pulmonary valvuloplasty)  
+- Pulmonary valve replacement (PVR)  
+- Pulmonary regurgitation  
+- Tricuspid valve intervention  
+- Birth prevalence of congenital heart defects  
+- Semilunar valve interventions  
+- Long‑term outcomes (up to 25–40 years)  
+- Exercise capacity  
+- Ventricular volume and function  
+- Aortic coarctation gradients  
+- Left ventricular function  
+- Aortic stenosis (implicitly via aortic coarctation)  
+- Ventricular tachycardia (VT)  
+- Ventricular arrhythmia  
+- Aortic balloon valvuloplasty  
+- Cardiovascular magnetic resonance (CMR) imaging terms (e.g., dyssynchrony, remodeling, cone reconstruction feasibility)  
+- Heart failure related to Ebstein malformation  
+- Right ventricular function  
+
+(Note: The list compiles key heart‑disease concepts, conditions, interventions, and clinical outcomes presented in the provided text.)
+
+Page 121 Extracted Terms:
+- Pulmonary valve replacement  
+- Transcatheter pulmonary valve replacement  
+- Tricuspid regurgitation  
+- Right ventricular volume/pressure overload  
+- Pulmonary valve stenosis  
+- Repaired tetralogy of Fallot  
+- Pulmonary regurgitation  
+- Right‑ventricular (RV) remodeling  
+- Right‑ventricular outflow tract (RVOT)  
+- Ventricular septal defect (VSD)  
+- Double‑chambered right ventricle (DCRV)  
+- Branch pulmonary artery stenosis  
+- Balloon angioplasty  
+- Stenting  
+- Cardiac magnetic resonance imaging (CMR)  
+- Multimodality imaging (echocardiography, CMR, CT, scintigraphy)  
+- SAPIEN S3 transcatheter heart valve  
+- 2018 AHA/ACC guideline for adults with congenital heart disease  
+- Appropriate use criteria for multimodality imaging in congenital heart disease  
+- Congenital heart disease (CHD)  
+- Pulmonary valve dysfunction  
+- Right‑ventricular ejection fraction (RVEF)  
+- Right‑ventricular strain and deformation  
+- Hemodynamically significant pulmonary regurgitation  
+- Pressure half‑time (PHT)  
+- Exertional performance / exercise capacity  
+- Imaging assessment of pulmonary stenosis and regurgitation  
+- Surgical outcomes and repair of DCRV  
+- Post‑operative outcomes of pulmonary valve replacement  
+- Long‑term natural history of pulmonary stenosis after surgical repair  
+- Clinical practice guidelines for management of pulmonary valve disease  
+- Complications of pulmonary artery interventions (adverse events, procedural characteristics)
+
+Page 122 Extracted Terms:
+Tetralogy of Fallot  
+Pulmonary valve replacement (PVR)  
+Pulmonary valve implantation  
+Ventri­cular tachycardia (VT)  
+Implantable cardioverter‑defibrillator (ICD)  
+Arrhythmogenic substrate  
+Right ventricular outflow tract (RVOT)  
+Conduit  
+Bioprosthetic valve  
+Pulmonary artery stenosis (PAS)  
+Peripheral pulmonary artery stenosis  
+Transcatheter pulmonary valve implantation  
+Transcatheter pulmonary valve replacement  
+Pulmonary regurgitation  
+Right ventricular dysfunction  
+Right ventricular volume overload  
+Tricuspid regurgitation  
+Right ventricular activation  
+Left ventricular diastolic function  
+Left ventricular systolic dysfunction  
+Left ventricular longitudinal strain  
+QRS fragmentation  
+QRS duration  
+Cardiac magnetic resonance (CMR)  
+Multidetector computed tomography (MDCT)  
+Computed tomography angiography (CTA)  
+Electrocardiogram (ECG)  
+Electroanatomical mapping  
+Ventricular arrhythmia  
+Sudden cardiac death  
+Arrhythmic risk stratification  
+Ventricular tachycardia isthmus  
+Electrophysiologic study  
+Ablation therapy  
+Ventricular tachycardia substrate  
+Ventricular tachycardia‑related anatomical isthmuses  
+Ventricular tachycardia substrate characteristics  
+Ventricular tachycardia risk  
+Ventricular arrhythmia burden  
+Post‑operative survival  
+Long‑term outcomes  
+Pulmonary valve dysfunction  
+Pulmonary valve stenosis  
+Right ventricular remodeling  
+Cardiac conduction system  
+Cardiac arrhythmia  
+Right ventricular size  
+Right ventricular function  
+Congenital heart disease (CHD)  
+Adult congenital heart disease (ACHD)  
+AHA/ACC clinical practice guideline  
+ACHD guideline
+
+Page 123 Extracted Terms:
+- Tetralogy of Fallot  
+- Repaired tetralogy of Fallot  
+- Pulmonary valve replacement  
+- Pulmonary regurgitation  
+- Pulmonary valve insufficiency  
+- Right ventricular dilation  
+- Right ventricular systolic function  
+- Right ventricular free‑wall strain  
+- Right ventricular volume / left ventricular volume ratio  
+- Biventricular interaction  
+- Biventricular global‑function index  
+- Ventricular tachycardia  
+- Ventricular arrhythmia  
+- Ventricular fibrosis  
+- Fragmented QRS complex  
+- QRS duration  
+- Slow‑conducting electroanatomic isthmus  
+- Late gadolinium enhancement  
+- Cardiac magnetic resonance (CMR)  
+- Cardiac MRI  
+- Echocardiography  
+- Speckle‑tracking echocardiography  
+- Multimodality imaging  
+- Cardiac computed tomography (CT) angiography  
+- Cardiopulmonary exercise testing  
+- Non‑sustained ventricular tachycardia  
+- Implantable cardioverter‑defibrillator (ICD)  
+- ICD shocks (inappropriate)  
+- Sudden cardiac death  
+- Mortality risk score  
+- Cardiac risk score  
+- Right atrial area  
+- Right ventricular outflow‑tract dysfunction / akinetic length  
+- Electroanatomic mapping  
+- Catheter ablation of ventricular tachycardia  
+- Surgical ablation of ventricular tachycardia  
+- Ventricular tachycardia inducibility  
+- ECG algorithm (R'' wave in V1 & terminal QRS vector in aVF)  
+- Clinical practice guidelines  
+- Adult congenital heart disease (ACHD)  
+- Congenital heart disease (CHD)  
+- Pulmonary valve replacement timing  
+- Preoperative predictors of death  
+- Post‑operative outcomes  
+- Ventricular tachycardia substrate characterization  
+- Pulmonary valve regurgitation quantification  
+- Cardiac output  
+- Left ventricular ejection fraction  
+- Cost of treating ICD patients  
+- Quality of life in ICD patients  
+- Psychological functioning in ICD patients
+
+Page 124 Extracted Terms:
+Tetralogy of Fallot  
+Pulmonary valve replacement  
+Right ventricular volume  
+Right ventricular function  
+Pulmonary regurgitation  
+Left ventricular cardiomyopathy  
+Tricuspid regurgitation  
+Tricuspid repair  
+Right ventricular outflow tract (RVOT)  
+Conduit  
+Monomorphic ventricular tachycardia  
+Ventricular tachycardia  
+Adult congenital heart disease  
+Pulmonary atresia  
+Intact ventricular septum  
+Biventricular repair  
+Right ventricular fibrosis  
+Single‑ventricle palliation  
+Fontan procedure  
+Late myocardial ischemia  
+Systemic venous hypertension  
+Low output  
+Right atrial dysfunction  
+Transcatheter pulmonary valve implantation (Melody valve)  
+Endocarditis  
+Infective endocarditis  
+Bioprosthetic valve  
+Bioprosthetic valve thrombosis  
+Echocardiography  
+Cardiac magnetic resonance imaging  
+Computed tomography angiography  
+Coronary artery compression  
+Stent fracture  
+Valve dysfunction  
+RVOT obstruction  
+Pressure gradient  
+RVOT reintervention  
+Congenital heart defect  
+Right ventricular remodeling  
+Right ventricular loading  
+Aortic‑pulmonary transposition  
+Systemic right ventricle  
+Endovascular stenting  
+Catheterization  
+Functional outcome  
+Long‑term outcomes  
+Acute outcomes  
+Midterm outcomes
+
+Page 125 Extracted Terms:
+- Adult congenital heart disease  
+- Transposition of the great arteries (dextro‑TGA)  
+- Atrial switch operation (Mustard, Senning)  
+- Systemic right ventricle  
+- Pulmonary valve dysfunction  
+- Transcatheter pulmonary valve replacement  
+- SAPIEN 3 transcatheter heart valve  
+- Balloon‑expandable valve  
+- Baffle leak / baffle obstruction  
+- Ventricular arrhythmias  
+- Sudden cardiac death  
+- Mechanical circulatory support (bridge to transplant, LVAD)  
+- Heart failure with systemic right ventricular failure  
+- Cardiac resynchronization therapy  
+- Anticoagulation (NOACs) for systemic right ventricle  
+- Dapagliflozin therapy (heart failure)  
+- Sacubitril/valsartan therapy (heart failure)  
+- Myocardial work analysis (biventricular performance)  
+- Risk scoring for major clinical events (post‑atrial switch)  
+- Ventricular arrhythmia risk score  
+- Cardiac MRI predictors of adverse outcomes  
+- Ventricular size and function (subpulmonary left ventricle)  
+- Cardiopulmonary exercise testing (ventilatory efficiency, aerobic capacity)  
+- Cyanosis‑associated exercise response  
+- Magnetic navigation & robotic ablation (atrial tachyarrhythmias)  
+- Stent placement (intra‑vascular, baffle)  
+- Catheter‑based interventions for baffle repair  
+- Exercise capacity guidelines for congenital heart disease athletes  
+- Competitive sport participation recommendations (CHD)  
+- Multimodality imaging guidelines (echocardiography, CMR, CT)  
+- Machine‑learning assessment of systemic right ventricle  
+- Non‑invasive respiratory monitoring for congenital heart disease.
+
+Page 126 Extracted Terms:
+- Congenital heart disease  
+- Transposition of the great arteries  
+- Arterial switch operation  
+- Atrial switch operation (Senning/Mustard)  
+- Systemic right ventricle  
+- Transcatheter pacing leads  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Implantable loop recorder  
+- Late gadolinium enhancement cardiovascular magnetic resonance  
+- Pulmonary stenosis  
+- Neo‑aortic regurgitation  
+- Neo‑aortic root growth  
+- Aortic root dilatation  
+- Aortic valve regurgitation  
+- Coronary artery complications  
+- Coro​nary events  
+- Coro​nary artery bypass grafting (bypass)  
+- Mechanical circulatory support (LVAD, VAD)  
+- Heart failure (advanced)  
+- Thromboprophylaxis for atrial arrhythmias  
+- Tricuspid valve replacement  
+- Tricuspid valve repair  
+- Cardiac resynchronization therapy  
+- Angiotensin receptor blockers (e.g., valsartan, losartan)  
+- Phosphodiesterase‑5 inhibitors (e.g., sildenafil)  
+- Sacubitril‑valsartan (ARNI)  
+- Exercise capacity reduction  
+- Arrhythmia detection  
+- Coronary artery compression  
+- Coronary artery graft failure  
+- Pulmonary artery evaluation  
+- Four‑dimensional flow magnetic resonance imaging  
+- Myocardial stress perfusion MRI (regadenoson)  
+- Echocardiography (transthoracic, transesophageal)  
+- Afterload reduction therapy  
+- Ventricular deformation imaging  
+- Medical therapy for systemic right ventricle  
+- Cardiac transplant outcomes  
+- Cardiac transplant bridge (mechanical assist device)  
+- Transplantation referral for thoracic organ disease  
+- Renal dysfunction in advanced heart failure  
+- Patient‑reported health status  
+- Long‑term survival after arterial switch  
+- Long‑term survival after atrial switch / arterial switch  
+- Cardiac surgical outcomes in d‑transposition of the great arteries  
+- Neonatal and pediatric outcomes after arterial switch  
+- Late coronary artery complications post‑arterial switch  
+- Pulmonary artery stenosis after arterial switch  
+- Long‑term prognosis of neo‑aortic root  
+- Coronary artery anatomy post‑arterial switch  
+- Left ventricular assist device support in transposition of the great arteries  
+- Mechanical ventricular assist device  
+- Cardiac surgery for d‑transposition of the great arteries.
+
+Page 127 Extracted Terms:
+- D‑transposition of the great arteries (D‑TGA)  
+- Transposition of the great arteries (TGA)  
+- Arterial switch operation (Jatene procedure)  
+- Rastelli repair  
+- Nikaidoh procedure  
+- Reverse‑edge ventricular outflow tract (REV) procedure  
+- Double‑outlet right ventricle (DORV)  
+- Ventricular septal defect (VSD)  
+- Pulmonary valve stenosis (PVS)  
+- Pulmonary arteriovenous malformation  
+- Pulmonary artery stenosis (PAS)  
+- Branch pulmonary artery stenosis  
+- Right ventricular dysfunction / failure  
+- Left ventricular outflow tract obstruction (LVOTO)  
+- Pulmonary outflow tract obstruction (POTO)  
+- Biventricular outflow tract reconstruction  
+- Aortic translocation  
+- Aortic valve–sparing root replacement  
+- Bentall procedure  
+- Congenital heart disease (CHD)  
+- Complex congenital heart disease  
+- Chronic coronary disease / coronary artery disease (CAD)  
+- Aortic disease (including aortic dissection and aneurysm)  
+- Infective endocarditis (post‑valve or post‑repair)  
+- Transcatheter pulmonary valve replacement  
+- Melody valve  
+- Branch pulmonary artery reintervention  
+- Pulmonary artery gradient  
+- Coronary artery anatomy (specifically coronary pattern post‑arterial switch)  
+- Residual coronary/arterial gradients  
+- Right ventricular to pulmonary arterial coupling  
+- Biventricular surgical strategy  
+- Coronary artery reintervention  
+- Exercise capacity metrics (e.g., VO₂ max)  
+- Multimodality imaging guidelines (Echocardiography, MRI, CT)  
+- 4‑D flow MRI  
+- 3‑D magnetic resonance imaging of coronary arteries  
+- Echocardiography  
+- Cardiothoracic magnetic resonance imaging (CMR)  
+- Cardiac computed tomography (CCT)  
+- Congenital heart disease management guidelines (ACC/AHA, AHA/ACC, etc.)  
+- 2020 ACC/AHA guideline for valvular heart disease  
+- 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA guideline for chronic coronary disease  
+- 2022 ACC/AHA guideline for aortic disease  
+- 2019 AHA/ACC guideline for adults with congenital heart disease  
+- 2018 AHA/ACC guideline for management of adults with congenital heart disease (Task Force)  
+- 2025 ACHD guideline  
+- Outcomes studies of arterial switch operation  
+- Outcomes studies of Rastelli repair  
+- Outcomes studies of Nikaidoh/REV procedures  
+- Outcomes studies of double‑root translocation  
+- Outcomes studies of pulmonary‑to‑pulmonary conduits  
+- Outcomes studies of biventricular right‑ventricle–pulmonary‑artery conduits  
+- Neurocognitive and psychological outcomes in adults with corrected D‑TGA  
+- Quality‑of‑life outcomes after neonatal arterial switch operation  
+- Long‑term myocardial infarction outcomes in adults with congenital heart disease  
+- Age‑ and lesion‑related comorbidity burden in congenital heart disease  
+- Long‑term survival and freedom from coronary artery reintervention post‑arrest  
+- Impact of coronary artery anatomy on surgical outcomes  
+- Imaging assessment of neopulmonary outflow tract obstruction  
+- Coronary artery obstruction surveillance post‑arterial switch  
+- Pulmonary valve replacement risks and complications  
+- Surgical repair of pulmonary valve atresia with coronary‑pulmonary artery fistula  
+- Surgical repair of transposition with VSD and subpulmonary stenosis  
+- Surgical repair strategies for complex transposition (double‑root, Rastelli, Nikaidoh, REV, etc.)  
+- Arrhythmias in adults after Rastelli surgery  
+- Long‑term follow‑up of patients undergoing pulmonary‑ventricle to pulmonary artery conduits  
+- Surgical outcomes of double‑root translocation for TGA with pulmonary stenosis  
+
+(These are the primary terms extracted from the provided clinical statements and guidelines that relate to heart disease.)
+
+Page 128 Extracted Terms:
+- Congenital heart disease (CHD)  
+- Congenitally corrected transposition of the great arteries (CCTGA)  
+- Systemic right ventricle (SRV)  
+- Truncus arteriosus  
+- Double‑outlet right ventricle (DORV)  
+- Fontan palliation / Fontan circulation  
+- Single ventricle (functional single‑ventricle heart)  
+- Atrioventricular valve surgery (e.g., systemic AV valve repair)  
+- Tricuspid valve replacement / tricuspid regurgitation  
+- Systemic ventricular dysfunction / SRV failure  
+- Arrhythmia (atrial & ventricular)  
+- Arrhythmia burden, atrial arrhythmia, atrial switch operation  
+- Cardiac resynchronization therapy (CRT)  
+- Cardiac remodeling  
+- Echocardiography (including 3‑D, transesophageal, and imaging for ventricular strain)  
+- Longitudinal strain of the systemic right ventricle  
+- Exercise capacity / aerobic capacity / exercise tolerance  
+- Cardiac output augmentation  
+- Angiotensin‑receptor neprilysin inhibitor (ARNI) therapy  
+- Sacubitril/valsartan use in systemic RV failure  
+- Thrombotic/embolic complications (atrial thrombosis, emboli)  
+- Thromboprophylaxis (including direct oral anticoagulants)  
+- Pacemaker implantation / ventricular pacing effects  
+- Mortality / morbidity in adult Fontan patients  
+- Hepatocellular carcinoma & liver cirrhosis (in Fontan patients)  
+- Pulmonary valve and aortic root translocation / en‑bloc rotation procedures  
+- Virtual surgical planning / 3‑D modelling of intracardiac baffles (DORV)  
+- Exercise training / resistance training in Fontan and single‑ventricle patients  
+- Post‑operative outcomes for repair of truncus arteriosus, DORV, and Fontan surgeries  
+- Chromosome 22q11 deletion in truncus arteriosus patients.
+
+Page 129 Extracted Terms:
+Fontan operation  
+Fontan circulation  
+Fontan physiology  
+Fontan failure  
+Fontan-associated complications  
+Fontan-associated liver disease  
+Fontan-associated thrombosis  
+Fontan thrombus  
+Fontan conversion surgery  
+Fontan procedure  
+Fontan patient  
+Fontan surgery outcomes  
+Single ventricle physiology  
+Ventricular physiology after Fontan  
+Supraventricular tachyarrhythmia  
+Atrial arrhythmia  
+Atrial tachyarrhythmia  
+Supraventricular tachycardia  
+Atrial flutter  
+Atrial fibrillation  
+Cardiac arrhythmias  
+Arrhythmias post‑Fontan  
+Thromboembolism  
+Thromboembolic complications  
+Thrombosis  
+Thrombus formation  
+Intracardiac thrombus  
+Intracardiac thrombi  
+Anticoagulant therapy  
+Antiplatelet therapy  
+Warfarin  
+Aspirin  
+Non‑vitamin K antagonist oral anticoagulants  
+Thromboprophylaxis  
+Antithrombotic regimens  
+Anticoagulation  
+Hemodynamic monitoring  
+Hemodynamics  
+Cardiac pacing  
+Ventricular pacing  
+Atrial pacing  
+Pacemaker lead  
+Pacing complications  
+Heart transplant  
+Advanced heart failure  
+Heart failure consultation  
+Liver fibrosis  
+Transjugular liver biopsy  
+Magnetic resonance elastography  
+Peak oxygen consumption  
+Exercise capacity  
+Iron deficiency  
+Creatinine  
+Cystatin C  
+Glomerular filtration rate  
+Thrombotic complications  
+Portal hypertension  
+Hepatocellular carcinoma  
+Liver cancer  
+Liver nodules  
+Liver disease  
+Aortopulmonary shunt  
+Cavopulmonary shunt  
+Extracardiac conduit  
+Intracardiac conduit  
+Azygous continuation of inferior vena cava  
+Computed tomography angiography  
+CT angiography  
+Echocardiography  
+Transesophageal echocardiography  
+Transthoracic echocardiography  
+Magnetic resonance imaging  
+Cardiothoracic imaging  
+Cardiac MRI  
+Cardiac CT  
+Clinical phenotypes  
+Clinical outcomes  
+Survival  
+Mortality  
+Late mortality  
+Predictors of mortality  
+Outcomes of pacing  
+Cardiac complications  
+Late death  
+Late complications  
+Early thrombosis  
+Thromboembolic events  
+Thrombotic events  
+Hemodynamic study
+
+Page 130 Extracted Terms:
+- Fontan physiology  
+- Fontan circulation  
+- Fontan procedure  
+- Fontan conversion  
+- Fontan pathway  
+- Fontan conduit stent‑angioplasty  
+- Single‑ventricle physiology  
+- Atrioventricular valve failure  
+- Atrioventricular valve replacement  
+- Heart‑liver transplantation  
+- Dual‑site ventricular pacing  
+- Heart block  
+- Atrial arrhythmias  
+- Late atrial tachycardia  
+- Cryoablation  
+- Pacemaker therapy  
+- Arrhythmia surgery  
+- Extracardiac Fontan conversion  
+- Amiodarone therapy  
+- Ambrisentan therapy  
+- Sildenafil therapy  
+- Pulmonary arterial hypertension (PAH)  
+- Pulmonary hypertension in congenital heart disease  
+- Eisenmenger syndrome  
+- Bosentan therapy  
+- Tadalafil therapy  
+- Phosphodiesterase‑5 inhibitors  
+- Pulmonary vasodilators  
+- Pulmonary vascular resistance  
+- Aortopulmonary collaterals  
+- Systemic‑to‑pulmonary arterial collaterals  
+- Superior caval‑pulmonary connections  
+- Aortopulmonary shunt closure  
+- Congenital heart disease (CHD) – adult population  
+- Shunt closure complications  
+- Hypoplastic left heart syndrome (HLHS) – Norwood repair  
+- Early developmental outcome in single‑ventricle reconstruction  
+- Pregnancy outcomes in Eisenmenger syndrome  
+- Maternal outcomes in congenital heart disease‑associated pulmonary hypertension  
+- Exercise tolerance in Fontan patients  
+- Central venous pressure prediction  
+- Stenosis of Fontan connection  
+- Stroke prevention in atrial arrhythmias  
+- Hemodynamics of Fontan failure  
+- Exercise capacity after heart transplantation  
+- Long‑term survival after Fontan procedure  
+- Peri‑operative morbidity in Fontan surgery  
+- Surgical conversion strategies for Fontan patients  
+- Outcome of atrioventricular valve surgery post‑Fontan  
+- Outcomes of atrial tachycardia ablation in Fontan patients  
+- Long‑term outcome after atrioventricular valve surgery following modified Fontan operation  
+- Atrial fibrillation and atrial flutter in congenital heart disease  
+- Heart transplantation for complex congenital heart disease  
+- Fontan‑associated liver disease  
+- Stent placement in Fontan pathway  
+- Pulmonary vasodilatory therapy efficacy  
+- Pulmonary arterial hypertension guidelines for adults  
+- CHEST guideline on pulmonary arterial hypertension  
+- AHA/ACC guideline for adults with congenital heart disease  
+- Cardiac rehabilitation in congenital heart disease  
+- Arrhythmia management in adult congenital heart disease  
+
+These terms capture the key heart‑disease concepts, interventions, and related conditions addressed in the guideline excerpts.
+
+Page 131 Extracted Terms:
+Eisenmenger syndrome  
+Pulmonary arterial hypertension  
+Congenital heart disease  
+Eisenmenger physiology  
+Pulmonary hypertension  
+Right ventricular function  
+Left ventricular function  
+Biventricular dysfunction  
+Ventricular septal defect  
+Arrhythmias  
+Atrial fibrillation  
+Anticoagulation therapy  
+Thromboprophylaxis  
+Prostacyclin therapy  
+Bosentan  
+Sildenafil  
+Ambrisentan  
+Iloprost  
+Riociguat  
+Triple vasodilator therapy  
+Leadless pacemaker implantation  
+Leadless atrioventricular synchronous pacing  
+Exercise training  
+Exercise limitations  
+Physical functioning  
+Quality of life  
+Oxygen saturation  
+Pulmonary vascular resistance  
+Pulmonary arterial thrombosis  
+B‑type natriuretic peptide  
+Cardiopulmonary magnetic resonance  
+Thromboembolic events  
+Cardiovascular complications in pregnancy  
+Tachyarrhythmia management  
+Transvenous pacing leads  
+Surgical correction of left‑to‑right shunts  
+Anomalous aortic origin of a coronary artery  
+Anomalous coronary artery  
+MRI angiography (non‑contrast, free‑breathing)  
+Coronary CTA (computed tomography angiography)
+
+Page 132 Extracted Terms:
+- Anomalous coronary artery  
+- Anomalous coronary artery origin  
+- Anomalous aortic origin of the coronary artery  
+- Anomalous right coronary artery from the left sinus of Valsalva  
+- Anomalous left coronary artery from the pulmonary artery  
+- Coronary artery reimplantation (correction of anomalous origin)  
+- Coronary artery fistula  
+- Vascular ring  
+- Pulmonary artery sling  
+- Congenital heart disease (adult)  
+- Sudden cardiac death (associated with coronary anomalies)  
+- Ischemia (identified by myocardial perfusion imaging)  
+- Coronary artery disease (obstructive disease in congenital anomalies)  
+- Fractional flow reserve (assessment of haemodynamic significance)  
+- Stress cardiac magnetic resonance imaging (dobutamine or other)  
+- Positron emission tomography myocardial perfusion imaging  
+- Coronary angiography (used to evaluate anomalies)  
+- Transcatheter fistula closure (management of coronary artery fistula)  
+- Surgical correction of anomalous coronary artery origins.
+
+Page 133 Extracted Terms:
+- Adults With Congenital Heart Disease  
+- Congenital Heart Disease  
+- Adult Congenital Heart Disease Fellowship  
+- Adult Congenital Heart Program  
+- Congenital Cardiothoracic Surgery  
+- Cardiovascular Medicine  
+- Cardiology
+
+Page 134 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- Adult Congenital Heart Disease  
+- Congenital Heart Disease  
+- Cardiology  
+- Pediatric Cardiology  
+- Cardiovascular Medicine  
+- Heart Transplantation  
+- Advanced Congenital Cardiac Therapies  
+- Adult Single Ventricle Clinic  
+- Heart Institute  
+- Heart Center  
+- Cardiac Therapies  
+- Electrophysiology  
+- Heart Failure  
+- ISACHD (International Society for Adult Congenital Heart Disease)  
+- ACHD (Adult Congenital Heart Disease)  
+- Heart Disease  
+- Heart Transplant  
+- Heart Institute (dual reference)
+
+Page 135 Extracted Terms:
+- Adult Congenital Heart Disease  
+- Congenital Heart Disease  
+- Cardiovascular Disease  
+- Aortic Valve Replacement  
+- Transcatheter Aortic Valve Replacement  
+- Cardiology  
+- Cardiac  
+- Myocardial Infarction  
+- Heart Disease  
+- Heart Rhythm  
+- Pregnancy and Cardiovascular Disease Program  
+- Adult Congenital Cardiac Clinic  
+- American Heart Association (AHA)  
+- American College of Cardiology (ACC)  
+- International Society for Adult Congenital Heart Disease (ISACHD)  
+- Heart Rhythm Society (HRS)  
+- Society for Cardiovascular Angiography and Intervention (SCAI)  
+- National Heart, Lung, and Blood Institute (NHLBI)  
+- National Institutes of Health (NIH)
+
+Page 136 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+- Adult Congenital Heart Disease (ACHD)  
+- Congenital Heart Disease  
+- Congenital cardiac conditions  
+- Congenital heart surgery  
+- Adult congenital heart disease management  
+- Cardiology  
+- Cardiology practice  
+- Cardiologist  
+- Pediatric cardiology / Paediatric cardiology  
+- Congenital heart surgeon  
+- ACHD Program  
+- Adult Congenital Heart Association (ACHA)  
+- American Heart Association (AHA)  
+- American College of Cardiology (ACC)  
+- Heart Rhythm Society (HRS)  
+- International Society for the Advancement of Cardiovascular Surgery (ISACHD)  
+- Society for Cardiovascular Angiography and Interventions (SCAI)  
+- Clinical guideline for ACHD  
+- Guideline peer‑review committee  
+- Interventional cardiac systems  
+- Cardiovascular devices  
+- Life‑sciences technology  
+- Medical devices for heart disease  
+- Cardiac clinical education / training  
+- Cardiac surgery education  
+
+These terms capture the primary heart‑disease concepts and specialties referenced in the guideline text.
+
+Page 137 Extracted Terms:
+Adult Congenital Heart Disease (ACHD)  
+Congenital Heart Disease (CHD)  
+Fontan Procedure / Fontan Outcomes Network  
+International Society for Adult Congenital Heart Disease (ISACHD)  
+American Heart Association (AHA)  
+American College of Cardiology (ACC)  
+Adult Congenital Heart Association (ACHA)  
+Alliance for Adult Research in Congenital Cardiology (AARCC)  
+Heart Rhythm Society (HRS)  
+National Heart, Lung, and Blood Institute (NHLBI)  
+Society for Cardiovascular Angiography & Interventions (SCAI)  
+Cardiologist  
+Interventional Cardiologist  
+Cardiovascular Medicine  
+Pediatric Cardiology  
+Medtronic (cardiovascular devices)  
+Abbott Laboratories  
+B Braun Medical  
+Biosense Webster  
+Occlutech  
+Edward Life‑sciences  
+Quidel (diagnostics)
+

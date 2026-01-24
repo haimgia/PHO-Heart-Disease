@@ -1,0 +1,2739 @@
+Page 1 Extracted Terms:
+**Key heart‑disease–related terms extracted**
+
+- Lower extremity peripheral artery disease  
+- Peripheral artery disease  
+- Asymptomatic peripheral artery disease  
+- Chronic symptomatic peripheral artery disease  
+- Chronic limb‑threatening ischemia  
+- Acute limb ischemia  
+- Vascular disease  
+- Cardiovascular  
+- Endovascular surgery  
+- Interventional radiology  
+- Angiography  
+- Vascular surgery  
+- Vascular nursing  
+- Clinical practice guidelines  
+- ACC (American College of Cardiology)  
+- AHA (American Heart Association)  
+- AACVPR (American Association of Cardiovascular and Pulmonary Rehabilitation)  
+- APMA (American Podiatric Medical Association)  
+- ABC (Association of Black Cardiologists)  
+- SCAI (Society for Cardiovascular Angiography and Interventions)  
+- SVM (Society for Vascular Medicine)  
+- SVN (Society for Vascular Nursing)  
+- SVS (Society for Vascular Surgery)  
+- SIR (Society of Interventional Radiology)  
+- VESS (Vascular & Endovascular Surgery Society)  
+- Guideline  
+- Evidence  
+- Literature review  
+- PubMed  
+- EMBASE  
+- Cochrane Library  
+- CINHL Complete  
+
+These terms capture the primary clinical, procedural, and organizational concepts related to heart and vascular disease present in the provided guideline text.
+
+Page 2 Extracted Terms:
+**Key terms related to heart disease extracted from the guideline text**
+
+- Atherosclerosis  
+- Antiplatelet therapy  
+- Anticoagulation therapy  
+- Antithrombotic therapy  
+- Lipid‑lowering therapy  
+- Antihypertensive therapy  
+- Statin therapy  
+- Cardiovascular risk reduction  
+- Diabetes management (as a key cardiovascular risk factor)  
+- Smoking cessation  
+- Acute limb ischemia (a manifestation of systemic arterial occlusion)  
+- Chronic limb‑threatening ischemia (CLTI, indicating severe systemic atherosclerosis)  
+- Peripheral arterial disease (PAD) – the overarching vascular disorder linked to coronary disease  
+- Ischemia (general term encompassing myocardial, limb, and other tissue ischemia)  
+- Revascularization (both endovascular and open surgical)  
+- Endovascular therapy  
+- Bypass grafting / vascular surgery  
+- Stenting  
+- Thrombolysis  
+- Blood pressure lowering  
+- Cardiovascular risk amplifiers (e.g., older age, sex, comorbidities)  
+
+These terms capture the core cardiovascular components addressed in the guideline, even though the primary focus is on peripheral vascular disease.
+
+Page 3 Extracted Terms:
+- Peripheral artery disease (PAD)  
+- Cardiovascular disease (CVD)  
+- Myocardial infarction  
+- Stroke  
+- Ankle‑brachial index  
+- Antiplatelet therapy  
+- Antithrombotic therapy  
+- Lipid‑lowering therapy  
+- High‑intensity statin  
+- Antihypertensive therapy  
+- Diabetes management  
+- Smoking cessation  
+- Rivaroxaban  
+- Aspirin  
+- Structured exercise therapy  
+- Endovascular revascularization  
+- Surgical revascularization  
+- Hybrid revascularization  
+- Limb loss (prevention)  
+- Foot care (preventive and advanced)  
+- Wound‑healing therapies  
+- Foot surgery  
+- Multispecialty care team  
+- American College of Cardiology (ACC)  
+- American Heart Association (AHA)
+
+Page 4 Extracted Terms:
+**Key Heart‑Disease Related Terms Extracted**
+
+- Peripheral Artery Disease (PAD)  
+- Cardiovascular disease  
+- Heart disease  
+- American Heart Association (AHA)  
+- American College of Cardiology (ACC)  
+- AHA/ACC Joint Committee on Clinical Practice Guidelines  
+- Guideline‑directed management and therapy (GDMT)  
+- Clinical evaluation  
+- Diagnostic testing  
+- Pharmacological treatments  
+- Procedural treatments  
+- Drug treatment regimens  
+- Devices (cardiovascular devices)  
+- Benefit‑risk assessment  
+- Evidence‑based methodology  
+- Randomized controlled trials (RCTs)  
+- Non‑randomized comparative studies  
+- Cohort studies  
+- Registries  
+- Systematic reviews  
+- Evidence review committee  
+- Patient engagement  
+- Comorbidities  
+- Cost–value considerations  
+- Clinical practice settings  
+- Modularity in guideline presentation (knowledge chunk format)  
+- Peer review  
+- Regulatory compliance (US approval status)
+
+Page 5 Extracted Terms:
+**Key terms related to heart disease extracted from the guideline text**
+
+- Cardiovascular disease (CVD)  
+- Peripheral artery disease (PAD)  
+- Atherosclerotic disease  
+- Thrombotic disease  
+- Lower‑extremity arteries  
+- Angioplasty  
+- Bypass grafting / open bypass surgery  
+- Stenting  
+- Thrombolysis  
+- Statin therapy  
+- Antiplatelet therapy  
+- Antithrombotic therapy  
+- Lipid‑lowering therapy  
+- Blood‑pressure‑lowering therapy  
+- Diabetes (as a cardiovascular risk factor)  
+- Ankle‑brachial index (diagnostic test)  
+- Endovascular therapy  
+- Hybrid approach (combining endovascular and open methods)  
+- Exercise rehabilitation / exercise therapy / exercise training (cardiovascular rehab)  
+- Smoking cessation (cardiovascular risk modification)  
+- Diagnostic testing (imaging, functional testing)  
+- Clinical practice guidelines (ACC, AHA, etc.)
+
+Page 6 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Aortoiliac arterial segment  
+- Femoropopliteal arterial segment  
+- Infrapopliteal arterial segment  
+- Vasculitis (as a cause of lower‑extremity arterial disease)  
+- Fibromuscular dysplasia  
+- Cystic adventitial disease  
+- Perioperative cardiovascular evaluation and management  
+- Dual antiplatelet therapy in coronary artery disease  
+- Coronary artery disease (CAD)  
+- High blood pressure / hypertension in adults  
+- Blood cholesterol management  
+- Stroke prevention in patients with prior stroke or transient ischemic attack  
+- Chronic coronary disease management  
+- Influenza vaccination as secondary prevention for cardiovascular disease  
+- Cardiovascular disease (CVD) in general  
+- Ankle‑brachial index measurement and interpretation  
+- Aorto‑iliac arterial intervention (appropriate use)  
+- Lower extremity threatened limb classification system  
+- Atherosclerotic occlusive disease of the lower extremities (asymptomatic disease and claudication)  
+- Claudication (intermittent claudication)  
+- Diabetes type 2 – prevention of cardiovascular disease  
+- Tobacco cessation treatment for cardiovascular risk reduction  
+- Exercise programs for patients with PAD  
+- Chronic limb‑threatening ischemia (CLTI) management  
+- Critical limb ischemia (CLI) perfusion assessment  
+- Peripheral artery intervention (endovascular)  
+- Device selection in aorto‑iliac arterial interventions  
+- Lower‑extremity amputations – reduction strategies  
+- Telehealth in cardiovascular disease management  
+- Diabetes management – standards of care  
+- Endovascular specialist competencies for CLTI care  
+- Health disparities in peripheral artery disease  
+- Peripheral artery disease quality‑of‑care improvement and patient‑reported outcomes  
+- Intermittent claudication management  
+- Limb‑ischaemia evaluation and device deployment  
+- Cardiovascular rehabilitation (ACVPR, AHA)   
+- Cardiovascular and pulmonary rehabilitation (AACVPR)  
+- Cardiovascular disease prevention strategies (e.g., lifestyle, pharmacologic)
+
+Page 7 Extracted Terms:
+- MACE (major adverse cardiovascular events)
+- MI (myocardial infarction)
+- Acute coronary syndrome (including acute MI, unstable angina)
+- Stroke
+- Heart failure
+- Death (all‑cause or cardiovascular)
+- Rehospitalization for cardiovascular causes
+- Cardiovascular (as an endpoint or cause)
+
+Page 8 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Lower Extremity Peripheral Artery Disease  
+- ACC (American College of Cardiology)  
+- AHA (American Heart Association)  
+- AACVPR (American Association of Cardiovascular and Pulmonary Rehabilitation)  
+- APMA (American Pulmonary & Medical Association)  
+- ABC (American Board of Cardiology)  
+- SCAI (Society for Cardiovascular Angiography & Interventions)  
+- SVM (Society of Vascular Medicine)  
+- SVN (Society for Vascular Nursing)  
+- SVS (Society of Vascular Surgery)  
+- SIR (Society of Interventional Radiology)  
+- VESS (Venous and Vascular Surgery Society)  
+- Management of Lower Extremity PAD  
+- Class of Recommendation (COR)  
+- Level of Evidence (LOE)  
+- Clinical Trials  
+- Interventions  
+- Treatments  
+- Diagnostic Testing  
+- Patient Care (in the context of cardiovascular practice)
+
+Page 9 Extracted Terms:
+- Peripheral Artery Disease  
+- Coronary Artery Disease  
+- Cardiovascular Disease  
+- Myocardial Infarction  
+- Major Adverse Cardiovascular Events  
+- Angiotensin‑converting Enzyme  
+- Angiotensin‑converting Enzyme Inhibitor  
+- Low‑Density Lipoprotein Cholesterol  
+- Guideline‑Directed Medical Therapy  
+- Systolic Blood Pressure  
+- 6‑Minute Walk Test  
+- Ankle‑Brachial Index  
+- Computed Tomography Angiography  
+- Magnetic Resonance Angiography  
+
+(Note: Terms directly related to heart disease are highlighted, with related diagnostic and therapeutic concepts included.)
+
+Page 10 Extracted Terms:
+- Peripheral arterial disease (PAD)  
+- Asymptomatic PAD  
+- Claudication  
+- Chronic symptomatic PAD  
+- Chronic limb‑threatening ischemia (CLTI)  
+- Acute limb ischemia (ALI)  
+- Major adverse cardiovascular events (MACE)  
+- Mortality  
+- Atrial fibrillation  
+- Revascularization  
+- Fontaine classification  
+- Rutherford classification  
+- WIfI classification (Wound, Ischemia, Foot Infection)  
+- Ischemic rest pain  
+
+---
+
+Page 11 Extracted Terms:
+**Key terms related to heart disease**
+
+- Peripheral Artery Disease (PAD)  
+- Atherosclerotic Vascular Disease  
+- Cardiovascular Risk Factors  
+- Atherosclerosis  
+- Coronary Artery Disease (CAD)  
+- Carotid Artery Disease  
+- Subclavian Artery Disease  
+- Renal Artery Stenosis  
+- Mesenteric Artery Stenosis  
+- Abdominal Aortic Aneurysm (AAA)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Major Adverse Limb Events (MALE)  
+- Claudication  
+- Walking Impairment  
+- Ankle‑Brachial Index (ABI)  
+- Low/Reduced ABI  
+- Lower Extremity Pulse Assessment (Femoral, Popliteal, Dorsalis Pedis, Posterior Tibial)  
+- Pulse Deficits (absent, diminished, normal, bounding)  
+- Vascular Bruit (epigastric, periumbilical, groin)  
+- Foot Inspection & Foot Care for PAD  
+- Non‑healing Lower Extremity Wound  
+- Lower Extremity Gangrene  
+- Peripheral Neuropathy (in patients with diabetes)  
+- Erectile Dysfunction (as a PAD risk marker)  
+
+These terms capture the cardiovascular disease concepts, risk factors, diagnostic measures, and clinical features discussed in the guideline.
+
+Page 12 Extracted Terms:
+**Key terms related to heart (cardiovascular) disease in the guideline text**
+
+- Peripheral arterial disease (PAD)  
+- Ankle‑brachial index (ABI)  
+- Resting ABI  
+- Exercise treadmill ABI  
+- Abnormal ABI (≤ 0.90)  
+- Borderline ABI (0.91–0.99)  
+- Normal ABI (1.00–1.40)  
+- Noncompressible ABI (> 1.40)  
+- Toe‑brachial index (TBI)  
+- Toe pressure  
+- Transcutaneous oxygen pressure (TcPO₂)  
+- Skin perfusion pressure (SPP)  
+- Segmental leg pressures  
+- Doppler waveforms  
+- Ankle pulse volume recordings (PVR)  
+- Angiography (invasive imaging)  
+- Revascularization  
+- Chronic limb‑threatening ischemia (CLTI)  
+- Chronic symptomatic PAD  
+- Exertional (claudication) pain  
+- Rest pain  
+- Leg ischemia  
+- Risk factors for PAD (e.g., diabetes, smoking, hyperlipidemia)  
+- Screening for PAD  
+- Diagnostic testing for PAD  
+- Clinical guideline statement  
+- Evidence‑based recommendation  
+- Cardiovascular disease (general term encompassing PAD)  
+- Atherosclerosis (underlying pathology)  
+- Ischemia (limb and systemic)  
+- Peripheral vascular disease (broader term)  
+
+These terms capture the cardiovascular/heart‑related concepts embedded in the PAD guideline narrative.
+
+Page 13 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Chronic Limb-Threatening Ischemia (CLTI)  
+- Critical Limb Ischemia (CLI)  
+- Acute Limb Ischemia (ALI)  
+- Ankle‑Brachial Index (ABI)  
+- Toe‑Brachial Index (TBI)  
+- Toe pressure  
+- Transcutaneous partial pressure of oxygen (TcPO₂)  
+- Skin perfusion pressure (SPP)  
+- Doppler waveforms (continuous‑wave Doppler)  
+- Plethysmographic pulse volume recording (PVR)  
+- Segmental pressures  
+- Leg pressure monitoring  
+- Noncompressible vessels  
+- Diabetes mellitus (as a modifier of PAD severity)  
+- Chronic kidney disease (CKD)  
+- Cardiovascular morbidity  
+- Cardiovascular mortality  
+- Atherosclerosis  
+- Coronary artery disease (implied in GDMT)  
+- Cardiac monitoring  
+- Coronary calcium computed tomography (CT)  
+- Abdominal aortic aneurysm (AAA) screening  
+- Structured exercise programs for PAD  
+- Guideline‑directed medical therapy (GDMT) for PAD  
+- Vascular screening programs  
+- Symptom‑free (asymptomatic) PAD  
+- Functional status decline in PAD  
+- Vascular laboratory assessment  
+- Office‑based ABI measurement  
+- Perfusion imaging techniques
+
+(These terms capture the core heart‑and‑vascular‑related concepts presented in the guideline excerpt.)
+
+Page 14 Extracted Terms:
+- Ankle‑Brachial Index (ABI)  
+- Toe‑Brachial Index (TBI)  
+- Peripheral Artery Disease (PAD)  
+- Chronic Limb‑Threatening Ischemia (CLTI)  
+- Computed Tomography Angiography (CTA)  
+- Magnetic Resonance Angiography (MRA)  
+- Guideline‑Directed Management and Therapy (GDMT)  
+- Pulse Volume Recording (PVR)  
+- Skin Perfusion Pressure (SPP)  
+- Transcutaneous Oxygen Pressure (TcPO₂)  
+- Exercise Treadmill ABI  
+- Doppler Device  
+- Blood Pressure Cuff  
+- Digital Arteries  
+- Diabetic Neuropathy (implied comorbidity)  
+- Chronic Kidney Disease (CKD, implied comorbidity)
+
+Page 15 Extracted Terms:
+**Key heart‑disease related terms extracted from the guideline text**
+
+- Peripheral Artery Disease (PAD)  
+- Chronic Limb‑Threatening Ischemia (CLTI)  
+- Ankle‑Brachial Index (ABI)  
+- Toe pressure / Toe‑Brachial Index (TBI)  
+- Exercise ABI testing  
+- Treadmill exercise ABI  
+- Walking performance metrics (time to onset of symptoms, maximal walking time)  
+- Post‑exercise ABI  
+- Medical therapy (for PAD)  
+- Structured exercise therapy (for PAD)  
+- Revascularization (for PAD)  
+- Randomized Controlled Trials (RCTs) in PAD therapy evaluation  
+- Segmental limb pressure measurements  
+- Peripheral Vascular Resistance (PVR)  
+- Doppler waveforms (lower extremity arterial)  
+- Aortoiliac arterial disease  
+- Femoropopliteal arterial disease  
+- Infrapopliteal arterial disease  
+- Imaging for PAD (angiography, duplex ultrasound, etc.)  
+- Lower‑extremity arterial waveform nomenclature  
+- Vascular laboratory setting  
+- Blood pressure gradients between cuffs (leg to ankle)  
+- Peripheral vascular disease (general term)  
+- Atherosclerotic cardiovascular disease (broader context)  
+- American Heart Association (organizational reference)  
+- American College of Cardiology Foundation (organizational reference)
+
+Page 16 Extracted Terms:
+- Peripheral Arterial Disease (PAD)  
+- Critical Limb Ischemia (CLTI)  
+- Ankle‑Brachial Index (ABI)  
+- Toe‑Brachial Index (TBI)  
+- Skin Perfusion Pressure (SPP)  
+- Transcutaneous Oxygen Tension (TcPO₂)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Duplex ultrasound  
+- Computed Tomography Angiography (CTA)  
+- Magnetic Resonance Angiography (MRA)  
+- Catheter angiography  
+- Claudication  
+- Ischemia  
+- Amputation  
+- Wound healing  
+- Perfusion assessment  
+- Revascularization strategy  
+- Vascular access  
+- Contrast media  
+- Radiation exposure  
+- Laser Doppler flowmetry  
+- Laser speckle imaging  
+- Pedal acceleration time  
+- Spatial frequency domain imaging  
+- Toe pressures  
+- Continuous‑wave Doppler waveform  
+- Photoplethysmographic waveform  
+- Abnormal ABI/TBI values  
+- Major amputation  
+- Non‑healing lower‑extremity wounds  
+- Structural exercise (as part of GDMT)  
+- Anatomic assessment of disease severity  
+- Vascular imaging modalities  
+- Diagnostic imaging for PAD  
+- Ankle‑brachial index assessment  
+- Functional limitation of claudication  
+- Revascularization planning  
+- Clinical suspicion of PAD  
+- Unconclusive ABI and physiological testing.
+
+Page 17 Extracted Terms:
+- Cardiovascular  
+- Major adverse cardiovascular events (MACE)  
+- Major adverse limb events (MALE)  
+- Revascularization  
+- Guideline‑directed medical therapy (GDMT)  
+- Catheter angiography  
+- Computed tomography angiography (CTA)  
+- Magnetic resonance angiography (MRA)
+
+Page 18 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+- Peripheral artery disease (PAD)  
+- Major adverse cardiovascular events (MACE)  
+- Major adverse limb events (MALE)  
+- Chronic limb‑threatening ischemia (CLTI)  
+- Chronic kidney disease (CKD)  
+- End‑stage kidney disease (ESKD)  
+- Diabetes mellitus  
+- Smoking (current/ongoing smoking)  
+- Hypertension  
+- Polyvascular disease  
+- Atherosclerosis (atherosclerotic disease)  
+- Inflammation  
+- Oxidative stress  
+- Microvascular disease  
+- Retinopathy  
+- Neuropathy  
+- Nephropathy  
+- Guideline‑directed medical therapy (GDMT)  
+- Antihypertensive therapy  
+
+Page 19 Extracted Terms:
+Peripheral Artery Disease (PAD)  
+Myocardial Infarction (MI)  
+Coronary Artery Disease (CAD)  
+Cardiovascular Death  
+Major Adverse Cardiac Events (MACE)  
+Major Adverse Limb Events (MALE)  
+Critical Limb Ischemia (CLTI/CLI)  
+Endovascular Revascularization  
+Lower‑Extremity Bypass Revascularization  
+Polyvascular Disease  
+Microvascular Disease  
+Chronic Kidney Disease (CKD)  
+End‑Stage Kidney Disease (ESKD)  
+Diabetes Mellitus  
+Smoking/Tobacco Use  
+Atherosclerosis  
+Ischemic Stroke  
+Vascular Events (general)
+
+Page 20 Extracted Terms:
+**Key heart‑disease‑related terms extracted from the guideline text**
+
+- Peripheral Artery Disease (PAD)  
+- Myocardial Infarction (MI)  
+- Stroke  
+- Polyvascular disease  
+- Major Adverse Cardiovascular Events (MACE)  
+- Major Adverse Limb Events (MALE)  
+- Chronic Limb‑Threatening Ischemia (CLTI)  
+- Coronary Artery Disease (CAD)  
+- Ankle‑Brachial Index (ABI)  
+- Acute Limb Ischemia (ALI)  
+- Chronic Kidney Disease (CKD)  
+- End‑Stage Renal Disease (ESRD / ESKD)  
+- Diabetes mellitus  
+- Smoking (tobacco use)  
+- Depression (ICD‑9/ICD codes)  
+- Geriatric Depression Scale (GDS) – GDS ≥ 6  
+- Patient Health Questionnaire – PHQ‑9 / PHQ‑8  
+- Stress, Anxiety, and depressive symptoms  
+- Social determinants of health (racial/ethnic disparities, socioeconomic status, rural residence)  
+- Structural racism / chronic stress (“weathering”)  
+- Health disparities in diagnosis, treatment, and outcomes  
+- Risk‑amplifying comorbidities  
+- Medical therapy: Guideline‑Directed Medical Therapy (GDMT)  
+- Longitudinal follow‑up for PAD  
+- Vascular Outcomes Study of ASA (VOYAGER PAD)  
+- COMPASS study (cardiovascular outcomes for people using anticoagulation strategies)  
+- EUCLID trial (examining ticagrelor in PAD)  
+- Hazard Ratio (HR)  
+- Odds Ratio (OR)  
+- International Classification of Diseases (ICD)  
+
+These terms capture the primary cardiovascular conditions, outcomes, risk factors, comorbidities, and key studies/metrics discussed within the clinical guideline text.
+
+Page 21 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Cardiovascular Disease (CVD)  
+- Major Adverse Limb Events (MALE)  
+- Critical Limb‑Threatening Ischemia (CLTI)  
+- Major Limb Amputation (MLA)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Antiplatelet therapy  
+- Statin therapy  
+- Supervised exercise therapy  
+- Revascularization  
+- Systemic hypertension  
+- Diabetes mellitus  
+- Chronic Kidney Disease (CKD)  
+- Stroke  
+- Health disparities  
+- Uninterrupted health insurance coverage  
+- Tobacco product regulation  
+- Clinical decision support for PAD care  
+- Quality measures for PAD care  
+- Policy recommendations for PAD  
+- Physical exam of pulses  
+- Functional decline  
+- Limb‑salvage procedures
+
+Page 22 Extracted Terms:
+**Key heart‑disease–related terms extracted from the text**
+
+- Peripheral Artery Disease (PAD)  
+- Critical Limb Ischemia (CLTI)  
+- Ankle‑Brachial Index (ABI)  
+- Major Adverse Cardiac Events (MACE)  
+- Major Adverse Limb Events (MALE)  
+- Revascularization  
+  - Endovascular revascularization  
+  - Surgical revascularization  
+- Amputation (above‑knee, below‑knee)  
+- Geriatric syndromes  
+  - Frailty  
+  - Sarcopenia  
+  - Malnutrition  
+  - Mobility impairment  
+- Racial and ethnic disparities (Hispanic, Black, White, American Indian)  
+- Socioeconomic status (income, education, Distressed Communities Index)  
+- Geographic disparities (urban vs rural, geographic isolation, clinician shortages)  
+- Atherosclerotic cardiovascular disease (CVD)  
+- Comorbidities (e.g., smoking, diabetes)  
+
+These terms capture the core clinical concepts, risk factors, interventions, and demographic factors relevant to heart disease discussion in the supplied text.
+
+Page 23 Extracted Terms:
+Peripheral artery disease (PAD)  
+Chronic limb‑threatening ischemia (CLTI)  
+Major adverse cardiovascular events (MACE)  
+Major adverse limb events (MALE)  
+Guideline‑directed medical therapy (GDMT)  
+Angiotensin‑converting enzyme (ACE) inhibitor  
+Angiotensin‑receptor blocker (ARB)  
+Statin therapy  
+Antiplatelet therapy  
+Quality of life (QOL)  
+Revascularization (endovascular, surgical, infrainguinal bypass)  
+Amputation  
+30‑day mortality  
+2‑year survival  
+5‑year survival  
+5‑year amputation‑free survival  
+Clinical frailty scale  
+Modified frailty index  
+Risk Analysis Index  
+Geriatric Nutritional Risk Index (GNRI)  
+Polypharmacy  
+Frailty  
+Sarcopenia  
+Malnutrition  
+Mobility impairment  
+Functional status  
+Life‑space mobility  
+Multimorbidity  
+Predicted survival  
+Invasive treatment decisions (revascularization, amputation)
+
+Page 24 Extracted Terms:
+**Key Heart‑Disease–Related Terms**
+
+1. Peripheral Artery Disease (PAD)  
+2. Revascularization  
+3. Endovascular revascularization  
+4. Surgical revascularization  
+5. Hybrid revascularization  
+6. Major Adverse Limb Events (MALE)  
+7. Major Adverse Cardiac Events (MACE)  
+8. Myocardial Infarction (MI)  
+9. Stroke (ischemic)  
+10. Antiplatelet therapy  
+11. Aspirin  
+12. Clopidogrel  
+13. Rivaroxaban (low‑dose)  
+14. Low‑dose aspirin (aspirin + rivaroxaban)  
+15. Dual antiplatelet therapy (DAPT)  
+16. P2Y12 antagonist  
+17. Vorapaxar  
+18. Full‑intensity oral anticoagulation  
+19. Atrial fibrillation (AF)  
+20. Clinical Atherosclerosis (i.e., CAD, cerebrovascular disease)  
+21. GMDT (Guideline‑Directed Medical Therapy) for PAD  
+22. Foot care / preventive foot care  
+23. Ulceration / Critical Limb‑Threatening Ischemia (CLTI)  
+24. Quality of Life (QOL)  
+25. Bleeding risk (major bleeding)  
+26. Cardiovascular and limb events  
+27. Residual cardiovascular risk  
+28. Prothesis graft (surgical context)
+
+These terms capture the central concepts, interventions, outcomes, and related conditions discussed in the guideline excerpt.
+
+Page 25 Extracted Terms:
+Peripheral Artery Disease (PAD)  
+Atherosclerosis  
+Atrial fibrillation  
+Coronary artery disease (CAD)  
+Carotid disease  
+Ankle‑brachial index (ABI)  
+Endovascular revascularization  
+Surgical revascularization  
+Percutaneous coronary intervention (PCI)  
+Drug‑eluting stents (DES)  
+Drug‑coated balloons (DCB)  
+Paclitaxel‑coated devices  
+Antiplatelet therapy  
+Antithrombotic therapy  
+Dual antiplatelet therapy (DAPT)  
+Single antiplatelet therapy (SAPT)  
+Triple therapy (full‑intensity anticoagulation + DAPT)  
+Low‑dose rivaroxaban  
+Low‑dose aspirin  
+Rivaroxaban (full‑dose)  
+Aspirin (acetylsalicylic acid)  
+Clopidogrel (P2Y12 inhibitor)  
+Ticagrelor (P2Y12 inhibitor)  
+P2Y12 receptor antagonists  
+Major Adverse Cardiac Events (MACE)  
+Major Adverse Limb Events (MALE)  
+Acute limb ischemia (ALI)  
+Major bleeding  
+Intracranial hemorrhage  
+Intra‑cranial tumor / vascular abnormality  
+Gastrointestinal bleeding  
+VOYAGER PAD trial  
+COMPASS trial (Cardiovascular Outcomes for People Using Anticoagulation Strategies)  
+CAPRIE trial (Clopidogrel versus Aspirin in Patients at Risk of Ischemic Events)  
+EUCLID trial (Examining Use of Ticagrelor in Peripheral Artery Disease)  
+
+These terms encapsulate the principal concepts and therapeutic strategies related to heart disease addressed in the provided guideline excerpt.
+
+Page 26 Extracted Terms:
+- Peripheral artery disease (PAD)  
+- Antiplatelet therapy  
+- Aspirin  
+- Dual antiplatelet therapy (DAPT)  
+- Single antiplatelet therapy (SAPT)  
+- Oral anticoagulation  
+- Atrial fibrillation (Afib)  
+- Venous thromboembolism (VTE)  
+- Chronic limb‑threatening ischemia (CLTI)  
+- Major adverse cardiovascular events (MACE)  
+- Major adverse limb events (MALE)  
+- Ankle‑brachial index (ABI)  
+- Toe‑brachial index (TBI)  
+- Percutaneous coronary intervention (PCI)  
+- Endovascular revascularization  
+- Symptomatic vs. asymptomatic PAD  
+- Aspirin for Asymptomatic Atherosclerosis (AAA) trial  
+- Prevention of Progression of Arterial Disease and Diabetes (POPADAD) trial  
+- Critical Leg Ischemia Prevention (CLIPS) trial  
+
+These terms capture the key cardiovascular and heart‑related concepts discussed in the guideline excerpt.
+
+Page 27 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Coronary Artery Disease (CAD)  
+- Myocardial Infarction (MI)  
+- Major Adverse Cardiac Events (MACE)  
+- Major Adverse Limb Events (MALE)  
+- Antiplatelet therapy  
+- Dual antiplatelet therapy  
+- Aspirin  
+- Clopidogrel  
+- Ticagrelor  
+- Vorapaxar (thrombin receptor antagonist)  
+- Warfarin  
+- Rivaroxaban  
+- Low‑dose aspirin  
+- High‑intensity statin therapy  
+- PCSK9 inhibitor therapy  
+- Ezetimibe therapy  
+- Ankle‑Brachial Index (ABI)  
+- Asymptomatic PAD  
+- Symptomatic PAD  
+- Lower extremity bypass grafting  
+- Intracranial hemorrhage  
+- Bleeding risk (moderate‑to‑severe)  
+- PEGASUS‑TIMI 54 trial  
+- CHARISMA trial  
+- TRA 2P‑TIMI 50 trial  
+- CASPAR trial  
+- WAVE trial  
+- Atrial fibrillation (AF)  
+- Venous thromboembolism (VTE)
+
+Page 28 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Peripheral Artery Disease (PAD)  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- High‑intensity statin therapy  
+- Statin initiation / continuation  
+- Atherosclerotic cardiovascular disease (CVD)  
+- Major adverse cardiovascular events (MACE)  
+- Major adverse limb events (MALE)  
+- Critical limb‑threatening ischemia (CLTI)  
+- Endovascular revascularization  
+- Surgical revascularization  
+- Limb amputation  
+- PCSK9 inhibitor  
+- Alirocumab  
+- Evolocumab  
+- FOURIER study (Clinical trial)  
+- ODYSSEY OUTCOMES study (Clinical trial)  
+- IMPROVE‑IT study (Clinical trial)  
+- Atorvastatin (40–80 mg)  
+- Rosuvastatin (20–40 mg)  
+- Simvastatin (20–40 mg)  
+- Pravastatin (40–80 mg)  
+- Lovastatin (40–80 mg)  
+- Fluvastatin XL (80 mg)  
+- Pitavastatin (1–4 mg)  
+- Dyslipidemia  
+- Primary hypercholesterolemia  
+- Mixed dyslipidemia  
+- Myopathy (muscle disease)  
+- Rhabdomyolysis  
+- Acute coronary syndrome (ACS)  
+- Vascular Outcomes Study (VOYAGER PAD)  
+- Aspirin (acetylsalicylic acid)  
+- Rivaroxaban (anticoagulant drug)  
+
+*(All terms are directly related to cardiovascular/heart disease context within the provided guideline text.)
+
+Page 29 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Atherosclerotic arterial disease  
+- Major Adverse Cardiovascular Events (MACE)  
+- Major Coronary Event  
+- Ischemic Stroke  
+- Major Adverse Limb Events (MALE)  
+- Low‑density lipoprotein (LDL) target <70 mg/dL  
+- American Heart Association / American College of Cardiology (AHA/ACC) cholesterol guideline  
+- Antihypertensive therapy  
+- Systolic blood pressure (SBP)  
+- Diastolic blood pressure (DBP)  
+- Target blood‑pressure goal <130/80 mm Hg (or <120/80 mm Hg in some trials)  
+- Angiotensin‑converting enzyme inhibitors (ACE‑I)  
+- Angiotensin‑receptor blockers (ARBs)  
+- Hypertension as a cardiovascular risk factor  
+- Ankle‑brachial index (ABI)  
+- Systolic Blood Pressure Intervention Trial (SPRINT)  
+- ABCD (Appropriate Blood Pressure Control in Diabetes) study  
+- INVEST (International Verapamil‑SRV Trandolapril) study  
+- ALLHAT (Antihypertensive and Lipid‑Lowering Treatment to Prevent Heart Attack Trial)  
+- EUCLID trial  
+- Heart Outcomes Prevention Evaluation (HOPE) trial  
+- Ramipril  
+- ONTARGET (Telmisartan Alone and in Combination with Ramipril)  
+- Telmisartan  
+- Coronary artery disease (CAD)  
+- Myocardial infarction (MI)  
+- Heart failure (HF)  
+- Left ventricular systolic dysfunction  
+- Revascularization procedures  
+- Clinical atherosclerotic cardiovascular disease (CVD)  
+
+These terms capture the heart‑disease‑related concepts highlighted in the guideline excerpts.
+
+Page 30 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Cardiovascular disease (CVD)  
+- Coronary Artery Disease (CAD)  
+- Hypertension  
+- Angiotensin‑converting enzyme (ACE) inhibitors  
+- Angiotensin‑receptor blockers (ARBs)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Major Adverse Limb Events (MALE)  
+- Stroke  
+- Vascular risk factors (e.g., smoking, secondhand smoke)  
+- Nicotine replacement therapy  
+- Varenicline  
+- Bupropion  
+- Electronic nicotine delivery systems (e‑cigarettes)  
+- Tobacco use/cessation interventions  
+- Vascular health outcomes (e.g., limb‑related events, mortality)
+
+Page 31 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Chronic Limb‑Threatening Ischemia (CLTI)  
+- Major Adverse Limb Events (MALE)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Myocardial Infarction (MI)  
+- Stroke (non‑fatal)  
+- Cardiovascular death  
+- Hospitalization for heart failure  
+- Glucagon‑like peptide‑1 (GLP‑1) agonists  
+- Liraglutide  
+- Semaglutide  
+- Tirzepatide  
+- Sodium‑glucose cotransporter‑2 (SGLT‑2) inhibitors  
+- Canagliflozin  
+- Dapagliflozin  
+- Empagliflozin  
+- Ertugliflozin  
+- EMPA‑REG OUTCOME trial  
+- CANVAS trial  
+- DECLARE‑TIMI 58 trial  
+- SUSTAIN‑6 trial  
+- LEADER trial  
+- Cardiovascular outcomes  
+- Non‑fatal MI  
+- Non‑fatal stroke  
+- Type 2 diabetes  
+- Glycemic control  
+- Weight management (pharmacologic and non‑pharmacologic therapies for cardiovascular risk)
+
+Page 32 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+- Peripheral Artery Disease (PAD)  
+- Critical Limb Threatening Ischemia (CLTI)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Major Adverse Limb Events (MALE)  
+- canagliflozin  
+- empagliflozin  
+- SGLT2 inhibitors  
+- type 2 diabetes mellitus  
+- diabetes mellitus (general)  
+- hemoglobin A1c  
+- glycemic control  
+- cardiovascular risk  
+- heart failure  
+- revascularization (endovascular/surgical)  
+- infra‑popliteal procedures  
+- diabetic foot ulcer  
+- diabetic neuropathy  
+- preprocedural glycemic control  
+- ischemic limb outcomes  
+- vaccine‑associated vascular complications (influenza, SARS‑CoV‑2)  
+- clinical trials: CANVAS, CREDENCE, EMPA‑REG OUTCOME, EUCLID, Strong Heart study  
+
+These terms capture the cardiovascular conditions, risk factors, therapeutic agents, and clinical studies highlighted in the guidelines.
+
+Page 33 Extracted Terms:
+Peripheral Artery Disease (PAD)  
+Coronary Artery Disease (CAD)  
+Cardiovascular Disease (CVD)  
+Major Adverse Cardiovascular Events (MACE)  
+Influenza vaccination  
+SARS‑CoV‑2 vaccination  
+Antiplatelet therapy  
+Antithrombotic therapy  
+Lipid‑lowering therapy  
+Antihypertensive therapy  
+Smoking cessation  
+Diabetes management  
+Healthy diet  
+Mediterranean diet  
+DASH (Dietary Approaches to Stop Hypertension) diet  
+PREDIMED study  
+Lyon Diet Heart Study  
+Vitamin B‑complex supplementation  
+Vitamin D supplementation  
+Homocysteine  
+Chelation therapy  
+HOPE‑2 trial (Heart Outcomes Prevention Evaluation‑2)  
+TACT trial (Trial to Assess Chelation Therapy)  
+Stroke  
+Myocardial infarction (MI)  
+Recurrent cardiovascular events  
+Secondary prevention  
+Primary prevention  
+Atherosclerotic cardiovascular disease  
+Blood pressure  
+Sodium reduction  
+Blood pressure reduction  
+Cardiovascular risk reduction  
+Clinical outcomes  
+
+Page 34 Extracted Terms:
+**Key heart‑disease related terms identified in the text**
+
+- Peripheral Artery Disease (PAD)  
+- Claudication  
+- Cilostazol  
+- Pentoxifylline  
+- Chelation therapy  
+- Congestive heart failure (CHF) (any severity)  
+- Re‑stenosis (post‑interventional)  
+- Endovascular therapy  
+- Femoropopliteal disease  
+- In‑stent re‑stenosis  
+- Bare‑metal femoropopliteal stent  
+- Paclitaxel‑eluting stent  
+- Major adverse limb event (MALE)  
+- Major amputation  
+- Major Adverse Cardiac Events (MACE)  
+- All‑cause mortality  
+- Cardiovascular deaths  
+- Cardiovascular disease (CVD)  
+- Vitamin D deficiency / hypovitaminosis D  
+- Vitamin D supplementation  
+- Phosphodiesterase III inhibitor  
+- Milrinone (phosphodiesterase inhibitor)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Cardiovascular risk/vascular risk  
+- ABI (ankle‑brachial index) – vascular health indicator  
+- PAQ (Peripheral Artery Questionnaire) – assessment of limb function  
+- QOL (quality of life) – health outcome metric  
+- Walking distance / maximal walking distance – functional capacity metric
+
+Page 35 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Cardiovascular Disease (CVD)  
+- Coronary Artery Disease (CAD)  
+- Heart Failure  
+- Cerebrovascular Disease  
+- Chronic Limb‑Threatening Ischemia (CLTI)  
+- Endovascular revascularization  
+- Surgical revascularization  
+- Vascular specialists  
+- Claudication (leg pain on walking)  
+- Rest pain (ischemic pain at rest)  
+- Clotting or thrombosis of peripheral arteries (implied by PAD discussion)  
+- Chronic Kidney Disease (CKD) – a major cardiovascular comorbidity  
+- End‑Stage Kidney Disease (ESKD) – an extreme CKD stage linked to vascular disease  
+- Diabetes with poor glycemic control – a key modifiable risk factor for cardiovascular disease  
+- Peripheral neuropathy – a neurological complication often secondary to vascular disease  
+- Charcot foot deformity – a severe complication of PAD with cardiovascular implications  
+- Foot ulceration and amputation – sequelae of advanced peripheral arterial disease and systemic vascular compromise  
+- Therapeutic footwear – a preventive strategy to reduce cardiovascular‑related foot ulceration risk  
+- Foot self‑care education – a non‑pharmacologic intervention to mitigate cardiovascular complications associated with PAD  
+
+(Note: All terms are derived directly from the text and pertain to heart or cardiovascular disease concepts.)
+
+Page 36 Extracted Terms:
+**Key terms related to heart disease (and vascular complications) in the guideline:**
+
+- Peripheral Artery Disease (PAD)  
+- Foot ulcers  
+- Foot care / self‑foot care  
+- Foot inspection / foot surveillance  
+- Foot deformities (e.g., bunions/hallux valgus, hammertoe, claw toe, flatfoot/pes planus, severe high‑arch foot/pes cavus, Charcot foot, arthritic foot)  
+- Protective footwear / therapeutic footwear  
+- Podiatry / podiatrist  
+- Revascularization  
+- Multispecialty care team  
+- Exercise therapy for PAD  
+- Lower extremity amputation  
+- Walking performance / functional status  
+- Diabetes‑associated neuropathy  
+- Foot temperature monitoring  
+- Foot education resources (American Diabetes Association, CDC, NIDDK)  
+- Risk‑based foot screening intervals (annual, every 3–6 months, every 1–3 months)  
+
+These terms capture the primary concepts, interventions, and complications discussed in the guideline that relate to vascular health and, by extension, heart‑related disease processes.
+
+Page 37 Extracted Terms:
+- Peripheral artery disease (PAD)  
+- Claudication  
+- Revascularization  
+- Supervised Exercise Therapy (SET)  
+- Structured community‑based exercise program  
+- Home‑based exercise program  
+- Walking performance  
+- Functional status  
+- Quality of life (QOL)  
+- Endothelial function  
+- Endothelial dysfunction  
+- Angiogenesis  
+- Microvascular blood flow  
+- Macrovascular blood flow  
+- Ischemia‑reperfusion injury  
+- Intermittent walking  
+- Treadmill training  
+- Stationary bicycle training  
+- Arm ergometry  
+- Recumbent stepping  
+- Behavioral change techniques  
+- Activity monitors  
+- Clinical exercise physiologists  
+- Nurses with exercise training experience  
+- Cardiac rehabilitation  
+- Medicare coverage of exercise therapy  
+- Commercial insurance coverage of exercise therapy  
+- Muscle fiber adaptations  
+- Mitochondrial density and activity  
+- Skeletal muscle strength and endurance  
+- Blood distribution efficiency  
+- Local inflammatory response  
+- Ischemic symptoms (moderate‑to‑severe claudication pain)  
+- Pain‑induced rest periods  
+- Incremental increases in walking intensity  
+- Progressive training to 30‑45 min of active walking  
+- Exercise session duration (30‑45 min per 60‑min session)  
+- Exercise session frequency (≥3 sessions per week)  
+- Minimum training duration (≥12 weeks)  
+- Walking distance and speed progression  
+- Exercise prescription alterations  
+- Monitoring of exercise progress  
+- Patient counseling and education  
+- Behavioral coaching (in‑person or virtual)  
+- Home or community setting for exercise  
+- Hospital or outpatient facility setting for exercise  
+- Structured exercise program classification  
+- Exercise adherence and adherence strategies  
+- Cardiovascular health interventions  
+- Physical activity promotion  
+- Exercise therapy for cardiovascular disease management
+
+Page 38 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Claudication  
+- Supervised Exercise Therapy (SET)  
+- Structured community‑based exercise programs  
+- Revascularization  
+- Treadmill walking  
+- 6‑Minute Walk Test (6MWT)  
+- Walking performance  
+- Functional status  
+- Quality of Life (QOL)  
+- Cardiac rehabilitation  
+- Exercise‑limiting cardiovascular disease (CVD)  
+- Amputation  
+- Wheelchair confinement  
+- Diabetes (as a PAD comorbidity)  
+- Home‑based exercise programs  
+- Virtual coaching  
+- Activity tracking  
+- Behavioral change techniques  
+- Health coaching  
+- LITE (Low Intensity Exercise Intervention in PAD) trial  
+- GOALS (Group Oriented Arterial Leg Study)  
+- Medicare coverage of SET  
+- Insurance reimbursement for exercise therapy  
+- Exercise prescription parameters (treadmill walking parameters, 6MWT)  
+- Evidence‑based risk–benefit ratio for SET in PAD  
+
+Page 39 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Intermittent Claudication  
+- Supervised Exercise Therapy (SET)  
+- Structured Exercise Programs  
+- Community‑Based Exercise  
+- Home‑Based Walking Program  
+- 6‑Minute Walk Test (6MWT)  
+- Quality of Life (QOL)  
+- Percutaneous Transluminal Angioplasty (PTA)  
+- Endovascular Revascularization  
+- Endoluminal Revascularization  
+- Femoropopliteal Disease  
+- Aortoiliac PAD  
+- Revascularization + SET Combination Therapy  
+- Alternative Exercise Modalities (cycling, recumbent stepping, resistance training)  
+- Treadmill Walking (low‑intensity vs. moderate/high‑intensity)  
+- Functional Status Improvement  
+- Pain Levels (moderate to severe claudication pain)  
+- Structured Community‑Based Exercise Programs (including home‑based)  
+- Unstructured Exercise (self‑directed walking)  
+- Exercise‑Induced Ischemic Symptoms  
+
+(Note: These terms represent the primary disease‑condition, therapeutic modalities, outcome measures, and exercise strategies mentioned in the text.)
+
+Page 40 Extracted Terms:
+**Key terms related to heart disease**
+
+- Peripheral Artery Disease (PAD)  
+- Asymptomatic PAD  
+- Chronic Limb‑Threatening Ischemia (CLTI)  
+- Acute Limb Ischemia (ALI)  
+- Claudication  
+- Endovascular revascularization procedures  
+- Surgical revascularization procedures  
+- Transfemoral aortic valve replacement  
+- Mechanical circulatory support  
+- Endovascular aortic aneurysm repair  
+- Endovascular stenting  
+- Endoconduit creation  
+- Iliac artery conduit  
+- Iliofemoral bypass  
+- Catheter‑based cardiac procedures  
+- Catheter insertion and removal  
+- Safety of sheath insertion  
+- Major Adverse Limb Events (MALE)  
+- Vascular complications  
+- Cardiovascular Angiography and Interventions (SCAI)  
+- Vascular Quality Initiative (VQI)  
+- National Cardiovascular Data Registry (NCDR)  
+- Society of Interventional Radiology (SIR)  
+- PVI Registry (Peripheral Vascular Intervention)  
+- VIRTEX Registry  
+- Endovascular therapies (general)  
+- Conduit placement (general)
+
+Page 41 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Chronic Symptomatic PAD  
+- Claudication (exertional leg symptoms)  
+- Rest pain  
+- Critical Limb-threatening Ischemia (CLTI)  
+- Revascularization (endovascular, surgical, hybrid)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Quality of Life (QOL)  
+- Foot care  
+- Exercise therapy for PAD  
+- Patient outcomes  
+- Local quality improvement initiatives  
+- Benchmarking across centers  
+- Revascularization procedures  
+- Tracking of revascularization procedures  
+- Professional societies (guideline authors)
+
+Page 42 Extracted Terms:
+**Key terms related to heart disease / cardiovascular care:**
+
+- Peripheral arterial disease (PAD)
+- Claudication
+- Revascularization
+- Endovascular revascularization
+- Surgical revascularization
+- Aortoiliac disease
+- Femoro‑popliteal disease
+- Common femoral artery disease
+- Infrapopliteal disease
+- Hemodynamically significant lesion
+- Glucose‑lowering medical therapy (GDMT) – often including antihypertensive, lipid‑lowering, antiplatelet agents
+- Structured exercise therapy
+- Quality of life (QOL)
+- Walking performance / functional status
+- Major adverse cardiovascular events (MACE)
+- Bleeding
+- Infection
+- Perioperative risk
+- Endovascular techniques:
+  - Percutaneous transluminal angioplasty (PTA / balloon angioplasty)
+  - Drug‑coated balloon angioplasty
+  - Bare‑metal stents
+  - Drug‑eluting stents
+  - Covered stents
+  - Lithotripsy (intravascular lithotripsy)
+  - Atherectomy
+- Intravascular pressure measurements
+- Resting vs. provoked pressure gradients
+- Anatomical evaluation of disease
+- Longitudinal follow‑up
+- Diagnostic testing for PAD
+- Patient‑centered decision making
+- Patient engagement
+- Smoking cessation
+- Medication adherence
+
+These terms capture the cardiovascular concepts, therapeutic options, outcomes, and patient‑care considerations present in the guideline excerpt.
+
+Page 43 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Claudication  
+- Surgical revascularization  
+- Endarterectomy  
+- Bypass (vascular bypass)  
+- Endovascular treatment  
+- Hybrid approaches (combined surgical/endovascular)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Structured exercise (SET)  
+- Pain‑free walking distance  
+- Total walking distance  
+- Quality of Life (QOL)  
+- Diabetes mellitus  
+- End‑stage kidney disease (ESKD)  
+- Obesity  
+- Frailty  
+- Functional status  
+- Major adverse limb events (MALE)  
+- Restenosis  
+- Acute limb ischemia (ALI)  
+- Critical limb‑threatening ischemia (CLTI)  
+- Anterior aortoiliac disease  
+- Femoropopliteal disease  
+- Critical limb ischemia (CLI)  
+- Long‑term durability of revascularization  
+- Reintervention risk  
+- Readmission risk  
+- Randomized controlled trials (RCTs)  
+- Network meta‑analysis  
+
+These terms capture the major concepts and clinical factors related to heart (cardiovascular) disease discussed in the provided guideline excerpt.
+
+Page 44 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Endovascular Treatment  
+- Endovascular Revascularization  
+- Endovascular Therapy  
+- Endovascular Intervention  
+- Claudication  
+- Supervised Exercise Therapy (SET)  
+- Walking Performance  
+- Walking Distance  
+- Quality of Life (QOL)  
+- Vessel Patency  
+- Primary Patency  
+- Secondary Patency  
+- Aortoiliac Segment  
+- Femoropopliteal Segment  
+- Aortoiliac Disease  
+- Femoropopliteal Disease  
+- Occlusion  
+- Stenosis  
+- Lesion Length  
+- Multiple Lesions  
+- Diffuse Lesions  
+- Poor-Quality Runoff  
+- Diabetes Mellitus  
+- Chronic Kidney Disease (CKD)  
+- Renal Failure  
+- Smoking  
+- Guideline-Directed Medical Therapy (GDMT)  
+- Medical Therapy  
+- Medications Alone  
+- Surgical Revascularization  
+- Endarterectomy  
+- Common Femoral Endarterectomy  
+- Perioperative Risk  
+- Major Adverse Cardiovascular Events (MACE)  
+- Reintervention  
+- Restenosis  
+- Durability  
+- Patency Rates  
+- Complications  
+- Wound Infection  
+- Lymphatic Fistula  
+
+
+
+Page 45 Extracted Terms:
+- Peripheral arterial disease (PAD)  
+- Claudication  
+- Critical limb ischemia (CLTI)  
+- Endovascular revascularization  
+- Open surgical revascularization  
+- Endarterectomy  
+- Autogenous vein graft (e.g., great saphenous vein)  
+- Prosthetic conduit (prosthetic graft material)  
+- Femoropopliteal bypass  
+- Popliteal artery  
+- Common femoral artery  
+- Aorto‑iliac lesions  
+- Infra‑popliteal disease  
+- Bypass graft patency  
+- Multispecialty, team‑based care for PAD  
+- Revascularization as standard therapy for CLTI  
+- Wound care, infection management, and pressure off‑loading as adjuncts  
+- Structured exercise (comparative treatment option)  
+
+These terms capture the core cardiovascular concepts discussed in the guideline excerpt.
+
+Page 46 Extracted Terms:
+- Chronic limb‑threatening ischemia (CLTI)  
+- Peripheral artery disease (PAD)  
+- Multi‑specialty care team  
+- Revascularization techniques  
+- Vascular care  
+- Wound‑healing therapies  
+- Podiatry  
+- Foot surgery  
+- Guideline‑directed medical therapy (GDMT)  
+- Quality of life (QOL)  
+- Comprehensive care  
+- Wound healing  
+- Prevention of amputation  
+- Tissue loss  
+- Ambulatory status  
+- Multidisciplinary approaches  
+- Vascular revascularization  
+- Patient‑centered care  
+
+Page 47 Extracted Terms:
+- Chronic Limb-Threatening Ischemia (CLTI)  
+- Peripheral Artery Disease (PAD)  
+- Revascularization  
+- Surgical revascularization  
+- Endovascular revascularization  
+- Hybrid revascularization  
+- Bypass  
+- Autogenous vein  
+- Great saphenous vein  
+- Ultrasound mapping  
+- Prosthetic graft  
+- Cadaveric graft  
+- Popliteal artery  
+- Infrapopliteal arteries (tibial, pedal)  
+- Inflow disease  
+- Outflow disease  
+- In-line blood flow  
+- Perfusion  
+- Tissue loss  
+- Wound healing  
+- Nonhealing wounds  
+- Gangrene  
+- Ischemic rest pain  
+- Limb‑threatening infection  
+- Amputation  
+- Multispecialty care team  
+- Vascular medicine  
+- Vascular surgery  
+- Vascular interventional radiology  
+- Interventional cardiology  
+- Endovascular specialist  
+- Surgical specialist  
+- Nurse practitioner / physician assistant  
+- Nurse  
+- Podiatrist  
+- Orthopedic surgeon  
+- Foot surgeon  
+- Wound‑care specialist  
+- Endocrinologist  
+- Internal medicine specialist  
+- Infectious disease specialist  
+- Diagnostic radiologist  
+- Vascular imaging specialist  
+- Pharmacist  
+- Physical medicine and rehabilitation clinician  
+- Occupational therapist  
+- Physical therapist  
+- Clinical exercise physiologist  
+- Nutritionist / dietitian  
+- Social worker  
+- Patients and family members (care coordination)
+
+Page 48 Extracted Terms:
+**Key heart‑disease related terms**
+
+- Peripheral Artery Disease (PAD)  
+- Chronic Limb‑Threatening Ischemia (CLTI)  
+- Revascularization  
+- Endovascular therapy  
+- Surgical revascularization  
+- Hybrid revascularization  
+- Bypass surgery  
+- Angioplasty  
+- Endarterectomy  
+- Autogenous vein conduit  
+- Saphenous vein  
+- Coronary artery bypass surgery  
+- Coronary ischemia  
+- Cardiomyopathy  
+- Heart failure  
+- Major adverse cardiac events (MACE)  
+- BEST‑CLI (trial)  
+- BASIL‑2 (trial)  
+
+These terms capture the cardiovascular interventions, conditions, and trial identifiers that are central to the guideline’s discussion of heart‑related disease.
+
+Page 49 Extracted Terms:
+1. Revascularization  
+2. Endovascular intervention  
+3. Surgical bypass  
+4. Critical Limb Ischemia (CLTI)  
+5. Peripheral Artery Disease (PAD)  
+6. Autogenous vein  
+7. Great saphenous vein  
+8. Small saphenous vein  
+9. Basilic vein  
+10. Cephalic vein  
+11. Composite bypass conduit  
+12. Popliteal artery  
+13. Infrapopliteal disease  
+14. BASIL‑2 trial (Bypass versus Angioplasty for Severe Ischaemia of the Leg)  
+15. BEST‑CLI trial (Best-CLI)  
+16. Global Limb Anatomic Staging System (GLASS)  
+17. Major Adverse Limb Events (MALE)  
+18. Major amputation  
+19. Graft thrombectomy  
+20. Graft revision  
+21. Thrombolysis  
+22. Patency  
+23. Duplex ultrasound  
+24. Vein mapping  
+25. Vascular laboratory  
+26. Preoperative assessment of vein adequacy  
+27. Vein conduit suitability  
+28. Anatomic pattern of disease  
+29. Multidisciplinary care team  
+30. Risk‑benefit calculation.
+
+Page 50 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Chronic Limb‑Threatening Ischemia (CLTI)  
+- Revascularization  
+- Inflow lesions  
+- Outflow lesions  
+- Autogenous vein graft  
+- Prosthetic bypass graft  
+- Saphenous vein (autogenous conduit)  
+- Cadaveric vein graft  
+- Endovascular intervention  
+- Endovascular therapy  
+- Surgical bypass  
+- Angiosome (direct pulsatile flow)  
+- Collateral circulation  
+- Limb salvage  
+- Wound healing  
+- Ischemic rest pain  
+- Multilevel disease  
+- Pressure offloading  
+- Diabetic foot ulcer  
+- Customized footwear (pressure‑offloading)  
+- Duplex ultrasound (vascular laboratory)  
+- Point‑of‑care ultrasound  
+- Vascular laboratory  
+- Vascular conduit  
+- Hemodynamic blood flow to foot  
+- Perfusion to the wound bed  
+- Pulse flow (direct revascularization)  
+- Vascular laboratory‑based duplex ultrasound  
+
+(These terms capture the key cardiovascular and vascular concepts discussed in the guideline excerpt.)
+
+Page 51 Extracted Terms:
+**Key heart‑vascular terms extracted from the text**
+
+- Peripheral Artery Disease (PAD)  
+- Chronic Limb‑Threatening Ischemia (CLTI)  
+- Revascularization  
+- Pressure offloading devices (non‑removable vs removable)  
+- Hyperbaric oxygen therapy  
+- Negative pressure wound therapy (NPWT)  
+- Minor and major amputation (foot, digit)  
+- Surgical debridement (for foot infections/gangrene)  
+- Foot ulcer management (including diabetic foot ulcers)  
+- Antimicrobial therapy for foot infections  
+- Multidisciplinary wound‑care team (for CLTI)  
+
+These terms capture the cardiovascular and peripheral‑vascular focus of the guideline text.
+
+Page 52 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Chronic Limb‑Threatening Ischemia (CLTI)  
+- Endovascular revascularization  
+- Limb salvage  
+- Venous arterialization  
+- Arterial intermittent pneumatic compression devices  
+- Prostanoids (in the context of CLTI)  
+- Ischemia  
+- Revascularization (when not an option)  
+- Hyperbaric oxygen therapy  
+- Cardiovascular risk factor modification  
+- Wound healing in PAD/CLTI  
+- Pressure offloading  
+- Pain control (for ischemic rest pain)  
+- Smoking cessation  
+- Glycemic control (diabetes management)  
+- Multispecialty care team (vascular, wound care, cardiology)  
+- Endovascular therapy for PAD  
+- Ankle‑Brachial Index (ABI) <0.80  
+- Toe‑Brachial Index (TBI) <0.70  
+- Limb‑preservation strategies  
+- Tissue growth optimization  
+- Edema control  
+- Infection management in PAD patients
+
+Page 53 Extracted Terms:
+**Key Heart‑Disease–Related Terms Extracted**
+
+- Cardiovascular mortality  
+- Vascular endothelial cytoprotection  
+- Vasodilation  
+- Platelet aggregation inhibition  
+- Nitric‑oxide release  
+- Prostanoids (prostacyclin, iloprost)  
+- Endovascular revascularization  
+- Intermittent pneumatic compression device (arterial pump)  
+- Arteriovenous pressure gradient  
+- Reversal of vasomotor paralysis  
+- Chronic limb‑threatening ischemia (CLTI)  
+- Peripheral artery disease (PAD)  
+- Limb salvage rate  
+- Wound healing (vascular component)  
+- Anatomic classification of limb ischemia (GLASS/WIfI)
+
+Page 54 Extracted Terms:
+**Key Heart‑Disease–Related Terms Extracted**
+
+1. Peripheral Artery Disease (PAD)  
+2. Critical Limb Ischemia / Critical Limb Threatening Ischemia (CLTI)  
+3. Ischemia  
+4. Revascularization  
+5. Venous Arterialization  
+6. Percutaneous Deep Vein Arterialization (pDVA)  
+7. Hybrid techniques (open, percutaneous, or combined)  
+8. Limb salvage  
+9. Amputation‑free survival  
+10. Major amputation  
+11. Minor amputation (inframalleolar level)  
+12. Wound healing / complete wound healing  
+13. Infection (advanced or bone/soft‑tissue involvement)  
+14. Inflammation / metabolic derangement  
+15. Prosthetic rehabilitation / ambulation  
+16. Quality of Life (QOL) outcomes in limb loss  
+17. Multispecialty care team / team‑based care for CLTI  
+18. Objective limb‑threat classification tools  
+19. AHA (American Heart Association) non‑traumatic amputation reduction goal  
+20. Cardiovascular risk factors implied by “ischemia” and “revascularization”  
+
+These terms capture the cardiovascular‑focused concepts presented in the guideline excerpt.
+
+Page 55 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- Peripheral Artery Disease (PAD)  
+- Critical Limb‑Threatening Ischemia (CLTI)  
+- Cardiovascular Disease (CVD)  
+- Revascularization (interventional/surgical)  
+- Ischemia (vascular‑related tissue hypoxia)  
+- WIfI (Wound‑Ischemia‑Foot‑Infection) classification tool  
+- GLASS (Global Limb Anatomic Staging System) classification tool  
+- Advanced CVD (as a reference to severe cardiovascular disease)
+
+Page 56 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Acute Limb Ischemia (ALI)  
+- Chronic Limb‑Threatening Ischemia (CLTI)  
+- Revascularization (endovascular or surgical)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Valve Surgery  
+- Percutaneous Coronary Intervention (PCI)  
+- Myocardial Infarction (MI)  
+- WIfI classification (Wound, Ischemia, foot Infection)  
+- GLASS classification (Global Limb Ankle and Foot Severity Score)  
+- Vascular Quality Initiative (VQI)  
+- National Cardiovascular Data Registry (NCDR) – PVI Registry  
+- Society of Interventional Radiology VIRTEX registry  
+- Society of Thoracic Surgery (STS) reporting  
+- Limb Viability  
+- Limb Salvage  
+- Ischemia  
+- Endovascular Procedures  
+- Duplex Ultrasound  
+- Computed Tomography Angiography (CTA)  
+- Magnetic Resonance Angiography (MRA)  
+- Continuous Wave Doppler (limb assessment)
+
+Page 57 Extracted Terms:
+**Key heart‑disease related terms**
+
+- Peripheral artery disease (PAD)  
+- Acute limb ischemia (ALI)  
+- Revascularization (surgical or endovascular)  
+- Cardiovascular (CV)  
+- Aortic dissection  
+- Bypass graft  
+- Stent (endovascular stenting)  
+- Ischemia  
+- Thrombosis  
+- Embolus  
+- Duplex ultrasound  
+- Computed tomography angiography (CTA)  
+- Magnetic resonance angiography (MRA)  
+- Doppler ultrasonography (continuous‑wave Doppler)  
+- Electrocardiogram (ECG)  
+- Morbidity and mortality (cardiovascular outcomes)
+
+Page 58 Extracted Terms:
+**Key terms related to heart disease (vascular/ischemic disease) extracted from the guideline text**
+
+- Acute Limb Ischemia (ALI)  
+- Salvageable limb  
+- Non‑salvageable limb  
+- Revascularization  
+- Endovascular revascularization  
+- Surgical revascularization  
+- Catheter‑directed thrombolysis  
+- Catheter‑based thrombolysis  
+- Ultrasound‑accelerated thrombolysis  
+- Pharmacomechanical thrombectomy  
+- Vacuum‑assisted percutaneous mechanical thrombectomy  
+- Endovascular thromboembolectomy  
+- Surgical thromboembolectomy (e.g., Fogarty catheter)  
+- Bypass graft occlusion  
+- Retained valves  
+- Neointimal hyperplasia  
+- Diffuse atherosclerotic lesions  
+- Focal atherosclerotic lesions  
+- Patch angioplasty  
+- Jump extension grafts  
+- Interposition grafts  
+- Endarterectomy  
+- Percutaneous transluminal angioplasty (PTA)  
+- Stenting (endovascular stent)  
+- Compartment syndrome  
+- Reperfusion injury  
+- Limb salvage  
+- Major amputation  
+- Mortality (high rates of mortality associated with ALI)  
+- Limb loss  
+- Chemotherapeutic‑induced prothrombotic viral states  
+- Catheter‑based mechanical thrombectomy  
+- Lytic agent (used in thrombolysis)  
+- Revascularization strategy  
+- Culprit lesion  
+- Catheter‑directed thrombolysis efficacy vs. open surgery  
+- Revascularization planning strategy  
+- Adjuvant (adjunctive) revascularization procedures  
+- Revascularization indications (categories I, IIa, IIb)  
+
+These terms capture the key clinical concepts, procedures, and risk factors discussed in the guideline excerpt.
+
+Page 59 Extracted Terms:
+- Acute limb ischemia (ALI)  
+- Peripheral artery disease (PAD)  
+- Thrombolysis  
+- Revascularization (endovascular or surgical)  
+- Catheter‑directed thrombolysis  
+- Anticoagulation  
+- Unfractionated heparin  
+- Thrombotic events  
+- Tyrosine kinase inhibitors  
+- Cancer chemotherapy (platinum‑based agents)  
+- Prothrombotic states  
+- Systemic proinflammatory states  
+- COVID‑19 / SARS‑CoV‑2 infection  
+- Multiorgan failure  
+- Cardiovascular collapse  
+- Ischemia (irreversible, prolonged)  
+- Reperfusion injury  
+- Oxygen‑free radicals  
+- Compartment syndrome  
+- Compartment pressures  
+- Creatine kinase elevation  
+- Collateral circulation  
+- Limb loss  
+- Amputation  
+- Prophylactic fasciotomy  
+- Reperfusion metabolites  
+- Endovascular techniques  
+- Surgical bypass  
+- Clinical stability and comorbidities  
+- Multidisciplinary discussion (treatment approach)
+
+Page 60 Extracted Terms:
+- Coronary artery disease (CAD)  
+- Heart failure  
+- Aortic dissection  
+- Cardiac thromboembolism (cardiovascular cause of thromboembolism)  
+- Ischemia (e.g., myocardial or limb ischemia)  
+- Reperfusion syndrome  
+- Reperfusion injury  
+- Anticoagulation therapy  
+- Unfractionated heparin  
+- Direct thrombin inhibitor  
+- Thrombus  
+- Embolism  
+- Revascularization procedures  
+- Vascular (cardiovascular) disease  
+- Compartment syndrome (associated with ischemic injury)
+
+Page 61 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Acute Limb Ischemia (ALI)  
+- Atrial fibrillation  
+- Myocardial infarction (MI)  
+- Cardiomyopathy  
+- Valvular heart disease  
+- Mitral stenosis  
+- Left atrial thrombus / left atrial appendage thrombus  
+- Left ventricular thrombus  
+- Infective endocarditis (valvular vegetation)  
+- Intracardiac shunt (e.g., patent foramen ovale)  
+- Intracardiac mural thrombi  
+- Transient ischemic attack / stroke (as a cardiac embolic event)  
+- Heart rhythm disturbances (irregular rhythm, arrhythmia)  
+- Palpitations  
+- Tachycardia  
+- Chest pain (cardiac origin)  
+- Congestive heart failure  
+- Cardiac murmur  
+- Electrocardiography (ECG)  
+- Cardiac rhythm monitoring (e.g., Holter, event recorder)  
+- Echocardiography (transthoracic / transesophageal)  
+- Cardiac embolization mechanisms  
+- Anticoagulation therapy for atrial fibrillation  
+- Anticoagulation monitoring (last dose, INR, etc.)  
+- Cardiac causes of thromboembolic disease (e.g., left atrial thrombus, valvular vegetations, intracardiac shunts)  
+- Cardiac-related pulmonary symptoms (e.g., dyspnea, pulmonary edema)  
+- Cardiac evaluation in acute limb ischemia management
+
+These terms represent the primary concepts in the source text that are associated with heart disease.
+
+Page 62 Extracted Terms:
+- Atrial fibrillation  
+- Valvular disease  
+- Intracardiac thrombus  
+- Mitral stenosis  
+- Cardioembolic cause (e.g., AF, stenosis, thrombus)  
+- Thrombus (aortic)  
+- Aortic aneurysm (imaging of the aorta)  
+- Hypercoagulable states  
+- Major adverse cardiovascular events (MACE)  
+- Myocardial infarction (MI)  
+- Stroke  
+- Death  
+- Guideline‑directed medical therapy (GDMT)  
+- Cardiovascular risk factors  
+- Cardiovascular and limb risk reduction efforts  
+
+Page 63 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Critical Limb Ischemia (CLTI)  
+- Major Adverse Cardiovascular Events (MACE)  
+- Myocardial Infarction (MI)  
+- Ischemic Stroke  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Lipid‑lowering therapy  
+- Statin therapy  
+- Antiplatelet therapy  
+- Antithrombotic therapy  
+- Low‑Density Lipoprotein Cholesterol (LDL‑C)  
+- Blood‑pressure control  
+- Diabetes mellitus  
+- Hypertension  
+- Dyslipidemia  
+- Smoking cessation  
+- Cardiovascular risk factors  
+- Ankle‑Brachial Index (ABI)  
+
+Page 64 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Restenosis  
+- Revascularization (endovascular and surgical)  
+- Duplex ultrasound surveillance  
+- Infrainguinal autogenous vein bypass grafts  
+- Prosthetic bypass grafts  
+- Low flow (graft compromise indicator)  
+- Stenosis (severe)  
+- Aortoiliac, femoropopliteal, infrapopliteal vessel segments  
+- Critical Limb-Threatening Ischemia (CLTI)  
+- Acute Limb Ischemia (ALI)  
+- Telehealth (virtual visits for vascular care)  
+- Symptomatic PAD (claudication, ischemia-related exertional symptoms)  
+- Asymptomatic PAD screening  
+- Cardiovascular risk reduction therapies  
+- Major Adverse Cardiovascular Events (MACE)  
+- Major Adverse Limb Events (MALE)  
+- Antiplatelet and antithrombotic regimens  
+- Supervised Exercise Training (SET)  
+- Functional status / walking performance metrics  
+- Endovascular devices: balloon angioplasty, drug-coated balloon angioplasty, atherectomy  
+- Shared decision‑making strategies in PAD management  
+- Wound healing and limb salvage strategies for CLTI  
+- Comparative effectiveness studies of revascularization strategies.
+
+Page 65 Extracted Terms:
+Peripheral Artery Disease (PAD)  
+Chronic Limb‑Threatening Ischemia (CLTI)  
+Cardiovascular Disease (CVD)  
+Coronary Artery Disease (CAD)  
+Revascularization  
+Guideline‑Directed Medical Therapy (GDMT)  
+Structured Exercise Training (SET)  
+Telehealth  
+Remote Patient‑Monitoring Devices (wearables, smart devices)  
+Nontraumatic Lower Extremity Amputation  
+Limb Outcomes  
+Cardiovascular Outcomes  
+Risk Factor Modification  
+Smoking Cessation  
+Detection  
+Diagnosis  
+Clinical Outcomes  
+Readmissions  
+Hybrid Programs (facility‑based & community/home‑based)  
+National Registry of Nontraumatic Amputations  
+PAD National Action Plan  
+AHA Get With The Guidelines  
+Multispecialty / Multisocietal Collaboration  
+Advocacy Priorities  
+Disparities (in care, outcomes, access)  
+Prevention  
+Telemedicine  
+Wearable Technology  
+Smart Devices  
+Peripheral Vascular Surveillance Testing  
+Quality Outcomes  
+Access to Care  
+Affordability  
+Telehealth Implementation  
+Remote Monitoring  
+Risk Factor Identification  
+Clinical Surveillance  
+Regulatory Support  
+Public Health Initiative  
+Evidence‑Based Interventions  
+Healthcare Disparity Gap  
+Medical Therapy Optimization  
+Lifestyle Modification  
+Outpatient Follow‑up  
+Revascularization Readmissions  
+Clinical Surveillance Programs  
+Patient‑Engagement Tools  
+Digital Health Platforms  
+Population‑Based Data Collection  
+Registry‑Based Research  
+Outcome Tracking  
+Policy Development  
+Care Coordination  
+Data‑Driven Quality Improvement.
+
+Page 66 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Lower extremity peripheral artery disease  
+- Cardiovascular disease (CVD)  
+- Cardio‑vascular disease and comorbid conditions  
+- Coronary artery disease (inferred from dual antiplatelet therapy context)  
+- Dual antiplatelet therapy  
+- Perioperative cardiovascular evaluation  
+- Non‑cardiac surgery (perioperative context)  
+- Heart disease (general term)  
+- Stroke (as a major cardiovascular comorbidity)
+
+Page 67 Extracted Terms:
+- Peripheral Artery Disease  
+- Cardiovascular disease  
+- Heart disease  
+- Chronic coronary disease  
+- Stroke  
+- Hypertension  
+- Blood cholesterol  
+- Atherosclerosis  
+- Atherosclerotic occlusive disease  
+- Chronic limb‑threatening ischemia  
+- Critical limb ischemia  
+- Lower extremity ischemia  
+- Aorto‑iliac arterial intervention  
+- Ankle‑brachial index  
+- Claudication  
+- Endovascular intervention  
+- Ischemia  
+- Diabetes mellitus  
+- Smoking cessation  
+- Atherosclerotic vascular disease  
+- Wound, Ischemia, and Foot Infection (WIfI) classification  
+- Lower extremity threatened limb  
+- Angiosomes  
+- Lower extremity  
+- Coronary disease  
+- Cardiovascular disease prevention  
+- Telehealth in cardiovascular disease  
+- Acute limb ischemia
+
+Page 68 Extracted Terms:
+- Peripheral Artery Disease (PAD)    
+- Lower‑Extremity Arterial Disease    
+- Ankle‑Brachial Index (ABI)    
+- Intermittent Claudication    
+- Chronic Limb‑Threatening Ischemia    
+- Critical Limb Ischemia    
+- Lower‑Extremity Ischemia    
+- Wound, Ischemia, and Foot Infection (WIfI) Classification    
+- Atherosclerosis    
+- Coronary Artery Disease    
+- Vascular Morbidity    
+- Vascular Mortality    
+- Non‑invasive Testing (e.g., Doppler, Ultrasound)    
+- Resting ABI    
+- Endovascular Therapy    
+- Surgical Revascularisation    
+- Amputation    
+- Physical Examination (pulse palpation)    
+- Pulse Palpation    
+- Family History (of peripheral artery disease)    
+- Risk Stratification    
+- Clinical Data Standards (for peripheral atherosclerotic disease)    
+- American Heart Association (AHA) Guidelines    
+- American College of Cardiology (ACC) Guidelines
+
+Page 69 Extracted Terms:
+- Peripheral Arterial Disease (PAD)  
+- Ankle‑Brachial Index (ABI)  
+- Toe‑Brachial Index (TBI)  
+- Critical Limb Ischemia (CLI)  
+- Carotid Atherosclerosis  
+- Cerebrovascular Accident (Stroke)  
+- Transient Ischemic Attack (TIA)  
+- Cardiovascular Disease (CVD)  
+- Coronary Heart Disease  
+- Atherosclerotic Disease  
+- Exercise Treadmill Test  
+- 6‑Minute Walk Test  
+- Non‑Invasive Vascular Assessment  
+- Transcutaneous Oxygen Pressure (TcPO₂)  
+- Skin Perfusion Pressure (SPP)  
+- Continuous‑Wave Doppler  
+- Photoplethysmography  
+- Risk Assessment  
+- Framingham Risk Score  
+- Chronic Kidney Disease (CKD)  
+- Diabetes Mellitus  
+- Vascular Events  
+- Major Amputation  
+- Revascularization  
+- Endovascular Intervention  
+- Clinical Outcomes  
+- Functional Status  
+- Systolic Blood Pressure  
+- Segmental Systolic Pressures  
+- Peripheral Occlusive Disease  
+- Wound, Ischemia, Foot Infection (WIfI) Classification  
+- Arterial Stenosis  
+- Arterial Occlusion  
+- Ischemic Limb  
+- Peripheral Vascular Disease  
+- Cardiovascular Events  
+- Angiography  
+- Duplex Ultrasound  
+- Vascular Screening  
+- Risk Stratification  
+- Pulse Wave Analysis  
+
+Page 70 Extracted Terms:
+**Key heart‑/vascular‑disease terms extracted from the guideline text**
+
+- Peripheral artery disease (PAD)  
+- Ankle‑brachial index (ABI)  
+- Cardiovascular disease (CVD)  
+- Endovascular revascularization  
+- Critical limb ischemia (CLI)  
+- Lower extremity arterial disease  
+- Vascular assessment (photoplethysmography, laser Doppler flowmetry, duplex ultrasonography, CT angiography, MR angiography, angiography)  
+- Antiplatelet therapy  
+- Lipid‑lowering therapy  
+- Tobacco use / cessation  
+- Diabetes mellitus (type 1 & type 2)  
+- Diabetic foot ulcer (DFU)  
+- Amputation risk  
+- Renal insufficiency / chronic kidney disease (CKD)  
+- Contrast‑induced nephropathy  
+- Nephrogenic systemic fibrosis (NSF)  
+- Gadolinium‑based contrast agents  
+- Iodinated contrast media  
+- Radiographic contrast media safety  
+- Stroke risk (via PAD as a marker)  
+- Mortality risk in PAD patients  
+- Endovascular disease progression  
+- Lower limb wound healing  
+
+These terms capture the cardiovascular, diagnostic, therapeutic, and risk‑factor elements relevant to heart disease discussed in the guideline.
+
+Page 71 Extracted Terms:
+- Peripheral artery disease  
+- Coronary artery disease  
+- Atherosclerosis  
+- Myocardial infarction  
+- Stroke  
+- Cerebrovascular disease  
+- Acute coronary syndromes  
+- Polyvascular disease  
+- Cardiovascular risk factors  
+- Atherosclerotic cardiovascular disease  
+- Cardiovascular events  
+- Cardiovascular outcomes  
+- Cardiovascular morbidity  
+- Cardiovascular mortality  
+- Cardiovascular and limb outcomes  
+- Heart disease  
+- Critical limb ischemia  
+- Microvascular disease
+
+Page 72 Extracted Terms:
+**Key terms related to heart disease**
+
+- Peripheral artery disease  
+- Lower‑extremity peripheral artery disease  
+- Nontraumatic lower‑extremity amputation  
+- Racial disparities in peripheral artery disease  
+- Socioeconomic status  
+- Ankle‑brachial index  
+- Coronary heart disease  
+- Vascular disease  
+- Structural heart disease  
+- Congenital heart disease  
+- Cardiovascular health  
+- Cardio‑vascular outcomes  
+- Revascularization  
+- Amputation  
+- Diabetes mellitus  
+- Risk factors for peripheral artery disease  
+- Sex differences in peripheral artery disease  
+- Female‑sex cardiovascular risk  
+- Disparities in care  
+- Allostatic load  
+- Health disparities  
+- Public policy for cardiovascular disease  
+- American Heart Association guidelines  
+- Scientific statement  
+- Policy statement  
+- Epidemiology  
+- Clinical characteristics  
+- Leg symptoms  
+- Lower extremity functioning  
+- Supervised exercise therapy  
+- Medicare beneficiaries  
+- Amputation rates  
+- Racial and ethnic disparities in cardiovascular risk  
+- Structural racism  
+- Minority communities  
+- Amputation prevention  
+- Nontraumatic amputation  
+- Treatment of vascular disease
+
+Page 73 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Cardiovascular Disease (CVD)  
+- Cardiovascular Events  
+- Myocardial Infarction (MI)  
+- Stroke  
+- Antiplatelet Therapy  
+- Antithrombotic Therapy  
+- Aspirin (ASA)  
+- Clotting / Thrombosis  
+- Atherosclerosis  
+- Chronic Limb‑Threatening Ischemia  
+- Critical Limb Ischemia (CLI)  
+- Lower Extremity Amputation (Amputation, Major Amputation)  
+- Bypass Grafting (Open Bypass Surgery)  
+- Endovascular Therapy (Endovascular Revascularization)  
+- Ankle‑Brachial Index (ABI)  
+- Angiography / Vascular Imaging  
+- Lipid Management / Statins  
+- Blood Pressure Management (Hypertension)  
+- Diabetes‑Related Vascular Disease  
+- Socioeconomic Deprivation / Rurality Impact on CVD  
+- Frailty and Sarcopenia (muscle loss)  
+- Functional Status / Mobility Limitations  
+- Mortality (Short‑ and Long‑Term)  
+- Revascularization (Surgical & Endovascular)  
+- Antiplatelet Agents (Clopidogrel, Ticagrelor, etc.)  
+- Anticoagulation (Heparin, Warfarin, DOACs)  
+- Cardiovascular Prevention Guideline (ACC/AHA, ESC)  
+- Clinical Outcomes (Major Adverse Cardiovascular Events – MACE)  
+- Lifestyle Modifications (Smoking Cessation, Physical Activity)  
+- Nutritional Status / Malnutrition in PAD patients  
+
+(Each item represents a key heart‑disease–related concept or outcome referenced in the provided clinical statements and guideline citations.)
+
+Page 74 Extracted Terms:
+- Peripheral artery disease (PAD)  
+- Atherosclerosis  
+- Atherosclerotic cardiovascular disease (ASCVD)  
+- Coronary artery disease (CAD)  
+- Myocardial infarction (MI)  
+- Acute coronary syndrome (ACS)  
+- Stroke  
+- Transient ischemic attack (TIA)  
+- Venous thromboembolism (VTE)  
+- Atrial fibrillation (AF)  
+- Vascular morbidity  
+- Mortality  
+- Ankle‑brachial index (ABI)  
+- Endovascular femoropopliteal intervention  
+- Paclitaxel‑eluting stent  
+- Rivaroxaban  
+- Aspirin  
+- Clopidogrel  
+- Ticagrelor  
+- Vorapaxar  
+- Antiplatelet therapy  
+- Antithrombotic therapy  
+- Anticoagulation therapy  
+- Revascularization  
+- Bypass surgery  
+- Statins (incl. high‑intensity statin therapy)  
+- Lipid‑lowering therapy  
+- Low‑density lipoprotein cholesterol (LDL‑C)  
+- High‑density lipoprotein cholesterol (HDL‑C)  
+- PCSK9 inhibitors  
+- Evolocumab  
+- Alirocumab  
+- Lipoprotein(a) (Lp(a))  
+- Polyvascular disease  
+- Peripheral arterial occlusive disease  
+- Symptomatic PAD  
+- Asymptomatic PAD  
+- Major adverse limb events (MALE)  
+- Long‑term survival  
+- Clinical guidelines (e.g., ACC/AHA, AHA/ACC/ACE)
+
+Page 75 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Critical Limb Ischemia  
+- Statin Therapy  
+- High‑Intensity Statin Therapy  
+- Antihypertensive Therapy  
+- Intensive Blood‑Pressure Control  
+- Nebivolol  
+- Hydrochlorothiazide  
+- β‑Blockers  
+- Angiotensin‑Converting Enzyme (ACE) Inhibitors  
+- Angiotensin Receptor Blockers (ARBs)  
+- Renin–Angiotensin–Aldosterone System (RAAS) Drugs  
+- Telmisartan  
+- Ramipril  
+- Lipoprotein (LDL) Cholesterol  
+- Ankle‑Brachial Index  
+- Cardiovascular Events  
+- Amputation‑Free Survival  
+- Mortality  
+- Smoking Cessation  
+- Varenicline (Nicotine Replacement)  
+- Bupropion (Nicotinic Antagonist)  
+- Electronic Cigarettes / Vaping  
+- Water‑Pipe (Hookah) Smoking  
+- Secondhand Smoke Exposure  
+- Cardiovascular Disease  
+- Atherosclerotic Disease  
+- Coronary Artery Disease  
+- Hypertension  
+- Hyperlipidemia  
+- Lifestyle Management (Diet, Exercise)  
+- Vascular Operations  
+- HOPE Study (Heart Outcomes Prevention Evaluation)  
+- EUCLID Trial (Peripheral Artery Disease)
+
+Page 76 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+1. Peripheral Artery Disease  
+2. Cardiovascular outcomes  
+3. Coronary artery disease  
+4. Acute coronary syndrome  
+5. Myocardial infarction  
+6. Heart failure  
+7. Atherosclerotic cardiovascular disease  
+8. Sodium‑glucose cotransporter 2 (SGLT2) inhibitors (empagliflozin, dapagliflozin, canagliflozin)  
+9. Glucagon‑like peptide‑1 (GLP‑1) receptor agonists (liraglutide, semaglutide, exenatide, lixisenatide, tirzepatide)  
+10. Diabetes management  
+11. Glycemic control  
+12. HbA1c variability  
+13. Lower‑extremity amputations  
+14. Diabetic foot ulcers  
+15. Smoking cessation  
+16. Electronic cigarettes  
+17. Nicotine‑replacement therapy  
+18. Influenza vaccination  
+19. Dietary sodium reduction  
+20. DASH diet (Dietary Approaches to Stop Hypertension)  
+21. Mediterranean diet  
+22. Hypertension  
+23. Endothelial dysfunction  
+24. Atherosclerosis  
+25. Cardiometabolic health  
+26. Cardiovascular ageing  
+27. Coronary interventions (percutaneous coronary intervention)  
+28. Microvascular complications  
+29. Peripheral arterial disease severity  
+
+These terms capture the core clinical concepts, therapies, and preventative strategies discussed in the provided guideline excerpts.
+
+Page 77 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Intermittent Claudication  
+- Myocardial Infarction  
+- Atherosclerotic Cardiovascular Disease  
+- Endovascular Revascularization  
+- Restenosis (stent restenosis)  
+- Chronic Heart Failure  
+- Milrinone (oral)  
+- Cilostazol  
+- Pentoxifylline  
+- Clopidogrel  
+- Ticagrelor  
+- Rivaroxaban  
+- Homocysteine‑lowering therapy (folic acid & B‑vitamins)  
+- Vitamin D supplementation (serum 25‑hydroxyvitamin D)  
+- Chelation therapy (EDTA‑based, EDTA‑chelating agents)  
+- Mediter­rainian dietary pattern (high‑score Mediterranean diet)  
+- COVID‑19 cardiovascular comorbidities / outcomes  
+- Femoropopliteal lesions  
+- Endothelial dysfunction (implied by PAD and atherosclerosis)
+
+Page 78 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Peripheral Arterial Disease  
+- Intermittent Claudication  
+- Exercise Therapy (supervised)  
+- Exercise Therapy (home‑based)  
+- Supervised Exercise Training  
+- Home‑Based Walking Exercise  
+- Walking Exercise Therapy  
+- Endovascular Revascularization  
+- Percutaneous Transluminal Angioplasty  
+- Revascularization (vascular)  
+- Vascular Function  
+- Vascular Guidelines  
+- Endovascular Treatment  
+- Angioplasty  
+- Claudication  
+- Cardiovascular Disease  
+- Heart Disease  
+- Peripheral Vascular Disease (PVD)
+
+Page 79 Extracted Terms:
+Peripheral artery disease (PAD)  
+Intermittent claudication  
+Endovascular revascularisation  
+Conservative management  
+Resistance training  
+Treadmill exercise training  
+Supervised exercise therapy (SET)  
+Upper‑limb aerobic exercise  
+Lower‑limb aerobic exercise  
+Walking distance  
+Endothelial function  
+Aortic endografting  
+Large sheath access  
+Lithotripsy for calcified iliacs  
+Iliac artery recanalization  
+Chronic occlusion  
+Aorto‑iliac arterial intervention  
+Transcatheter aortic valve replacement (TAVR)  
+Femoral access vs non‑femoral access  
+Transcarotid access  
+Subclavian/axillary access  
+Catheter‑based limb angioplasty  
+Bypass graft  
+Limb‑threatening ischemia  
+Acute limb ischemia  
+Embolisation  
+Complications of percutaneous transluminal angioplasty  
+Natural history of arteriosclerosis  
+Risk factors for claudication  
+Atherosclerosis of lower extremities  
+Disease progression  
+Cardiovascular events  
+Guideline‑recommended therapy  
+American Heart Association (AHA)  
+American College of Cardiology (ACC)  
+Society for Cardiovascular Angiography and Interventions (SCAI)  
+Society of Interventional Radiology (SIR)  
+Society of Vascular Medicine (SVM)
+
+Page 80 Extracted Terms:
+Peripheral artery disease  
+Intermittent claudication  
+Revascularization  
+Endovascular revascularization  
+Angioplasty  
+Percutaneous transluminal angioplasty (PTA)  
+Stenting  
+Atherectomy  
+Bypass surgery  
+Lower extremity bypass  
+Common femoral artery disease  
+Femoropopliteal disease  
+Aortoiliac occlusive disease  
+Supervised exercise therapy  
+Exercise training  
+Endarterectomy  
+Thromboendarterectomy  
+Restenosis  
+Chronic limb‑threatening ischemia  
+Surgical versus endovascular comparison  
+Invasive versus non‑invasive treatment strategy  
+Clinical effectiveness  
+Randomized controlled trial  
+Meta‑analysis  
+Clinical guideline  
+SCAI device‑selection guideline  
+SVS Vascular Quality Initiative  
+SIR data registry  
+Reintervention outcomes  
+30‑day unplanned readmission  
+Quality of life outcomes  
+Symptomatic peripheral artery disease  
+Peri‑operative outcomes  
+Multicenter study  
+Prospective randomized trial  
+Open repair versus endovascular repair  
+Routine versus selective stenting  
+Bifurcation lesion management  
+Procoagulant and hypofibrinolytic state  
+Patient‑reported outcomes  
+Health‑related quality of life  
+Endovascular versus surgical management  
+Percutaneous transluminal balloon angioplasty  
+Endovascular treatment of common femoral artery stenosis  
+Endovascular intervention in symptomatic peripheral arterial disease  
+Clinical registry outcomes.
+
+Page 81 Extracted Terms:
+- Peripheral Artery Disease  
+- Critical Limb Ischemia  
+- Intermittent Claudication  
+- Endovascular Revascularization  
+- Femoro‑Popliteal Angioplasty  
+- Femoro‑Popliteal Bypass  
+- Stent Placement (Common Femoral, Iliac)  
+- Endarterectomy (Common Femoral)  
+- Hybrid Surgery (Endovascular + Open)  
+- Aorto‑Iliac Disease  
+- Vascular Surgery (Open Reconstruction)  
+- Cardiovascular Disease  
+- Cardiovascular Interventions  
+- ACC/AHA Appropriate Use Criteria  
+- SCAI Guidelines (Device Selection, Endovascular Specialists)  
+- Percutaneous Translational Angioplasty  
+- Bio‑absorbable Stent Implantation  
+- Vein Graft vs. PTFE Graft (Bypass)  
+- Multidisciplinary/Team‑Based Care for Chronic Limb‑Threatening Ischemia  
+- Perioperative Cardiovascular Evaluation and Management (ACC/AHA 2014)  
+- Vascular Quality Initiative (Clinical Outcomes Database)  
+- Angiographic Criteria/Pressure Measurements (Hemodynamic Significance)  
+- Long‑Term Patency / Long‑Term Success (Angioplasty/Bypass)  
+- Surgical vs. Endovascular Therapy for Chronic Limb‑Threatening Ischemia  
+- Wound Healing / Amputation‑Free Survival in CLTI  
+- Clinical Practice Guidelines (AHA/ACC, SCAI, SVS, etc.)
+
+Page 82 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Chronic Limb‑Threatening Ischemia (CLTI) / Critical Limb Ischemia (CLI)  
+- Femoropopliteal Bypass  
+- Iliac Artery Stenting  
+- Femoral Endarterectomy  
+- Hybrid Procedure (combination of open and endovascular)  
+- Endovascular Intervention (angioplasty, stenting)  
+- Angiosome‑Targeted Revascularization  
+- Composite Vein Bypass  
+- Saphenous Vein Graft (great, small, or femoral)  
+- Polytetrafluoroethylene (PTFE) Prosthetic Graft  
+- Autologous Vein Graft  
+- Limb Salvage  
+- Graft Patency  
+- Antithrombotic Therapy  
+- Bypass versus Angioplasty (BASIL) Trial  
+- Open Infrainguinal Bypass  
+- Aortoiliac Occlusive Disease  
+- Aortoiliac‑Femoral Occlusive Disease  
+- Infrapopliteal Intervention  
+- Infrapopliteal Bypass  
+- Vascular Quality Initiative (VQI) Database  
+- Clinical Outcomes & Registry Data (e.g., CRITISCH, SPINACH, BASIL, BASIL‑2)  
+- Graft Failure and Technical Factors  
+- Spliced Arm Vein Graft  
+- Pre‑cuffed PTFE vs. Vein‑cuffed PTFE Graft  
+- Surgical Reconstruction vs. Endovascular Placement  
+- Perioperative Outcomes  
+- Meta‑analysis of PAD interventions  
+- Graft Type Comparison (prosthetic vs. autogenous)  
+- Infragenicular Arterial Bypass  
+- Endovascular Era Outcomes  
+- Critical Limb Ischemia Management Guidelines  
+- Composite vs. Conventional Vein Conduit  
+- Direct vs. Indirect Angiosomal Revascularization  
+- Angioplasty‑First vs. Bypass‑First Strategy  
+
+*(All terms directly relate to cardiovascular (heart and peripheral vascular) disease and its interventional management.)*
+
+Page 83 Extracted Terms:
+- Peripheral arterial disease (PAD)  
+- Critical limb ischemia (CLI/CLTI)  
+- Lower‑extremity ischemia  
+- Vascular disease  
+- Angiosome  
+- PTFE bypass (peripheral bypass)  
+- Endovascular therapy  
+- Collateral vessels  
+- Hemodynamic effects  
+- Prostanoids (pharmacologic agents in arterial disease)  
+- Intermittent pneumatic compression  
+- Sequential pneumatic compression  
+- Revascularization  
+- Angiology (clinical specialty)  
+- Vascular surgery (procedural specialty)
+
+Page 84 Extracted Terms:
+- Peripheral arterial disease  
+- Chronic limb‑threatening ischemia (CLTI)  
+- Critical limb ischemia (CLI)  
+- Lower‑extremity amputation  
+- Wound, Ischemia, Foot Infection (WIfI) classification  
+- Vascular surgery / endovascular intervention  
+- Revascularization  
+- Deep venous arterialization  
+- Cardiovascular events (e.g., myocardial infarction, stroke)  
+- Smoking cessation pharmacotherapies  
+- American Heart Association policy statements  
+- National Cardiovascular Data Registry (NCDR)  
+- Society of Thoracic Surgeons (STS) national database  
+- Global vascular guidelines on chronic limb‑threatening ischemia  
+- Health‑related quality of life after vascular procedures  
+- Multidisciplinary vascular care teams  
+- Non‑reconstructable peripheral arterial disease  
+- Ischemic foot ulcer in diabetic patients  
+
+*(All terms extracted directly from the provided guideline references.)*
+
+Page 85 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+1. Acute limb ischemia  
+2. Peripheral artery disease  
+3. Peripheral atherosclerotic vascular disease  
+4. Lower extremity ischemia  
+5. Acute lower extremity ischemia  
+6. Arterial thrombosis  
+7. Arterial embolism  
+8. Arterial thromboembolism  
+9. Vascular occlusion  
+10. Thrombolysis  
+11. Catheter‑directed thrombolysis  
+12. Ultrasound‑accelerated thrombolysis  
+13. Percutaneous mechanical thrombectomy  
+14. Endovascular revascularization  
+15. Surgical revascularization  
+16. Bypass graft  
+17. Vascular graft  
+18. Lower extremity bypass  
+19. Vascular complications of cancer treatments (vascular‑related heart disease)
+
+Page 86 Extracted Terms:
+- Peripheral Arterial Disease (PAD)  
+- Acute Limb Ischemia (ALI)  
+- Acute Lower‑Limb Ischemia  
+- Lower‑Extremity Thrombosis  
+- Thrombolysis (intra‑arterial, catheter‑directed)  
+- Heparin‑Induced Thrombocytopenia (HIT)  
+- Anticoagulation Therapy  
+- Antiplatelet Therapy  
+- Rivaroxaban  
+- Vorapaxar  
+- Aspirin  
+- Statin Therapy (e.g., simvastatin)  
+- Hypercoagulable Syndromes  
+- Antiphospholipid Antibody Syndrome  
+- Atrial Fibrillation (non‑valvular)  
+- Cardiogenic Limb Emboli  
+- Aortic Dissection (type B)  
+- Aortic Aneurysm (infra‑inguinal, popliteal)  
+- Popliteal Entrapment/ Aneurysm  
+- COVID‑19–Associated Thrombosis  
+- Carotid Artery Disease  
+- Ischemia (general)  
+- Compartment Syndrome (acute extremity)  
+- Fasciotomy (therapeutic)  
+- Quality of Life in Peripheral Vascular Disease  
+- Major Cardiovascular Events (stroke, myocardial infarction, heart failure)
+
+Page 87 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- Lower extremity ischemia  
+- Critical limb ischemia  
+- Limb‑threatening ischemia  
+- Revascularization (endovascular, surgical)  
+- Bypass graft failure  
+- Infrainguinal bypass graft  
+- Prosthetic bypass graft  
+- Dual‑antiplatelet therapy  
+- Antiplatelet agents (aspirin, clopidogrel, ticagrelor)  
+- Antithrombotic agents (rivaroxaban, rivaroxaban + aspirin)  
+- Anticoagulation therapy  
+- Statin therapy  
+- LDL‑cholesterol lowering  
+- PCSK9 inhibition (evolocumab)  
+- Glycemic control  
+- Diabetes mellitus type 2  
+- Hemoglobin A1c  
+- Foot ulcer  
+- Lower‑extremity amputation  
+- Patency (vascular graft patency)  
+- Cardiovascular events (myocardial infarction, stroke)  
+- Cardiovascular risk  
+- Cardiovascular outcomes  
+- Vascular imaging (duplex ultrasound, duplex surveillance)  
+- Ultrasound surveillance  
+- Endovascular injury  
+- Neo‑intimal hyperplasia  
+- Telehealth for PAD management  
+- Digital health monitoring  
+- Electronic consults  
+- Multidisciplinary vascular team  
+- Patient‑reported outcomes  
+- Depression (co‑morbid psychological factors)  
+- American Heart Association guidelines  
+- Atherosclerosis  
+- Atherosclerotic cardiovascular disease  
+- Vascular surgery follow‑up  
+- Peripheral vascular disease  
+- Chronic limb‑threatening ischemia guidelines  
+- LDL‑lowering therapy guidelines  
+- Antiplatelet therapy guidelines  
+- Glycemic control guidelines  
+- Lipid‑lowering therapy guidelines.
+
+Page 88 Extracted Terms:
+- Peripheral Artery Disease  
+- Lower Extremity Peripheral Artery Disease  
+- Heart  
+- Heart & Vascular Institute  
+- Vascular Center  
+- Vascular Medicine  
+- Vascular Surgery  
+- Anticoagulation Forum  
+- ACC/AHA Guidelines (Cardiology)  
+- Circulation (journal)
+
+Page 89 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- Peripheral Artery Disease  
+- Cardiovascular  
+- Heart  
+- Cardiac  
+- Vascular  
+- AHA/ACC (American Heart Association / American College of Cardiology)  
+- Heart Center  
+- Cardiovascular Medicine  
+- Cardiovascular Systems  
+- Cardiology (implied from “Cardiovascular”)  
+- Heart Center Director of Education  
+- Cardiovascular Medicine  
+- New Cardiovascular Horizons  
+- Cardiovascular (implied in multiple references)  
+
+**Relevant industry / technology terms (often linked to heart disease management)**  
+
+- Abbott  
+- Medtronic  
+- Boston Scientific  
+- Cordis / Cardinal Health  
+- Amgen  
+- Janssen Pharmaceuticals  
+- Nuvasive  
+- Penumbra  
+- Shockwave Medical  
+- W.L. Gore (Surgical/medical devices)  
+- Silk Road Medical  
+- Cardiovascular Systems (company name)  
+- Cardiac (brand of products implied)  
+
+These items capture the primary cardiovascular or heart‑related concepts, roles, and vendor references appearing in the provided guideline excerpt.
+
+Page 90 Extracted Terms:
+- Peripheral Artery Disease  
+- Cardiovascular  
+- Cardiology  
+- Cardiac Catheterization Laboratory  
+- Vascular Surgery  
+- Vascular Medicine  
+- Arteriopathy Clinic  
+- Heart Hospital  
+
+Page 91 Extracted Terms:
+- Peripheral Artery Disease  
+- Acute limb ischemia  
+- Women’s Heart Clinic  
+- Comprehensive Cardiology Clinic  
+- Cardiology  
+- Vascular Surgery  
+- Vascular Intervention  
+- Interventional Radiology  
+- Endovascular  
+- Angiodynamics  
+- Vascular Surgery Fellowship  
+- Vascular Surgery Residency
+
+Page 92 Extracted Terms:
+- Peripheral Artery Disease  
+- Cardiovascular  
+- Vascular  
+- Heart  
+- Cardiovascular Medicine  
+- Cardiovascular Interventional  
+- Cardiovascular Interventional Fellows  
+- Heart and Vascular Institute  
+- Cardiovascular device manufacturers  
+  - Abbott  
+  - Boston Scientific  
+  - Medtronic  
+  - Philips  
+  - Terumo  
+  - Inari Medical  
+  - Trireme Medical
+
+Page 93 Extracted Terms:
+- ACS (Acute Coronary Syndrome)  
+- Peripheral Artery Disease  
+- Heart & Vascular Center  
+- Interventional and Cardiovascular Programs  
+- Cardiovascular  
+- Cardiology  
+- ACC (American College of Cardiology)  
+- AHA (American Heart Association)
+
+Page 94 Extracted Terms:
+- Peripheral Artery Disease  
+- Cardiovascular  
+- Chest Pain Centers  
+- Invasive Cardiology  
+- Myocardial  
+- Ischemia  
+- Vascular  
+- Endo‑tronic (endovascular)  
+- MyoKardia (myocardial therapy)  
+- Ischemix (ischemic vascular therapy)
+
+Page 95 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+- Peripheral Artery Disease (PAD)  
+- Lower‑Extremity Peripheral Artery Disease  
+- Spontaneous Coronary Artery Dissection (SCAD)  
+- Cardiovascular  
+- Cardiovascular Disease  
+- Cardiac / Heart  
+- Vascular  
+- Vascular Disease  
+- Endovascular  
+- Cardiovascular Angiography  
+- Cardiovascular Interventions  
+- American College of Cardiology (ACC) – major cardiovascular body  
+- American Heart Association (AHA) – major cardiovascular body  
+- National Heart, Lung, and Blood Institute (NHLBI) – key cardiovascular research institute  
+- Society for Cardiovascular Angiography and Interventions (SCAI)  
+- Society for Vascular Medicine (SVM)  
+- Society for Vascular Surgery (SVS)  
+- Society for Interventional Radiology (SIR)  
+- Academy of Cardiovascular & Pulmonary Rehabilitation (AACVPR)  
+
+These terms capture the primary disease concepts, related specialties, and major professional organizations discussed in the guideline excerpt.
+
+Page 96 Extracted Terms:
+- Peripheral Artery Disease  
+- PAD  
+- ACC/AHA PAD Guideline  
+- AHA (American Heart Association)  
+- Heartflow  
+- Cardiovascular Research Group  
+- Thrombosis Research Institute  
+- Heart disease  
+- Cardiovascular  
+- Heart  
+- Vascular  
+
+
+
+Page 97 Extracted Terms:
+- Peripheral Artery Disease (PAD)  
+- ACC/AHA PAD Guideline  
+- American Heart Association (AHA)  
+- American Society of Echocardiography (ASE)  
+- Society for Vascular Surgery (SVS)  
+- National Heart, Lung, and Blood Institute (NHLBI)  
+- Cardio‑vascular  
+- Heartflow  
+- Hurst’s The Heart Online  
+- Circulation (peer‑reviewed cardiovascular journal)
+
+Page 98 Extracted Terms:
+- Peripheral Artery Disease (PAD)
+- Cardiovascular
+- Vascular
+- Heart disease
+- Cardiovascular disease
+- Cardiovascular angiography
+- Cardiovascular interventions
+- Cardiovascular rehabilitation
+- Cardiovascular & pulmonary rehabilitation
+- Echocardiography
+- Cardiovascular imaging
+- American College of Cardiology (ACC)
+- American Heart Association (AHA)
+- National Heart, Lung, and Blood Institute (NHLBI)
+- Society for Vascular Medicine (SVM)
+- Society for Vascular Nursing (SVN)
+- Society for Vascular Surgery (SVS)
+- Society for Cardiovascular Angiography & Interventions (SCAI)
+- American Association of Cardiovascular and Pulmonary Rehabilitation (AACVPR)
+- American Association of Black Cardiologists (ABC)
+- Association of Podiatric Medical Association (APMA)
+- National Institutes of Health (NIH)
+- Patient-Centered Outcomes Research Institute (PCORI)
+- Duke Clinical Research Institute (DCRI)
+- Medtronic (device manufacturer relevant to cardiovascular therapy)
+

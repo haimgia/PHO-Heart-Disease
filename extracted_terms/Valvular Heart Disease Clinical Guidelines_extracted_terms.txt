@@ -1,0 +1,5633 @@
+Page 1 Extracted Terms:
+- anticoagulation therapy  
+- aortic regurgitation  
+- aortic stenosis  
+- bicuspid aortic valve  
+- cardiac surgery  
+- guidelines  
+- infective endocarditis  
+- mitral regurgitation  
+- mitral stenosis  
+- mitral transcatheter edge-to-edge repair  
+- prosthetic valve  
+- pulmonic regurgitation  
+- pulmonic stenosis  
+- transcatheter aortic valve replacement or implantation  
+- tricuspid regurgitation  
+- tricuspid stenosis  
+- valvular heart disease
+
+Page 2 Extracted Terms:
+- Valvular Heart Disease  
+- Aortic Stenosis  
+- Aortic Regurgitation  
+- Bicuspid Aortic Valve  
+- Mitral Stenosis  
+- Mitral Regurgitation  
+- Tricuspid Valve Disease  
+- Tricuspid Regurgitation  
+- Pulmonic Valve Disease  
+- Mixed Valve Disease  
+- Prosthetic Valves  
+- Antithrombotic Therapy  
+- Bridging Therapy  
+- Anticoagulation for Atrial Fibrillation in Valve Disease  
+- Infective Endocarditis Prophylaxis  
+- Valve Prosthesis Selection (Bioprosthetic vs Mechanical)  
+- Prosthetic Valve Thrombosis  
+- Prosthetic Valve Stenosis  
+- Prosthetic Valve Regurgitation  
+- Valve Disease Severity Assessment  
+- Multidisciplinary Heart Valve Team  
+- Diagnostic Testing (e.g., Echocardiography, Cardiac Catheterization)  
+- Timing of Valve Intervention  
+- Medical Therapy for Valve Disease  
+- Secondary Prevention of Rheumatic Fever  
+- Acute Mitral Regurgitation  
+- Chronic Primary Mitral Regurgitation  
+- Chronic Secondary Mitral Regurgitation  
+- Acute Aortic Regurgitation  
+- Chronic Aortic Regurgitation  
+- Rheumatic Mitral Stenosis  
+- Nonrheumatic Calcific Mitral Stenosis  
+- Surgical and Transcatheter Interventional Risk Evaluation  
+- Routine Follow‑Up Imaging after Valve Intervention  
+
+Page 3 Extracted Terms:
+- Valvular Heart Disease (VHD)  
+- Infective Endocarditis  
+- Aortic Stenosis  
+- Aortic Regurgitation  
+- Mitral Stenosis  
+- Mitral Regurgitation  
+- Tricuspid Regurgitation  
+- Pulmonary Regurgitation (if applicable)  
+- Coronary Artery Disease (CAD) in VHD patients  
+- Transcatheter Aortic Valve Implantation (TAVI)  
+- Surgical valve replacement/repair  
+- Valve surgery  
+- Atrial Fibrillation (AF) in VHD  
+- Oral anticoagulation therapy  
+- Vitamin K antagonist (e.g., warfarin)  
+- Non‑vitamin K antagonist oral anticoagulants (NOACs)  
+- CHA₂DS₂‑VASc score  
+- Valve intervention (timing, type, approach)  
+- Mechanical prosthetic heart valves  
+- Bioprosthetic (tissue) valves  
+- Multidisciplinary valve team  
+- Primary Valve Center  
+- Comprehensive Valve Center  
+- Transcatheter edge‑to‑edge mitral repair (MitraClip)  
+- Isolated tricuspid regurgitation surgery  
+- Pregnancy in VHD (management/anticoagulation)  
+- Stages of valve disease (A, B, C, D)  
+- Noncardiac surgery in VHD patients  
+- Symptomatic vs. asymptomatic patient management  
+- Prevention of valve disease  
+- Disease progression therapy  
+- Optimal timing of intervention  
+- Imaging modalities: ECG, chest X‑ray, TTE, CT, CMR, stress testing, TEE, cardiac catheterization  
+- Ventricular systolic function assessment  
+- Left ventricular volume overload  
+- Stroke prevention in AF/VHD  
+
+These terms capture the core concepts and clinical focus areas discussed in the guideline text.
+
+Page 4 Extracted Terms:
+- Valvular heart disease  
+- Cardiac valve dysfunction  
+- Bioprosthetic valve dysfunction  
+- Bioprosthetic leaflet degeneration  
+- Valve thrombosis  
+- Prosthetic valve dysfunction  
+- Paravalvular leak  
+- Right ventricular dysfunction  
+- Cardiovascular disease  
+- End‑organ damage (liver and kidney)  
+- Cardiovascular health  
+- Bioprosthetic valve  
+- Valve degeneration  
+- Cardiovascular care (clinical context)
+
+Page 5 Extracted Terms:
+- Valvular heart disease  
+- Aortic stenosis  
+- Aortic regurgitation  
+- Bicuspid aortic valve  
+- Mitral stenosis  
+- Mitral regurgitation  
+- Tricuspid stenosis  
+- Tricuspid regurgitation  
+- Pulmonic stenosis  
+- Pulmonic regurgitation  
+- Prosthetic valves  
+- Anticoagulation therapy  
+- Infective endocarditis  
+- Cardiac surgery  
+- Transcatheter aortic valve replacement  
+- Transcatheter aortic valve implantation  
+- Percutaneous mitral clip  
+
+Page 6 Extracted Terms:
+- Valvular Heart Disease  
+- Aortic Valve Stenosis (AS)  
+- Aortic Regurgitation (AR)  
+- Bicuspid Aortic Valve (BAV)  
+- Mitral Regurgitation  
+- Tricuspid Regurgitation  
+- Atrial Fibrillation (AF)  
+- Heart Failure (HF)  
+- Hypertrophic Cardiomyopathy  
+- Infective Endocarditis (IE)  
+- Congenital Heart Disease  
+- Prosthetic Valve  
+- Percutaneous Valve Repair / Replacement  
+- Coronary Artery Disease (CAD)  
+- Coronary Artery Bypass Graft (CABG)  
+- Angiotensin‑Converting Enzyme (ACE) Inhibitors  
+- Angiotensin Receptor Blockers (ARB)  
+- B‑Type Natriuretic Peptide (BNP)  
+- Low‑Molecular‑Weight Heparin (LMWH)  
+- International Normalized Ratio (INR)  
+- Activated Partial Thromboplastin Time (aPTT)  
+- Electrocardiogram (ECG)  
+- Computed Tomography (CT)  
+- Cardiac Magnetic Resonance Imaging (CMR)  
+- Echocardiography (2‑D & 3‑D)  
+- Doppler Echocardiography  
+- Guideline‑Directed Medical Therapy (GDMT)  
+
+**Key Guideline Terms**  
+- ACC/AHA Guideline for the Management of Valvular Heart Disease  
+- ACC/AHA/ESC Guidelines for Atrial Fibrillation  
+- ACCF/AHA Guideline for the Management of Heart Failure  
+- ESC/EACTS Guidelines on Valvular Heart Disease  
+- ESC/EAC Guidelines for Congenital Heart Disease  
+- ACCP Antithrombotic and Thrombolytic Therapy for Valvular Disease
+
+Page 7 Extracted Terms:
+- Valvular heart disease (VHD)  
+- Valvular lesions/valve dysfunction  
+- Heart murmur  
+- Electrocardiogram (ECG)  
+- Chest X‑ray  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Computed tomography (CT)  
+- Cardiac magnetic resonance (CMR) imaging  
+- Positron emission tomography (PET)  
+- Holter monitoring  
+- Diagnostic hemodynamic cardiac catheterization  
+- Transcatheter aortic valve implantation (TAVI)  
+- Surgical aortic valve replacement (SAVR)  
+- Transcatheter edge‑to‑edge repair (TEER)  
+- Valve‑in‑valve (ViV) procedures  
+- Mitral regurgitation (MR)  
+- Mitral stenosis (MS)  
+- Tricuspid regurgitation (TR)  
+- Atrial fibrillation (AF)  
+- Pulmonary hypertension  
+- Stroke (as a VHD‑related complication)  
+- Left ventricle (LV)  
+- Right ventricle (RV)  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular end‑diastolic dimension (LVEDD)  
+- Left ventricular end‑systolic dimension (LVESD)  
+- NYHA functional class  
+- Non‑vitamin K oral anticoagulant (NOAC)  
+- Vitamin K antagonist (VKA)  
+- Unfractionated heparin (UFH)  
+- Percutaneous coronary intervention (PCI)  
+- Percutaneous mitral balloon commissurotomy (PMBC)  
+- Randomized controlled trial (RCT)  
+- Multidisciplinary team (MDT)  
+- Level of Evidence (LOE)  
+- Stages A–D of VHD progression  
+- Symptom evaluation (e.g., dyspnea, chest pain)  
+- Valve anatomy and hemodynamics assessment  
+- Ventricular and vascular function impact  
+- End‑organ damage criteria  
+- Surgical or transcatheter intervention criteria  
+- Periodic monitoring and patient education  
+- Comorbidities, frailty, patient preferences, and values.
+
+Page 8 Extracted Terms:
+- TTE (transthoracic echocardiography)  
+- Valve anatomy  
+- Valve disease  
+- Aortic dilation  
+- Left ventricular (LV) anatomy  
+- Linear dimensions  
+- 2D volumes  
+- 3D volumes  
+- Ejection fraction (LVEF)  
+- Sequential studies  
+- Measurement variability  
+- Doppler echocardiography  
+- Valve hemodynamics  
+- Stenotic lesions  
+- Maximum velocity  
+- Mean gradient  
+- Valve area  
+- Regurgitant lesions  
+- Regurgitant orifice area  
+- Regurgitant volume  
+- Regurgitant fraction  
+- Multiparameter severity grade  
+- Color Doppler imaging  
+- Continuous‑wave Doppler  
+- Pulsed‑wave Doppler  
+- Distal flow reversals  
+- Pulmonary systolic pressure  
+- Right ventricular (RV) size  
+- Right ventricular function  
+- Stress testing  
+- TEE (transesophageal echocardiography)  
+- Cardiac catheterization  
+- CT imaging  
+- CMR imaging  
+- Cardiac imaging  
+- Hemodynamics  
+- Echocardiography (as primary evaluation tool)  
+- Valvular heart disease (VHD)  
+- ACC/AHA guideline for valvular heart disease  
+- Intersocietal Accreditation Commission (IAC) accreditation  
+- Class of Recommendation and Level of Evidence (clinical strategies, interventions, treatments, or diagnostic testing)
+
+Page 9 Extracted Terms:
+- Valvular Heart Disease (VHD)  
+- Transthoracic Echocardiography (TTE)  
+- Transesophageal Echocardiography (TEE)  
+- Cardiac Magnetic Resonance (CMR)  
+- Positron Emission Tomography–Computed Tomography (PET‑CT)  
+- Stress Testing (exercise treadmill, stress echo)  
+- Cardiac Catheterization  
+- Echocardiographic Strain Imaging (TTE strain)  
+- Pulmonary Circulation  
+- Ventricular Response  
+- Left Ventricular Function  
+- Heart Failure (HF)  
+- Electrocardiogram (ECG)  
+- Biomarkers (filling pressures, myocardial damage)  
+- Intracardiac Pressures  
+- Valve Morphology  
+- Valve Severity  
+- Valve Deterioration  
+- Progressive Valve Dysfunction  
+- Volume Overload  
+- Pressure Overload  
+- Aortic Disease  
+- Intracardiac Mass  
+- Intracardiac Abscess  
+- Left Atrial Thrombus  
+- Fibrosis (gadolinium enhancement)  
+- Frailty Score  
+- Surgical Risk (STS Score)  
+- Transcatheter Aortic Valve Implantation (TAVI)  
+- Coronary Angiography (CT or invasive)  
+- Peripheral Access (CT Peripheral)  
+- Cardiac CT (CT Cardiac)  
+- Dental Examination (infection source)  
+- Chest X‑ray  
+- History and Physical Examination  
+- Symptom Status  
+- Physical Examination  
+- Stages C2 and D Disease  
+- Interventional Candidates  
+- Clinical Follow‑up Schedule  
+- Intrinsic Myocardial Performance  
+- Prognostic Markers  
+- Risk Stratification  
+- Timing of Intervention
+
+Page 10 Extracted Terms:
+Valvular heart disease (VHD)  
+Hemodynamic catheterization  
+Transvalvular pressure gradients  
+Cardiac output measurement  
+Valvular stenosis  
+Valve regurgitation  
+Doppler beam alignment/velocity jet  
+Contrast angiography  
+Pulmonary vascular resistance  
+Dobutamine infusion (low‑flow states)  
+Pulmonary vasodilators  
+Pulmonary hypertension  
+Exercise hemodynamics  
+Exercise stress testing  
+Exercise capacity assessment  
+Blood pressure response to exercise  
+Prognostic value in asymptomatic valve disease  
+Standard guideline‑directed medical therapy (GDMT)  
+Hypertension  
+Diabetes mellitus  
+Hyperlipidemia  
+Heart‑healthy lifestyle factors  
+Aerobic exercise  
+Left ventricular (LV) afterload  
+Resistive training with light weights  
+Risk factors for development of VHD  
+Stage A: At risk (risk factors present)  
+Stage B: Progressive (mild‑to‑moderate, asymptomatic)  
+Stage C1: Asymptomatic severe, LV/RV compensated  
+Stage C2: Asymptomatic severe, LV/RV decompensation  
+Stage D: Symptomatic severe  
+Left ventricle (LV)  
+Right ventricle (RV)  
+Aortic stenosis (AS)  
+Aortic regurgitation (AR)  
+Mitral stenosis (MS)  
+Mitral regurgitation (MR)  
+Maximum velocity (Vmax)  
+Mitral valve (MV) area  
+Serial echocardiographic surveillance intervals (3–5 y, 1–2 y, 6–12 mo, 1 yr)
+
+Page 11 Extracted Terms:
+- Valvular heart disease (VHD)  
+- Left ventricular (LV) systolic dysfunction  
+- Guideline‑directed medical therapy (GDMT)  
+- Diuretics  
+- Angiotensin‑converting enzyme (ACE) inhibitors  
+- Angiotensin receptor blockers (ARBs)  
+- Beta blockers  
+- Aldosterone antagonists  
+- Sacubitril/valsartan  
+- Biventricular pacing  
+- Heart failure (HF)  
+- Stenotic valve lesions  
+- Abrupt lowering of blood pressure  
+- Rheumatic fever prophylaxis  
+- Infective endocarditis (IE) prophylaxis  
+- Oral health maintenance  
+- Influenza vaccination  
+- Pneumococcal vaccination  
+- Atrial fibrillation (AF)  
+- Anticoagulation therapy  
+- Rheumatic heart disease  
+- Strep A pharyngitis (group A streptococcus)  
+- Antibiotic prophylaxis  
+- Dental procedures (gingival manipulation, periapical manipulation, mucosal perforation)  
+- Prosthetic cardiac valves  
+- Transcatheter‑implanted prostheses  
+- Homografts  
+- Prosthetic material for valve repair (annuloplasty rings, chords, clips)  
+- Previous infective endocarditis (IE)  
+- Unrepaired cyanotic congenital heart disease  
+- Repaired congenital heart disease with residual shunts or valvular regurgitation  
+- Prosthetic patch or prosthetic device  
+- Cardiac transplant with valve regurgitation caused by an abnormal valve  
+- Non‑dental invasive procedures (transthoracic/ transesophageal echocardiography, esophagogastroduodenoscopy, colonoscopy, cystoscopy)  
+- Penicillin G benzathine (intramuscular)  
+- Penicillin V potassium (oral)  
+- Sulfadiazine (oral)  
+- Macrolide or azalide antibiotics (for penicillin‑allergic patients)  
+- Lifelong or extended prophylaxis (≥ 10 years or until 40 years of age)  
+- Group A streptococcus exposure risk  
+- Clinical or echocardiographic evidence of residual valvular heart disease.
+
+Page 12 Extracted Terms:
+- Infective Endocarditis (IE)  
+- Prophylactic Antibiotics  
+- Prosthetic Valve  
+- Prior Infective Endocarditis  
+- Congenital Heart Disease (with residual flow disturbances)  
+- Transcatheter Aortic Valve Implantation (TAVI)  
+- Surgical Aortic Valve Replacement (SAVR)  
+- Valve Repair with Prosthetic Material  
+- Heart Transplant Recipients  
+- Endothelial Disruption  
+- High‑Intensity Immunosuppressive Therapy  
+- Central Venous Catheter Access  
+- Endomyocardial Biopsies  
+- Oral Health / Oral Hygiene (brushing teeth, flossing)  
+- Transient Bacteremia  
+- Clostridium difficile Colitis  
+- Anticoagulation for Atrial Fibrillation (AF) in Valvular Heart Disease (VHD)  
+- Native Valve Heart Disease (excluding rheumatic mitral stenosis)  
+- Rheumatic Mitral Stenosis (MS)  
+- Bioprosthetic Valve (≥ 3 months post‑implantation)  
+- CHA₂DS₂‑VASc Score  
+- Vitamin‑K Antagonist (VKA) Anticoagulation  
+- Non‑Vitamin‑K Oral Anticoagulant (NOAC)  
+- Mechanical Heart Valves  
+- Valve Thrombosis Prevention  
+- Atrial Fibrillation (AF)  
+- Valvular Heart Disease (VHD)  
+
+Page 13 Extracted Terms:
+**Key heart‑disease related terms from the text**
+
+1. Valvular heart disease (VHD)  
+2. Bioprosthetic valves  
+3. Rheumatic mitral stenosis (MS)  
+4. Non‑vitamin K oral anticoagulants (NOACs)  
+5. Warfarin  
+6. Vitamin K antagonist (VKA)  
+7. Mechanical heart valves  
+8. Atrial fibrillation (AF)  
+9. CHA₂DS₂‑VASc risk score  
+10. Thromboembolic events (e.g., stroke)  
+11. Post‑operative AF after VHD intervention  
+12. Bioprosthesis (bioprosthetic valve prosthesis)  
+13. Transcatheter valve implantation  
+14. Target international normalized ratio (INR)  
+15. Stroke and mortality risks associated with AF/VHD  
+16. Phase II RE‑ALIGN study (dabigatran vs. warfarin in valve replacement)  
+
+These terms capture the key clinical concepts and disease entities discussed in the guideline excerpt.
+
+Page 14 Extracted Terms:
+Valvular heart disease (VHD)  
+Mechanical heart valve  
+Bleeding (in anticoagulation)  
+Dabigatran  
+Non‑vitamin K antagonist oral anticoagulants (NOACs)  
+Evaluation of surgical and interventional risk  
+Transcatheter aortic valve implantation (TAVI)  
+Aortic stenosis (AS)  
+Valve durability  
+Permanent pacemaker implantation  
+Surgical bioprosthesis  
+Valve‑in‑valve (ViV) procedure  
+Reoperation  
+Surgical aortic valve replacement (SAVR)  
+Mitral valve repair  
+Mitral regurgitation (MR)  
+STS risk calculator (STS‑Predicted Risk of Death)  
+EuroSCORE II risk calculator  
+Frailty assessment (frailty indices)  
+Organ system compromise  
+Cardiac dysfunction  
+Left‑ventricular dysfunction (systolic or diastolic)  
+Right‑ventricular dysfunction  
+Pulmonary hypertension  
+Risk assessment tools  
+Shared decision‑making process
+
+Page 15 Extracted Terms:
+- Valvular Heart Disease (VHD)  
+- Multidisciplinary Heart Valve Team (MDT)  
+- Primary or Comprehensive Heart Valve Center  
+- Aortic Valve Replacement (AVR)  
+- Surgical Aortic Valve Replacement (SAVR)  
+- Transcatheter Aortic Valve Implantation (TAVI)  
+- Transcatheter Edge‑to‑Edge Repair (TEER)  
+- Mitral Valve Repair  
+- Mitral Valve Replacement  
+- Coronary Artery Bypass Grafting (CABG)  
+- Society of Thoracic Surgeons (STS) score  
+- Chronic Obstructive Pulmonary Disease (COPD)  
+- Pulmonary Hypertension  
+- Right Ventricular (RV) Dysfunction  
+- Hepatic Dysfunction  
+- Frailty (including Katz Activities of Daily Living Score)  
+- Life expectancy < 1 year  
+- Poor candidate for rehabilitation  
+- Multivalve disease  
+- Aorto‑iliac occlusive disease (precluding transfemoral approach)  
+- Ascending aortic calcification (porcelain aorta)  
+- Aortic arch atherosclerosis (protuberant lesions)  
+- Severe mitral regurgitation (MR)  
+- Severe tricuspid regurgitation (TR)  
+- Basal septal hypertrophy  
+- Valve morphology (bicuspid, unicuspid, thickening, perforations, clefts, calcification, stenosis)  
+- Extensive left‑ventricular outflow tract calcification  
+- Prior mediastinal radiation  
+- Prior sternotomy  
+- Prior mitral valve surgery  
+- Risk prediction tools (tool‑specific)  
+- Operator/institutional case volume  
+- Perioperative mortality rates  
+- Surgical procedure‑specific mortality (e.g., AVR, AVR+CABG, mitral repair, etc.)
+
+Page 16 Extracted Terms:
+- TAVI (transfemoral)  
+- Percutaneous aortic valve balloon dilation  
+- TAVI – alternative access (transthoracic, transapical, subclavian, carotid, caval)  
+- Valve‑in‑valve procedures  
+- TEER (transcatheter edge‑to‑edge repair)  
+- Prosthetic valve paravalvular leak closure  
+- Percutaneous mitral balloon commissurotomy  
+- SAVR (surgical aortic valve replacement)  
+- Valve‑sparing aortic root procedures  
+- Aortic root procedures for aneurysmal disease  
+- Concomitant septal myectomy with AVR  
+- Root enlargement with AVR  
+- Mitral repair for primary MR (posterior leaflet)  
+- Mitral valve replacement  
+- Multivalve operations  
+- Reoperative valve surgery  
+- Isolated or concomitant tricuspid valve repair or replacement  
+- Concomitant tricuspid valve repair or replacement with mitral surgery  
+- Echocardiographer (valve disease expertise)  
+- Expertise in CT (valve assessment and procedural planning)  
+- Interventional echocardiographer (imaging guidance)  
+- Expertise in cardiac MRI (valve disease assessment)  
+- Valve echocardiographer (pre‑ and post‑procedural assessment)  
+- Expert in CT (pre‑procedural assessment of valve disease)  
+- Interventional echocardiographer (formalized role)  
+- Multidisciplinary team (MDT)  
+- Valve coordinator (dedicated role)  
+- Cardiac anesthesia support  
+- Palliative care team  
+- Vascular surgery support  
+- Neurology stroke team  
+- Consultative services with cardiovascular subspecialties  
+- Consultative services with other medical and surgical subspecialties  
+- Echo 3D TEE (transesophageal echocardiography)  
+- Comprehensive TTE (transthoracic echocardiography)  
+- Cardiac CT  
+- ICU (intensive care unit)
+
+Page 17 Extracted Terms:
+- Valvular heart disease (VHD)  
+- Heart valve programs  
+- Multidisciplinary team (MDT)  
+- Cardiologists (including valve disease specialists)  
+- Interventional cardiologists  
+- Cardiovascular imaging specialists  
+- Heart failure (HF) specialist  
+- Cardiovascular nurses  
+- Cardiovascular anesthesiologists  
+- Intensivists  
+- Primary clinical cardiologist  
+- Secondary mitral regurgitation (MR)  
+- Tricuspid regurgitation (TR)  
+- Operative mortality  
+- Perioperative morbidity  
+- Institutional volume  
+- Surgical aortic valve replacement (SAVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Mitral valve repair (surgical)  
+- Primary/Comprehensive heart valve center  
+- Multiple comorbidities  
+- Cardiac surgical care  
+- Cardiac catheterization laboratory  
+- Hybrid catheterization laboratory  
+- Hybrid operating room (OR) laboratory  
+- Permanent pacemaker (PPM) implantation  
+- Implantable cardioverter‑defibrillator (ICD) implantation  
+- Temporary mechanical support (e.g., intra‑aortic balloon pump, temporary peripheral ventricular assist device, ECMO)  
+- Left‑ventricular assist device (LVAD)  
+- Right‑ventricular assist device (RVAD)  
+- Intersocietal Accreditation Commission (IAC) echocardiography laboratory accreditation  
+- Intensive care unit (ICU) coverage  
+- Fixed radiographic imaging system and flat‑panel fluoroscopy  
+- Aortic valve replacement (AVR)  
+- Computed tomography (CT)  
+- Extracorporeal membrane oxygenation (ECMO)  
+- Implantable cardioverter defibrillator (ICD)  
+- Intersocietal Accreditation Commission (IAC)  
+- Intensive care unit (ICU)  
+- Multidisciplinary team (MDT)  
+- Mitral regurgitation (MR)  
+- Magnetic resonance imaging (MRI)  
+- Operating room (OR)  
+- Permanent pacemaker (PPM)  
+- Surgical aortic valve replacement (SAVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Transesophageal echocardiography (TEE)  
+- Transcatheter edge‑to‑edge repair (TEER)  
+- Transthoracic echocardiography (TTE)  
+- Valvular heart disease (VHD)  
+- Valve‑in‑valve (ViV) procedures
+
+Page 18 Extracted Terms:
+- Valvular heart disease (VHD)  
+- Prosthetic valve  
+- Valve replacement (surgical & transcatheter)  
+- Valve repair (mitral)  
+- Aortic valve replacement (AVR)  
+- Bicuspid aortic valve disease  
+- Mechanical valve (surgical)  
+- Bioprosthetic valve (surgical & transcatheter)  
+- Atrial fibrillation (post‑operative AF)  
+- Pulse‑wave and conduction abnormalities (heart block, permanent pacing)  
+- Stroke and embolic events  
+- Vascular complications (access‑site, systemic)  
+- Bleeding complications  
+- Pericarditis  
+- Infection (prosthetic valve endocarditis)  
+- Endocarditis prophylaxis  
+- Antithrombotic therapy for prosthetic valves  
+- Valve thrombosis  
+- Valve stenosis  
+- Valve regurgitation (including paravalvular leak)  
+- Residual valve dysfunction  
+- Coronary artery disease (CAD) – concurrent with VHD  
+- Primary prevention of CAD  
+- Secondary prevention of CAD  
+- Cardiovascular outcomes and coronary events  
+- Heart failure (HF) – symptom management, GDMT  
+- Left‑ventricular (LV) systolic dysfunction  
+- Left‑ventricular (LV) diastolic dysfunction  
+- Right‑ventricular (RV) dysfunction  
+- Pulmonary hypertension  
+- Renal dysfunction (post‑operative)  
+- Transthoracic echocardiography (TTE) – baseline, periodic imaging  
+- Timing of periodic imaging (baseline, 1 yr, 5 yr, 10 yr, annual)  
+- Valve degeneration (early bioprosthetic degeneration)  
+- Risk factors for valve degeneration (younger age, diabetes, renal failure)  
+- Hemodynamic monitoring after valve intervention  
+- Clinical follow‑up (annual, pregnancy)  
+- Primary Valve Center, Comprehensive Valve Center, Valve surveillance programs
+
+
+
+Page 19 Extracted Terms:
+- Valve intervention  
+- Baseline transthoracic echocardiography (TTE)  
+- Prosthetic valve  
+- Transaortic maximum velocity  
+- Mean pressure gradient  
+- Low‑flow, low‑gradient severe aortic stenosis (AS)  
+- Stage D2 (low LVEF)  
+- Stage D3 (normal LVEF)  
+- Bicuspid aortic valve (BAV)  
+- Doppler echocardiography  
+- Transesophageal echocardiography (TEE)  
+- Cardiac magnetic resonance (CMR)  
+- Cardiac computed tomography (CT)  
+- Positron emission tomography (PET)  
+- Endocarditis  
+- Aortic valve hemodynamics  
+- Left ventricular (LV) systolic function  
+- LV size  
+- Pulmonary systolic pressure  
+- Left ventricular ejection fraction (LVEF)  
+- Contractile reserve  
+- Valve anatomy and motion  
+- Valve obstruction  
+- Residual valve dysfunction  
+- Concurrent cardiac conditions  
+- Blood pressure control  
+- Low‑dose dobutamine stress testing  
+- Valvular heart disease (VHD)  
+- Aortic valve calcium score  
+- Hemodynamic severity  
+- Ventricular size  
+- Cardiac catheterization  
+- Fluoroscopy  
+- Clinical history and physical examination  
+- Periodic imaging schedule  
+- Valve repair/valve prosthesis type  
+- Symptom‑based monitoring  
+- Systemic hypertension  
+- Blood pressure management  
+- Transaortic volume flow rate  
+- Stroke volume  
+- Systolic function assessment  
+- Valve replacement recommendations  
+- Valve surveillance guidelines  
+
+Page 20 Extracted Terms:
+**Key heart‑disease terms extracted**
+
+- Aortic stenosis (AS)  
+- Aortic valve area (AVA)  
+- Aortic valve area indexed (AVAi)  
+- Aortic valve sclerosis  
+- Bicuspid aortic valve (BAV)  
+- Aortic regurgitation (AR)  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular hypertrophy (LVH)  
+- Left ventricular systolic dysfunction  
+- Left ventricular diastolic dysfunction  
+- Forward stroke volume  
+- Stroke volume index (SVi)  
+- Transaortic pressure gradient  
+- Mean pressure gradient (ΔP)  
+- Maximum velocity (Vmax)  
+- Severe AS  
+- Low‑gradient AS  
+- High‑gradient AS  
+- Symptomatic severe AS  
+- Asymptomatic severe AS  
+- Low‑flow AS  
+- Paradoxical low‑flow severe AS  
+- Pulmonary hypertension  
+- Exercise tolerance  
+- Exertional dyspnea  
+- Exertional angina  
+- Syncope / presyncope  
+- Heart failure (HF)  
+- Stage A, B, C, D of AS progression  
+- Doppler velocity data  
+- Invasive pressure measurements  
+- Valve anatomy  
+- Valve hemodynamics  
+- Valve calcification/fibrosis  
+- Commissural fusion  
+- Stroke‑volume index <35 mL/m²  
+- Small left‑ventricular chamber  
+- Restrictive diastolic filling  
+- Aortic Vmax ≥4 m/s or ≥5 m/s  
+- Aortic Vmax <4 m/s or 2.0–2.9 m/s  
+- Mean ΔP ≥40 mm Hg or <20 mm Hg  
+- Small, low‑flow, low‑gradient AS  
+- Symptomatic low‑gradient AS with preserved LVEF.
+
+Page 21 Extracted Terms:
+- Valvular heart disease  
+- Aortic stenosis (AS)  
+- Moderate aortic stenosis  
+- Severe aortic stenosis  
+- Aortic valve calcification  
+- Bicuspid aortic valve (BAV) disease  
+- Dobutamine stress echocardiography  
+- Aortic velocity  
+- Mean pressure gradient  
+- Trans‑aortic velocity  
+- Valve area (effective orifice area)  
+- Valve area measurement by continuity equation  
+- Outflow tract‑to‑aortic velocity ratio  
+- Lateral velocity ratio threshold (≤0.25)  
+- Stroke volume reserve (≥20% increase with dobutamine)  
+- Lack of contractile reserve / flow reserve  
+- Aortic valve calcium volume (CT imaging)  
+- Sex‑specific Agaston unit thresholds (1300 women, 2000 men)  
+- Annulus area (CT measurement for TAVI planning)  
+- Leaflet length (CT measurement for TAVI planning)  
+- Annular‑to‑coronary ostial distance (CT measurement for TAVI planning)  
+- Aortic murmur characteristics (loudness, onset, peak, A2 component)  
+- Aortic valve stenosis progression metrics (velocity, gradient, area changes)  
+- Aortic sclerosis (velocity <2.0 m/s)  
+- Transaortic pressure gradient (cardiac catheterization)  
+- Left ventricular (LV) outflow tract diameter/area  
+- Left ventricular ejection fraction (LVEF)  
+- Cardiac output  
+- Hemodynamic demands (surgery, pregnancy, infection, anemia, bleeding)  
+- Symptom onset in severe AS  
+- Event‑free survival percentages for severe AS  
+- Follow‑up intervals for asymptomatic severe or moderate AS  
+- Diagnostic transthoracic echocardiography (TTE)  
+- Doppler echocardiography (velocity, gradient measurement)  
+- Non‑invasive imaging limitations (parallel intercept angle, image quality)  
+- Angiographic assessment of aortic valve stenosis severity.
+
+Page 22 Extracted Terms:
+- Aortic Stenosis (AS)  
+- Valvular Heart Disease (VHD)  
+- Exercise Testing  
+- Exercise‑induced Angina  
+- Excessive Dyspnea  
+- Syncope  
+- Ventricular Tachycardia  
+- Asystole  
+- Gorlin Formula  
+- Fick Method  
+- Thermodilution  
+- Cardiac Output  
+- Aortic Velocity  
+- Mean Pressure Gradient  
+- Hypertension  
+- Hypertensive Therapy  
+- Statin Therapy  
+- Renin–Angiotensin System Blocker  
+- ACE Inhibitor  
+- ARB (Angiotensin‑II Receptor Blocker)  
+- TAVI (Transcatheter Aortic Valve Implantation)  
+- Calcific Aortic Stenosis  
+- Disease Staging (Stage A; Stage B; Stage C; Stage D)  
+- GDMT (Guideline‑Directed Medical Therapy)  
+- Coronary Angiography  
+- Hemodynamic Compromise  
+- Blood Pressure Monitoring  
+- ECG Monitoring  
+- Functional Capacity  
+- Clinical Outcome  
+- Guideline for Management of Valvular Heart Disease  
+- ACC/AHA Guideline for Valvular Heart Disease  
+- Circulation (journal)  
+- Diagnostic Testing  
+- Physiological Changes  
+- Hemodynamics  
+- Complications (e.g., syncope, ventricular tachycardia, death)
+
+Page 23 Extracted Terms:
+- Aortic stenosis (AS)  
+- Asymptomatic aortic stenosis  
+- Severe aortic stenosis  
+- Very severe aortic stenosis  
+- Aortic valve replacement (AVR)  
+- Surgical aortic valve replacement (SAVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Left ventricular ejection fraction (LVEF)  
+- Low‑flow, low‑gradient severe AS  
+- Low surgical risk  
+- High‑gradient severe AS  
+- Elevated B‑type natriuretic peptide (BNP)  
+- Ischemic cardiovascular events  
+- Cardiovascular mortality  
+- Hypertension (high blood pressure)  
+- Renin–angiotensin system blockers  
+- Angiotensin‑converting enzyme (ACE) inhibitors  
+- Diuretics  
+- LV fibrosis  
+- Hypercholesterolemia  
+- Coronary artery disease (CAD)  
+- Statin therapy  
+- Lipid‑lowering therapy  
+- Experimental models of calcific AS  
+- Randomized controlled trials (RCTs)  
+- Observational and registry data  
+- Clinical guideline statements (ACC/AHA, 2020)  
+- Low‑flow versus high‑flow states in AS  
+- Systolic blood pressure fall during exercise  
+- Exercise testing (stress test)  
+- Progressive decline in LVEF  
+- Progressive increase in aortic velocity  
+- Aortic valve event rates  
+- Perioperative management of AS patients.
+
+Page 24 Extracted Terms:
+- Aortic stenosis (AS)  
+- Severe high‑gradient AS  
+- Low‑gradient AS  
+- Symptomatic AS  
+- Asymptomatic AS  
+- Stage C, Stage D1, D2, D3 (AS staging)  
+- Aortic valve replacement (AVR)  
+- Surgical aortic valve replacement (SAVR)  
+- Transcatheter aortic valve implantation (TAVI/TAVR)  
+- Mechanical valve  
+- Bioprosthetic valve  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular systolic function  
+- Exertional dyspnea  
+- Decreased exercise tolerance  
+- Heart failure (HF)  
+- Syncope  
+- Angina  
+- Sudden death risk  
+- B‑type natriuretic peptide (BNP)  
+- Blood pressure (BP)  
+- Dobutamine stress echocardiography (DSE)  
+- Exercise treadmill test (ETT)  
+- Mean systolic pressure gradient (∆Pmean)  
+- Stroke volume index (SVI)  
+- Aortic valve area (AVA)  
+- Aortic valve area index (AVAi)  
+- Maximum velocity (Vmax)  
+- Afterload mismatch  
+- Symptomatic survival benefit of AVR  
+- Transcatheter versus surgical AVR choice  
+- Palliative care in prohibitive surgical risk patients  
+- RCT (randomized controlled trial)  
+
+(Note: All terms are extracted from the guideline excerpt and pertain to heart disease, particularly aortic valve disease and its management.)
+
+Page 25 Extracted Terms:
+- Aortic valve replacement (AVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Aortic stenosis (AS)  
+- Severe aortic stenosis  
+- Very severe aortic stenosis  
+- Low‑flow, low‑gradient severe AS  
+- High‑gradient AS  
+- Mean pressure gradient (mm Hg)  
+- Aortic velocity (m s⁻¹)  
+- Stroke volume (mL)  
+- Stroke volume index (mL m⁻²)  
+- Left ventricular ejection fraction (LVEF)  
+- Contractile reserve  
+- Dobutamine stress testing  
+- Echocardiographic assessment of valve stenosis  
+- Valve area (cm²)  
+- Valve area indexed to body size  
+- Valve area index (cm² m⁻²)  
+- Aortic valve calcium score (CT)  
+- B‑type natriuretic peptide (BNP)  
+- Cardiovascular mortality  
+- Surgical risk (e.g., low, high)  
+- Patient‑prosthesis mismatch  
+- Anticoagulation considerations  
+- Symptom onset (clinical, exercise‑provoked)  
+- Afterload mismatch  
+- Left‑ventricular systolic dysfunction  
+- Left‑ventricular diastolic dysfunction  
+- Hypertension (blood‑pressure control)  
+- Doppler imaging  
+- Two‑dimensional (2D) imaging  
+- Guideline recommendations (ACC/AHA, 2020)  
+- Surgical aortic valve replacement (SAVR)  
+- Exercise testing (symptom clarification)
+
+Page 26 Extracted Terms:
+- BNP (Brain Natriuretic Peptide)  
+- Aortic valve stenosis (AS)  
+- Aortic valve replacement (AVR)  
+- Left ventricular ejection fraction (LVEF)  
+- Left‑ventricular systolic function  
+- Hemodynamic progression  
+- Aortic velocity  
+- Mean gradient  
+- Valve area  
+- Valve calcification  
+- Severe AS (asymptomatic or symptomatic)  
+- Symptom onset  
+- Sudden death  
+- All‑cause mortality  
+- Cardiovascular mortality  
+- Hazard ratio (HR)  
+- BNP level >300 pg/mL  
+- Mechanical prosthetic valve  
+- Bioprosthetic valve  
+- Ross procedure (pulmonic autograft)  
+- TAVI (transcatheter aortic valve implantation)  
+- VKA anticoagulation  
+- Anticoagulant therapy  
+- Valve reintervention  
+- Shared decision‑making  
+- Serial imaging studies  
+- Valve durability  
+- Clinical risk factors (age, comorbid conditions)  
+
+(Note: The list captures key heart‑disease‑related terms from the guideline excerpt.)
+
+Page 27 Extracted Terms:
+- Valvular heart disease  
+- Aortic valve replacement (AVR)  
+- Mitral valve replacement  
+- Bioprosthetic valve  
+- Mechanical valve prosthesis  
+- Transcatheter aortic valve implantation (TAVI)  
+- Valve durability  
+- Structural valve deterioration (SVD)  
+- Reintervention / reoperation  
+- Valve prosthesis mismatch  
+- Anticoagulation therapy  
+- Vitamin K antagonist (VKA)  
+- Low‑molecular‑weight heparin (LMWH) – alternative anticoagulant (not directly mentioned but relevant)  
+- New‑generation direct oral anticoagulants (DOACs)  
+- Thromboembolic events  
+- Bleeding risk (intracranial, gastrointestinal)  
+- International Normalized Ratio (INR) monitoring  
+- Long‑term anticoagulation  
+- Age stratification in valve choice (<50, 50–65, >65 years)  
+- Patient values and preferences  
+- Shared decision‑making process  
+- Pregnancy‑related anticoagulation considerations  
+- Surgical vs interventional risk  
+- Hemodynamics of valve type and size  
+- Post‑implant monitoring  
+- Implantation‑related complications  
+- Structural deterioration probability (15‑year risk %)  
+- Survival advantage with mechanical valves  
+- Late mortality associated with bioprosthetic valves  
+
+   (All terms are directly related to heart valve disease management and outcomes as described in the guideline excerpt.)
+
+Page 28 Extracted Terms:
+**Key heart‑disease terms identified**
+
+- Valvular heart disease  
+- VKA therapy  
+- Bleeding complications  
+- Anticoagulation  
+- Bioprosthetic valve  
+- Prosthetic heart valve  
+- Ross procedure  
+- Aortic valve replacement  
+- Pulmonary autograft (Ross procedure)  
+- Pulmonic homograft  
+- Valve degeneration  
+- Valve calcification  
+- Valve re‑intervention  
+- Severe aortic stenosis (AS)  
+- Aortic valve (AV)  
+- Pulmonary valve (PV)  
+- Valve durability  
+- Aortic valve (AV) replacement (SAVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Transfemoral TAVI  
+- Life expectancy  
+- Symptomatic vs. asymptomatic AS  
+- LVEF (<50%)  
+- BNP  
+- Exercise test (exercise‑testing)  
+- High or prohibitive surgical risk  
+- Palliative care  
+- Critical illness  
+- Percutaneous aortic balloon dilation  
+- Shared decision‑making  
+- Comprehensive valve center  
+- Valve hemodynamics  
+- Valve failure (regurgitation of the neoaortic valve)  
+- Valve position (pulmonic, aortic)  
+- Valve anatomy  
+- Valve durability data (≥10 years)  
+- Post‑TAVI survival  
+- Post‑SAVR survival  
+- Quality of life (QoL)  
+
+These terms capture the major concepts and interventions related to heart valve disease discussed in the provided guideline excerpt.
+
+Page 29 Extracted Terms:
+- ACC/AHA Guideline for the Management of Valvular Heart Disease  
+- Valvular Heart Disease  
+- Surgical Aortic Valve Replacement (SAVR)  
+- Transcatheter Aortic Valve Implantation (TAVI)  
+- Aortic Valve Replacement (AVR)  
+- Aortic Stenosis (AS)  
+- Bioprosthetic Valve  
+- Mechanical Valve  
+- Valve Durability  
+- Lifelong Anticoagulation  
+- Vitamin K Antagonist (VKA)  
+- Transfemoral Delivery  
+- Aortic Root Dilation  
+- Annulus Size and Shape  
+- Leaflet Number  
+- Calcification  
+- Coronary Ostial Height  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Quality of Life (QOL)  
+- Society of Thoracic Surgeons (STS)  
+- ACC Expert Consensus Statement  
+- Valvular Anatomy   
+- Transcatheter Valve Placement  
+- Age-Related Longevity and Valve Selection  
+- Vascular Anatomy Compatibility
+
+
+
+Page 30 Extracted Terms:
+- Valvular Heart Disease  
+- Aortic Valve Replacement (AVR)  
+- Surgical Aortic Valve Replacement (SAVR)  
+- Transcatheter Aortic Valve Implantation (TAVI)  
+- Aortic Stenosis (AS)  
+- Severe Aortic Stenosis  
+- Low‑flow, low‑gradient Severe AS  
+- High‑velocity Severe AS (Stage D1)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Paravalvular Leak / Regurgitation  
+- Valve Durability  
+- Transfemoral TAVI Approach  
+- Balloon‑Expandable Valve  
+- Self‑Expanding Valve  
+- Valve‑in‑Valve TAVI  
+- Permanent Pacemaker Implantation  
+- Vascular Complications  
+- Stroke  
+- Major Bleeding  
+- Atrial Fibrillation (AF)  
+- Hospital Length of Stay  
+- Post‑operative Pain  
+- Symptomatic Patients  
+- Surgical Risk (High, Low, Intermediate)  
+- Life Expectancy  
+- Comorbid Cardiac Conditions  
+- Noncardiac Conditions  
+- Frailty  
+- Dementia  
+- Shared Decision‑Making  
+- Mortality Risk  
+- Paravalvular Leakage  
+- Stroke Risk (HR)  
+- Bleeding Risk  
+- AF Risk  
+- Paravalvular Regurgitation  
+- Durability Beyond 5–6 Years  
+- Age‑Based Recommendations (≤65 yr, 65–80 yr, >80 yr)
+
+Page 31 Extracted Terms:
+- Valvular heart disease  
+- Aortic stenosis (AS)  
+- Severe aortic stenosis  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular systolic dysfunction  
+- Transcatheter aortic valve implantation (TAVI)  
+- Surgical aortic valve replacement (SAVR)  
+- Percutaneous aortic balloon dilation (balloon aortic valvuloplasty)  
+- New York Heart Association (NYHA) functional class  
+- Stroke  
+- Major vascular complications  
+- Pulmonary hypertension  
+- Anemia  
+- Chronic obstructive pulmonary disease (COPD)  
+- Liver disease  
+- Frailty  
+- Porcelain aorta  
+- Chest radiation damage  
+- Valve reintervention  
+- STS (Society of Thoracic Surgeons) surgical risk score
+
+Page 32 Extracted Terms:
+- Percutaneous aortic balloon dilation  
+- Aortic stenosis (AS)  
+- Calcific valve deposits  
+- Aortic annulus  
+- Valve commissures  
+- Hemodynamics  
+- Surgical aortic valve replacement (SAVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Aortic valve palliation  
+- Bicuspid aortic valve (BAV)  
+- Subaortic (LV outflow tract) calcification  
+- Rheumatic valve disease  
+- Aortic annulus size  
+- Calcific AS of a trileaflet valve  
+- Mechanical prosthetic valve  
+- Bioprosthetic valve  
+- Patient–prosthesis mismatch  
+- Valve durability  
+- Primary mitral regurgitation (MR)  
+- Coronary artery disease (CAD)  
+- Coronary artery bypass grafting  
+- Septal hypertrophy  
+- Myectomy  
+- Atrial fibrillation (AF)  
+- Porcelain aorta  
+- Left‑ventricular (LV) systolic dysfunction  
+- Severe mitral regurgitation (MR) due to annular calcification  
+- Severe lung, liver, or renal disease  
+- Mobility issues / procedural risk  
+- Severe dementia  
+- Frailty  
+- Procedural or surgical risk of SAVR/TAVI  
+- Vascular access constraints  
+- Previous cardiac surgery with at‑risk grafts  
+- Previous chest irradiation  
+- Goals of care (e.g., symptom relief, quality of life, life prolongation)  
+- Permanent pacemaker risk  
+- Stroke risk  
+- Valve replacement durability data (5‑year TAVI, 20‑year bioprosthetic)  
+- Life expectancy / actuarial tables  
+- Valve type selection (mechanical vs. bioprosthetic)  
+- Valve enlargement procedures  
+- Non‑cardiac comorbidities affecting treatment choice.
+
+Page 33 Extracted Terms:
+- Aortic valve disease  
+- Aortic stenosis (AS)  
+- Aortic regurgitation (AR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Surgical aortic valve replacement (SAVR / AVR)  
+- Percutaneous aortic balloon dilation  
+- Acute aortic regurgitation  
+- Chronic aortic regurgitation  
+- Endocarditis‑related AR  
+- Aortic dissection‑related AR  
+- Bicuspid aortic valve (BAV) disease  
+- Rheumatic heart disease  
+- Transcatheter procedures (e.g., transcatheter aortic valve, transcatheter aortic valve replacement)  
+- Transcatheter aortic valve replacement (TAVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Valve area (cm²)  
+- Transvalvular pressure gradient  
+- Left ventricular (LV) volume overload  
+- LV chamber dilation  
+- LV hypertrophy  
+- Pulmonary congestion  
+- Pulmonary edema  
+- Cardiac output  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Cardiac computed tomography (CT)  
+- Cardiac magnetic resonance imaging (MRI)  
+- Intra‑aortic balloon counterpulsation  
+- Beta blockers (in aortic dissection)  
+- Acute severe AR surgical emergency  
+- Acute AR diagnosis criteria (deceleration time, pressure half‑time, holodiastolic flow reversal)  
+- Aortic root imaging  
+- Aortic diastolic pressure equilibration  
+- Surgical delay in acute severe AR  
+- Acute coronary syndrome (differential diagnosis)
+
+Page 34 Extracted Terms:
+- Valvular Heart Disease  
+- Aortic Regurgitation (AR)  
+- Bicuspid Aortic Valve (BAV)  
+- Aortic valve sclerosis  
+- Aortic sinuses  
+- Ascending aorta  
+- Rheumatic fever  
+- Rheumatic heart disease  
+- Infective endocarditis (IE)  
+- Congenital valve anomaly / congenital abnormality  
+- Calcific aortic valve disease  
+- Left ventricular (LV) systolic function  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular end‑systolic dimension (LVESD)  
+- LV dilation / left ventricular dilation  
+- LV outflow tract (LVOT)  
+- Jet width (percentage of LVOT)  
+- Vena contracta (cm)  
+- Regurgitant volume (mL/beat)  
+- Regurgitant fraction (%)  
+- Effective regurgitant orifice (ERO) (cm²)  
+- Angiography grade (1–4)  
+- Holodiastolic flow reversal in abdominal aorta  
+- Exertional dyspnea  
+- Angina  
+- Heart failure (HF)  
+- Mild AR  
+- Moderate AR  
+- Severe AR  
+- Asymptomatic severe AR  
+- Symptomatic severe AR  
+- Stages of chronic AR (Stage A, B, C, D)  
+- LV systolic dysfunction (LVEF ≤ 55%)  
+- LV end‑systolic dimension index (mm²/m²)
+
+Page 35 Extracted Terms:
+- Chronic aortic regurgitation (AR)  
+- Aortic regurgitation severity  
+- Valve reparability  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Cardiovascular magnetic resonance (CMR)  
+- Cardiac catheterization  
+- Aortic angiography  
+- Left ventricular (LV) systolic function  
+- Left ventricular ejection fraction (LVEF)  
+- Fractional shortening  
+- LV end‑systolic dimension (LVESD)  
+- LV end‑systolic volume (LVESV)  
+- LV end‑diastolic dimension/volume (LVEDD/LVEDV)  
+- Bicuspid aortic valve (BAV)  
+- Aortic sinuses dilation  
+- Ascending aorta dilation  
+- Symptom staging (Stages B, C, C2, D)  
+- Heart failure (HF) symptoms  
+- Hypertension (systolic >140 mm Hg)  
+- Glycemic‑controlled disease management (GDMT)  
+- Angiotensin‑converting enzyme inhibitors (ACE‑I)  
+- Angiotensin receptor blockers (ARBs)  
+- Sacubitril/valsartan (ARNI)  
+- Beta‑blockers  
+- Systolic blood pressure (SBP)  
+- Diastolic blood pressure (DBP)  
+- Pulse pressure  
+- Trans‑aortic stroke volume  
+- Regurgitant volume  
+- Effective regurgitant orifice (ERO) area  
+- Regurgitant fraction  
+- Aortic valve disease  
+- Valve intervention (aortic valve replacement, AVR)  
+- Cardiology guidelines  
+- Clinical outcomes  
+- Survival and functional results  
+- Surgical risk assessment  
+
+These terms capture the cardiovascular concepts and therapies discussed in the guideline excerpt.
+
+Page 36 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+- Chronic severe aortic regurgitation (AR)  
+- Aortic valve surgery / aortic valve replacement (AVR, SAVR)  
+- Left ventricular (LV) systolic function  
+- Left ventricular ejection fraction (LVEF)  
+- LV end‑systolic diameter (LVESD)  
+- LV end‑diastolic diameter (LVEDD)  
+- LV volume overload / LV volume measurements  
+- Mechanical valve (prosthetic)  
+- Bioprosthetic valve (prosthetic)  
+- Valve‑sparing procedures / valve‑spare surgery  
+- Aortic root reconstruction  
+- Ascending aorta repair / replacement  
+- Transcatheter aortic valve implantation (TAVI)  
+- Coronary artery bypass grafting (CABG)  
+- Mitral valve surgery  
+- Symptomatic patients (with severe AR)  
+- Asymptomatic patients (with severe or moderate AR)  
+- Severe AR (Stage C1, C2, D)  
+- Moderate AR (Stage B)  
+- LV systolic dysfunction (LVEF ≤55%)  
+- Progressive decline in LVEF (to 55‑60%)  
+- Progressive LV dilation (LVEDD >65 mm)  
+- Global longitudinal strain (GLS)  
+- Circulation biomarkers (e.g., natriuretic peptides)  
+- Exercise capacity / exercise testing  
+- Survival and functional status after surgery  
+- Perioperative period / peri‑operative hemodynamics  
+- Mortality rate post‑AVR  
+- Clinical evaluation and symptom assessment  
+- Risk factors for AVR timing  
+- ACC/AHA guideline recommendations  
+- Evidence levels (e.g., B‑NR, C‑EO)  
+- Clinical outcomes and prognostic markers  
+- Imaging modalities: 2‑D echocardiography, 3‑D echocardiography, cardiac MRI (CMR)  
+- LVESD index (indexed LVESD, mm/m²)  
+- Intervention thresholds (e.g., LVESD >50 mm, indexed >25 mm/m²)  
+- Surgical indications: before LVEF falls below 55 %  
+- Post‑operative outcomes in asymptomatic patients with LV dysfunction
+
+*(These terms capture the main concepts concerning heart disease, valve pathology, diagnostic imaging, surgical interventions, and guideline‐based recommendations discussed in the text.)*
+
+Page 37 Extracted Terms:
+Aortic regurgitation (AR)  
+Aortic valve (AV)  
+Aortic valve replacement (AVR)  
+Valve‑sparing procedure  
+Aortic root  
+Ascending aorta  
+Mitral valve  
+Coronary artery bypass grafting (CABG)  
+Transcatheter aortic valve implantation (TAVI)  
+Left ventricular end‑diastolic dimension (LVEDD)  
+Left ventricular end‑systolic dimension (LVESD)  
+Left ventricular systolic volume  
+Left ventricular ejection fraction (LVEF)  
+Effective regurgitant orifice (ERO)  
+Regurgitant volume (RVol)  
+Regurgitant fraction (RF)  
+Vena contracta (VC)  
+Cardiac events  
+Post‑operative outcomes  
+Transcatheter valve migration  
+Paravalvular leak  
+Transthoracic echocardiography (TTE)  
+Transesophageal echocardiography (TEE)  
+Cardiac magnetic resonance imaging (CMR)  
+Aortic annulus  
+Valve calcification  
+Valve anatomy  
+Aortic root size and shape  
+Heart failure (HF)  
+Severe regurgitation  
+Asymptomatic patients.
+
+Page 38 Extracted Terms:
+- Bicuspid aortic valve (BAV)  
+- Aortic stenosis (AS)  
+- Aortic regurgitation (AR)  
+- Aortic aneurysm  
+- Aortic dilation  
+- Aortopathy  
+- Ascending aorta  
+- Aortic sinuses (sinuses of Valsalva)  
+- Sinotubular junction  
+- Aortic coarctation  
+- Aortic dissection  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Cardiac magnetic resonance (CMR) angiography  
+- Computed tomography (CT) angiography  
+- Aortic valve replacement (AVR)  
+- Lifelong serial imaging (echocardiography, CMR, CT)  
+- Diagnostic imaging of the aorta  
+- Screening TTE in first‑degree relatives  
+- Genetic inheritance of aortopathy  
+- Hemodynamic assessment (Doppler interrogation)  
+- Valve morphology evaluation  
+- Severity grading of AS and AR  
+- Imaging intervals based on aortic size and progression  
+- Radiological assessment of aortic annulus, sinuses, and ascending aorta
+
+Page 39 Extracted Terms:
+- Bicuspid aortic valve (BAV)  
+- Aortic dilation  
+- Aortic dissection  
+- Aortic grafting  
+- Valve surgery / valve replacement  
+- Aortic imaging  
+- Aortic diameter  
+- Aortic sinuses  
+- Ascending aorta  
+- Surgical intervention  
+- Aortic coarctation  
+- Aortic growth rate  
+- Valvular heart disease  
+- Comprehensive Valve Center  
+- Computed tomographic angiography (CTA)  
+- Cardiac magnetic resonance (CMR)  
+- Transthoracic echocardiography (TTE)
+
+Page 40 Extracted Terms:
+- BAV (Bicuspid Aortic Valve)  
+- SAVR (Surgical Aortic Valve Replacement)  
+- TAVI (Transcatheter Aortic Valve Implantation)  
+- AVR (Aortic Valve Replacement)  
+- AS (Aortic Stenosis)  
+- AR (Aortic Regurgitation)  
+- Aortic sinuses  
+- Ascending aorta  
+- Aortic dilation / aortic enlargement  
+- Aortic dissection  
+- Aortic coarctation  
+- Aortic growth rate  
+- Valve‑sparing surgery  
+- Aortic valve repair  
+- Aortic valve reimplantation  
+- Comprehensive Valve Center  
+- Operative intervention (aortic surgery)  
+- Imaging of the aorta (CT, MRI, TEE)  
+- Surgical threshold (≥4.5 cm, 5.0–5.5 cm, ≥5.5 cm)  
+- Low surgical risk  
+- Shared decision‑making  
+- Family history of aortic dissection  
+- Risk factors for dissection  
+- Progressive aortic dilation  
+- Retro­active studies on BAV outcomes  
+- Aortic valve prosthetic choice (mechanical, bioprosthetic)
+
+Page 41 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Surgical repair  
+- Aortic valve  
+- Valve repair  
+- Aortic root anatomy  
+- Comprehensive Valve Center  
+- Transcatheter aortic valve implantation (TAVI)  
+- Severe symptomatic aortic stenosis (AS)  
+- Bicuspid aortic valve (BAV)  
+- Paravalvular leak  
+- 30‑day mortality rate  
+- 1‑year mortality rate  
+- Stroke rate  
+- Risk‑benefit ratio (TAVI vs. SAVR)  
+- Surgical aortic valve replacement (SAVR)  
+- Mitral stenosis (MS)  
+- Rheumatic mitral stenosis  
+- Female predominance (≈80 % of rheumatic MS cases)  
+- Clinical presentation (young age, teenage–30 yr)  
+- Aortic replacement intervention  
+- Family history of aortic dissection  
+- Aortic growth rate (≥ 0.5 cm / year)  
+- Aortic coarctation  
+- Aortic valve replacement (AVR)  
+- Comprehensive Valve Center (CVC)  
+- STS/ACC Transcatheter Valve Therapies Registry  
+
+These terms represent the key clinical entities, procedures, outcomes, and populations discussed in the guidelines excerpt.
+
+Page 42 Extracted Terms:
+- Mitral stenosis (MS)  
+- Rheumatic heart disease  
+- Valvular heart disease  
+- Commissural fusion  
+- Calcific mitral stenosis  
+- Mitral valve area  
+- Transmitral mean pressure gradient  
+- Diastolic pressure half‑time  
+- Left atrium (LA)  
+- Pulmonary artery systolic pressure (PASP)  
+- Pulmonary hypertension  
+- Left atrial enlargement  
+- Mitral regurgitation (MR)  
+- Atherosclerotic disease  
+- Hypertension  
+- Diastolic dysfunction  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Percutaneous mitral balloon commissurotomy (PMBC)  
+- Mitral commissurotomy  
+- Valve hemodymamics  
+- Valve anatomy  
+- Valve obstruction  
+- Transvalvular flow rate  
+- Heart rate  
+- Mitral valve leaflet calcification  
+- Mitral valve annulus calcification  
+- Continuity equation  
+- Gorlin formula  
+- Left ventricular (LV) compliance  
+- Left atrial (LA) compliance  
+- Diastolic filling period  
+- LA thrombus  
+- Severe MS criteria (≤1.5 cm², >5 mm Hg gradient)  
+- Moderate LA enlargement  
+- Exertional dyspnea  
+- Decreased exercise tolerance
+
+Page 43 Extracted Terms:
+**Key terms related to heart disease (valvular and hemodynamic):**
+
+1. Valvular heart disease  
+2. Rheumatic mitral stenosis (MS)  
+3. Mitral regurgitation (MR)  
+4. Percutaneous balloon mitral commissurotomy (PMBC)  
+5. Transthoracic echocardiography (TTE)  
+6. Transesophageal echocardiography (TEE)  
+7. Three‑dimensional echocardiography (3‑D echo)  
+8. Doppler echocardiography  
+9. Transvalvular gradients  
+10. Mean gradient  
+11. Mitral valve area  
+12. Mitral valve morphology  
+13. Commissural fusion  
+14. Commissural morphology  
+15. Valve thickening  
+16. Valve mobility  
+17. Valve calcification  
+18. Subvalvular chordal fusion  
+19. Mitral pressure half‑time  
+20. Pulmonary hypertension  
+21. Right ventricular (RV) systolic pressure  
+22. Tricuspid regurgitation (TR) velocity  
+23. Right ventricular enlargement  
+24. Left atrial (LA) thrombus  
+25. Atrial fibrillation (AF)  
+26. Hyperthyroidism  
+27. Cardiac catheterization  
+28. Left ventricular (LV) diastolic pressure  
+29. Pulmonary artery wedge pressure  
+30. Gorlin equation (mitral area calculation)  
+31. Pulmonary circulation pressure  
+32. Hemodynamic load  
+33. Exercise hemodynamics  
+34. Valve area progression (0.1 cm²/year)  
+35. Diastolic dysfunction  
+36. LA non‑compliance  
+37. Intrinsic pulmonary vascular disease  
+
+These terms capture the primary clinical, diagnostic, and therapeutic concepts discussed in the guideline excerpt.
+
+Page 44 Extracted Terms:
+- Rheumatic mitral stenosis (MS)  
+- Valvular heart disease  
+- Echocardiography  
+- Doppler echocardiography  
+- Resting echocardiographic findings  
+- Exercise testing  
+- Treadmill exercise testing  
+- Bicycle exercise testing  
+- Cardiac catheterization  
+- Invasive hemodynamic assessment  
+- Mean mitral gradient  
+- Pulmonary artery pressure  
+- Pulmonary artery wedge pressure  
+- Pulmonary artery systolic pressure  
+- Valve gradient  
+- Diastolic filling period  
+- Left atrial (LA) pressure  
+- Atrial fibrillation (AF)  
+- Rapid ventricular response  
+- Sinus tachycardia  
+- Anticoagulation  
+- Vitamin K antagonist (VKA)  
+- Direct oral anticoagulants (DOACs) – noted as “non‑vitamin K oral anticoagulation”  
+- Embolic event  
+- Left atrial thrombus  
+- Beta‑blockers  
+- Calcium‑channel blockers  
+- Ivabradine  
+- Heart rate control  
+- Leg‑lift maneuver  
+- Sit‑up maneuver  
+- Thromboembolic risk  
+- Hemodynamic consequences  
+- Exercise capacity  
+- Symptomatic response  
+- Diagnostic testing  
+- Clinical statements  
+- Guideline recommendations  
+- Hemodynamic mismatch (resting vs. clinical symptoms)
+
+Page 45 Extracted Terms:
+- Rheumatic mitral stenosis (MS)
+- Mitral valve area ≤ 1.5 cm²
+- NYHA functional class II–IV
+- Pulmonary artery systolic pressure > 50 mm Hg
+- Pulmonary artery wedge pressure > 25 mm Hg
+- Mean mitral valve gradient > 15 mm Hg during exercise
+- Atrial fibrillation (AF)
+- Embolic events
+- Left atrial (LA) size / thrombus
+- Hemodynamic response
+- Valve morphology
+- Negative dromotropic agents
+- Beta blockers
+- Ivabradine
+- Chronotropic incompetence
+- Stroke volume
+- Exercise tolerance
+- Symptomatic patients
+- Asymptomatic patients
+- Comprehensive Valve Center
+- Percutaneous mitral balloon commissurotomy (PMBC)
+- Mitral valve surgery (repair, commissurotomy, replacement)
+- Commissurotomy
+- Valve replacement
+- Mitral regurgitation (MR) ≤ 2 +
+- Doppler echocardiography
+- Sellar’s criteria
+- Interventional procedures
+- Diastolic filling period
+- Transmitral mean gradient
+- Cardiac output
+- Fibrosis of the atria
+- Fibrosis of internodal/interatrial tracts
+- Damage to the sinoatrial node
+
+Page 46 Extracted Terms:
+Mitral valve  
+Mitral stenosis (MS)  
+Mitral regurgitation (MR)  
+Percutaneous mitral balloon commissurotomy (PMBC)  
+Mitral valve surgery  
+Closed commissurotomy  
+Open commissurotomy  
+Mitral valve replacement  
+Tricuspid regurgitation (TR)  
+Tricuspid valve repair  
+Rheumatic mitral stenosis  
+Atrial fibrillation (AF)  
+New York Heart Association (NYHA) class  
+Pulmonary artery systolic pressure (PASP)  
+Pulmonary hypertension (PH)  
+Pulmonary artery pressure  
+Doppler echocardiography  
+Left atrial (LA) thrombus  
+Left ventricular (LV) dysfunction  
+Left ventricular diastolic dysfunction  
+Left atrial noncompliance  
+Net atrial‑ventricular compliance  
+Mitral valve area (MVA)  
+Valve morphology  
+Leaflet calcification  
+Subvalvular fusion/fibrosis  
+Leaflet tethering  
+Valve thickening  
+Valve commissures  
+Balloon catheter  
+Surgical backup  
+Long‑term follow‑up  
+Survival rate  
+Valve repair  
+Comprehensive Valve Center  
+Mitral valve morphology score  
+Pulmonary vascular disease  
+Pulmonary circulation  
+Pulmonary systolic pressure  
+Mitral valve area score  
+Mitral valve anatomy  
+Mitral subvalvular apparatus  
+Valve anatomy assessment  
+Mitral valve replacement strategy  
+Mitral valve stenosis progression  
+Valve surgical outcomes  
+Valve replacement outcomes  
+Valve replacement indications  
+Valve repair outcomes  
+Valvular thickening.
+
+Page 47 Extracted Terms:
+- Valvular heart disease  
+- Mitral valve disease  
+- Pulmonary arterial resistance  
+- Right ventricular dysfunction  
+- Tricuspid regurgitation (TR)  
+- Pulmonary hypertension  
+- Mitral regurgitation (MR)  
+- Atrial fibrillation (AF)  
+- Rheumatic mitral stenosis (MS)  
+- Left atrial (LA) pressure  
+- Percutaneous mitral balloon commissurotomy (PMBC)  
+- P‑wave dispersion  
+- Mitral valve area  
+- Mitral valve gradient  
+- Exercise testing  
+- Pulmonary artery wedge pressure  
+- Commissural calcification  
+- Wilkins morphology score  
+- New‑onset atrial fibrillation  
+- NYHA Class III  
+- NYHA Class IV  
+- Severe mitral stenosis  
+- Stage D mitral stenosis  
+- Mitral annular calcification  
+- Calcific mitral stenosis (calcific MS)  
+- Radiation‑induced mitral stenosis  
+- Post‑repair mitral stenosis  
+- Annuloplasty ring  
+- Mitral leaflet‑base calcification  
+- Left‑ventricular compliance  
+- Right‑ventricular compliance  
+- Left‑atrial compliance  
+- High procedural risk  
+- Advanced age  
+- Multiple comorbidities  
+- Five‑year survival rate < 50 %  
+- Elevated gradient  
+- Planimetric area  
+- Diastolic filling interval  
+- Rapid ventricular response  
+- Thromboembolic events  
+- Symptom onset  
+- Symptomatic patient  
+- Hemodynamics  
+- High LA pressure  
+- Suboptimal valve anatomy  
+- High success rate  
+- Low risk  
+- Periprocedural complications
+
+Page 48 Extracted Terms:
+**Key Heart‑Disease Terms Extracted**
+
+1. Valvular heart disease  
+2. Mitral regurgitation (MR)  
+3. Acute mitral regurgitation  
+4. Chronic mitral regurgitation  
+5. Primary (degenerative) MR  
+6. Secondary (functional) MR  
+7. Mitral valve prolapse  
+8. Myxomatous degeneration  
+9. Barlow’s valve  
+10. Fibroelastic deficiency  
+11. Chordal rupture  
+12. Papillary muscle rupture  
+13. Mitral annular calcification  
+14. Valve commissurotomy  
+15. Prosthetic valve  
+16. Intra‑aortic balloon counterpulsation (IABP)  
+17. Vasodilator therapy  
+18. Sodium nitroprusside  
+19. Nicardipine  
+20. Percutaneous circulatory assist device  
+21. Catheter‑based therapies  
+22. Transthoracic echocardiography (TTE)  
+23. Transesophageal echocardiography (TEE)  
+24. Pulmonary congestion  
+25. Pulmonary hypertension  
+26. Left ventricular (LV) systolic dysfunction  
+27. Left atrial (LA) dilation  
+28. ST‑segment‑elevation myocardial infarction (STEMI)  
+29. Inferior infarction  
+30. Cardiac output  
+31. Aortic afterload  
+32. Systemic hypotension  
+33. Peripheral resistance  
+34. Hemodynamic decompensation  
+35. Mitral valve surgery / repair  
+36. High surgical risk
+
+
+Page 49 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Valvular Heart Disease  
+- Chronic Primary Mitral Regurgitation (MR)  
+- Severe Primary MR  
+- Mitral Intervention (repair or replacement)  
+- Valve Repair  
+- Valve Replacement  
+- Mitral Valve Prolapse  
+- Infective Endocarditis (IE)  
+- Connective Tissue Disorders  
+- Rheumatic Heart Disease  
+- Cleft Mitral Valve  
+- Radiation Heart Disease  
+- Heart Failure (HF)  
+- Myocardial Damage  
+- Left Ventricular (LV) Size  
+- Left Ventricular Function  
+- LV Ejection Fraction (LVEF)  
+- Right Ventricular (RV) Function  
+- Left Atrial (LA) Size  
+- Pulmonary Artery Pressure  
+- Chamber Volumes  
+- Volume Overload  
+- Regurgitant Volume  
+- Regurgitant Fraction  
+- Effective Orifice Area  
+- Proximal Isovelocity Surface Area (PISA)  
+- Color Jet Area  
+- Vena Contracta  
+- Continuous‑Wave Doppler Intensity  
+- Trans‑Mitral Jet Velocity Curve  
+- Transthoracic Echocardiography (TTE)  
+- Transesophageal Echocardiography (TEE)  
+- Three‑Dimensional TEE  
+- Cardiac Magnetic Resonance (CMR)  
+- Cardiac Catheterization (invasive evaluation)  
+- Intraoperative TEE  
+- Stages A–D (valvular disease severity/management stages)  
+- ACC/AHA Guideline for the Management of Valvular Heart Disease  
+- Clinical Statements & Guidelines  
+
+These terms encompass the diseases, anatomical structures, diagnostic modalities, severity indices, and management strategies discussed in the excerpt.
+
+Page 50 Extracted Terms:
+- Intraoperative trans‑esophageal echocardiography (TEE)  
+- 3‑dimensional TEE (“surgical view”)  
+- Mitral regurgitation (MR)  
+- Mitral valve anatomy  
+- Mitral valve repair  
+- Residual MR  
+- Reoperation  
+- Left ventricle (LV)  
+- Systolic anterior leaflet motion  
+- Left ventricular outflow tract obstruction  
+- Transcatheter edge‑to‑edge repair  
+- Primary severe MR  
+- High surgical risk  
+- Diagnostic testing: changing signs or symptoms  
+- Primary MR stages (B–D)  
+- Transthoracic echocardiography (TTE)  
+- Mitral valve apparatus  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular end‑systolic dimension (LVESD)  
+- Left atrial enlargement  
+- Pulmonary hypertension  
+- Exertional dyspnea  
+- Exercise tolerance  
+- Effective regurgitant orifice (ERO)  
+- Infective endocarditis (IE)  
+- Mitral valve prolapse  
+- Flail leaflet  
+- Rheumatic valve changes  
+- Holosystolic eccentric jet MR  
+- Central jet MR  
+- Vena contracta  
+- Regurgitant volume  
+- Regurgitant fraction  
+- Mild, moderate, and severe MR definitions  
+- Valve thickening  
+- Leaflet restriction  
+- Normal coaptation  
+- Loss of coaptation  
+- Left atrium (LA)
+
+Page 51 Extracted Terms:
+- Severe mitral regurgitation (MR)  
+- Mitral valve surgery  
+- Mitral valve repair  
+- Left ventricular (LV) function  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular end‑diastolic diameter (LVEDD)  
+- Left ventricular end‑systolic diameter (LVESD)  
+- Global longitudinal strain  
+- LV compliance  
+- LV dysfunction  
+- LV remodeling  
+- Pulmonary artery pressure  
+- Pulmonary hypertension  
+- Right ventricular (RV) function  
+- Tricuspid regurgitation (TR)  
+- Atrial fibrillation (AF)  
+- Orthopnea  
+- Dyspnea on exertion  
+- Exercise tolerance  
+- Symptom onset  
+- Asymptomatic patients  
+- Stage B / C1 disease (valvular disease stages)  
+- Transthoracic echocardiography (TTE)  
+- Cardiac catheterization  
+- Left ventriculography  
+- Hemodynamic measurements  
+- Invasive hemodynamic evaluation  
+- Serum biomarkers  
+- Natriuretic peptides (BNP, NT‑proBNP)  
+- Diuretics  
+- Comprehensive valve center  
+- Chronic primary MR (valvular heart disease)
+
+Page 52 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Mitral Regurgitation (MR)  
+- Primary MR  
+- Chronic Primary MR  
+- Acute Severe Symptomatic MR  
+- Valvular Heart Disease  
+- Pulmonary Hypertension  
+- Left Atrial (LA) pressure  
+- Pulmonary Artery Wedge pressure  
+- Transpulmonary gradient  
+- Left Ventricular (LV) systolic dysfunction  
+- LV systolic dysfunction  
+- LV systolic function  
+- Heart Failure (HF)  
+- Systolic dysfunction  
+- Exercise testing  
+- Hemodynamic exercise testing  
+- Treadmill exercise test  
+- Exercise echocardiography  
+- Cardiopulmonary exercise testing  
+- Cardiac catheterization  
+- Echocardiography (including Doppler)  
+- Doppler echocardiography  
+- Ventriculography  
+- Vasodilator therapy  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Beta‑adrenergic blockade  
+- ACE inhibitors  
+- ARBs (angiotensin‑II receptor blockers)  
+- Aldosterone antagonists  
+- Transcatheter repair  
+- Diagnostic testing  
+- Guideline stages B, C, D  
+- Lung disease (concomitant)  
+- Exercise tolerance  
+- Oxygen consumption measurements  
+- Dyspnea  
+- LV filling pressures  
+- Afterload reduction  
+
+These items encompass the principal clinical concepts, diagnostic modalities, therapeutic strategies, and disease stages referenced in the guideline excerpt.
+
+Page 53 Extracted Terms:
+**Key Heart‑Disease–Related Terms**
+
+- Mitral valve prolapse  
+- Mitral regurgitation (MR)  
+- Concomitant hypertension  
+- Left‑ventricular (LV) systolic pressure  
+- Transmitral gradient  
+- Chronic primary MR  
+- Mitral valve intervention  
+- Mitral valve surgery  
+- Mitral valve repair  
+- Mitral valve replacement  
+- Degenerative mitral‑valve disease  
+- Left‑ventricular ejection fraction (LVEF)  
+- LV systolic dysfunction  
+- LV end‑systolic diameter (LVESD)  
+- NYHA functional class III/IV  
+- Transcatheter edge‑to‑edge repair (TEER)  
+- Rheumatic valve disease  
+- Posterior leaflet pathology  
+- Bileaflet (anterior‑and‑posterior) prolapse/replacement  
+- Papillary‑muscle rupture  
+- Infective endocarditis (IE)  
+- Cleft mitral valve  
+- Mechanical mitral‑valve replacement  
+- Anticoagulation (post‑replacement)  
+- Hospital mortality rate  
+- High‑volume valve‑surgery centers  
+- Mixed valve disease (combined MR + aortic stenosis)  
+- Heart valve team  
+- Surgical risk (high or prohibitive)  
+- Severity thresholds for MR (e.g., “severe primary MR”)  
+- LV functional thresholds (LVEF ≤ 60 %, LVESD ≥ 40 mm)  
+- Stage C1, C2, and D (guideline staging).
+
+Page 54 Extracted Terms:
+- Valvular Heart Disease  
+- Mitral Regurgitation (MR)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Left Ventricular End‑Systolic Diameter (LVESD)  
+- Left Ventricular (LV) dysfunction  
+- Pulmonary hypertension  
+- Mitral Valve Repair  
+- Mitral Valve Replacement (MVR)  
+- Surgical volume (expertise)  
+- Operative mortality  
+- Long‑term survival  
+- Freedom from reoperation  
+- Freedom from recurrent moderate/severe MR  
+- Effective Regurgitant Orifice (ERO)  
+- End‑Systolic Dimension (ESD)  
+- Regurgitant Fraction (RF)  
+- Regurgitant Volume (RVol)  
+- Vena Contracta (VC)  
+- Comprehensive Valve Center (CVC)
+
+Page 55 Extracted Terms:
+- Valvular Heart Disease  
+- Mitral Regurgitation (MR)  
+- Primary MR  
+- Secondary MR (chronic secondary MR)  
+- Ischemic chronic secondary MR  
+- Non‑ischemic chronic secondary MR  
+- Left Ventricular (LV) dysfunction  
+- Left Ventricular End‑Systolic Diameter (LVESD)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Heart Failure (HF)  
+- Transcatheter Edge‑to‑Edge Repair (TEER)  
+- Mitral Valve Repair  
+- Mitral Valve Replacement  
+- Rheumatic Mitral Valve Disease  
+- Degenerative Mitral Disease  
+- Coronary Artery Disease (CAD)  
+- Atrial Fibrillation (AF)  
+- Mitral Annular Dilation  
+- Papillary Muscle Displacement  
+- Valve apparatus  
+- Valve leaflets  
+- Valve chords  
+- Valve clip (mitral valve clip)  
+- Annuloplasty  
+- Valve tethering  
+- Valve remodeling (LV remodeling)  
+- Valve repair durability  
+- Valve repair success rate  
+- Valve repair freedom from reoperation  
+- Valve replacement freedom from recurrence  
+- Operative mortality  
+- Mechanical prosthesis  
+- Biological prosthesis  
+- Valve surgery  
+- Valve center (comprehensive valve center)  
+- Valve lesion  
+- Volume overload  
+- LV dilation  
+- Valve repair vs. replacement strategy  
+- Valve disease progression  
+- Valve repair indications (≤½ posterior leaflet)  
+- Valve repair criteria (LVEF > 64 %, LVESD < 37 mm)  
+- Valve repair thresholds (LVESD ≈ 40 mm, LVEF ≈ 60 %)
+
+Page 56 Extracted Terms:
+- Valvular heart disease  
+- Mitral regurgitation (MR)  
+- Primary MR  
+- Secondary MR  
+- Regurgitant orifice area (ERO)  
+- Regurgitant volume  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Stress nuclear/PET imaging  
+- Cardiac magnetic resonance (CMR)  
+- Coronary CT angiography  
+- Coronary arteriography  
+- Myocardial viability  
+- Transcatheter mitral valve intervention  
+- Transcatheter edge‑to‑edge repair (TEER / MitraClip)  
+- Mitral valve morphology  
+- Coaptation length  
+- Leaflet tethering  
+- A2/P2 scallops  
+- Valve calcification  
+- Cleft in A2/P2 scallops  
+- Primary/secondary chordal support  
+- Left‑ventricular (LV) remodeling (regional/global)  
+- LV systolic dysfunction  
+- Left ventricular ejection fraction (LVEF)  
+- Pulmonary hypertension  
+- Ischemic MR  
+- Non‑ischemic MR  
+- Coronary artery disease (CAD)  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Guideline‑directed medical therapy (GDMT)  
+- STICH trial  
+- COAPT trial  
+- EVEREST trial  
+- Heart failure (HF)  
+- Functional mitral regurgitation  
+- Mitral valve leaflet scallops  
+- Hibernating myocardium  
+- Viable myocardium  
+- 10‑year survival rate  
+- Moderate MR (ERO ≥ 20 mm²)  
+- Severe MR (ERO ≥ 40 mm² or ≥ 0.4 cm²; regurgitant volume ≥ 60 mL)
+
+Page 57 Extracted Terms:
+- Heart Failure (HF)  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Valvular Heart Disease  
+- Mitral Regurgitation (MR)  
+- Secondary Mitral Regurgitation (secondary MR)  
+- Standard Guideline‑Directed Medical Therapy (GDMT) for HF  
+- Angiotensin‑Converting Enzyme (ACE) inhibitors  
+- Angiotensin II Receptor Blockers (ARBs)  
+- β‑Blockers  
+- Aldosterone Antagonists  
+- Sacubitril/Valsartan  
+- Biventricular Pacing (Cardiac Resynchronization Therapy, CRT)  
+- Coronary Revascularization  
+- Chronic Severe Secondary MR  
+- Staging of Secondary MR (Stages A, B, C, D)  
+- Valve Anatomy (leaflets, chordae, annulus)  
+- Valve Hemodynamics  
+- Effective Regurgitant Orifice area (ERO)  
+- Regurgitant Volume  
+- Regurgitant Fraction  
+- Regional Wall Motion Abnormalities  
+- Left Ventricular (LV) Dilation  
+- LV Systolic Dysfunction  
+- Primary Myocardial Disease  
+- Left Atrial (LA) Size/volume  
+- Exertional Dyspnea  
+- Decreased Exercise Tolerance  
+- Multidisciplinary Team (MDT)  
+- Cardiologist Expert in Heart Failure  
+
+These terms capture the key clinical concepts, therapies, and anatomical/hemodynamic aspects related to heart disease that are referenced in the provided guideline excerpt.
+
+Page 58 Extracted Terms:
+- Secondary mitral regurgitation (MR)  
+- Chronic severe secondary MR  
+- Severe secondary MR  
+- Left ventricular (LV) systolic dysfunction  
+- Reduced left ventricular ejection fraction (LVEF < 50 %)  
+- Preserved LVEF (≥ 50 %)  
+- New York Heart Association (NYHA) class II–IV  
+- Heart failure (HF)  
+- Stage D heart failure  
+- Guideline‑directed medical therapy (GDMT)  
+- Transcatheter edge‑to‑edge repair (TEER)  
+- Transesophageal echocardiography (TEE)  
+- LV end‑systolic dimension (LVESD)  
+- LV end‑diastolic dimension (LVEDD)  
+- Pulmonary artery systolic pressure  
+- Mitral valve surgery (repair/replacement)  
+- Coronary artery bypass grafting (CABG)  
+- Myocardial ischemia  
+- Atrial annular dilation  
+- Atrial fibrillation (AF)  
+- Chordal‑sparing mitral valve replacement  
+- Downsized annuloplasty repair  
+- COAPT trial  
+- MITRA‑FR study  
+- STICH trial  
+- Hibernating myocardium  
+- LV and left atrial (LA) reverse remodeling  
+- MitraClip device  
+- Ventricular remodeling  
+- Clinical guideline (ACC/AHA)  
+- Valvular heart disease  
+- Surgical correction of MR  
+- Revascularization  
+- Optimal GDMT  
+- Surgical timing for mixed valve disease  
+- Mitral valve repair strategies  
+- Mitral valve replacement vs repair  
+- Symptom‑based indications for intervention  
+- LV dysfunction thresholds for TEER  
+- Pulmonary hypertension (moderate)  
+- Mitral valve anatomy  
+- Mitral valve leaflets malcoaptation  
+- Restrictive cardiomyopathy  
+- Non‑obstructive hypertrophic cardiomyopathy  
+- Sinus‑based atrial maze procedure  
+- Observation‐based therapeutic strategies  
+- Outcome measures: survival, hospitalization, quality of life  
+- Trial inclusion criteria (LVESD ≤70 mm)  
+- MR severity (effective regurgitant orifice area)  
+- Symptom persistence despite medical therapy  
+
+These terms represent the key concepts and entities related to heart disease discussed in the provided guideline text.
+
+Page 59 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+1. Mitral valve repair  
+2. Mitral valve replacement  
+3. Mitral regurgitation (MR)  
+4. Secondary mitral regurgitation  
+5. Primary mitral regurgitation  
+6. Ischemic mitral regurgitation  
+7. Anterior‑posterior (annular) dilation  
+8. Atrial fibrillation (AF)  
+9. Coronary artery bypass graft (CABG)  
+10. Effective regurgitant orifice (ERO)  
+11. Regurgitant fraction (RF)  
+12. Regurgitant volume (RVol)  
+13. Guideline‑directed medical therapy (GDMT)  
+14. Heart failure (HF)  
+15. Left ventricular ejection fraction (LVEF)  
+16. Left ventricular end‑systolic dimension (LVESD)  
+17. Pulmonary artery systolic pressure (PASP)  
+18. Ventricular dilation  
+19. Left ventricular remodeling  
+20. Papillary muscle displacement  
+21. Peak oxygen consumption  
+22. Survival rate  
+23. Quality of life  
+24. Chamber size  
+25. Recurrent mitral regurgitation  
+26. Repeat hospitalization  
+27. Medications (Rx)  
+28. Chronic severe secondary MR  
+29. RCT (Randomized Controlled Trial)  
+30. Durability of repair/replacement  
+
+These terms capture the clinical concepts, interventions, measurements, and outcomes discussed in the guidelines excerpt.
+
+Page 60 Extracted Terms:
+- Valvular heart disease  
+- Tricuspid valve disease  
+- Tricuspid regurgitation (TR)  
+- Classification and stages of TR  
+- Trace, mild, significant, worsening TR  
+- Primary disorders of the tricuspid apparatus  
+- Rheumatic disease  
+- Infective endocarditis (IE)  
+- Congenital disease (e.g., Ebstein’s anomaly, levo‑transposition of the great arteries)  
+- Myxomatous changes  
+- Blunt chest trauma  
+- Carcinoid syndrome  
+- Drug‑induced TR  
+- Radiation‑induced TR  
+- Iatrogenic etiologies (device leads, endomyocardial biopsy)  
+- Secondary TR  
+- Tricuspid annular dilation  
+- Leaflet tethering  
+- Right‑ventricular (RV) remodeling  
+- Pressure overload  
+- Volume overload  
+- Pulmonary hypertension (primary or secondary to left‑sided heart disease)  
+- Dilated cardiomyopathy  
+- Atrial fibrillation (AF)  
+- Isolated TR (associated with AF, preserved LVEF)  
+- RV volume overload (shunts/high‑output states)  
+- Central venous pressure  
+- End‑organ damage (hepatic failure, renal failure)  
+- Survival impact of Stage D TR  
+- Pulmonary artery systolic pressure (PASP)  
+- Cardiac index  
+- Right‑sided diastolic pressures  
+- Pulmonary vascular resistance  
+- Right ventriculography  
+- Physical examination findings in TR  
+- Transthoracic echocardiography (TTE)  
+- Invasive measurements of pulmonary artery pressures  
+- Cardiac catheterization  
+- Tricuspid annular plane systolic excursion (TAPSE)  
+- Tricuspid annular velocity (S′)  
+- RV end‑systolic area  
+- Fractional area change  
+- 3D transesophageal echocardiography (TEE)  
+- Magnetic resonance imaging (MRI)  
+- Computed tomography (CT) scan  
+- Left ventricular ejection fraction (LVEF)
+
+Page 61 Extracted Terms:
+- Tricuspid regurgitation (TR)  
+- Right‑sided heart failure (HF)  
+- Pulmonary hypertension  
+- Pulmonary artery pressure  
+- Right atrial pressure  
+- Right ventricular pressure  
+- Pulmonary vasodilators  
+- Invasive measurement (direct invasive measurement)  
+- Thermodilution cardiac output  
+- Fick cardiac output  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Heart failure with reduced left ventricular ejection fraction (LVEF)  
+- Diuretics (loop diuretics)  
+- Aldosterone antagonists  
+- Hepatic congestion  
+- Secondary hyperaldosteronism  
+- Pulmonary vascular resistance  
+- Pulmonary vasomodulators  
+- Rhythm control of atrial fibrillation (AF)  
+- Annular dilation (associated with AF)  
+- Low‑salt diet  
+- Compression stockings (support stockings)  
+- Stages C and D of tricuspid regurgitation  
+- Central jet (≥50% right atrial)  
+- Vena contracta width (≥0.7 cm)  
+- Effective regurgitant orifice (ERO) (≥0.40 cm²)  
+- Regurgitant volume (≥45 mL)  
+- Dense continuous‑wave signal (triangular shape)  
+- Hepatic vein systolic flow reversal  
+- Dilated right ventricle (RV)  
+- Dilated right atrium (RA)  
+- c‑V wave (systolic positive wave)  
+- Right‑ventricular afterload (pulmonary vascular resistance)  
+- Systemic congestion (peripheral edema, ascites)
+
+Page 62 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline**
+
+- Severe tricuspid regurgitation (TR)  
+- Primary TR  
+- Secondary TR  
+- Tricuspid annular dilation  
+- Tricuspid annulus end‑diastolic diameter  
+- Tricuspid annulus dilation > 4.0 cm (40 mm)  
+- Tricuspid annulus dilation > 40 mm or > 21 mm/m² indexed to BSA  
+- Tricuspid annulus dilation > 70 mm intra‑operatively  
+- Tricuspid valve surgery (repair or replacement)  
+- Tricuspid valve repair  
+- Tricuspid valve replacement  
+- Left‑sided valve surgery (mitral, aortic)  
+- Reoperation with isolated tricuspid valve surgery  
+- Right‑sided heart failure (HF)  
+- Right ventricular (RV) dilation  
+- RV systolic dysfunction  
+- RV remodeling  
+- Leaflet tethering height  
+- Pulmonary hypertension (PH)  
+- Pulmonary artery hypertension  
+- Severe pulmonary hypertension  
+- Left‑sided valve disease  
+- Right‑sided HF signs and symptoms  
+- Stage B, C, D progression (tricuspid regurgitation stages)  
+- End‑organ damage/dysfunction (e.g., renal, hepatic)  
+- Operative mortality (8–20 %)  
+- Perioperative mortality (10–25 %)  
+- Catheter‑based therapies for isolated TR  
+- Surgical intervention timing  
+- Operative risk reduction (advanced surgical techniques)  
+- Tricuspid annulus end‑diastolic diameter > 4 cm  
+- Atrial fibrillation (AF) (risk factor for TR progression)  
+- Intra‑annular RV pacemaker or implantable cardioverter‑defibrillator leads  
+- Functional outcome and survival  
+- Tricuspid valve repair vs. replacement selection criteria  
+
+These terms capture the clinical concepts, measurements, stages, procedures, and risk factors central to the management of valvular heart disease as discussed in the guideline.
+
+Page 63 Extracted Terms:
+- Tricuspid regurgitation (TR)  
+- Tricuspid valve repair  
+- Tricuspid valve replacement  
+- Right‑sided heart failure (HF)  
+- Pulmonary hypertension (PH)  
+- Right ventricular (RV) dysfunction  
+- Atrial fibrillation (AF)  
+- Secondary tricuspid regurgitation  
+- Annular dilation  
+- Leaflet tethering  
+- Carcinoid heart disease  
+- Flail tricuspid leaflet  
+- Guideline‑directed medical therapy (GDMT)  
+- Pulmonary artery pressure (PAP)  
+- Left‑sided valve disease  
+- Surgical intervention  
+- Operative mortality  
+- Systemic venous congestion  
+- Congestive hepatopathy  
+- Cirrhosis  
+- Stage D heart failure  
+- Right ventricular size assessment  
+
+Page 64 Extracted Terms:
+**Key Heart‑Disease Terms Identified**
+
+- Valvular Heart Disease (VHD)  
+- Aortic valve  
+- Mitral valve  
+- Tricuspid valve (TR)  
+- Pulmonary valve  
+- Tricuspid regurgitation (TR)  
+- Right‑ventricular (RV) dysfunction  
+- Pulmonary hypertension  
+- Right‑sided heart failure (HF)  
+- Severe tricuspid regurgitation (severe TR)  
+- Reoperative tricuspid surgery  
+- Left‑sided valve surgery  
+- Reoperative mortality  
+- Left‑ventricular (LV) dysfunction  
+- Hepatic dysfunction (right‑HF‑related)  
+- Renal dysfunction (right‑HF‑related)  
+- Mixed valve disease  
+- Stenosis  
+- Regurgitation (valvular)  
+- Concentric hypertrophy  
+- Eccentric hypertrophy  
+- Right‑ventricular (RV) systolic dysfunction  
+- Cardiac remodeling  
+- Ventricular function  
+- Transthoracic echocardiography (TTE)  
+- Biomarkers (e.g., BNP)  
+- Invasive hemodynamic measurements  
+- Filling pressure / filling pressures  
+- Doppler hemodynamics  
+- Jet velocities  
+- Valve areas  
+- Regurgitant flow  
+- Regurgitant orifice area  
+- Catheterization (exercise/at rest)  
+- Comprehensive imaging approach  
+- Clinical guidelines (ACC/AHA)  
+- Management of congenital heart disease  
+- Comprehensive Valve Center  
+
+These terms encapsulate the major concepts related to heart disease, valve pathology, diagnostic modalities, and clinical considerations discussed in the provided guideline excerpt.
+
+Page 65 Extracted Terms:
+- Valvular Heart Disease (VHD)  
+- Mixed aortic stenosis (AS) and aortic regurgitation (AR)  
+- Symptomatic patients  
+- Peak transvalvular jet velocity  
+- Mean transvalvular gradient  
+- Aortic valve replacement (AVR)  
+- Surgical aortic valve replacement (SAVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Left ventricular ejection fraction (LVEF)  
+- Stage B disease (progressive, no therapeutic action)  
+- Mixed moderate AS/AR  
+- Mixed severe AS and mitral regurgitation (MR)  
+- Primary MR (organic mitral valve disease)  
+- Secondary MR (LV‑remodeling‑related)  
+- Left ventricular dysfunction (LVEF < 50 %)  
+- Surgical risk categories: low, intermediate, high, prohibitive  
+- Double valve replacement (AVR + mitral valve replacement)  
+- Mitral valve surgery (repair or replacement)  
+- Mitral transcatheter edge‑to‑edge repair (TEER)  
+- Valve replacement strategy (SAVR vs. TAVI)  
+- Multidisciplinary team (MDT) involvement  
+- Shared decision‑making with patients  
+- Pressure gradient across the aortic valve  
+- LV remodeling and its effect on MR  
+- Clinical statements and guidelines (ACC/AHA)  
+- Sequelae of AVR on MR (improvement vs. persistence)  
+- Mortality risk associated with moderate mixed disease  
+- Natural history of moderate mixed VHD  
+- Decision criteria for valve replacement in symptomatic patients  
+- Stage B progressive disease definition  
+- Mitral valve repair feasibility  
+- Post‑TAVI mitral repair potential  
+- Outcomes of staged procedures (TAVI → TEER)  
+- Evaluation of short‑ and long‑term outcomes in complex valve disease.
+
+Page 66 Extracted Terms:
+- Aortic valve replacement (AVR)  
+- Surgical aortic valve replacement (SAVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Transcatheter edge‑to‑edge repair (TEER)  
+- Mitral regurgitation (MR)  
+- Aortic stenosis (AS)  
+- Mitral stenosis (MS)  
+- Aortic regurgitation (AR)  
+- Rheumatic valve disease  
+- Mitral annular calcification  
+- Left atrial (LA) pressure  
+- Pulmonary artery wedge pressure  
+- Left ventricle (LV)  
+- Transcatheter approach  
+- Surgical approach  
+- Prosthetic valve  
+- Transthoracic echocardiogram (TTE)  
+- Transesophageal echocardiogram (TEE)  
+- Cardiac computed tomography (CT)  
+- Fluoroscopy  
+- Valve hemodynamics  
+- Valve dysfunction  
+- Bioprosthetic surgical valve  
+- Bioprosthetic TAVI  
+- Mitral valve replacement  
+- Mitral valve repair  
+- Mixed mitral stenosis and mitral regurgitation (MS‑MR)  
+- Mixed mitral stenosis and aortic regurgitation (MS‑AR)  
+- Mixed mitral stenosis and aortic stenosis (MS‑AS)  
+- LV filling  
+- Stroke volume  
+- Transvalvular gradient  
+- Valve anatomy  
+- Valve disease  
+- Valve surgery  
+- Valve replacement  
+- Valve repair
+
+Page 67 Extracted Terms:
+- Prosthetic heart valves  
+- Repaired native valves  
+- Ventricular function  
+- Atrial fibrillation (AF)  
+- Pulmonary hypertension  
+- Coronary artery disease (CAD)  
+- Valve‑related complications  
+- Endocarditis prophylaxis  
+- Anticoagulation therapy  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Cardiac CT imaging  
+- Fluoroscopy  
+- Transvalvular velocities  
+- Transvalvular pressure gradients  
+- Transvalvular leak  
+- Paravalvular leak  
+- Bioprosthetic valve dysfunction  
+- Mechanical valve dysfunction  
+- Heart failure (HF) symptoms  
+- Shock  
+- Thromboembolic events  
+- Hemolysis  
+- INR monitoring  
+- Prosthesis‑patient mismatch  
+- Functional stenosis  
+- Valve area measurement  
+- Left ventricular (LV) volumes  
+- Left ventricular ejection fraction (LVEF)  
+- Pulmonary artery systolic pressure  
+- Right heart function  
+- Mitral regurgitation (MR)  
+- Pannus formation  
+- Vegetation  
+- Abscess formation  
+- Valve obstruction  
+- Reduced valve motion due to pannus or thrombus  
+- Structural valve deterioration  
+- Valve gradient ≥10 mm Hg  
+- Transprosthetic regurgitation severity  
+- Early postoperative complications  
+- Routine follow‑up visits  
+- Valve type (aortic, mitral, bioprosthetic)  
+- Residual heart disease  
+- Surgical aortic valve bioprosthesis  
+- Incidence of valve deterioration after 10 years  
+- Risk factors: young age (<60 yr), smoking, diabetes mellitus, chronic kidney disease, initial mean gradient ≥15 mm Hg, valve type.
+
+Page 68 Extracted Terms:
+- Aortic valve
+- Valve dysfunction
+- Prosthetic valve
+- Bioprosthetic valve (bioprosthesis)
+- Mechanical valve
+- Valve replacement
+- Valve repair
+- Transcatheter aortic valve implantation (TAVI)
+- Surgical aortic valve replacement (SAVR)
+- Mitral valve replacement
+- Pulmonic autograft (Ross procedure)
+- Anti‑coagulation therapy
+- Vitamin K antagonist (VKA) therapy
+- Anticoagulant therapy
+- Valve reintervention
+- Structural valve deterioration (SVD)
+- Transesophageal echocardiography (TTE)
+- Hemodynamics
+- Atrial fibrillation (AF)
+- Pulmonary artery pressure
+- Left ventricular (LV) function
+- Valve choice
+- Shared decision‑making
+- Valve durability
+- Patient‑prosthesis mismatch
+- Invasive monitoring
+- Long‑term VKA therapy
+- Inconvenience of monitoring
+- Dietary restrictions
+- Medication interactions
+- Athletic activity restrictions
+- Radiation exposure risks
+- Clinical statements
+- Guidelines (ACC/AHA)
+
+Page 69 Extracted Terms:
+- Valvular heart disease  
+- Aortic valve replacement (AVR)  
+- Mechanical valve prosthesis  
+- Bioprosthetic valve prosthesis  
+- Valve durability  
+- Valve type and size  
+- Valve hemodynamics  
+- Structural deterioration of bioprosthesis  
+- Reintervention / reoperation  
+- Anticoagulation therapy  
+- Vitamin K antagonist (VKA)  
+- Warfarin  
+- International normalized ratio (INR) monitoring  
+- Bleeding risk  
+- Thromboembolic events  
+- Antithrombotic safety in mechanical valves  
+- Atrial fibrillation (AF)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Valve‑in‑valve (ViV) procedure  
+- Small aortic root / patient–prosthesis mismatch  
+- Surgical vs. interventional risk  
+- Age‑dependent valve choice (≤50 y, 50–65 y, >65 y)  
+- Pregnancy‑related anticoagulation considerations  
+- Long‑term anticoagulation complications  
+- Anticoagulation monitoring accessibility  
+- High‑risk reintervention (e.g., porcelain aorta, prior radiation)  
+- Access to low‑mortality surgical centers  
+- Prosthetic valve selection factors (durability, anticoagulation risk, patient preference)
+
+Page 70 Extracted Terms:
+- Bioprosthetic valve replacement  
+- Mechanical valve replacement  
+- Anticoagulation (VKA therapy)  
+- Structural valve deterioration  
+- Reoperation / repeat intervention  
+- Bleeding complications  
+- Thromboembolism / stroke risk  
+- Aortic valve replacement (AVR)  
+- Surgical aortic valve replacement (SAVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Mitral valve replacement  
+- Valve durability  
+- Life expectancy / longevity  
+- Shared decision‑making  
+- Transcatheter bioprosthetic valves  
+- Valve durability vs age  
+- Mortality rate  
+- Bioprosthetic mitral valve  
+- Mechanical mitral valve  
+- Long‑term VKA anticoagulation  
+- Valve type selection  
+- Valve durability data (20‑year, 5‑year)
+
+Page 71 Extracted Terms:
+- Bioprosthetic mitral valve replacement  
+- Mechanical prosthetic valve  
+- Ross procedure (pulmonary autograft)  
+- Pulmonary homograft  
+- Valve degeneration  
+- Valve regurgitation  
+- Antithrombotic therapy  
+- Anticoagulation  
+- Vitamin K antagonist (VKA)  
+- International Normalized Ratio (INR)  
+- Atrial fibrillation (AF)  
+- Thromboembolism  
+- Left ventricular dysfunction  
+- Hypercoagulable state  
+- Tissue valve (bioprosthetic)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Surgical aortic valve replacement (SAVR)  
+- Low-dose rivaroxaban  
+- Dual antiplatelet therapy (aspirin + clopidogrel)  
+- Direct thrombin inhibitor (dabigatran)  
+- Anti‑Xa direct oral anticoagulants  
+- Aspirin 75‑100 mg daily  
+- Clopidogrel 75 mg daily  
+- Thrombosis prevention in prosthetic valves  
+- Bleeding risk management
+
+Page 72 Extracted Terms:
+- Mechanical valve prostheses  
+- Bioprosthetic valve  
+- Anticoagulant therapy  
+- Vitamin K antagonist (VKA)  
+- International Normalized Ratio (INR)  
+- Thromboembolism  
+- Valve thrombosis  
+- Embolic events  
+- Bleeding complications  
+- Hemodynamic shear stress  
+- Platelet activation  
+- Aortic valve replacement (AVR)  
+- Mitral valve replacement  
+- Transcatheter Aortic Valve Implantation (TAVI)  
+- Percutaneous coronary intervention (PCI)  
+- Aspirin  
+- Clopidogrel  
+- Dual‑antiplatelet therapy  
+- Antiplatelet therapy  
+- Antithrombin agents  
+- Anti‑Xa agents  
+- Atrial fibrillation (AF)  
+- Venous thromboembolic disease  
+- Hypercoagulable state  
+- Left‑ventricular (LV) dysfunction  
+- Ball‑in‑cage valve  
+- Low‑intensity anticoagulation  
+- High‑intensity anticoagulation  
+- INR target ranges  
+- Stroke  
+- Myocardial infarction  
+- Transient ischemic attack (TIA)  
+- Major adverse events  
+- Mortality / survival rate  
+- Coagulopathy  
+- Prosthetic heart valve  
+- Thromboembolic risk factors  
+- Mechanical valve thrombogenicity  
+- Embolism prevention  
+- Prothrombotic state  
+- Hemorrhage  
+- Clinical guidelines  
+- ACC/AHA  
+- Circulation journal  
+
+Page 73 Extracted Terms:
+- Valvular Heart Disease  
+- Aortic Valve Replacement (AVR)  
+- Mitral Valve Replacement (MVR)  
+- Bioprosthetic Valve  
+- Biological Valve  
+- Mechanical Valve  
+- Transcatheter Aortic Valve Implantation (TAVI)  
+- Anticoagulation  
+- Antiplatelet Therapy  
+- Dual Antiplatelet Therapy  
+- Single-Anticoagulant Therapy  
+- Vitamin K Antagonist (VKA)  
+- Aspirin  
+- Thromboembolism  
+- Thromboembolic Events  
+- Stroke  
+- Ischemic Stroke  
+- Myocardial Infarction  
+- Major Bleeding  
+- Life‑threatening Bleeding  
+- Endothelialization  
+- International Normalized Ratio (INR)  
+- On‑X AVR  
+- Hypercoagulable State  
+- Left Ventricular (LV) Systolic Dysfunction  
+- Sinus Rhythm  
+- Atrial Fibrillation (AF)  
+- Bioprosthetic Aortic Valve  
+- Bioprosthetic Mitral Valve  
+- Antithrombotic Therapy  
+
+Page 74 Extracted Terms:
+Valvular heart disease  
+Bioprosthetic mitral valve replacement  
+Bioprosthetic aortic valve replacement (bioprosthetic AVR)  
+Mechanical valve prosthesis  
+Transcatheter aortic valve implantation (TAVI)  
+Valve‑in‑valve TAVI (ViV TAVI)  
+Self‑expanding TAVI device  
+On‑X aortic valve  
+Anticoagulation therapy  
+Vitamin K antagonist (VKA)  
+Direct oral anticoagulant (DOAC)  
+Low‑dose aspirin  
+Aspirin 81 mg daily  
+Dual‑antiplatelet therapy (e.g., aspirin + clopidogrel)  
+International Normalized Ratio (INR)  
+INR target ranges (1.5‑2.0, 2.5, 2.0‑3.0)  
+Stroke (ischemic)  
+Transient ischemic attack (TIA)  
+Myocardial infarction  
+Major bleeding  
+Minor bleeding  
+Cerebrovascular events  
+Valve leaflet thrombosis  
+Valve perforation  
+Mean transvalvular gradient >10 mm Hg  
+Low‑dose rivaroxaban  
+GALILEO trial  
+Antithrombotic strategy  
+Antiplatelet strategy  
+Bleeding risk  
+Mortality (all‑cause, cardiovascular)
+
+Page 75 Extracted Terms:
+- Valvular heart disease  
+- Low‑dose aspirin  
+- Clopidogrel  
+- Rivaroxaban  
+- Warfarin  
+- Dabigatran  
+- Mechanical valve prosthesis  
+- Oral anti‑Xa agents  
+- Bridging therapy  
+- Oral anticoagulation  
+- Prosthetic heart valves  
+- Mechanical heart valves  
+- Bileaflet mechanical aortic valve replacement (AVR)  
+- Vitamin K antagonist (VKA)  
+- Therapeutic INR  
+- Subtherapeutic INR  
+- 4‑factor prothrombin complex concentrate (4‑PCC)  
+- Activated prothrombin complex concentrate (aPCC)  
+- Embolic events  
+- Valve thrombosis  
+- Aortic valve replacement (AVR)  
+- Mitral valve replacement (MVR)  
+- Thromboembolic complications  
+- Bleeding complications  
+- Minor procedures (e.g., dental extraction, cataract removal)  
+- Invasive procedures  
+- Non‑cardiac surgery  
+- Transesophageal echocardiography (TEE)  
+- Transthoracic echocardiography (TTE)  
+- Computed tomography (CT)  
+- International normalised ratio (INR)
+
+Page 76 Extracted Terms:
+- Valvular heart disease  
+- Bioprosthetic heart valves  
+- Annuloplasty rings  
+- Anticoagulation for atrial fibrillation (AF)  
+- CHA₂DS₂‑VASc score  
+- Mechanical aortic valve replacement (AVR)  
+- Mechanical mitral valve replacement  
+- Mechanical bileaflet AVR  
+- Bridging anticoagulation therapy  
+- Invasive procedures  
+- Thromboembolic risk factors  
+- International Normalized Ratio (INR)  
+- Unfractionated heparin (UFH)  
+- Low‑molecular‑weight heparin (LMWH)  
+- Prothrombin complex concentrate (PCC)  
+- Fresh frozen plasma (FFP)  
+- Direct oral anticoagulants (NOACs)  
+- Warfarin  
+- Moderate to severe rheumatic mitral stenosis  
+- Bioprosthetic valve replacement or repair  
+- Native valve repair  
+- Antithrombotic therapy  
+- Anticoagulation reversal  
+- Vitamin K  
+- Bleeding risk  
+- Thrombosis risk  
+- Prosthetic heart valves  
+
+Page 77 Extracted Terms:
+- Valvular Heart Disease  
+- Prosthetic Valves  
+- Mechanical Valves  
+- Bioprosthetic Valves  
+- Annuloplasty Rings  
+- Direct Oral Anticoagulants (DOACs)  
+- Vitamin K Antagonists (VKA)  
+- Four‑factor Prothrombin Complex Concentrate (PCC)  
+- Activated Prothrombin Complex (aPCC)  
+- Idarucizumab (dabigatran antidote)  
+- Andexanet Alfa (anti‑Xa antidote)  
+- Intravenous Vitamin K  
+- International Normalized Ratio (INR)  
+- Supratherapeutic INR (>5.0)  
+- Inadequate or excessive anticoagulation  
+- Bleeding / Hemorrhage (including uncontrolled bleeding, life‑threatening bleeding)  
+- Thromboembolism  
+- Stroke (cerebrovascular event)  
+- Systemic embolic event  
+- Low‑dose Aspirin (75–100 mg)  
+- Antiplatelet Therapy  
+- Mechanical Aortic Valve Replacement (AVR)  
+- Mechanical Mitral Valve Replacement  
+- Bioprosthetic Surgical or Transcatheter Aortic Valve  
+- Bioprosthetic Mitral Valve  
+- Anticoagulation Reversal  
+- Therapeutic INR range  
+
+These terms capture the key concepts related to heart disease, particularly valvular heart disease and its management with anticoagulation.
+
+Page 78 Extracted Terms:
+- Valvular Heart Disease  
+- VKA (Vitamin K antagonist) anticoagulation  
+- INR (International Normalized Ratio)  
+- Therapeutic range  
+- Subtherapeutic INR  
+- Thromboembolism  
+- Infective Endocarditis (IE)  
+- Atrial fibrillation (AF) / new‑onset AF  
+- Hypercoagulable state  
+- Bioprosthetic valve  
+- Transcatheter aortic valve (TAVR)  
+- Mechanical valve  
+- Leaflet thrombosis  
+- Pannus formation  
+- Bleeding risk  
+- Low‑dose aspirin  
+- NOAC (Novel Oral Anticoagulant)  
+- Stroke  
+- Systemic embolic event  
+- Transesophageal echocardiography (TEE)  
+- Transthoracic echocardiography (TTE)  
+- Fluoroscopy  
+- Multidetector CT imaging  
+- 3‑D CT scanning  
+- Valve function assessment  
+- Valve leaflet motion  
+- Thrombus detection  
+- Valve obstruction  
+- Transvalvular gradient  
+- Pulmonary edema  
+- Stenotic murmur  
+- Muffled closing clicks  
+- Aortic prosthesis  
+- Mitral prosthesis  
+- Tricuspid prosthesis  
+- Left ventricular (LV) size  
+- LV systolic function  
+- Estimated pulmonary pressures  
+- High‑output state  
+- Clinical decision‑making  
+- Full neurological evaluation 
+
+Page 79 Extracted Terms:
+- Mechanical prosthetic valve thrombosis  
+- Valve obstruction  
+- Fibrinolytic therapy  
+- Low‑dose thrombolytic therapy  
+- Slow‑infusion thrombolysis  
+- Emergency surgery  
+- Left‑sided mechanical prosthetic heart valve  
+- NYHA class I  
+- NYHA class II  
+- Hemodynamic success  
+- Embolic events  
+- Major bleeding  
+- Transvalvular velocity  
+- Transcatheter aortic valve implantation (TAVI)  
+- Bioprosthetic valve thrombosis  
+- Leaflet thrombosis  
+- 3D transesophageal echocardiography (TEE)  
+- 4D computed tomography (CT) imaging  
+- Cardiac magnetic resonance (CMR) imaging  
+- Hypoattenuation of valve leaflets  
+- Oral anticoagulation  
+- Vitamin K antagonist (VKA)  
+- Anticoagulation therapy  
+- Thrombus burden  
+- Recurrent valve thrombosis  
+- Surgical expertise  
+- Valve stent (bioprosthetic valve)  
+- Transvalvular gradient  
+- Valve function improvement  
+
+Page 80 Extracted Terms:
+- Prosthetic Valve Stenosis  
+- Mechanical Valve Stenosis  
+- Bioprosthetic Valve Stenosis  
+- Trans‑Thoracic Echocardiography (TTE)  
+- Trans‑Echocardiographic Echocardiography (TEE)  
+- Fluoroscopy  
+- Cine‑Computed Tomography (cine‑CT)  
+- Three‑Dimensional Trans‑Echocardiographic Imaging (3D TEE)  
+- Four‑Dimensional CT Imaging (4D CT)  
+- Pulmonary Artery Systolic Pressure  
+- Ventricular Function  
+- Leaflet Mobility  
+- Pannus Ingrew  
+- Thrombus Formation  
+- Structural Valve Deterioration  
+- Leaflet Thinning/Calcification/Tear  
+- Stent Creep  
+- Valve Academic Research Consortium (VARC) Criteria  
+- Patient‑Prosthesis Mismatch  
+- Transvalvular Gradient  
+- Left Ventricular (LV) Hypertrophy  
+- Cardiovascular Events  
+- NYHA Class (I–IV)  
+- Systemic Fibrinolysis  
+- Surgical Therapy (Valve Replacement/Repair)  
+- Coronary Artery Disease (CAD)  
+- LA Thrombus  
+- Intra‑operative Imaging  
+- Valve Leaflet Opening/Closing Angles  
+- Bioprosthetic Valve Degeneration  
+- Endocarditis  
+- Non‑Laminar Blood Flow  
+- Mechanical Valve Leaflet Imaging  
+- Cardiac Output Demands  
+- Imaging Diagnostic Criteria for Stenosis Severity  
+- Valve Implantation Baseline Hemodynamics  
+- Imaging Modality for Pannus Detection  
+- Left Ventricular Pressure Gradient  
+
+(Note: All items are key heart‑disease‑related terms extracted from the guideline text.)
+
+Page 81 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+- ACC/AHA Guideline for the Management of Valvular Heart Disease  
+- Valvular heart disease  
+- Valve stenosis  
+- Bioprosthesis  
+- Structural valve degeneration  
+- Pannus formation  
+- Thrombus (valve thrombus, subclinical bioprosthetic valve thrombosis)  
+- Calcium deposition (paravalvular calcification)  
+- CT imaging (4‑D CT)  
+- TAVI (Transcatheter Aortic Valve Implantation)  
+- 3‑D TEE (Three‑Dimensional Transesophageal Echocardiography)  
+- Prosthetic valve stenosis  
+- Surgical intervention (reoperative AVR, SAVR)  
+- High or prohibitive surgical risk  
+- Transcatheter ViV (Valve‑in‑Valve) procedure  
+- Comprehensive Valve Center  
+- Oral anticoagulation with a VKA (vitamin K antagonist)  
+- Cumulative survival rates  
+- Patient‑prosthesis mismatch  
+- Paravalvular leak  
+- Aortic valve gradients  
+- VIVID registry (Valve‑in‑Valve International Data)  
+- Stroke and bleeding risks  
+- Functional status (NYHA class I/II)  
+- Reoperative surgery mortality and morbidity  
+- Coronary artery obstruction (specific to aortic ViV)  
+- Permanent pacemaker implantation  
+- Annulus rupture (not reported)  
+- LV outflow obstruction (post‑mitral ViV)  
+- Mechanical prosthetic valve complications  
+- Transvalvular regurgitation (pannus, thrombus, vegetation)  
+- Suture line disruption, annular disruption, endocarditis  
+- Severe mitral annular calcification (late paravalvular leak risk)  
+- Bioprosthetic valve regurgitation (paravalvular)  
+
+These terms capture the principal concepts, procedures, complications, and clinical decision points discussed in the provided guideline excerpt.
+
+Page 82 Extracted Terms:
+- Valvular Heart Disease  
+- Prosthetic Valve Regurgitation  
+- Prosthetic Valve Stenosis  
+- Transvalvular Leak  
+- Paravalvular Leak  
+- Mechanical Valve  
+- Bioprosthetic Valve  
+- Calcification  
+- Leaflet Perforation  
+- Leaflet Flail  
+- Hemolysis  
+- Heart Failure (HF)  
+- Pulmonary Artery Systolic Pressure  
+- Transthoracic Echocardiography (TTE)  
+- Transesophageal Echocardiography (TEE)  
+- 3‑Dimensional TEE (3D TEE)  
+- 4‑Dimensional Imaging (4D)  
+- Computed Tomography (CT)  
+- Comprehensive Valve Center (CVC)  
+- Valve‑in‑Valve (ViV)  
+- Valve Thrombosis  
+- Murmur  
+- Auscultatory Findings  
+- Echocardiographic Definitions  
+- Diagnostic Imaging  
+- Transcatheter Procedure  
+- Hemodynamic Effects  
+- Asymptomatic Presentation  
+- New‑Onset Heart Failure  
+- Unexplained Hemolysis  
+- Estimated Pulmonary Pressure  
+- Critical Diagnostic Distinction (Transvalvular vs. Paravalvular)  
+- Clinical Presentation of Prosthetic Valve Dysfunction  
+- Routine Clinical or Imaging Follow‑up  
+- Intraprocedural Guidance  
+- 3‑Dimensional Guidance for Transcatheter Procedures  
+
+Page 83 Extracted Terms:
+**Key Heart‑Disease Related Terms Extracted**
+
+- Echocardiography (TTE, TEE, 3‑D TEE, real‑time 3‑D TEE)  
+- Valve Academic Research Consortium (VARC) – 5‑class grading for paravalvular leak severity  
+- Prosthetic valve regurgitation (transvalvular & paravalvular)  
+- Prosthetic mitral valve; prosthetic aortic valve  
+- Valve thrombosis (see Sections 11.6 & 11.8)  
+- Prosthetic valve endocarditis (see Section 12.3)  
+- Hemolytic anemia / intractable hemolysis  
+- Heart failure (HF) – acute or chronic severe regurgitation; NYHA class III/IV symptoms  
+- Transcatheter paravalvular leak closure (catheter‑based, percutaneous repair)  
+- Comprehensive Valve Center (recommended site for advanced interventions)  
+- Transcatheter valve‑in‑valve (ViV) procedure  
+- Bioprosthetic valve degeneration (leaflet calcification, non‑coaptation, tear, perforation)  
+- Infection (infective endocarditis, IE) – contraindication to transcatheter therapy, requires antibiotics before surgery  
+- Surgical risk (high, prohibitive, low)  
+- Anemia management (folic acid, iron supplementation, periodic transfusion)  
+- Residual regurgitation assessment post‑device placement  
+- Acoustic shadowing, paravalvular leak detection challenges (TTE suboptimal posterior, TEE suboptimal anterior)  
+
+These terms capture the primary disease entities, clinical features, imaging modalities, therapeutic strategies, and risk stratification concepts emphasized in the guideline.
+
+Page 84 Extracted Terms:
+- Aortic valve replacement (AVR)  
+- Reoperative AVR  
+- Surgical reoperation  
+- Paravalvular leak  
+- Aortic valve  
+- Mitral valve  
+- Valve replacement  
+- Prosthetic valve deterioration  
+- Regurgitation  
+- Leaflet calcification  
+- Leaflet degeneration  
+- Leaflet tear / perforation  
+- Infective Endocarditis (IE)  
+- Watchful waiting  
+- Comprehensive Heart Valve Center  
+- Percutaneous paravalvular leak closure  
+- Multidisciplinary team (MDT)  
+- Residual regurgitation  
+- Heart failure (HF) symptoms  
+- Valve‑in‑Valve (ViV)  
+- Transcatheter ViV procedure  
+- Stroke  
+- Functional status  
+- Hemodynamic outcomes  
+- Reoperative SAVR (surgical aortic valve replacement)  
+- All‑cause mortality  
+- Low‑risk patients  
+- Endocarditis classification  
+- Native valve  
+- Prosthetic valve  
+- Timing of infection after valve intervention.
+
+Page 85 Extracted Terms:
+- Infective Endocarditis (IE)  
+- Valvular Heart Disease (VHD)  
+- Prosthetic heart valve  
+- Left‑sided valve regurgitation  
+- Congenital or acquired VHD  
+- Injection drug use (risk factor for IE)  
+- Blood culture  
+- Staphylococcus aureus bacteremia  
+- Enterococcal infection  
+- Fungal infection  
+- Modified Duke Criteria  
+- Multispecialty Heart Valve Team  
+- Cardiologist  
+- Cardiac surgeon  
+- Cardiac anesthesiologist  
+- Neurologist  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Intraoperative TEE  
+- Baseline TEE (before oral therapy)  
+- Repeat TEE (before completion of oral therapy)  
+- Cardiac imaging (CT, CT/PET)  
+- 18F‑fluorodeoxyglucose PET/CT  
+- Vegetations  
+- Hemodynamic severity of valvular lesions  
+- Ventricular function  
+- Pulmonary pressures  
+- Embolism  
+- Heart failure (HF)  
+- Abscess  
+- Atrioventricular heart block  
+- Valve surgery for IE  
+- Early change to oral antibiotic therapy for stable IE  
+- Nosocomial S. aureus bacteremia  
+- Paravalvular infection  
+- Diagnostic imaging adjuncts (CT, PET/CT)
+
+Page 86 Extracted Terms:
+- Valvular Heart Disease  
+- Infective Endocarditis (IE)  
+- Culture‑negative Endocarditis  
+- New or increased left‑sided valve regurgitation  
+- Left‑sided valve  
+- Valve regurgitation (mitral, aortic, etc.)  
+- Prosthetic valve  
+- Valve disease / valve lesions  
+- Echocardiography (TTE, TEE)  
+- Echocardiogram positive for IE  
+- Vegetation  
+- Oscillating intracardiac mass  
+- Intracardiac abscess  
+- Structural heart damage  
+- Heart failure (HF)  
+- Vascular emboli / embolization (including stroke, septic pulmonary infarcts, mycotic aneurysm)  
+- Septic pulmonary infarcts  
+- Janeway lesions  
+- Osler’s nodes  
+- Roth’s spots  
+- Glomerulonephritis  
+- Immunologic phenomena (immune complex deposition, rheumatoid factor)  
+- Blood culture (positive, persistently positive, single positive, etc.)  
+- Serological evidence of active infection  
+- Polymerase chain reaction (PCR)  
+- HACEK organisms (Haemophilus spp., Actinobacillus spp., Cardiobacterium hominis, Eikenella spp., Kingella kingae)  
+- Viridans streptococci, Streptococcus bovis, Staphylococcus aureus, enterococci  
+- Modified Duke Criteria (major and minor criteria for IE diagnosis)  
+- Endocardial involvement  
+- New partial dehiscence of prosthetic valve  
+- Cardiovascular complications (stroke, intracranial hemorrhage, embolic events)  
+- Cardiac imaging findings (e.g., oscillating mass, abscess, valve dehiscence)  
+- Infection‑related heart disease indicators (fever >38 °C, vascular phenomena, immunologic phenomena)
+
+Page 87 Extracted Terms:
+- Valvular Heart Disease  
+- Infective Endocarditis (IE)  
+- Valve Vegetation  
+- Transthoracic Echocardiography (TTE)  
+- Transesophageal Echocardiography (TEE)  
+- Prosthetic Valve Endocarditis  
+- Aortic Regurgitation  
+- Paravalvular Leak  
+- Ventricular Size and Systolic Function  
+- Pulmonary Pressures / Pulmonary Hypertension  
+- Aortic Transvalvular Velocity / Gradient  
+- Abscess (intracardiac or paravalvular)  
+- Pericardial Effusion  
+- Valve Perforation  
+- Fistulae (paravalvular or intracardiac)  
+- Intracardiac Thrombi  
+- Heart Failure (HF)  
+- Paravalvular Extension  
+- Embolic Events (systemic emboli, stroke)  
+- Early Surgical Intervention / Valve Surgery  
+- Repeat Echocardiography (TTE/TEE)  
+- Air Embolism (intraoperative)  
+- Comprehensive Valve Center  
+- Telemedicine (remote IE management)  
+- Heart Valve Multidisciplinary Team (MDT)  
+- Intraoperative TEE  
+- Partial Oral Treatment of Endocarditis (POET) trial  
+- Infectious Disease Specialists (role in IE care)
+
+Page 88 Extracted Terms:
+- Infective endocarditis (IE)  
+- S.* aureus bacteremia  
+- Transesophageal echocardiography (TEE)  
+- Transthoracic echocardiography (TTE)  
+- Multidetector‑row computed tomography (CT)  
+- 18F‑fluorodeoxyglucose PET/CT  
+- Prosthetic valve endocarditis  
+- Native valve endocarditis  
+- Mechanical prosthetic valve  
+- Bioprosthetic valve  
+- Valve vegetation  
+- Valvular perforation  
+- Paravalvular abscess  
+- Annular abscess  
+- Systemic embolization  
+- Septic pulmonary infarct  
+- Heart failure (HF)  
+- Valvular heart disease  
+- Aortic valve involvement  
+- Coronary artery evaluation in IE  
+- Modified Duke Criteria (major and minor criteria)  
+- Intravascular catheter–associated bacteremia  
+- Right‑sided infective endocarditis  
+- Infective material limiting valve occluder motion  
+- Thrombus on prosthetic valve  
+- Cardiac fluoroscopy (adjunct imaging modality)
+
+Page 89 Extracted Terms:
+- Valvular heart disease  
+- Infective endocarditis (IE)  
+- Left‑sided infective endocarditis  
+- Right‑sided infective endocarditis  
+- Mechanical heart valve  
+- Intracardiac device  
+- Anticoagulation  
+- Vitamin‑K antagonist (VKA)  
+- Intravenous drug use–associated endocarditis  
+- Opioid substitution therapy  
+- Paravalvular infection  
+- Transesophageal echocardiography (TEE)  
+- Blood cultures  
+- Antibiotic therapy  
+- Antibiotic sensitivity data  
+- Cerebral embolism  
+- Stroke  
+- Intracranial bleeding  
+- Systemic emboli  
+- Mycotic aneurysm  
+- Antimicrobial regimens  
+- Heart valve team  
+- Antithrombotic therapy  
+- Antimicrobial stewardship  
+- Hemodialysis dependency  
+- Spinal infection or non‑vertebral osteomyelitis  
+- Infectious disease specialists (MDT)
+
+Page 90 Extracted Terms:
+**Key terms related to heart disease found in the text**
+
+- Valvular heart disease  
+- Infective endocarditis (IE)  
+- Native valve endocarditis (NVE)  
+- Prosthetic valve endocarditis (PVE)  
+- Prosthetic valve dysfunction  
+- Valve dysfunction  
+- Ischemia  
+- Hemorrhagic transformation (stroke)  
+- Stroke  
+- Anticoagulant therapy  
+- Vitamin K antagonist (VKA)  
+- Unfractionated heparin (UFH)  
+- Bridging therapy  
+- Antiplatelet therapy  
+- Transesophageal echocardiography (TEE)  
+- Transthoracic echocardiography (TTE)  
+- Computed tomography (CT)  
+- Positron emission tomography (PET)  
+- 18F‑fluorodeoxyglucose (18FDG)  
+- POET study (patient outcome evaluation)  
+- Intravenous antibiotic treatment  
+- Oral antibiotic treatment  
+- Blood culture (diagnostic standard for IE)  
+- Heart Valve Team  
+- Cardiothoracic surgeon  
+- Cardiologist  
+
+These terms capture the primary concepts and interventions discussed in the guideline excerpt that pertain to heart disease management.
+
+Page 91 Extracted Terms:
+- Infective endocarditis (IE)  
+- Prosthetic valve endocarditis  
+- Heart valve dysfunction  
+- Heart failure (HF)  
+- Left‑sided endocarditis  
+- S. aureus endocarditis  
+- Fungal endocarditis  
+- Highly resistant organisms  
+- Heart block  
+- Annular abscess  
+- Aortic abscess  
+- Destructive penetrating lesions  
+- Persistent infection (bacteremia, fevers >5 days)  
+- Pacemaker or defibrillator infection  
+- Complete removal of cardiac electronic device  
+- Recurrent endocarditis  
+- Intravenous drug use–related endocarditis  
+- Embolic events (recurrent emboli)  
+- Vegetations (mobile >10 mm)  
+- Cerebral embolic events  
+- Stroke (ischemic and hemorrhagic)  
+- Intracranial hemorrhage  
+- Extensive neurological damage  
+- Heart Valve Multidisciplinary Team (MDT)  
+- Cardiology  
+- Cardiothoracic surgery  
+- Infectious disease  
+- Comprehensive Valve Center  
+- STS (Society of Thoracic Surgeons) risk‑scoring system for cardiac surgery  
+- Surgical risk in infective endocarditis  
+
+These terms capture the key heart‑disease–related concepts discussed in the guideline excerpt.
+
+Page 92 Extracted Terms:
+- Valvular heart disease  
+- Infective endocarditis (IE)  
+- Native valve endocarditis (NVE)  
+- Prosthetic valve endocarditis (PVE)  
+- Staphylococcus aureus endocarditis  
+- Staphylococcal prosthetic valve endocarditis  
+- Viridans streptococci endocarditis  
+- Enterococcus faecalis (E. faecalis) endocarditis  
+- Coagulase‑negative staphylococci endocarditis  
+- Left‑sided infective endocarditis  
+- Right‑sided infective endocarditis  
+- Heart failure (HF)  
+- Moderate to severe heart failure  
+- Valve surgery  
+- Early surgery (during initial hospital course)  
+- Severe valvular dysfunction  
+- Transesophageal echocardiography (TEE)  
+- Transthoracic echocardiography (TTE)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Vitamin‑K antagonist (VKA) therapy  
+- Embolic event  
+- Central nervous system (CNS) event  
+- Stroke  
+- Intracranial hemorrhage  
+- Drug‑use associated endocarditis (DUA)  
+- Opioid substitution treatment (OST)
+
+Page 93 Extracted Terms:
+- Endocarditis  
+- Valvular Heart Disease  
+- Native Valve Endocarditis  
+- Prosthetic Valve Endocarditis  
+- Paravalvular Abscess  
+- Annular Abscess  
+- Aortic Abscess  
+- Heart Block  
+- Cardiac Device Endocarditis  
+- Device Extraction  
+- Parenteral Antibiotics  
+- Methicillin‑Resistant *Staphylococcus aureus* (MRSA)  
+- Vegetation  
+- Vegetation Size >10 mm  
+- Vegetation Mobility  
+- Embolic Events  
+- Septic Embolism  
+- Left‑Sided Infective Endocarditis (IE)  
+- Right‑Sided IE  
+- Mitral Valve Lesions  
+- Aortic Valve Lesions  
+- Injection Drug Use–Associated IE  
+- Blood Culture Negativity  
+- Antifungal Therapy  
+- Surgical Intervention  
+- Operative Survival (5‑year actuarial survival)  
+- Mortality Rate  
+- Survival Benefit (device removal)  
+- PET/CT Imaging  
+- Addiction Therapy  
+- Recurrent Fever  
+- Recurrent IE  
+- Paravalvular Invasion  
+- Fistula Formation  
+- Destructive Penetrating Lesions  
+- Extensive Paravalvular Infections  
+- Cardiac Tissue Destruction  
+- ICU/Multidisciplinary Team (MDT) Involvement  
+- Early Surgery  
+- Proportional Hazards Regression  
+- Incidence of Drug Use–Associated IE  
+- Readmission Rates  
+- Cost of Care  
+- Antimicrobial Therapy Duration 48 hrs - 1 week  
+- Long‑Term Outcomes (8‑year freedom from IE)
+
+Page 94 Extracted Terms:
+**Key terms related to heart disease**
+
+- Valvular heart disease (VHD)  
+- Infective endocarditis (IE)  
+- Stroke (ischemic and hemorrhagic)  
+- Embolic events  
+- Heart failure (HF)  
+- Heart block  
+- Paravalvular extension  
+- Early surgical intervention  
+- Conventional treatment  
+- All‑cause mortality  
+- Perioperative hemorrhagic conversion  
+- Surgical timing (>4 weeks after stroke or hemorrhage)  
+- Pregnancy in women with severe valve disease  
+- Transthoracic echocardiography (TTE)  
+- Bicuspid aortic valve  
+- Unicuspid aortic valve  
+- Aortic sinus dilation  
+- Ascending aorta dilation  
+- Aortic dissection  
+- Valve lesion staging (Stages C, D; Stage C1)  
+- Functional capacity assessment  
+- Left ventricular (LV) function  
+- Right ventricular (RV) function  
+- Pulmonary hypertension  
+- Heart Valve Team (cardiologists, surgeons, anesthesiologists, maternal‑fetal medicine obstetricians)
+
+Page 95 Extracted Terms:
+- Valvular Heart Disease (VHD)  
+- Valve replacement  
+- Valve repair  
+- Percutaneous aortic balloon dilation  
+- Percutaneous mitral balloon dilation  
+- Rheumatic mitral stenosis (MS)  
+- Aortic stenosis (AS)  
+- Severe valve disease  
+- Cardiac morbidity  
+- Cardiac mortality  
+- High‑risk cardiac conditions  
+- Stage D heart failure  
+- Beta‑blocker medications  
+- Diuretic medications  
+- Angiotensin‑converting enzyme (ACE) inhibitors  
+- Angiotensin‑receptor blockers (ARBs)  
+- Arrhythmia  
+- Atrial fibrillation (AF)  
+- Anticoagulation therapy  
+- Pregnancy‑related cardiac complications  
+- Low birth weight  
+- Fetal malformations  
+- Fetal growth retardation  
+- Maternal cardiac disease  
+- Fetal outcome  
+- ROPAC registry (Registry On Pregnancy And Cardiac Disease)  
+- Exercise testing (for risk assessment)  
+- Cardiac monitoring  
+
+These terms capture the key heart‑disease concepts discussed in the guideline excerpt.
+
+Page 96 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+1. Valvular heart disease (VHD)  
+2. Mechanical valve  
+3. Bioprosthetic valve  
+4. Valve thrombosis  
+5. Anticoagulation  
+6. Warfarin  
+7. International Normalized Ratio (INR)  
+8. Pulmonary mitral balloon commissurotomy (PMBC)  
+9. Rheumatic mitral stenosis (MS)  
+10. Aortic stenosis (AS)  
+11. Mitral regurgitation (MR)  
+12. Valve repair  
+13. Ross procedure  
+14. Transcatheter aortic valve implantation (TAVI)  
+15. Percutaneous aortic balloon dilation  
+16. Valve replacement  
+17. Valve intervention  
+18. Valve morphology  
+19. Valve area  
+20. Aortic velocity  
+21. Pressure gradient  
+22. Hemodynamic changes  
+23. Heart failure (HF)  
+24. Arrhythmias  
+25. Maternal adverse outcome  
+26. Fetal complications  
+27. Maternal death  
+28. Excessive bleeding  
+29. Preconception evaluation  
+30. Serum brain natriuretic peptide (BNP)  
+31. Symptom‑based indications  
+32. Shared decision‑making  
+33. Stage C / Stage C1 (severity classification)  
+34. Preoperative trial of anticoagulation  
+35. Mechanical vs. bioprosthetic valve durability in young women  
+
+These terms capture the core concepts, procedures, risks, and clinical considerations discussed in the guideline excerpt.
+
+Page 97 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Valvular Heart Disease (VHD)  
+- Aortic Stenosis (AS)  
+- Mitral Regurgitation (MR)  
+- Left Ventricular (LV) Systolic Function  
+- Biomarkers (in the context of LV function)  
+- Mechanical Heart Valve  
+- Bioprosthetic Valve  
+- Valve Regurgitation (general)  
+- Heart Failure (HF)  
+- Pulmonary Hypertension (PH)  
+- Pulmonary Artery Systolic Pressure (≥ 50 mm Hg)  
+- Comprehensive Valve Center  
+- Mitral Valve Morphology  
+- Valve Repair  
+- Surgical Risk (valve surgery)  
+- Preconception Management of Valvular Disease  
+- Native Valve Disease  
+- Transthoracic Echocardiography (TTE) – imaging modality for valvular assessment  
+
+Page 98 Extracted Terms:
+**Key terms related to heart disease in the text**
+
+- Valvular Heart Disease (VHD)  
+- Severe aortic stenosis (AS)  
+- Mean pressure gradient ≥ 40 mm Hg  
+- Stage D disease  
+- NYHA class III and IV heart‑failure (HF) symptoms  
+- Rheumatic mitral stenosis (MS)  
+- Mitral valve area ≤ 1.5 cm²  
+- Pulmonary‑mural balloon commissurotomy (PMBC)  
+- Valve regurgitation (severe)  
+- Valve surgery (open heart)  
+- Percutaneous balloon dilatation of the aortic valve  
+- Percutaneous balloon dilation of the mitral valve  
+- High‑risk procedures during pregnancy  
+- Multidisciplinary team (cardiologists, interventionalists, cardiac anesthesiologists, obstetricians)  
+- Prosthetic (mechanical) heart valves  
+- Pre‑pregnancy assessment (echocardiography)  
+- Mechanical prosthesis monitoring  
+- Tertiary‑care center  
+- Maternal‑fetal medicine obstetricians  
+- Anticoagulation strategy for mechanical valves  
+- Transesophageal echocardiography (TEE)  
+- Prosthetic valve obstruction  
+- Embolic event  
+- Maternal mortality risk (~1 %)  
+- Pregnancy risk category III (World Health Organization)  
+- Valvular thrombosis risk (~5 %)  
+
+These terms capture the primary heart‑disease concepts and clinical considerations discussed in the guideline excerpt.
+
+Page 99 Extracted Terms:
+- Valvular heart disease  
+- Prosthetic heart valves  
+- Mechanical heart valves  
+- Valve dysfunction  
+- Valve intervention  
+- Preconception transthoracic echocardiography (TTE)  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Transvalvular gradients  
+- Valve regurgitation  
+- Valve thrombosis  
+- Embolic event  
+- Heart failure (HF)  
+- Pulmonary artery systolic pressure  
+- Anticoagulation strategy  
+- Vitamin K antagonist (VKA)  
+- Warfarin  
+- Low‑molecular‑weight heparin (LMWH)  
+- Unfractionated heparin (UFH)  
+- Activated partial thromboplastin time (aPTT)  
+- Anti‑Xa level  
+- Hypercoagulable state  
+- Maternal mortality  
+- Miscarriage  
+- Fetal death  
+- Congenital abnormalities  
+- Maternal‑fetal medicine team  
+- Heart Valve Team  
+- Cesarean section  
+- Vaginal delivery  
+- First trimester  
+- Second trimester  
+- Third trimester  
+- Therapeutic anticoagulation  
+- Maternal and fetal safety  
+- Pregnant women with mechanical prostheses  
+- Shared decision‑making  
+- Embolic risk  
+- Thrombus burden  
+- Maternal counseling  
+- Fetal counseling  
+- Clinical deterioration  
+- Valve gradients  
+- Valve regurgitation  
+- Monitoring of anticoagulation  
+- Reversal of anticoagulation  
+- Anticoagulation titration  
+- Gated cardiac CT  
+- Fluoroscopy  
+- Thrombus visualization  
+- Surgical management of valve disease  
+- Valve replacement  
+- Valve prosthesis maintenance  
+- Thrombus surveillance  
+- Anticoagulation adjustment  
+- Dose‑adjusted LMWH  
+- Dose‑adjusted UFH  
+- Target anti‑Xa range (0.8–1.2 U/mL)  
+- Therapeutic INR  
+- Dose‑adjusted warfarin  
+- Anticoagulant safety profile  
+- Maternal–fetal outcome optimization  
+
+Page 100 Extracted Terms:
+- Mechanical heart valves  
+- Valvular heart disease  
+- Mechanical valve prosthesis  
+- Mechanical valve thrombosis  
+- Anticoagulation  
+- Warfarin  
+- Low‑molecular‑weight heparin (LMWH)  
+- Unfractionated heparin (UFH)  
+- Direct thrombin inhibitor (dabigatran)  
+- Direct oral anticoagulants (DOACs)  
+- Anti‑Xa levels  
+- International Normalized Ratio (INR)  
+- Thromboembolism  
+- Thrombosis  
+- Hemorrhage  
+- Fetal intracranial hemorrhage  
+- Fetal intracranial bleeding  
+- Warfarin embryopathy  
+- Maternal morbidity  
+- Maternal mortality  
+- Fetal outcomes  
+- Spontaneous abortion / miscarriage  
+- Loss of pregnancy  
+- Teratogenicity  
+- Placental crossing of medication  
+- Sequential therapy (heparin then warfarin)  
+- Continuous warfarin therapy  
+- Dose‑adjusted anticoagulation  
+- Therapeutic anticoagulation  
+- Anticoagulation monitoring  
+- Antithrombotic therapy  
+- Maternal and fetal risk balance
+
+Page 101 Extracted Terms:
+- Valvular heart disease  
+- Prosthetic mechanical heart valves  
+- Anticoagulation  
+- Low‑molecular‑weight heparin (LMWH)  
+- Unfractionated heparin (UFH)  
+- Vitamin K antagonist (VKA)  
+- Anti‑Xa levels  
+- Activated partial thromboplastin time (aPTT)  
+- Dose‑adjusted LMWH dosing  
+- Therapeutic range  
+- Pregnancy‑specific anticoagulation strategy  
+
+These are the primary heart‑disease–related terms extracted from the text.
+
+Page 102 Extracted Terms:
+- Valvular Heart Disease  
+- Mechanical heart valve  
+- Prosthetic valve  
+- Valve thrombosis (incl. mechanical valve thrombosis)  
+- Low‑dose warfarin  
+- Warfarin embryopathy / teratogenicity  
+- Low‑dose LMWH (Low‑molecular‑weight heparin)  
+- Unfractionated heparin (UFH)  
+- Intravenous heparin infusion (continuous or slow‑infusion)  
+- Activated partial thromboplastin time (aPTT)  
+- Anti‑factor Xa level monitoring  
+- Thrombolysis (tissue‑type plasminogen activator, tPA)  
+- Fetal intracranial hemorrhage  
+- Fetal loss / embryopathy  
+- Anticoagulation management in pregnancy  
+- Maternal hemorrhage risk  
+- Thrombotic complications (stroke, valve thrombosis)  
+- Obstetric anticoagulation strategy (e.g., warfarin shift, LMWH use)  
+- Mechanical valve thrombosis management during pregnancy  
+- Obstetric and anesthesia coordination for anticoagulation  
+- Monitoring of anti‑Xa trough levels >0.6 IU/mL  
+- Dose‑adjusted LMWH  
+- Continuous UFH infusion for low‑dose warfarin replacement  
+- Thrombus size criteria (>10 mm) for mechanical valve thrombosis.
+
+Page 103 Extracted Terms:
+- Valvular Heart Disease  
+- Low‑dose warfarin  
+- Low Molecular Weight Heparin (LMWH)  
+- Mechanical heart valves  
+- Valve thrombosis  
+- Maternal thrombotic complications  
+- Low‑dose aspirin (pregnancy safety)  
+- Preeclampsia prevention  
+- Anti‑Xa activity / anti‑Xa levels  
+- Dabigatran (direct thrombin inhibitor)  
+- Direct oral anticoagulants (DOACs)  
+- Warfarin  
+- Coronary Artery Disease (CAD)  
+- Transcatheter Aortic Valve Implantation (TAVI)  
+- Surgical Aortic Valve Replacement (SAVR)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Aortic Stenosis (AS)  
+- Left main coronary artery disease  
+- Proximal coronary artery disease  
+- Angina  
+- Fractional Flow Reserve (FFR)  
+- Instantaneous Wave‑Free Ratio (iFR)  
+- SYNTAX Score  
+- Cardiac cross‑clamp time  
+- Cardiopulmonary bypass time  
+- Aortic dilation  
+- Mitral valve intervention  
+- Aortic valve replacement (AVR)  
+- Left ventricular (LV) function  
+- Pulmonary hypertension  
+- Renal injury (post‑operative)  
+- Post‑operative adhesions  
+- Medial radiation effects on cardiac surgery  
+- Re‑operative cardiac procedures  
+- Frailty / fragile tissue integrity  
+- Concomitant surgical procedures (e.g., maze procedure for AF)
+
+Page 104 Extracted Terms:
+- Severe coronary artery disease (CAD)  
+- SYNTAX score  
+- Revascularization  
+- Transcatheter aortic valve implantation (TAVI)  
+- Severe aortic stenosis (AS)  
+- Obstructive CAD  
+- Coronary angiography  
+- Coronary CT angiography  
+- Fractional flow reserve (FFR)  
+- Instantaneous wave‑free ratio (iFR)  
+- Percutaneous coronary intervention (PCI)  
+- Dual‑antiplatelet therapy (DAPT)  
+- Left main coronary disease  
+- Coronary artery bypass graft (CABG)  
+- Aortic valve replacement (AVR)  
+- Mitral regurgitation (MR)  
+- Left ventricular (LV)  
+- Computed tomography (CT)  
+
+*(All terms are directly related to heart disease and its management as cited in the text.)*
+
+Page 105 Extracted Terms:
+- ACC/AHA Guideline  
+- Valvular Heart Disease (VHD)  
+- Percutaneous treatment  
+- Left main disease  
+- SYNTAX score  
+- Surgical approach  
+- Surgical aortic valve replacement (SAVR)  
+- Revascularization  
+- Coronary Artery Disease (CAD)  
+- Significant CAD (>50% stenosis)  
+- Valve surgery  
+- Invasive coronary angiography  
+- Angina  
+- Ischemia  
+- Left ventricular (LV) systolic function  
+- Coronary risk factors  
+- Men >40 years  
+- Postmenopausal women  
+- Chronic severe secondary mitral regurgitation (MR)  
+- Contrast‑enhanced coronary CT angiography  
+- Pretest probability of CAD  
+- Coronary artery bypass grafting (CABG)  
+- Proximal CAD (≥70% luminal diameter reduction)  
+- Left main coronary artery CAD (≥50% luminal diameter reduction)  
+- Physiologically significant CAD  
+- Valve repair  
+- Valve replacement  
+- Coronary imaging in VHD  
+- Secondary MR  
+- LV reverse remodeling  
+- LV remodeling  
+- Periprocedural risk  
+- Long‑term outcome  
+- Percutaneous intervention  
+- Sequential intervention  
+- Radiation exposure  
+- Renal failure (contrast‑related)  
+- Diagnostic sensitivity (>90%)  
+- Diagnostic specificity (60–90%)  
+- Diagnostic accuracy (>90%)  
+- Mitral valve disease  
+- Aortic valve disease  
+- Aortic valve repair/replacement  
+- Coronary CT angiography contraindications (active angina, documented ischemia, prior CAD)  
+- Cardiac imaging modalities (invasive vs. non‑invasive)  
+- Coronary anatomy status  
+- Coronary anatomy contribution to risk stratification  
+- Coronary risk stratification.
+
+Page 106 Extracted Terms:
+- Valvular Heart Disease  
+- Valve surgery  
+- Myocardial infarction  
+- Left ventricular (LV) systolic dysfunction  
+- Operative mortality  
+- Coronary artery stenosis  
+- Left anterior descending artery  
+- Left internal thoracic artery graft  
+- Hybrid percutaneous coronary intervention (PCI)  
+- Surgical valve repair  
+- Surgical valve replacement  
+- Atrial fibrillation (AF)  
+- Atrial flutter  
+- Valvular heart disease with atrial fibrillation  
+- Arrhythmia surgery  
+- Pulmonary vein isolation (PVI)  
+- Maze procedure (atrial maze)  
+- Left atrial (LA) appendage ligation  
+- LA appendage excision  
+- LA appendage occlusion/exclusion/amputation  
+- Anticoagulation therapy  
+- Thromboembolic events  
+- Permanent pacemaker implantation  
+- Catheter‑based ablation (including cryoenergy or radiofrequency)  
+- Mitral valve repair  
+- Mitral valve replacement  
+- Aortic valve procedure  
+- Tricuspid valve procedure  
+- Recurrent atrial fibrillation  
+- Catheter ablation (for AF)  
+- Thrombogenic endocardial lesions  
+- Complete revascularization  
+- Incomplete revascularization  
+- Perioperative complications  
+- Bypass surgery (CABG)
+
+Page 107 Extracted Terms:
+**Key heart‑disease terms extracted from the text**
+
+- Valvular heart disease (VHD)  
+- Atrial fibrillation (AF)  
+- Left atrial (LA)  
+- Stroke  
+- Catheter ablation  
+- Surgical ablation  
+- Oral anticoagulation  
+- Anticoagulation (general)  
+- Vitamin K antagonist (VKA)  
+- CHA₂DS₂‑VASc score  
+- Periprocedural phase  
+- Endocardial healing  
+- Bioprosthetic valve  
+- LA appendage occlusion / exclusion  
+- Valvular stenosis  
+- Valvular regurgitation  
+- Preoperative echocardiography  
+- Non‑cardiac surgery in VHD patients  
+- Arrhythmia recurrence  
+- Valve repair/replacement  
+
+These terms capture the primary themes related to heart disease and its management in the cited clinical guideline.
+
+Page 108 Extracted Terms:
+- Valvular heart disease (VHD)  
+- Severity of VHD  
+- Symptoms (symptomatic disease)  
+- Risk of noncardiac intervention  
+- Left ventricular (LV) response to overload  
+- Right ventricular (RV) response to overload  
+- Pulmonary artery systolic pressure  
+- Cardiac intervention  
+- Valve intervention (replacement, repair)  
+- Heart Team  
+- Cardiologist  
+- Cardiac anesthesiologist  
+- Cardiac surgeons  
+- Cardiovascular anesthesiologist  
+- Invasive hemodynamic monitoring  
+- Transesophageal echocardiography (TEE)  
+- Pre‑operative resting 12‑lead ECG  
+- Transthoracic echocardiography (TTE)  
+- Valve stenosis  
+- Valve regurgitation  
+- Systolic function  
+- Diastolic function  
+- Left ventricular (LV) size  
+- Myocardial structure  
+- Right ventricular (RV) size  
+- Pulmonary artery pressure  
+- Aortic stenosis (AS)  
+- Aortic valve replacement (AVR)  
+- Surgical aortic valve replacement (SAVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Balloon aortic valvuloplasty  
+- Rheumatic mitral stenosis (MS)  
+- Mitral valve surgery (repair, replacement)  
+- Aortic valve surgery (repair, replacement)  
+- Left‑sided regurgitant lesions (mitral regurgitation, aortic regurgitation)  
+- High‑risk non‑cardiac surgery  
+- Elective non‑cardiac surgery  
+- Elevated‑risk non‑cardiac surgery  
+- Hemodynamic instability  
+- Cardiac complications (10‑30 % rate in undiagnosed severe AS)  
+- Pulmonary hypertension (> 50 mm Hg)  
+- Coronary artery disease (CAD)  
+- Perioperative risk  
+- Non‑cardiac procedures  
+- Ventricular function assessment  
+- Valve pathology evaluation  
+- Pre‑operative cardiac imaging  
+- Symptomatic severe VHD  
+
+These terms capture the core concepts and conditions related to heart disease discussed in the guideline excerpt.
+
+Page 109 Extracted Terms:
+- Valvular heart disease (VHD)  
+- Asymptomatic VHD patient  
+- Non‑cardiac surgery  
+- Aortic stenosis (AS) – moderate or greater, severe  
+- Mitral stenosis (MS) – rheumatic, moderate or greater, pulmonary artery systolic pressure < 50 mm Hg  
+- Mitral regurgitation (MR) – moderate or greater, normal LV systolic function, pulmonary artery systolic pressure < 50 mm Hg  
+- Aortic regurgitation (AR) – moderate or greater, normal LV systolic function  
+- Left ventricular (LV) systolic function / left ventricular ejection fraction (LVEF)  
+- Coronary artery disease (CAD)  
+- Pulmonary hypertension  
+- Peripheral artery disease (PAD)  
+- Right ventricular (RV) dysfunction  
+- Sinus rhythm  
+- Hemodynamic monitoring (invasive)  
+- Right‑heart catheterization  
+- Transesophageal echocardiography (TEE)  
+- Preload optimization  
+- Forward cardiac output  
+- Pulmonary edema  
+- Left atrial (LA) pressure  
+- Pulmonary capillary wedge pressure  
+- Phenylephrine, norepinephrine (vasopressors)  
+- Calcium channel blockers (arterial dilators)  
+- Epidural/spinal (neuraxial) anesthesia  
+- Neuraxial local anesthetic agents  
+- Opioids (adjunct)  
+- Hemodynamic stability (blood pressure, intracardiac volume)  
+- Cardiac complications (myocardial injury, arrhythmias, ischemia, failure, death)  
+- Aortic valve replacement (AVR)  
+- Risk‑benefit ratio for intervention  
+- CT or angiographic imaging for CAD exclusion.
+
+Page 110 Extracted Terms:
+- Valvular heart disease (VHD)  
+- Acute pulmonary edema  
+- Tachycardia  
+- Diastolic left‑ventricular (LV) filling time  
+- Stenotic mitral valve  
+- Left atrial (LA) pressure  
+- Rheumatic mitral stenosis (MS)  
+- Pulmonary artery systolic pressure  
+- Non‑cardiac surgery  
+- Mitral regurgitation (MR)  
+- LV systolic function  
+- Heart failure (HF)  
+- Myocardial infarction  
+- Neuraxial local anesthetics  
+- Opioids  
+- Systemic vasodilation  
+- General anesthesia  
+- Preload  
+- Invasive hemodynamic monitoring  
+- Intraoperative transesophageal echocardiography (TEE)  
+- Fluid balance  
+- Ischemic heart disease  
+- Hypertrophic cardiomyopathy  
+- Aortic regurgitation (AR)  
+- Hypotension  
+- Arrhythmias  
+- Stroke  
+- Prolonged intubation (>24 h)  
+- Cardiopulmonary complications  
+- Mortality  
+- Risk factors for valve disease  
+- Rheumatic fever  
+- Rheumatic heart disease  
+- Calcific aortic stenosis (AS)  
+- Bicuspid aortic valve (BAV)  
+- Lipoprotein(a)  
+- Genetic and pathobiological causes of valve dysfunction  
+- Prevention of valve disease  
+- Artificial intelligence and machine learning in cardiology  
+- Imaging and engineering advances for valve diagnosis and treatment.
+
+Page 111 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+- Valvular Heart Disease (VHD)  
+- Stage B (Medical Therapy to Treat or Prevent Disease Progression)  
+- Stage C (Optimal Timing of Intervention)  
+- Stage D (Better Options for Intervention)  
+- Early VHD  
+- Calcific disease  
+- Myxomatous disease  
+- Disease progression  
+- Patient monitoring  
+- Severe disease  
+- Symptoms  
+- Abnormal cardiovascular function  
+- Advanced imaging markers of disease progression  
+- Randomized Controlled Trials (RCTs)  
+- Valvular involvement  
+- Ventricular involvement  
+- Vascular involvement  
+- Left‑ventricular (LV) dysfunction  
+- Pulmonary hypertension  
+- Patient education  
+- Shared decision‑making  
+- LV volumes  
+- Systolic function  
+- Diastolic function  
+- Myocardial performance  
+- LV size  
+- Chronic severe aortic regurgitation (AR)  
+- Strain imaging  
+- Strain‑rate imaging  
+- Circulating blood markers  
+- Older adults  
+- Cognitive function  
+- Frailty  
+- Mobility challenges  
+- Women (gender representation)  
+- Minorities (racial/ethnic representation)  
+- Severe asymptomatic VHD  
+- Severe aortic stenosis (AS)  
+- Asymptomatic severe AR with normal LV systolic function  
+- Severe primary mitral regurgitation (MR)  
+- Valve repair  
+- Valve replacement  
+- Tricuspid regurgitation (TR)  
+- Registries  
+- Quality of care  
+- Prosthetic valve  
+- Life‑time risks of valve therapy  
+- Transcatheter valve procedures (TAVR, TTVR, etc.)  
+- Valve durability (long‑term, >5 years)  
+- Mechanical valve replacement  
+- Oral anticoagulation  
+- Anticoagulant therapy  
+- Nonthrombogenic valve surfaces  
+- Hemodynamics of valve function  
+- Valve substitutes  
+- Epidemiology of moderate to severe VHD  
+- Surgical procedures for valve disease  
+- Clinical trial representation and inclusivity  
+- Prediction of outcomes after valve intervention  
+- Early markers of myocardial dysfunction  
+- Advanced imaging for LV strain and strain‑rate  
+- Risk–benefit balance of intervention timing  
+- Quality‑of‑life considerations post‑intervention  
+
+These terms capture the primary clinical concepts, therapeutic strategies, patient characteristics, imaging modalities, and research priorities discussed in the guideline excerpt.
+
+Page 112 Extracted Terms:
+- Valvular Heart Disease (VHD)  
+- Aortic Stenosis (AS)  
+- Mitral Regurgitation (MR)  
+- Aortic Valve Replacement (AVR)  
+- Surgical Aortic Valve Replacement (SAVR)  
+- Transcatheter Aortic Valve Implantation (TAVI)  
+- Atrial Fibrillation (AF)  
+- Left Ventricular (LV)  
+- Vitamin K Antagonist (VKA)  
+- Randomized Controlled Trial (RCT)  
+
+**Disease / Pathophysiology Terms**  
+- Disease mechanisms  
+- Rheumatic heart disease  
+- Calcific valve disease  
+- Ventricular and vascular interactions  
+- Valve disease severity  
+- Ventricular anatomy and function  
+
+**Diagnostic / Risk Assessment Terms**  
+- Advanced imaging endpoints  
+- LV size (volumes vs. dimensions)  
+- LV strain (function)  
+- Nonimaging parameters (serum markers, novel approaches)  
+- Decision aids for shared decision‑making  
+
+**Therapeutic & Management Terms**  
+- Medical therapy for progressive valve disease (Stage B)  
+- Targeted therapy to slow or reverse disease progression  
+- Antithrombotic therapy (post‑TAVI, mechanical valves)  
+- Alternatives to VKA anticoagulation  
+- Anticoagulation during pregnancy  
+- Optimal blood pressure targets after valve intervention  
+- Medical therapy after AVR (ventricular and vascular function)  
+- Prevention of postoperative atrial fibrillation  
+- Prevention of complications (e.g., need for permanent pacing, endocarditis, thromboembolic events)  
+
+**Research / Implementation Terms**  
+- Patient‑centered research  
+- Inclusion of diverse patient groups  
+- Decision algorithms for physicians and Heart Valve Teams  
+- Evidence gaps & future directions  
+- Equity, disparities, and cost‑effective long‑term management in rural settings  
+- Access to therapies for valvular dysfunction  
+
+**Procedural / Device Terms**  
+- Durable prosthetic valves (TAVI & surgical)  
+- Nonthrombogenic valves  
+- Lower procedural risk (surgical morbidity & mortality)  
+
+These terms capture the key concepts related to heart disease discussed in the guideline text.
+
+Page 113 Extracted Terms:
+**Key terms related to heart disease extracted from the text**
+
+1. Valvular Heart Disease  
+2. Heart Disease  
+3. Cardiovascular Disease  
+4. Cardiac  
+5. Valve  
+6. Aortic Valve  
+7. Mitral Valve  
+8. Valve Replacement  
+9. Valve Repair  
+10. Heart Failure
+
+Page 114 Extracted Terms:
+**Key Terms Related to Heart Disease**
+
+- Valvular heart disease  
+- Aortic valve stenosis  
+- Mitral valve regurgitation  
+- Tricuspid valve regurgitation  
+- Bicuspid aortic valve  
+- Aortic dilatation / dilation  
+- Aortic valve regurgitation  
+- Prosthetic valve evaluation  
+- Hypertrophic cardiomyopathy  
+- Congenital heart disease  
+- Atrial fibrillation (AF)  
+- Heart failure (HF)  
+- Antithrombotic therapy  
+- Thrombolytic therapy  
+- Echocardiographic assessment  
+- 2‑D and 3‑D echocardiography  
+- Cardiovascular magnetic resonance imaging (MRI)  
+- Non‑invasive evaluation of valvular disease  
+- Cardiovascular disease during pregnancy  
+- ESC/EACTS guidelines for valvular disease  
+- ACC/AHA guidelines for valvular disease  
+- ACCF/AHA guidelines for hypertrophic cardiomyopathy  
+- ESC guidelines for cardiovascular disease during pregnancy  
+- Cardiac imaging Committee (American Heart Association)  
+- Society of Cardiovascular Echocardiography recommendations  
+- Cardiac evaluation of native versus prosthetic valves  
+
+*(This list captures the primary heart‑disease concepts referenced in the cited clinical guidelines.)*
+
+Page 115 Extracted Terms:
+Valvular heart disease  
+Aortic stenosis (calcific)  
+Aortic regurgitation  
+Mitral regurgitation  
+Mitral stenosis  
+Doppler echocardiography  
+Stress echocardiography (exercise Doppler)  
+Cardiopulmonary exercise testing  
+Exercise tolerance  
+Left ventricular ejection fraction  
+Left ventricular systolic function  
+Hemodynamics (cardiac catheterization)  
+Dobutamine challenge (dobutamine stress test)  
+Watchful waiting (conservative management)  
+Valve surgery (timing of aortic/mitral valve surgery)  
+Bacterial endocarditis  
+Rheumatic fever  
+Endocarditis prophylaxis (antibiotic prophylaxis)  
+ACC/AHA guideline (2020 Valvular Heart Disease)  
+ESC working group on valvular heart disease  
+ACC/AHA/HFSA heart failure guideline (2017)  
+Secondary prevention (rheumatic fever, endocarditis)  
+Primary prevention (cardiovascular disease)  
+Heart failure management  
+Valve clinic organization and structure  
+Echocardiographic quantification of valve disease  
+Low‑output low‑gradient aortic stenosis  
+Quantitative exercise Doppler echocardiography  
+Prognostic significance of exercise testing  
+Left‑ventricular remodeling  
+Aortic valve disease (overall)  
+Valve pathology and diagnostics.
+
+Page 116 Extracted Terms:
+- Valvular heart disease  
+- Infective endocarditis  
+- Atrial fibrillation  
+- Mechanical heart valves  
+- Bioprosthetic valves  
+- Aortic valve disease / aortic valve replacement  
+- Mitral valve disease / mitral valve repair  
+- Valve replacement  
+- Valve repair  
+- Anticoagulation (warfarin, NOACs)  
+- Dental-related bacteremia (antibiotic prophylaxis)  
+- Heart transplantation (orthotopic)
+
+Page 117 Extracted Terms:
+- Valvular heart disease  
+- Aortic valve replacement  
+- Transcatheter aortic valve replacement (TAVR / TAVI)  
+- Transcatheter aortic valve implantation  
+- Mitral valve repair  
+- Mitral valve replacement  
+- Valve bioprosthesis  
+- Atrial fibrillation  
+- Direct oral anticoagulants (DOACs)  
+- Warfarin  
+- Rivaroxaban  
+- Dabigatran  
+- Percutaneous mitral valve repair (e.g., MitraClip)  
+- Balloon‑expandable prostheses  
+- Mitral stenosis  
+- Aortic stenosis  
+- Mitral regurgitation  
+- Aortic regurgitation  
+- Heart failure  
+- Pulmonary hypertension  
+- Transpulmonary gradient  
+- Surgical risk  
+- Frailty  
+- Procedural volume  
+- Hospital volume  
+- Surgical mortality  
+- Stroke  
+- Thromboembolism  
+- Anticoagulation  
+- Cardiac surgery  
+- Cardiac catheterization  
+- Valve pathology  
+- Valve repair rates  
+- Valve replacement outcomes
+
+
+Page 118 Extracted Terms:
+- Valvular Heart Disease  
+- Mitral Valve Repair  
+- Mitral Valve Surgery  
+- Mitral Regurgitation  
+- Hospital Procedural Volume  
+- Hospital Volume  
+- Failure to Rescue  
+- Transcatheter Aortic Valve Implantation (TAVR)  
+- Coronary Artery Bypass Grafting (CABG)  
+- Open Aortic Aneurysm Repair  
+- High‑Risk Surgery  
+- Cardiovascular Surgery  
+- Intensive Care Unit (ICU) Organization  
+- Heart Team  
+- Management of Patients with VHD  
+- Periodic Imaging After Valve Intervention  
+- Hemodynamic Valve Deterioration  
+- Bioprosthetic Surgical Aortic Valve Replacement  
+- Aortic Stenosis  
+- Echocardiographic Assessment of Valve Stenosis  
+- Cardiac Auscultation  
+- Asymptomatic Valvular Heart Disease  
+- Low‑Flow Low‑Gradient Aortic Stenosis  
+- Systemic Hypertension  
+- Systemic Vascular Load  
+- Dobutamine Stress Doppler Hemodynamics  
+- Low‑Dose Dobutamine Echocardiography  
+- TOPAS Study  
+- CT Aortic Valve Calcium Scoring  
+- Electron‑Beam Computed Tomography  
+- Multislice Computed Tomography  
+- Doppler Echocardiography  
+- Computed Tomography (CT)  
+- Magnetic Resonance Imaging (MRI) – (implied by imaging discussions)  
+- Valve Area Determination  
+- Valve Calcification  
+- Aortic Valve Calcium Score  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Left Ventricular Systolic Function  
+- Left Ventricular Diastolic Function  
+- Vascular Load  
+- Stress Testing (Dobutamine)  
+- Doppler‑Catheter Correlation  
+- Surgical Outcomes  
+- Mortality  
+- Survival  
+- Prognostic Indicators  
+- Risk Stratification  
+- Echocardiographic Measures (velocity, pressure gradients)  
+- Doppler‑Based Valve Area  
+- Doppler Flow Velocity  
+- Aortic Valve Area**  
+- Valve Gradient**  
+- Clinical Decision‑Making in Valve Disease  
+
+(These terms capture key concepts, conditions, procedures, diagnostic methods, and outcome measures relevant to heart disease as extracted from the provided guideline excerpt.)
+
+Page 119 Extracted Terms:
+**Key heart‑disease related terms extracted from the text**
+
+- aortic stenosis  
+- valvular heart disease  
+- left ventricular ejection fraction  
+- Doppler echocardiography  
+- dobutamine challenge / dobutamine echocardiography  
+- transcatheter valve implantation (TAVI)  
+- surgical prosthetic valve implantation  
+- low‑flow, low‑gradient aortic stenosis  
+- bicuspid aortic valve  
+- exercise testing / exercise‑stress echocardiography  
+- cardiac catheterization / angiocardiography  
+- blood pressure (systolic and optimal)  
+- lipid‑lowering therapy (statins, ezetimibe, rosuvastatin)  
+- renin‑angiotensin system blockade (ACE inhibitors, ARBs)  
+- hemodyamics / hemodynamic progression  
+- valve area / projected valve area  
+- leaflet calcification / aortic‑valve calcium  
+- myocardial dysfunction / left‑ventricular dysfunction  
+- symptomatic versus asymptomatic aortic stenosis  
+- risk stratification / prognostic assessment  
+- treatment decision / surgical indication  
+- hypertension in aortic stenosis  
+
+This list captures the primary clinical concepts and interventions discussed in the cited guideline and related studies.
+
+Page 120 Extracted Terms:
+- Aortic valve stenosis  
+- Valvular heart disease  
+- Transcatheter aortic valve replacement (TAVR)  
+- Aortic valve replacement  
+- Low‑flow low‑gradient aortic stenosis  
+- Low‑output low‑gradient aortic stenosis  
+- Calcific aortic valve disease  
+- B‑type natriuretic peptide (BNP)  
+- Natriuretic peptides  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular systolic function / depressed left ventricular function  
+- Symptomatic aortic stenosis  
+- Asymptomatic aortic stenosis  
+- Dobutamine stress echocardiography  
+- Exercise‑treadmill testing  
+- Valve disease progression  
+
+Page 121 Extracted Terms:
+**Key heart‑disease terms identified in the guideline text**
+
+- Aortic stenosis  
+- Valvular heart disease  
+- Aortic valve replacement (AVR)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Low‑flow, low‑gradient aortic stenosis  
+- Severe aortic stenosis  
+- Mild to moderate aortic stenosis  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular function (systolic & diastolic)  
+- Contractile reserve  
+- Hemodynamic measurements  
+- Doppler echocardiography  
+- Dobutamine echocardiography  
+- Exercise testing  
+- Quantitative exercise Doppler  
+- Velocity pressure gradient (VPG)  
+- Valve area  
+- Valve area index  
+- Transvalvular gradient  
+- Coronary artery bypass graft (CABG)  
+- Coronary revascularization  
+- Mechanical prostheses  
+- Bioprosthetic prostheses  
+- Prosthetic valve durability  
+- Anticoagulation risk  
+- Reoperation risk  
+- Lipid‑lowering therapy  
+- Simvastatin  
+- Ezetimibe  
+- Rosuvastatin  
+- Statin treatment  
+- Survival  
+- Long‑term outcome  
+- Prognostic indicators  
+- Risk stratification  
+- Clinical outcome  
+- Symptom onset  
+- Asymptomatic patients  
+- Symptomatic patients  
+- Mortality  
+- Surgical risk models (e.g., Society of Thoracic Surgeons)  
+- ESC/EACTS guidelines  
+- ACC/AHA guidelines  
+- Echocardiographic assessment  
+- Small valve area  
+- Pressure drop/flow slope  
+- Invasive hemodynamic characteristics
+
+
+Page 122 Extracted Terms:
+- Valvular Heart Disease  
+- Mitral valve replacement  
+- Aortic valve replacement (SAVR)  
+- Transcatheter Aortic Valve Replacement (TAVR)  
+- Bioprosthetic valve  
+- Mechanical valve  
+- Ross procedure  
+- Valve‑in‑Valve implantation  
+- Self‑expanding prosthesis  
+- Balloon‑expandable valve  
+- Carpentier‑Edwards Pericardial bioprosthesis  
+- Perimount bioprosthesis  
+- Aortic stenosis  
+- Severe aortic stenosis  
+- Low‑risk patients  
+- Intermediate‑risk patients  
+- High‑risk patients  
+- Propensity‑matched analysis  
+- Long‑term outcomes  
+- Late outcomes  
+- Hemodynamic stability  
+- Post‑operative anticoagulation  
+- Shared decision‑making  
+- Bioprosthetic aortic valve durability  
+- Autograft aortic root replacement  
+- Homograft aortic root replacement  
+- Thoracic cardiovascular surgery  
+- Cardiac surgical outcomes.
+
+Page 123 Extracted Terms:
+- Aortic valve  
+- Aortic stenosis  
+- Severe aortic stenosis  
+- Low‑flow, low‑gradient aortic stenosis  
+- Aortic regurgitation (aortic insufficiency)  
+- Acute aortic regurgitation  
+- Chronic aortic regurgitation  
+- Native valve endocarditis  
+- Acute type‑A aortic dissection  
+- Transcatheter aortic valve replacement (TAVR / TAVI)  
+- Transcatheter aortic valve implantation  
+- Balloon‑expandable valve (e.g., SAPIEN 3)  
+- Self‑expandable valve (e.g., Evolut R)  
+- Balloon aortic valvuloplasty  
+- Valve Academic Research Consortium‑2 (VARC‑2) criteria  
+- Structural valve deterioration  
+- Hemodynamic durability  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular dysfunction  
+- Severe left ventricular dysfunction  
+- Heart failure  
+- Inoperable severe aortic stenosis  
+- Decompensated aortic stenosis (emergency treatment)  
+- Intra‑aortic balloon counterpulsation  
+- B‑type natriuretic peptide (BNP)  
+- Echocardiography (including quantitative Doppler)  
+- Cardiovascular magnetic resonance  
+- Functional outcomes  
+- Survival outcomes  
+- Pre‑operative left ventricular function  
+- Asymptomatic aortic regurgitation  
+- Asymptomatic severe aortic regurgitation  
+- Long‑term clinical outcomes  
+- Surgical aortic valve replacement  
+- Propensity‑matched comparison  
+- Valve replacement timing criteria**
+
+Page 124 Extracted Terms:
+- Valvular heart disease  
+- Aortic regurgitation (aortic insufficiency)  
+- Chronic aortic regurgitation  
+- Severe aortic regurgitation  
+- Asymptomatic aortic regurgitation  
+- Aortic valve replacement  
+- Left ventricular function  
+- Left ventricular ejection fraction  
+- Left ventricular dysfunction  
+- Left ventricular dilation / dilatation  
+- Left ventricular volume  
+- Left ventricular systolic function  
+- Right ventricular function  
+- Exercise capacity (pre‑operative)  
+- Hemodynamically significant aortic regurgitation  
+- Cardiac magnetic resonance imaging (CMR)  
+- Cardiovascular magnetic resonance (CMR)  
+- Transthoracic echocardiography (TTE)  
+- Doppler echocardiography  
+- Continuous‑wave Doppler ultrasound  
+- Velocity‑encoded cine MR imaging  
+- Cine nuclear magnetic resonance (cMRI)  
+- Cardiovascular imaging modalities  
+- Renin‑angiotensin‑aldosterone system blockade  
+- Vasodilator therapy  
+- Nifedipine  
+- Enalapril  
+- Hydralazine  
+- Felodipine  
+- Beta‑blocker therapy  
+- Guideline‑based indications  
+- Timing of intervention (surgery)  
+- Surgical correction of aortic regurgitation  
+- Post‑operative left ventricular function  
+- Long‑term prognosis  
+- Survival outcomes  
+- Functional outcomes  
+- Clinical outcome  
+- B‑type natriuretic peptide (BNP)  
+- Heart failure  
+- Cardiovascular disease  
+- Primary prevention of cardiovascular disease  
+- ACC/AHA guidelines for valvular heart disease  
+- ACC/AHA guidelines for heart failure management  
+- ACC/AHA guidelines for primary prevention of cardiovascular disease  
+- Aortic valve pathology  
+- Mitral regurgitation (in combined valvular studies)  
+- Valve lesion  
+- Cardiac output  
+- Pre‑operative criteria for surgery  
+- Symptomatic versus asymptomatic status  
+- Post‑operative prognosis  
+- Guideline adherence in severe aortic regurgitation.
+
+Page 125 Extracted Terms:
+- Valvular heart disease  
+- Aortic regurgitation / aortic insufficiency  
+- Chronic aortic regurgitation  
+- Severe aortic regurgitation (native or bioprosthetic)  
+- Bicuspid aortic valve (BAV)  
+- Aortic root dilation / aortopathy  
+- Valvular replacement  
+- Valve repair  
+- Valve‑sparing aortic root replacement  
+- Transcatheter aortic valve replacement (TAVR)  
+- Transcatheter valve implantation  
+- Transapical valve implantation  
+- Bilateral/bioprosthetic valve replacement  
+- Cardiovascular magnetic resonance (CMR) imaging  
+- Echocardiography (transthoracic, transesophageal, M‑mode, speckle‑tracking)  
+- B‑type natriuretic peptide (BNP)  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular end‑systolic dimension (LVESD)  
+- Left ventricular end‑diastolic dimension (LVEDD)  
+- Left ventricular global longitudinal strain (GLS)  
+- Left ventricular dilatation and remodeling  
+- Wall stress and ventricular geometry  
+- Volume overload from valve regurgitation  
+- Preoperative predictors (e.g., fractional shortening, LV dimensions)  
+- Intraoperative transesophageal echocardiography  
+- Clinical outcome and long‑term survival  
+- Mortality and morbidity in aortic regurgitation  
+- Symptom‑based therapeutic strategy  
+- Hemodynamic predictors of surgical success  
+- Early detection of subclinical myocardial injury  
+- Biomarkers in asymptomatic aortic valve disease  
+- Follow‑up and monitoring of bicuspid aortic valve  
+- Valve disease prognosis and re‑operation risks  
+- Surgical outcomes for chronic aortic valvular disease  
+- Subclinical myocardial damage strategies  
+- Cardiac chamber quantification guidelines  
+- Heart valve repair classification systems (e.g., bicommissural repair)  
+- Bioprosthetic valve durability  
+- Aortic root reconstruction techniques (reimplantation, David procedure)  
+- Left ventricular performance post‑surgery  
+- Clinical laboratory and imaging surveillance of valvular disease
+
+Page 126 Extracted Terms:
+- Bicuspid aortic valve (BAV)  
+- Aortic dilatation / aortic enlargement  
+- Aortic root dilatation  
+- Ascending aortic aneurysm  
+- Thoracic aortic aneurysm  
+- Aortic aneurysm rupture / dissection  
+- Aortic insufficiency (regurgitation)  
+- Aortic stenosis  
+- Aortic valve replacement  
+- Aortic valve repair  
+- Aortic valve–sparing operations  
+- Transcatheter aortic valve replacement (TAVR)  
+- Surgical repair of the ascending aorta  
+- Mitral stenosis  
+- Left ventricular diastolic dysfunction  
+- Bicuspidoid aortic valve phenotyping  
+- Proximal aortic dilatation  
+- Aortic cross‑sectional area / height ratio  
+- Sinuses of Valsalva (non‑replaced) management  
+- Coronary aortic valve geometry  
+- Thoracic aortic disease management guidelines  
+- Aortic valve root remodeling  
+- Transcatheter aortic valve implantation (TAVI)  
+
+These terms capture the central concepts related to heart disease described in the provided text.
+
+Page 127 Extracted Terms:
+- Valvular heart disease  
+- Mitral stenosis (MS)  
+- Rheumatic mitral stenosis  
+- Mitral valve  
+- Mitral annular calcification  
+- Calcific mitral stenosis  
+- Percutaneous mitral valvuloplasty  
+- Transseptal mitral balloon valvuloplasty  
+- Commissural calcification  
+- Commissural calcium score  
+- Mitral valve area  
+- Transmitral gradient  
+- Left atrial appendage thrombus  
+- Atrial thrombi  
+- Atrial fibrillation (AF)  
+- Direct oral anticoagulants (DOAC)  
+- Anticoagulant prophylaxis  
+- Heart rate control  
+- Dobutamine stress echocardiography  
+- Transthoracic echocardiography (TTE)  
+- Transesophageal echocardiography (TEE)  
+- Doppler echocardiography  
+- Exercise stress testing  
+- Cardiac catheterization  
+- Gorlin formula  
+- Mitral valve resistance  
+- Left ventricular compliance  
+- Left atrial compliance  
+- Valve stenosis  
+- Valve area  
+- Valve pressure half‑time  
+- Valve calcification  
+- Cardiac output reserve  
+- Exercise intolerance  
+- Ivabradine  
+- Metoprolol  
+- Atenolol  
+- Embolism  
+- Stroke  
+- Heart failure
+
+Page 128 Extracted Terms:
+- Mitral stenosis  
+- Mitral valve (and its components: commissures, leaflets)  
+- Valvular heart disease  
+- Atrial fibrillation  
+- Pulmonary hypertension  
+- Right ventricular dysfunction  
+- Tricuspid regurgitation  
+- Left atrial thrombus  
+- Left atrial volume / diameter  
+- Net atrioventricular compliance (NAC)  
+- Left ventricular diastolic dysfunction  
+- Rheumatic mitral stenosis  
+- Low‑gradient severe mitral stenosis  
+- Hemodynamic profile (including transpulmonary gradient)  
+- Wilkins score (echocardiographic scoring system for mitral stenosis)  
+- Commissural calcium score / calcification  
+- Commissural area ratio  
+- Echocardiography (including trans‑esophageal and stress Doppler)  
+- P‑wave dispersion  
+- Atrial electromechanical delay  
+- Pulmonary artery stiffness  
+- Percutaneous balloon mitral valvuloplasty (PBMV)  
+- Percutaneous mitral commissurotomy (PMC)  
+- Percutaneous mitral valve dilatation  
+- Open mitral commissurotomy (OC)  
+- Closed mitral commissurotomy (CC)  
+- Balloon mitral valvotomy (BMV)  
+- Surgical mitral valvotomy / valve replacement  
+- Cardiovascular death  
+- Long‑term outcomes (≤ 50 years)  
+- Mid‑term outcomes (10–20 years)  
+- Short‑term outcomes (early results, immediate results)  
+- Predictive scores (e.g., Wilkins, integrated approach)  
+- Revascularization / valve replacement options (mitral valve replacement)  
+- Echocardiographic predictors of outcome  
+- Clinical characteristics (including baseline pulmonary artery pressure)  
+- Stress echocardiography in mitral stenosis  
+- Pulmonary artery compliance  
+
+These terms capture the principal diseases, anatomical structures, complications, diagnostic modalities, procedural interventions, and prognostic factors discussed in the cited 2020 ACC/AHA guideline and related studies.
+
+Page 129 Extracted Terms:
+- Mitral Stenosis  
+- Mitral Annulus Calcification  
+- Degenerative Mitral Stenosis  
+- Nonrheumatic Calcific Mitral Stenosis  
+- Rheumatic Mitral Stenosis  
+- Valve Stenosis  
+- Mitral Regurgitation  
+- Acute Mitral Regurgitation  
+- Chronic Primary Mitral Regurgitation  
+- Mitral Valve Replacement  
+- Transcatheter Mitral Valve Replacement  
+- Intraoperative Transesophageal Echocardiography  
+- Dobutamine Stress Echocardiography  
+- Echocardiographic Assessment (2‑D, 3‑D, Doppler)  
+- Color Flow Doppler  
+- Left Ventricular Function  
+- Pulmonary Edema  
+- Chronic Kidney Disease  
+- Renal Function (glomerular filtration, kidney disease)  
+- Aortic Stenosis  
+- Aortic Valve Calcification  
+- Papillary Muscle Rupture  
+- Infective Endocarditis  
+- Traumatic Mitral Valve Injury (blunt chest trauma)  
+- Vasodilator Therapy (for MR)  
+- Annulus Washer Technique  
+- Supra‑Annular Prosthesis Insertion  
+- Intraatrial Placement of Mitral Prosthesis  
+- Post‑infarction Mitral Regurgitation  
+- Mitral Valve Area Measurement  
+- Mitral Valve Orifice Geometry  
+- Signal Void in MRI (mitral regurgitation)
+
+Page 130 Extracted Terms:
+Valvular heart disease  
+Mitral regurgitation  
+Aortic regurgitation  
+Tricuspid regurgitation  
+Leaflet prolapse  
+Valve repair  
+Valve replacement  
+Transcatheter interventions  
+Transesophageal echocardiography (TEE)  
+Transthoracic echocardiography (TTE)  
+Magnetic resonance imaging (MRI)  
+Cine Magnetic Resonance  
+Left atrial signal loss  
+Left ventricular dysfunction  
+Left ventricular performance  
+Left ventricular volume  
+Left ventricular ejection fraction (LVEF)  
+Left ventricular end‑systolic dimension  
+Global longitudinal strain (GLS)  
+Diastolic function  
+Chamber quantification  
+Pulmonary hypertension  
+B‑type natriuretic peptide (BNP)  
+Brain natriuretic peptide (BNP)  
+Symptom assessment  
+Surgical timing  
+Natural history of mitral regurgitation  
+Watchful waiting  
+Early surgery  
+Multimodality imaging  
+Echocardiographic quantitative assessment  
+Hemodynamics  
+Cardiac catheterization  
+Prognostic markers  
+Survival outcomes  
+Clinical outcome  
+Native valvular regurgitation  
+Organic mitral regurgitation  
+Degenerative mitral regurgitation  
+Severe mitral regurgitation  
+Chronic mitral regurgitation  
+Asymptomatic mitral regurgitation  
+Aortic regurgitation indication  
+Surgical indication  
+Valve disease guidelines  
+Endocardial imaging  
+Valve pathology  
+Valve surgery  
+Valve repair outcomes  
+Valve regurgitation evaluation  
+Left ventricular longitudinal strain  
+Serial measurement of natriuretic peptides
+
+Page 131 Extracted Terms:
+**Key terms related to heart disease**
+
+- Valvular Heart Disease  
+- Mitral Regurgitation  
+- Mitral Valve Prolapse  
+- Rheumatic Mitral Valve Disease  
+- Severe Mitral Regurgitation  
+- Chronic Mitral Regurgitation  
+- Degenerative Mitral Regurgitation  
+- Mitral Valve Surgery  
+- Mitral Valve Repair  
+- Mitral Valve Replacement  
+- Left Ventricular Performance  
+- Left Ventricular Function  
+- Left Ventricular Ejection Fraction  
+- Left Ventricular End‑Systolic Diameter  
+- Left Ventricular End‑Systolic Volume  
+- Left Ventricular Mass  
+- Left Ventricular Volumes  
+- Echocardiography  
+- Exercise‑Induced Mitral Regurgitation  
+- Pulmonary Hypertension  
+- β‑1 Receptor Blockade  
+- Angiotensin‑Converting Enzyme (ACE) Inhibition  
+- Losartan (Angiotensin Receptor Blocker)  
+- Enalapril (ACE Inhibitor)  
+- Captopril (ACE Inhibitor)  
+- Afterload Reduction  
+- Preoperative Symptoms  
+- Postoperative Outcomes  
+- Survival  
+- Mortality  
+- Watchful Waiting  
+- Early Surgery  
+- Surgical Indications  
+- Guideline‑Based Indications  
+- Valve Surgery Volume  
+- Repair Quality  
+- Perioperative Outcomes  
+- Surgical Durability  
+- Heart Valve Centers of Excellence  
+- Percutaneous Valve Repair  
+- Long‑Term Survival  
+- Long‑Term Outcomes  
+- Cardiovascular Imaging  
+- Exercise Testing  
+- Clinical Statements  
+- Guidelines
+
+Page 132 Extracted Terms:
+- Mitral valve  
+- Valvular heart disease  
+- Minimally invasive approach  
+- Mitral valve repair  
+- Mitral valve replacement  
+- Ischemic mitral regurgitation  
+- Secondary mitral regurgitation (MR)  
+- Chronic secondary MR  
+- Severe ischemic mitral regurgitation  
+- Moderate ischemic mitral regurgitation  
+- Left ventricular dysfunction  
+- Left ventricular ejection fraction  
+- Heart failure  
+- Chronic heart failure  
+- Reduced left‑ventricular systolic function  
+- Neuroendocrine activation  
+- Enalapril (ACE‑inhibitor)  
+- Candesartan (angiotensin‑II receptor blocker)  
+- Carvedilol (beta‑blocker)  
+- Spironolactone (aldosterone antagonist)  
+- Cardiac resynchronization therapy (CRT)  
+- Angiotensin‑receptor neprilysin inhibitor (ARNI)  
+- Functional mitral regurgitation  
+- Coronary artery bypass grafting (CABG)  
+- Myocardial viability  
+- Ischemic cardiomyopathy  
+- Transcatheter valve repair  
+- MitraClip therapy  
+- Echocardiography  
+- Magnetic resonance imaging (MRI)  
+- Doppler assessment  
+- Valvular regurgitation evaluation  
+- SCAI/AATS/ACC/STS operator and institutional requirements  
+- STS/ACC TVT registry  
+- ACC/AHA heart failure guidelines  
+- NECT (N/A)
+
+Page 133 Extracted Terms:
+- Valvular heart disease  
+- Mitral regurgitation (functional/secondary)  
+- Ischaemic mitral regurgitation  
+- Primary mitral regurgitation  
+- Mitral valve repair  
+- Mitral valve replacement  
+- Transcatheter mitral valve repair (MitraClip)  
+- Percutaneous mitral valve repair  
+- Mitral valve annuloplasty  
+- Cardiac resynchronization therapy (CRT)  
+- Left‑ventricular systolic dysfunction  
+- Left‑ventricular remodeling (reverse remodeling)  
+- Heart failure (HF)  
+- Ischaemic heart failure  
+- Surgical treatment of valve disease  
+- Coronary artery bypass grafting (CABG)  
+- Revascularization  
+- Ischaemic cardiomyopathy  
+- Atrial fibrillation (AF)  
+- Functional tricuspid regurgitation  
+- Tricuspid valve repair/annuloplasty  
+- Right‑ventricular function (ejection fraction, volumes)  
+- Systolic and diastolic RV function  
+- Echo‑based assessment of valve function  
+- Cardiac magnetic resonance imaging (MRI)  
+- Three‑dimensional echocardiography  
+- Regurgitant volume  
+- Quantitative Doppler assessment  
+- Prognostic implications of valvular dysfunction  
+- Operative and mortality risk in valve surgery  
+- Recurrent or residual functional regurgitation  
+- COAPT trial outcomes  
+- MITRA‑FR trial outcomes  
+- RIME (Randomized Ischemic Mitral Evaluation) trial  
+- Pathophysiology of functional MR  
+- Hemodynamic assessment of valve disease  
+- Quality control in echocardiographic measurement  
+- Echocardiographic inter‑observer concordance  
+- Right‑ventricular mass, volume and function assessment  
+- Long‑term outcomes of valve interventions  
+- Acute vs. chronic valve disease  
+- Structural valve deterioration  
+- Valve‑centric hemodynamic metrics (e.g., effective regurgitant orifice area)  
+- Clinical statements/ guidelines for valvular management  
+- Intervention thresholds for valve repair/replacement  
+- Surgical vs. transcatheter strategies for valve disease  
+- Functional vs. structural valve causes  
+- Valve‑related morbidity and mortality.
+
+Page 134 Extracted Terms:
+- Valvular heart disease  
+- Ischemic mitral regurgitation  
+- Functional ischemic mitral regurgitation  
+- Mitral valve repair  
+- Mitral valve replacement  
+- MitraClip therapy  
+- Reverse remodeling (left ventricular/left atrial)  
+- Left ventricular remodeling  
+- Left atrial remodeling  
+- Atrial functional mitral regurgitation  
+- Atrial fibrillation  
+- Tricuspid valve disease  
+- Tricuspid regurgitation  
+- Isolated tricuspid regurgitation  
+- Functional tricuspid regurgitation  
+- Pulmonary hypertension  
+- Right heart failure  
+- Heart failure (reduced/ preserved ejection fraction)  
+- Mortality risk associated with valvular lesions  
+- Cardiac implantable electronic devices (CIED)  
+- Pacemaker lead–induced tricuspid regurgitation  
+- Implantable cardioverter‑defibrillator lead–induced tricuspid regurgitation  
+- Device lead‑related tricuspid valve dysfunction  
+- Three‑dimensional echocardiography of tricuspid/mitral valves  
+- Doppler echocardiography assessment  
+- Hemodynamic evaluation (cardiac catheterization)  
+- Pulmonary artery pressure measurement  
+- Vena contracta analysis  
+- Effective regurgitant orifice area (EROA)  
+- Proximal isovelocity surface area (PISA)  
+- Regurgitant volume quantification  
+- Tricuspid valve grading scheme  
+- Tricuspid valve repair (surgical / percutaneous)  
+- Tricuspid valve replacement (surgical)  
+- Right ventricular dysfunction secondary to tricuspid regurgitation  
+- Left ventricular ejection fraction (LVEF)   
+- Mitral annular dilation and valve adaptation  
+- Severe symptomatic tricuspid regurgitation (e.g., due to device leads)  
+- Tricuspid valve dysfunction following pacemaker/ICD implantation  
+- Functional tricuspid regurgitation secondary to chronic atrial fibrillation  
+- Surgical outcomes of tricuspid valve procedures.
+
+Page 135 Extracted Terms:
+Valvular Heart Disease  
+Right ventricular size  
+Right ventricular systolic function  
+Pulmonary hypertension  
+Right ventricular dysfunction  
+Tricuspid regurgitation  
+Right‑sided heart remodeling  
+Tricuspid valve surgery  
+Isolated tricuspid valve surgery  
+Severe tricuspid regurgitation  
+Moderate tricuspid regurgitation  
+Tricuspid annular dilatation  
+Tricuspid annular systolic velocity  
+Functional tricuspid regurgitation  
+Mitral valve surgery  
+Mitral regurgitation  
+Atrial fibrillation  
+Maze procedure  
+Tricuspid annuloplasty  
+Tricuspid valve replacement  
+Left‑heart valve surgery  
+Degenerative leaflet prolapse  
+Rheumatic mitral disease  
+Carcinoid heart disease  
+Congestive heart failure  
+Tricuspid valve repair  
+Transcatheter tricuspid valve interventions  
+Tricuspid valve disease  
+Pulmonary valve disease  
+Cardiac surgery  
+Echocardiographic assessment  
+Two‑dimensional echocardiography  
+Doppler color flow mapping  
+Tricuspid valve closure  
+Permanent pacemaker leads  
+Implantable cardioverter‑defibrillator leads
+
+Page 136 Extracted Terms:
+- Valvular heart disease  
+- Mixed valvular disease  
+- Multi‑valve disease  
+- Aortic stenosis  
+- Aortic regurgitation / insufficiency  
+- Mitral stenosis  
+- Mitral regurgitation  
+- Prosthetic valve  
+- Prosthetic aortic valve  
+- Prosthetic mitral valve  
+- Mechanical prosthesis  
+- Bioprosthetic valve  
+- Transcatheter aortic valve replacement (TAVR)  
+- Surgical aortic valve replacement (SAVR)  
+- Valve replacement  
+- Structural valve degeneration (SVD)  
+- Hemodynamic valve deterioration  
+- Valve gradients  
+- Doppler echocardiography  
+- Continuous‑wave Doppler  
+- Transesophageal echocardiography (TEE)  
+- Real‑time 3‑D TEE  
+- Pressure recovery  
+- Valve performance  
+- Valve hemodynamics  
+- Valve imaging  
+- Valve evaluation  
+- Valve selection  
+- Valve obstruction  
+- Valve dehiscence  
+- Valve degeneration  
+- Valve design  
+- Valve outcomes  
+- ACC/AHA guidelines  
+- European Observational Research Programme (EURObservational)
+
+Page 137 Extracted Terms:
+- Valvular heart disease  
+- Aortic valve replacement  
+- Mitral valve replacement  
+- Valved prosthesis (mechanical)  
+- Valved prosthesis (bioprosthetic)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Transcatheter aortic valve replacement (TAVR)  
+- Valve‑in‑valve procedure  
+- Ross procedure (aortic root autograft)  
+- Stentless bioprosthesis  
+- Carpentier‑Edwards pericardial bioprosthesis  
+- Perimount pericardial bioprosthesis  
+- Mechanical heart valve (bileaflet)  
+- Antithrombotic therapy  
+- Oral anticoagulation  
+- Low‑intensity anticoagulation  
+- Dabigatran vs warfarin trials (RE‑ALIGN, ENGAGE, etc.)  
+- Thromboembolic complications  
+- Bleeding complications  
+- Valve durability  
+- Valve degeneration  
+- Valve failure  
+- Valve‑related complications  
+- Hemodynamic stability  
+- Survival outcomes  
+- Mortality outcomes  
+- Stroke risk  
+- Valve replacement in high‑risk patients  
+- Valve replacement in low‑risk patients  
+- Valve prosthesis selection (mechanical vs biological)  
+- Valve implantation outcomes  
+- Clinical guidelines (ACC/AHA) on valvular heart disease  
+- Percutaneous valve therapies  
+- Valve repair versus replacement  
+- Valve position (aortic, mitral)  
+- Anticoagulant management in valve patients
+
+
+
+Page 138 Extracted Terms:
+- Valvular heart disease  
+- Intracardiac thrombosis  
+- Anticoagulation (warfarin, direct oral anticoagulants)  
+- Antiplatelet therapy (aspirin, clopidogrel, dual antiplatelet therapy)  
+- Mechanical aortic valve replacement  
+- Bioprosthetic aortic valve replacement  
+- Transcatheter aortic valve replacement (TAVR)  
+- Prosthetic heart valves  
+- Thromboembolic complications  
+- Bleeding complications  
+- Valve thrombosis (including subclinical leaflet thrombosis)  
+- Structural valve deterioration / failure  
+- Perioperative bridging anticoagulation  
+- Low‑molecular‑weight heparin (enoxaparin, dalteparin)  
+- Unfractionated heparin  
+- Prothrombin complex concentrate  
+- Direct oral anticoagulants (dabigatran, rivaroxaban, apixaban, edoxaban)  
+- Atrial fibrillation in valvular heart disease  
+- Early anticoagulation strategies (short‑term, long‑term)  
+- Bioprosthetic valve thrombosis prevention (aspirin, warfarin, low‑dose warfarin)  
+- Mechanical valve thrombosis prevention  
+- Guideline references (ACC/AHA, American College of Chest Physicians, AHA/NASPE‑CPT)  
+- Clinical management of antithrombotic therapy in valve disease  
+
+
+Page 139 Extracted Terms:
+- Anticoagulation  
+- Anticoagulant reversal agents  
+- Andexanet alfa  
+- Bioprosthetic valve  
+- Bleeding complications  
+- Catheter‑derived imaging  
+- Catheter‑guided thrombolysis  
+- Computed tomography (CT)  
+- Dabigatran  
+- Idarucizumab  
+- Mechanical valve  
+- Mechanical valve thrombosis  
+- Multimodality imaging  
+- New‑generation anticoagulants  
+- Subclinical leaflet thrombosis  
+- Pannus formation  
+- Prosthetic valve obstruction  
+- Prosthetic valve thrombosis  
+- Prosthetic heart valve  
+- Transesophageal echocardiography (TEE)  
+- Transthoracic echocardiography (TTE)  
+- Transcatheter heart valve (THV)  
+- Transcatheter valve‑in‑valve procedure  
+- Vitamin K antagonists (warfarin)  
+- Vitamin K1  
+- Warfarin  
+- Left‑sided prosthetic valve  
+- Right‑sided prosthetic valve  
+- Thrombolytic therapy  
+- Tissue‑type plasminogen activator (tPA)  
+- Thrombus vs. pannus differentiation  
+- Valve‑in‑valve implantation  
+- Valve‑prosthesis interaction  
+- Echocardiographic Doppler assessment  
+- Clinical decision pathways for anticoagulation  
+- Risk assessment for thrombolysis  
+- Low‑dose infusion strategies  
+- Rebound anticoagulation after cessation  
+- Fresh frozen plasma in over‑anticoagulation  
+- Anticoagulation monitoring (INR)  
+- Cardiac imaging guideline  
+- Thrombotic events associated with prosthetic valves.
+
+Page 140 Extracted Terms:
+- Valvular Heart Disease  
+- Thrombolytic therapy for mechanical pulmonic/tricuspid valves  
+- Prosthetic valve thrombosis  
+- Bioprosthetic valve thrombosis  
+- Subclinical leaflet thrombosis  
+- Transcatheter aortic valve replacement (TAVR)  
+- Mechanical prosthetic valves  
+- Pannus formation  
+- Structural valve degeneration  
+- Prosthesis–patient mismatch  
+- Redo aortic valve surgery  
+- Transcatheter aortic valve‑in‑valve implantation  
+- Failed surgical bioprosthetic valves  
+- Transcatheter heart valve thrombosis  
+- Phenprocoumon anticoagulation  
+- Echocardiography and Doppler ultrasound in valve assessment  
+- Cardiovascular imaging guidelines (American Society of Echocardiography, European Association of Cardiovascular Imaging, etc.)
+
+Page 141 Extracted Terms:
+- Valvular heart disease  
+- Valvular degeneration  
+- Prosthetic valve  
+- Bicuspid aortic valve  
+- Tricuspid aortic valve  
+- Aortic valve stenosis  
+- Aortic valve regurgitation  
+- Mitral valve stenosis  
+- Mitral valve regurgitation  
+- Valve replacement (surgical)  
+- Valve replacement (transcatheter)  
+- Transcatheter aortic valve implantation (TAVI)  
+- Valve‑in‑valve procedure  
+- Mechanical valve  
+- Bioprosthetic valve  
+- Paravalvular leak  
+- Periprosthetic leak  
+- Prosthetic valve regurgitation  
+- Valvular insufficiency  
+- Infective endocarditis  
+- Duke criteria  
+- Diagnostic criteria for endocarditis  
+- Culture‑negative endocarditis  
+- Echocardiography (2‑D, 3‑D, transesophageal)  
+- Doppler ultrasound  
+- Real‑time 3‑D transesophageal echocardiography  
+- Intracardiac echocardiography  
+- STS (Society of Thoracic Surgeons) risk calculator  
+- Risk factors for infective endocarditis  
+- Structural valve degeneration  
+- Prosthetic valve evaluation  
+- Valve imaging assessment  
+- Transcatheter valve repair  
+- Surgical valve repair  
+- Cardiac imaging guidelines  
+- Perioperative valve outcomes  
+- Long‑term valve survival  
+- Valve reoperation risk  
+
+Page 142 Extracted Terms:
+- Valvular heart disease  
+- Infective endocarditis  
+- Endocarditis  
+- Transesophageal echocardiography  
+- Transthoracic echocardiography  
+- Valve vegetation  
+- Prosthetic valve endocarditis  
+- Aortic valve  
+- Mitral valve  
+- Valve regurgitation  
+- Valve stenosis  
+- Bacteremia  
+- Staphylococcus aureus  
+- Methicillin‑resistant Staphylococcus aureus (MRSA)  
+- Methicillin‑sensitive Staphylococcus aureus (MSSA)  
+- Antibiotic therapy  
+- Antibiotic duration  
+- Surgical treatment of endocarditis  
+- Embolization  
+- Pacemaker endocarditis  
+- Cardiac implantable electronic devices (CIED)  
+- Intraoperative echocardiography  
+- Appropriate use criteria for echocardiography  
+- Duke criteria  
+- Diagnostic criteria for infective endocarditis  
+- Valve infection  
+- Blood cultures  
+- Valve prosthesis infection  
+- Endocarditis mortality  
+- Endocarditis guidelines (ACC/AHA, ESC)  
+- Echocardiographic sensitivity  
+- Echocardiographic specificity  
+- Clinical presentation of endocarditis  
+- Valve perforation  
+- Valve abscess  
+- Cardiac surgery decision‐making  
+- Infective endocarditis risk factors  
+- Valvular dysfunction  
+- Echocardiographic detection of vegetation size  
+- Cardiovascular imaging  
+- Intravenous catheter–associated bacteremia.
+
+Page 143 Extracted Terms:
+- Endocarditis  
+- Infective endocarditis  
+- Native valve endocarditis  
+- Prosthetic valve endocarditis  
+- Valve infection  
+- Aortic valve  
+- Mechanical heart valve  
+- Valve obstruction  
+- Valvular dysfunction  
+- Valvular heart disease  
+- Heart valve disease  
+- Heart valve prosthesis  
+- Heart valve replacement  
+- Heart valve surgery  
+- Transesophageal echocardiography (TEE)  
+- Transthoracic echocardiography (TTE)  
+- Echo (echocardiography)  
+- Multislice computed tomography (CT)  
+- Cardiac CT  
+- Coronary angiography  
+- Coronary artery disease (CAD)  
+- FDG PET/CT  
+- 18F‑fluorodeoxyglucose PET/CT  
+- Anticoagulation therapy  
+- Anticoagulant therapy (warfarin, others)  
+- Antithrombotic therapy  
+- Antithrombotic and thrombolytic therapy  
+- Intracranial hemorrhage  
+- Cerebral hemorrhage  
+- Stroke (embolic stroke)  
+- Cerebrovascular complications  
+- Myocardial infarction / infarction  
+- Cardiovascular complications  
+- Cardiovascular disease  
+- Cardiac valve complications  
+- Mechanical disc prosthesis  
+- Prosthetic heart valve complications  
+- Valve-related bacteremia (e.g., Staphylococcus aureus bacteremia)  
+- Valve‑related sepsis / septic shock  
+- Valve disease imaging (CT, PET/CT, echocardiography)
+
+Page 144 Extracted Terms:
+- Valvular heart disease  
+- Infective endocarditis  
+- Prosthetic valve endocarditis  
+- Native‑valve endocarditis  
+- Bicuspid aortic valve disease  
+- Aortic valve disease  
+- Mitral valve disease  
+- Right‑sided Staphylococcus aureus endocarditis  
+- Left‑sided endocarditis  
+- Valve surgery  
+- Mechanical valve implantation  
+- Bioprosthetic (biological) valve replacement  
+- Antiplatelet therapy (e.g., aspirin)  
+- Anticoagulant therapy (e.g., warfarin)  
+- Aspirin‑induced hemorrhage  
+- Warfarin‑associated intracranial hemorrhage  
+- Stroke / cerebral hemorrhage  
+- Sepsis / septic shock management  
+- Multidisciplinary management team (e‑Team)  
+- Early surgical intervention  
+- Mortality predictors in endocarditis  
+- Risk scoring system for prosthetic valve procedures  
+- Fungal prosthetic valve endocarditis  
+- Chronic infection of pacemaker leads  
+- Antimicrobial therapy (e.g., cloxacillin, gentamicin)  
+- Prosthetic valve replacement versus medical therapy  
+
+These terms capture the core concepts of heart disease discussed in the guideline text.
+
+Page 145 Extracted Terms:
+- Valvular heart disease  
+- Infective endocarditis  
+- Aortic valve endocarditis  
+- Native valve endocarditis  
+- Prosthetic valve endocarditis  
+- Paravalvular abscess  
+- Perivalvular abscess  
+- Mitral valve endocarditis  
+- Left‑sided endocarditis  
+- Right‑sided endocarditis  
+- Cardio‑embolic stroke  
+- Heart failure  
+- Aortocavitary fistula  
+- Transesophageal echocardiography  
+- Transthoracic echocardiography  
+- Vegetation  
+- Vegetation size  
+- Surgical timing  
+- Early surgery  
+- Conventional treatment  
+- Valve replacement  
+- Valve repair  
+- Mechanical prosthesis  
+- Bioprosthetic valve  
+- Allograft  
+- Implantable cardiac devices  
+- Pacemaker endocarditis  
+- Implantable cardioverter‑defibrillator (ICD) infection  
+- Device‑related endocarditis  
+- Percutaneous lead extraction  
+- Endocarditis diagnosis  
+- Cardiovascular implantable electronic device infection  
+- Drug‑use‑associated endocarditis  
+- Injection drug users (IDU)  
+- Opioid‑dependent patients  
+- Buprenorphine treatment  
+- Mortality risk  
+- Embolic risk  
+- Prognostic value  
+- Echocardiographic features  
+- Long‑term outcomes  
+- Early clinical course  
+- Outcome prediction  
+- Risk factors  
+- Pulmonary hypertension  
+- Aortic stenosis  
+- Pregnancy outcomes  
+- Valvular heart disease in pregnancy  
+- Native valves in pregnancy  
+- Periprosthetic leakage  
+- Transcatheter closure of paravalvular defects  
+- ESC guidelines  
+- ROPAC registry (Registry Of Pregnancy And Cardiac disease)  
+- ESC registry of pregnancy and cardiac disease  
+- Multicenter prospective study  
+- Multicenter registry  
+- Pregnancy outcomes in women with heart disease
+
+Page 146 Extracted Terms:
+- Valvular heart disease (VHD)  
+- Aortic stenosis  
+- Mitral stenosis  
+- Rheumatic mitral stenosis  
+- Congenital aortic stenosis  
+- Mechanical heart valve  
+- Valve replacement (mechanical/electronic)  
+- Percutaneous balloon aortic valvuloplasty (PBA)  
+- Percutaneous balloon mitral valvuloplasty (PBMV)  
+- Balloon mitral commissurotomy  
+- Balloon dilatation of the aortic valve  
+- Balloon dilatation for severe aortic stenosis  
+- Peri‑pregnancy intervention for VHD  
+- Pregnancy outcomes in heart disease  
+- Pulmonary hypertension  
+- Exercise Doppler echocardiography  
+- Risk stratification of asymptomatic valvular disease  
+- ESC guidelines for cardiovascular disease during pregnancy  
+- ACC/AHA guidelines for valvular heart disease  
+- AHA/ACC/HRS guidelines for atrial fibrillation  
+- Beta‑adrenergic blockade in pregnancy with valvular disease  
+- Angiotensin‑II receptor antagonists and fetal toxicity  
+- ACE inhibitor exposure in the first trimester  
+- Anticoagulation management in mechanical valve pregnancy  
+- Cardiac medication during pregnancy (ROPAC data)  
+- Mechanical aortic valve replacement in women of childbearing age  
+- Early surgery for severe aortic stenosis  
+- Prognostic importance of quantitative exercise Doppler  
+- Multicenter pregnancy outcome registries (ROPAC, Registry of Pregnancy and Cardiac Disease)  
+- Perinatal cardiac outcomes in valvular disease  
+- Volume overload impact on pulmonary circulation during pregnancy  
+- Fetal growth effects of atenolol in pregnancy with hypertension  
+
+Page 147 Extracted Terms:
+- Valvular heart disease  
+- Mitral stenosis  
+- Balloon mitral valvuloplasty  
+- Percutaneous balloon valvuloplasty  
+- Percutaneous balloon commissurotomy  
+- Cardiovascular surgery  
+- Intracardiac surgery  
+- Cardiac surgery  
+- Cardiopulmonary bypass  
+- Prosthetic heart valves  
+- Mechanical prosthetic valve  
+- Biologic prosthetic valve  
+- Homograft valve  
+- Valve replacement  
+- Valve prosthesis  
+- Thrombus  
+- Prosthetic valve thrombosis  
+- Anticoagulation  
+- Warfarin  
+- Low‑molecular‑weight heparin  
+- Enoxaparin  
+- Anti‑Xa monitoring  
+- Tissue‑type plasminogen activator  
+- Thrombolytic therapy  
+- Transesophageal echocardiography  
+- Echocardiographic evaluation  
+- Hemodynamic changes  
+- Hemodynamics  
+- Pregnancy outcomes  
+- Maternal outcomes  
+- Fetal outcomes  
+- Obstetric outcomes  
+- Thromboprophylaxis  
+- Thromboembolism  
+- Thrombolysis
+
+Page 148 Extracted Terms:
+- Valvular heart disease (VHD)  
+- Prosthetic heart valve (PHV)  
+- Mechanical heart valve  
+- Aortic stenosis  
+- Aortic valve replacement (AVR)  
+- Transcatheter aortic valve replacement (TAVR) / implantation (TAVI)  
+- Coronary artery disease (CAD)  
+- Angina pectoris  
+- Percutaneous coronary intervention (PCI)  
+- Coronary artery bypass grafting (CABG)  
+- Coronary angiography  
+- Computed tomography coronary angiography (CTCA)  
+- Instantaneous wave‑free ratio (iFR)  
+- Revascularization  
+- Valve surgery  
+- Valve replacement  
+- Valve‑related complications  
+- Anticoagulation therapy  
+- Warfarin  
+- Direct oral anticoagulants (DOACs)  
+- Low‑molecular‑weight heparin (LMWH)  
+- Enoxaparin  
+- Subcutaneous heparin  
+- Antiplatelet therapy  
+- Thrombosis  
+- Mechanical valve thrombosis  
+- Thromboembolic events  
+- Thrombolytic therapy  
+- Tissue‑type plasminogen activator (tPA)  
+- Maternal complications during pregnancy  
+- Fetal outcomes in pregnancy with prosthetic valves  
+- Pregnancy anticoagulation dilemma  
+- Hemodynamics  
+- Pressure overload  
+- Surgical considerations for CAD in VHD  
+- Angiographic severity assessment  
+- Stroke risk in valvular disease  
+- Long‑term survival of valve‑repair patients  
+- Valve durability and degeneration  
+- Cardioprotective management strategies  
+
+These terms capture the key concepts related to heart disease and its management discussed in the provided guideline text.
+
+Page 149 Extracted Terms:
+- Valvular Heart Disease  
+- Aortic Stenosis  
+- Aortic Regurgitation  
+- Severe Aortic Stenosis  
+- Mitral Regurgitation  
+- Valvular Regurgitation  
+- Coronary Artery Disease  
+- Coronary Artery Stenosis  
+- Coronary Atherosclerosis  
+- Ischemic Mitral Regurgitation  
+- Radiation‑induced Heart Disease  
+- Atrial Fibrillation  
+- Intraoperative Atrial Fibrillation  
+- Cox Maze Procedure  
+- Surgical Ablation of Atrial Fibrillation  
+- Pulmonary Vein Isolation  
+- Left Atrial Appendage Occlusion / Closure  
+- Stroke (associated with atrial fibrillation)  
+- Transcatheter Aortic Valve Implantation (TAVI)  
+- Transcatheter Aortic Valve Replacement (TAVR)  
+- Valve Replacement Surgery  
+- Coronary Computed Tomography Angiography (CTCA)  
+- Multidetector Computed Tomography Coronary Angiography  
+- Coronary Angiography (invasive)  
+- Hybrid Cardiovascular Procedures  
+- Coronary Artery Bypass Grafting (CABG)  
+- Anticoagulation Therapy  
+- Novel Oral Anticoagulants (NOACs)  
+- Left Ventricular Function  
+- Early and Late Survival after Valve Replacement  
+- Transesophageal Echocardiography (TEE) for valve assessment  
+- Framingham Risk Score (cardiovascular risk profiling)  
+- Diamond‑Forrester Probability model (coronary artery disease assessment)  
+- Preoperative Coronary Angiography for Cardiac Surgery  
+- Surgical Thrombectomy / Atrial Appendage Exclusion  
+- Cardiothoracic Surgery (general scope)
+
+Page 150 Extracted Terms:
+- Valvular heart disease  
+- Aortic stenosis  
+- Aortic valve replacement  
+- Transcatheter aortic valve replacement (TAVR)  
+- Surgical aortic valve replacement (SAVR)  
+- Balloon aortic valvuloplasty (BAV)  
+- Mitral regurgitation  
+- Pulmonary arterial hypertension (PAH)  
+- Pulmonary hypertension  
+- Coronary artery disease  
+- Intrinsic cardiac risks  
+- Perioperative cardiovascular evaluation  
+- Preoperative cardiovascular evaluation  
+- Non‑cardiac surgery (in the context of cardiac risk)  
+- Perioperative risk  
+- Valve disease prevention (e.g., systolic blood pressure, calcific aortic stenosis)  
+- Clinical outcomes related to valvular disease management  
+
+Page 151 Extracted Terms:
+- Valvular Heart Disease  
+- Aortic Stenosis  
+- Calcific Aortic Valve Stenosis  
+- Myxomatous Mitral Valve  
+- Valvular Calcification  
+- Rheumatic Heart Disease  
+- Cardiac Fibrosis  
+- Matrix Remodeling  
+- TGF‑β Signalling  
+- Reactive Oxygen Species  
+- Multimodality Imaging  
+- Renin‑Angiotensin System Inhibition  
+- Transcatheter Aortic Valve Replacement (TAVR)  
+- Blood Pressure  
+- Arterial Load  
+- Genetic Associations  
+- Patient‑Centered Research  
+- Valve Durability  
+- Shared Decision‑Making  
+- Valve Interventions  
+- Cardiovascular Imaging  
+- Heart Disease  
+- Stroke Statistics  
+- Valve Disease Burden  
+- Valve Imaging  
+- Valve Disease Management
+
+Page 152 Extracted Terms:
+- Valvular Heart Disease  
+- Heart Disease  
+- Cardiovascular  
+- Cardiac  
+- Adult Congenital Heart Disease  
+- Cardiac Surgery  
+- Cardiology  
+- Interventional Cardiology  
+- Cardiovascular Medicine  
+- Corrigan Minehan Heart Center  
+- ACC/AHA Guideline for the Management of Valvular Heart Disease  
+
+Page 153 Extracted Terms:
+- Valvular Heart Disease  
+- Heart Failure  
+- Infective Endocarditis  
+- Cardiovascular  
+- Cardiology  
+- Heart Disease  
+- ACC/AHA (American College of Cardiology/American Heart Association) Guidelines  
+- Heart Failure Society of America  
+- Valvular  
+- Management of Valvular Heart Disease  
+- Clinical Guidelines for Heart Disease  
+- Cardiovascular Fellowship Program  
+- Heart‑related Clinical Practice Guidelines  
+
+Page 154 Extracted Terms:
+- ACC/AHA Guideline for the Management of Valvular Heart Disease  
+- Valvular Heart Disease  
+- Heart Valve  
+- Heart Valve Voice  
+- Medtronic (device manufacturer for heart valve procedures)  
+- Abbott (cardiovascular devices)  
+- Edwards Lifesciences (heart valve technology)  
+- NeoChord (transcatheter mitral valve repair system)  
+- HeartFlow (non‑invasive coronary artery disease assessment)  
+- AHA (American Heart Association)  
+- STEMI (ST‑segment elevation myocardial infarction)  
+- Cardiology / Cardiovascular (clinical disciplines)
+
+Page 155 Extracted Terms:
+- **Valvular Heart Disease**  
+- **ACC/AHA Guideline for the Management of Valvular Heart Disease**  
+- **Clinical Cardiac Electrophysiology**  
+- **Adult Congenital Heart Disease Program**  
+- **Pulmonary Hypertension**  
+- **Cardiovascular** (as a general domain)  
+- **National Minority Cardiovascular Alliance**  
+- **Cardiac Phoenix**  
+- **Boston Scientific** (heart‑device manufacturer)  
+- **Medtronic** (heart‑device manufacturer)  
+- **Edwards Lifesciences** (heart‑valve manufacturer)  
+- **Abbott Vascular** (vascular‑intervention manufacturer)  
+- **Bayer Healthcare Pharmaceuticals** (cardiovascular drug manufacturer)  
+- **Philips Healthcare** (cardiac imaging equipment)  
+- **Siemens Healthineers** (cardiac imaging equipment)  
+- **NaviGate** (cardiac navigation system)  
+- **V‑Wave Ltd.** (cardiac imaging/diagnostic firm)  
+- **Joint Committee on Clinical Practice Guidelines** (guideline‑development body)  
+- **American Heart Association (AHA)**  
+- **American College of Cardiology (ACC)**  
+- **ACC/AHA** (combined guideline and organization abbreviation)  
+- **Circulation Journals** (cardiology journal)  
+
+*(These terms were extracted from the provided text and are directly related to heart disease, cardiac care, and cardiovascular medicine.)*
+
+Page 156 Extracted Terms:
+- Valvular Heart Disease  
+- Heart Disease  
+- Cardiovascular Disease  
+- Cardiac  
+- Heart  
+- Stroke  
+- Valves  
+- Valve Disease  
+- Valvular disease  
+- Cardiac valves  
+- Heart valve disorders  
+

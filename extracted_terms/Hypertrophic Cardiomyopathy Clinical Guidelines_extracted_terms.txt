@@ -1,0 +1,2555 @@
+Page 1 Extracted Terms:
+- Hypertrophic cardiomyopathy  
+- Left ventricular outflow tract obstruction  
+- Septal reduction therapy  
+- Septal alcohol ablation  
+- Implantable cardioverter‑defibrillator  
+- Cardiac myosin inhibitors  
+- Diastolic dysfunction  
+- Systolic dysfunction  
+- Ventricular arrhythmias  
+- Atrial fibrillation  
+- Family screening  
+- Genetics  
+- Sarcomeric genes  
+- Risk stratification  
+- Sports  
+- Sudden cardiac death  
+- Exercise stress testing  
+- Rhythm monitoring  
+- Shared decision‑making  
+- Pregnancy  
+- Cardiovascular magnetic resonance imaging  
+- Echocardiography  
+- Athlete  
+- Physical activity  
+- Occupation  
+
+Page 2 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Left Ventricular Outflow Tract (LVOT) Obstruction  
+- Diastolic Dysfunction  
+- Mitral Regurgitation  
+- Myocardial Ischemia  
+- Autonomic Dysfunction  
+- Sudden Cardiac Death (SCD)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Pharmacologic Management of Symptomatic Patients with Obstructive HCM  
+- Invasive Treatment for Obstructive HCM (e.g., surgical myectomy, alcohol septal ablation)  
+- Nonobstructive HCM with Preserved Ejection Fraction (EF)  
+- HCM and Advanced Heart Failure (HF)  
+- HCM and Atrial Fibrillation (AF)  
+- HCM and Ventricular Arrhythmias  
+- Echocardiography (ECHO)  
+- Cardiovascular Magnetic Resonance (CMR) Imaging  
+- Cardiac Computed Tomography (CT)  
+- Heart Rhythm Assessment (electrocardiography, Holter, event monitoring)  
+- Angiography and Invasive Hemodynamic Assessment  
+- Exercise Stress Testing (treadmill, bicycle)  
+- Genetics and Family Screening for HCM  
+- Genotype‑Positive, Phenotype‑Negative Individuals  
+- SCD Risk Assessment in Adults with HCM  
+- SCD Risk Assessment in Children/Adolescents with HCM  
+- Patient Selection for ICD Placement  
+- Device Selection Considerations (ICD, CRT‑D, pacemaker)  
+- Lifestyle Considerations for HCM (Recreational Physical Activity, Competitive Sports)  
+- Occupational Considerations for Patients with HCM  
+- Pregnancy Management in HCM  
+- Management of Comorbidities in HCM  
+- Evidence Gaps and Future Directions (e.g., refining diagnosis, new therapies, risk stratification, arrhythmia management, genetic architecture)
+
+Page 3 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Atrial fibrillation (AF)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Sudden cardiac death (SCD)  
+- Left ventricular ejection fraction (LVEF)  
+- Left ventricular outflow tract obstruction (LVOTO)  
+- Obstructive HCM  
+- Non‑obstructive HCM  
+- Exercise stress testing  
+- Septal reduction therapy (SRT)  
+- Myosin inhibitor (e.g., mavacamten)  
+- Disopyramide  
+- β‑blocker  
+- Nondihydropyridine calcium channel blocker  
+- Anticoagulation  
+- Valsartan  
+- NYHA functional class III–IV  
+- Risk score / risk factors  
+- Systolic dysfunction (LVEF < 50 %)  
+- Pregnancy (in HCM)  
+- Recreational physical activity  
+- Competitive sports
+
+
+
+Page 4 Extracted Terms:
+- Hypertrophic cardiomyopathy  
+- Left ventricular outflow tract obstruction  
+- Sudden cardiac death  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Cardiac myosin inhibitors  
+- Mavacamten  
+- Septal myectomy  
+- Alcohol septal ablation  
+- Atrial fibrillation  
+- Oral anticoagulation  
+- Direct‑acting oral anticoagulants (DOACs)  
+- Warfarin  
+- CHA₂DS₂‑VASc score  
+- Exercise stress testing  
+- Exercise tolerance  
+- Genetic testing (HCM‑associated variants)  
+- Family screening (first‑degree relatives)  
+- Risk stratification (pediatric and adult)  
+- Pediatric risk calculator  
+- Ventricular arrhythmia  
+- Stroke risk (HCM patients)  
+- Ambulatory telemetry  
+- Metabolic equivalents of task (METs)  
+- Cardiac contractility  
+- Actin‑myosin interaction inhibition  
+- Cardiac imaging (serial imaging for HCM)
+
+Page 5 Extracted Terms:
+**Key terms related to heart disease**
+
+- Hypertrophic Cardiomyopathy  
+- Cardiovascular disease  
+- Cardiovascular health  
+- Cardiovascular care  
+
+These terms are central to the discussion of heart disease in the provided text.
+
+Page 6 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Hypertrophic cardiomyopathy (HCM)  
+- Left ventricular hypertrophy  
+- Subvalvular stenosis  
+- Coronary ischemia  
+- Atrial fibrillation  
+- Stroke volume  
+- Sudden cardiac death  
+- Cardiac transplant  
+- Diagnostic imaging  
+- Echocardiography  
+- Magnetic resonance imaging (MRI)  
+- Nuclear magnetic resonance imaging (NMRI)  
+- Computed tomographic angiography (CTA)  
+- Genetic testing for cardiac conditions  
+- Guideline‑directed management and therapy (GDMT)  
+- Cardiac drugs (pharmacological treatment regimens)  
+- Cardiac devices (implantable devices)  
+- Procedural treatments (surgical or interventional procedures)  
+- Clinical evaluation of cardiac patients  
+- Dosage and medication interactions  
+- Contraindications in cardiovascular therapy  
+
+These terms capture the core cardiovascular concepts and clinical focus discussed in the guideline.
+
+Page 7 Extracted Terms:
+**Heart‑disease–related terms extracted from the text**
+
+- Hypertrophic cardiomyopathy (HCM)  
+- Heart failure (HF)  
+- Atrial fibrillation (AF)  
+- Coronary artery disease (CAD)  
+- Sudden cardiac death (SCD)  
+- Ventricular tachycardia (VT)  
+- Ventricular fibrillation (VF)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Cardiac resynchronization therapy (CRT)  
+- Left ventricular hypertrophy (LVH)  
+- Left ventricular outflow tract obstruction (LVOTO)  
+- Left ventricular assist device (LVAD)  
+- Mitral regurgitation (MR)  
+- Systolic anterior motion (SAM)  
+- Subclinical atrial fibrillation (SCAF)  
+- Nonsustained ventricular tachycardia (NSVT)  
+- Left bundle branch block (LBBB)  
+- Late gadolinium enhancement (LGE)  
+- Ejection fraction (EF / LVEF)  
+- Cardiovascular magnetic resonance (CMR)  
+- Cardiopulmonary exercise test (CPET)  
+- Transesophageal echocardiogram (TEE)  
+- Transthoracic echocardiogram (TTE)  
+- Guideline‑directed medical therapy (GDMT)  
+- Extended septal myectomy (ESM)  
+- Septal reduction therapy (SRT)  
+- Metabolic equivalent (MET)  
+- Direct‑acting oral anticoagulants (DOAC)  
+- Right ventricular (RV)  
+- Left ventricular (LV)  
+- New York Heart Association (NYHA)
+
+Page 8 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Idiopathic hypertrophic subaortic stenosis  
+- Hypertrophic obstructive cardiomyopathy  
+- Left ventricular (LV) outflow tract obstruction (LVOTO)  
+- Left ventricular (LV)  
+- Heart failure (HF)  
+- Genetic testing for HCM  
+- Racial and ethnic disparities in HCM prevalence  
+- Female under‑diagnosis of HCM  
+- Social determinants of health influencing cardiac disease  
+- Structural inequities in access to cardiac specialists  
+- Diagnostic testing for HCM  
+- Clinical strategies and interventions for cardiac disease  
+- Class of Recommendation (clinical guideline classification)  
+- Level of Evidence (clinical research grading)
+
+Page 9 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Left Ventricular Hypertrophy (LVH)  
+- Left Ventricular (LV) wall thickness  
+- RASopathies  
+- Mitochondrial myopathies  
+- Glycogen storage disease  
+- Lysosomal storage disease  
+- Fabry disease  
+- Amyloidosis  
+- Sarcoid (sarcoidosis)  
+- Danon cardiomyopathy  
+- Athlete’s heart  
+- Hypertensive cardiomyopathy  
+- Left‑sided obstructive lesions  
+- Valvular stenosis  
+- Subvalvular stenosis  
+- Antero‑apical infarction  
+- Stress cardiomyopathy  
+- 2‑D echocardiography  
+- Cardiovascular magnetic resonance (CMR)  
+- Wall thickness ≥15 mm  
+- Body surface area–adjusted z‑score  
+- Standard deviations above the mean  
+- Sarcomere gene  
+- Pathogenic variant  
+- Likely pathogenic variant  
+- Basal anterior septum  
+- Anterior free wall  
+- Systolic anterior motion (SAM)  
+- Hypertrophied papillary muscles  
+- Apically displaced papillary muscles  
+- Myocardial crypts  
+- Anomalous insertion of papillary muscles  
+- Elongated mitral valve leaflets  
+- Myocardial bridging  
+- Right ventricular hypertrophy  
+- Sarcomere proteins  
+- Abnormal electrocardiogram (ECG)  
+- Phenotype  
+- Genotype‑positive / phenotype‑negative  
+- Diagnostic challenges  
+- Pathophysiologic mechanisms  
+- Natural history  
+- Treatment strategies
+
+Page 10 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Left ventricular hypertrophy (LVH)  
+- Left ventricular ejection fraction (LVEF)  
+- Myocardial fibrosis  
+- Diastolic dysfunction  
+- Systolic dysfunction  
+- Sudden cardiac death (SCD)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Ventricular arrhythmia  
+- Atrial fibrillation (AF)  
+- Thromboembolic stroke  
+- Heart failure (HF)  
+- Myocardial ischemia  
+- Left ventricular outflow tract obstruction (LVOTO)  
+- Mitral regurgitation (MR)  
+- Small vessel ischemia  
+- Intramural coronary artery abnormalities  
+- Elongated mitral valve leaflets  
+- Congenital anomalies of the submitral valve apparatus  
+- Cardiac sarcomere genes  
+- Sarcomere‑related structures  
+- Beta‑myosin heavy chain 7 (MYH7)  
+- Myosin‑binding protein C3 (MYBPC3)  
+- TNNI3 (troponin I type 3)  
+- TNNT2 (troponin T type 2)  
+- TPM1 (tropomyosin 1)  
+- MYL2 (myosin light chain 2)  
+- MYL3 (myosin light chain 3)  
+- ACTC1 (alpha‑actin 1)  
+- Pathogenic sarcomeric variant  
+- Likely pathogenic variant  
+- Nonfamilial HCM  
+- Monogenic disease  
+- Polygenic susceptibility  
+- Genetics‑mediated risk stratification  
+- Noninvasive risk markers  
+- Cardiometabolic risk factors  
+- Obesity  
+- Hypertension  
+- Diabetes mellitus  
+- Obstructive sleep apnea  
+- Lifestyle modification (risk factor reduction)  
+- Cardiovascular therapies  
+- Interventional procedures (e.g., septal reduction)  
+- Clinical guidelines for HCM management  
+- Outcome prediction in HCM patients  
+- Adverse event risk (mortality, HF, stroke, arrhythmia)  
+- Disease‑related morbidity and mortality in adults  
+- Dynamic LVOTO  
+- Autonomic dysfunction  
+- Metabolic and energetic abnormalities in HCM.
+
+Page 11 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Left Ventricular Outflow Tract Obstruction (LVOTO)  
+- Subaortic Membrane (SAM) of the mitral valve  
+- Peak LVOT gradient  
+- Intracavitary pressure  
+- Diastolic dysfunction  
+- LV compliance  
+- Microvascular ischemia  
+- Sarcomere gene variant carriers  
+- Restrictive physiology  
+- Atrial fibrillation (AF)  
+- Mitral regurgitation (MR)  
+- Leaflet abnormalities (excessive leaflet length, anomalous papillary muscle insertion)  
+- Mid‑to‑late systolic jets  
+- Central and anterior jets  
+- Septal reduction therapy (SRT)  
+- Intrinsic coronary flow reserve (CRF)  
+- Coronary atherosclerosis  
+- LV apical aneurysm  
+- Heart failure (HF)  
+- Stroke  
+- Ventricular arrhythmias  
+- Myocardial bridging  
+- Autonomic dysfunction  
+- Heart rate recovery  
+- Inappropriate vasodilatation  
+- Blood pressure response to exercise  
+- Epicardial coronary artery compression  
+- Intramural arterioles (density)  
+- Myocardial oxygen supply‑demand mismatch  
+- Systolic dysfunction  
+- Ventricular preload, afterload, contractility  
+- Valsalva maneuver  
+- Dobutamine stress testing  
+- Echocardiographic assessment  
+- Invasive LVOT gradient measurement.
+
+Page 12 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- HCM  
+- Left Ventricular Outflow Tract Obstruction (LVOTO)  
+- Septal Reduction Therapy (SRT)  
+- Invasive SRT  
+- Implantable Cardioverter‑Defibrillator (ICD) implantation  
+- Genetic testing  
+- Genetic counseling  
+- Shared decision‑making  
+- Multidisciplinary HCM centers  
+- Comprehensive HCM centers  
+- Primary HCM centers  
+- Advanced therapies for relief of LVOTO  
+- High‑intensity or competitive exercise  
+- Mitral valve replacement  
+- Morbidity  
+- Mortality  
+- Clinical outcomes  
+- Risk assessment  
+- Benefit assessment  
+- Diagnostic testing  
+- Surveillance testing  
+- Care coordination  
+- Patient and caregiver goals  
+- Lifestyle and activity modification  
+- Referral pathways  
+- Cardiac management decisions  
+
+Page 13 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Comprehensive HCM center  
+- Primary HCM center  
+- Septal reduction therapy (SRT)  
+- Invasive SRTs (myectomy, alcohol septal ablation)  
+- Catheter ablation  
+- Ventricular tachyarrhythmias  
+- Atrial tachyarrhythmias  
+- Advanced heart failure (HF) therapies  
+- Heart transplant  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Genetic counseling  
+- Sports participation counseling  
+- Clinical diagnosis of HCM  
+- Physical examination  
+- Family history (3‑generation)  
+- Cardiac murmur  
+- Transthoracic echocardiography (TTE)  
+- Advanced echocardiographic imaging  
+- Left ventricular outflow tract obstruction (LVOTO)  
+- Latent LVOTO detection  
+- Echocardiography‑guided SRT  
+- Cardiovascular magnetic resonance (CMR) imaging  
+- Invasive LVOTO evaluation  
+- Coronary angiography  
+- Stress testing for LVOTO or advanced HF consideration  
+- Risk stratification for sudden cardiac death (SCD)  
+- Adult ICD decision‑making (COR 1 & 2a)  
+- Pediatric ICD decision‑making (COR 2b)  
+- ICD implantation in adults and children  
+- Atrial fibrillation (AF) management  
+- Stroke prevention in AF  
+- AF catheter ablation  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Cardiac resynchronization therapy (CRT)  
+- Pharmacologic therapy for HCM  
+- Invasive management of obstructive HCM  
+- Mitral valve replacement (within 1 year of procedure)  
+- Residual mitral regurgitation (moderate or greater)  
+- Repeat procedure rate for SRTs  
+- Symptomatic improvement (≥1 NYHA functional class)  
+- Rest or provoked left ventricular outflow tract (LVOT) gradient <50 mm Hg  
+- Left anterior descending (LAD) artery  
+- Pacemaker implantation for post‑operative complete heart block  
+- NYHA functional class (I–IV)
+
+Page 14 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Left ventricular hypertrophy (LVH)  
+- Mitral valve systolic anterior motion (SAM)  
+- Left ventricular outflow tract obstruction (LVOTO)  
+- Mitral regurgitation (MR)  
+- Fourth heart sound  
+- Systolic murmur (harsh crescendo‑decrescendo)  
+- Apical point of maximal impulse  
+- Abnormal carotid pulse  
+- Valsalva maneuver  
+- Squat‑to‑stand maneuver  
+- Passive leg‑raising maneuver  
+- Walking test (provocative maneuver)  
+- 12‑lead electrocardiogram (ECG)  
+- Echocardiography (2‑D echo)  
+- Comprehensive cardiac history  
+- Family history (3 generations)  
+- Genotype‑positive screening family member  
+- Phenocopy (mimic) of HCM  
+- RASopathies (e.g., neurofibromatosis, Noonan syndrome)  
+- Glycogen storage diseases  
+- Mitochondrial disorders  
+- Anderson–Fabry disease  
+- Amyloidosis (infiltrative cardiomyopathy)  
+- Friedreich’s ataxia  
+- Danon disease  
+- Renal dysfunction  
+- Infiltrative disorders  
+- Metabolic acidosis  
+- Newborn metabolic screening  
+- Specific metabolic assays  
+- Biochemical screening  
+- Genetic testing  
+- Neuromuscular assessment  
+- Infant of mother with gestational diabetes  
+- Chest pain (symptom)  
+- Dyspnea (symptom)  
+- Palpitations (symptom)  
+- Syncope (symptom)  
+- Screening intervals:  
+  - Every 1–2 years (pediatric, genotype‑positive)  
+  - Every 2–3 years (all other children/adolescents)  
+  - Every 3–5 years (adults)  
+- Screening for asymptomatic first‑degree relatives  
+- Early childhood cognitive and sensory impairments (associated with phenocopies)  
+- Skeletal muscle weakness or movement disorder (associated with phenocopies)  
+- Peripheral neuropathy (associated with phenocopies)
+
+Page 15 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Transthoracic Echocardiogram (TTE)  
+- Transesophageal Echocardiogram (TEE)  
+- Left Ventricular Outflow Tract (LVOT) Gradient  
+- Dynamic LVOT Obstruction (LVOTO)  
+- Mitral Regurgitation (MR)  
+- Myocardial Hypertrophy  
+- Systolic Dysfunction  
+- Diastolic Dysfunction  
+- Valvular Heart Disease (VHD)  
+- Mitral Valve Anatomy and Function  
+- Echocardiographic Screening in First‑Degree Relatives  
+- Genotype‑Positive/Phenotype‑Negative Screening  
+- Cardiac Magnetic Resonance (CMR) Imaging  
+- Left Ventricular Apical Aneurysm  
+- Provocative Maneuvers (Valsalva, squat‑to‑stand, standing)  
+- Exercise TTE  
+- Surgical Septal Myectomy  
+- Alcohol Septal Ablation  
+- Intracoronary Ultrasound‑Enhancing Contrast  
+- Septal Perforator Injection  
+- Septal Radiofrequency Therapy (SRT)  
+- Wall Thickness Measurement  
+- Chamber Dimension Assessment  
+- Resting Peak LVOT Gradient < 50 mm Hg  
+- Dynamic LVOTO Detection and Quantification  
+- Phenotype Severity Assessment  
+- Sudden Cardiac Death (SCD) Risk Stratification  
+- Serial Follow‑up Echocardiography (every 1–2 years)  
+- Non‑conclusive TTE → TEE or CMR  
+- Imaging Modality for Myocardial Hypertrophy Pattern (apical, atypical, etc.)  
+- Ultrasound‑Enhancing Agent Use (intravenous, intracardiac)  
+- Structural Cardiac Abnormalities (mitral valve apparatus, subaortic membrane)  
+- Concomitant Cardiac Abnormalities (systolic, diastolic, valvular)
+
+Page 16 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Left ventricular outflow tract obstruction (LVOTO)  
+- LVOT gradient  
+- Valsalva maneuver  
+- Stress echocardiography  
+- Postprandial exercise  
+- Exercise testing  
+- Intraoperative transesophageal echocardiography (TEE)  
+- Surgical myectomy  
+- Mitral valve abnormalities  
+- Mitral regurgitation (MR)  
+- Septal hypertrophy  
+- Systolic anterior motion (SAM)  
+- Ventricular septal defect (VSD)  
+- Aortic insufficiency (AI)  
+- Left ventricular (LV) systolic function  
+- LV diastolic function  
+- LV strain (speckle‑track)  
+- Left ventricular hypertrophy (LVH)  
+- Apical hypertrophy  
+- Aneurysm (LV)  
+- Thrombus (LV)  
+- Alcohol septal ablation  
+- Transthoracic echocardiography (TTE)  
+- Cardiac magnetic resonance imaging (CMR)  
+- Ultrasound‑enhancing agents  
+- Family screening (first‑degree relatives)  
+- Genotype‑positive, phenotype‑negative status  
+- Penetrance  
+- Sudden cardiac death (SCD)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Cardiac intervention (e.g., myectomy, ICD placement)  
+- Hydration status  
+- Diuretics  
+- Vasodilators  
+- Hypertension  
+- Septal reduction therapy (SRT)  
+- LVOT gradient reduction post‑ablation  
+- Residual SAM post‑myectomy or ablation  
+
+Page 17 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- CMR Imaging (Cardiac Magnetic Resonance Imaging)  
+- LVH (Left Ventricular Hypertrophy)  
+- LGE (Late Gadolinium Enhancement)  
+- SCD (Sudden Cardiac Death)  
+- ICD (Implantable Cardioverter‑Defibrillator)  
+- LV wall thickness  
+- EF (Ejection Fraction)  
+- LV apical aneurysm  
+- Myocardial replacement fibrosis  
+- LV mass  
+- LVOT (Left Ventricular Outflow Tract) obstruction  
+- LV cavity dimensions  
+- Pressure overload (hypertension, athletic conditioning)  
+- Infiltrative cardiomyopathies (e.g., amyloid)  
+- Lysosomal storage diseases  
+- Glycogen storage diseases  
+- Echocardiography  
+- ECG (12‑lead electrocardiogram)  
+- Cardiac symptoms  
+- Inherited heart disease  
+- Systolic dysfunction (EF < 50%)  
+- Ventricular tachyarrhythmias  
+- Ventricular dysfunction  
+- Heart failure (HF) symptoms  
+- Mitral valve structural abnormalities  
+- Subvalvular apparatus abnormalities  
+- Noninvasive risk markers  
+- LV remodeling (ventricular cavity enlargement, wall thinning)  
+- LV segment involvement  
+- Quantification of LGE (≥ 15 % LV mass)  
+- Diagnostic clarification  
+- Risk stratification  
+- Preprocedural planning for surgical or catheter‑based interventions (SRT)
+
+Page 18 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Left Ventricular Outflow Tract (LVOT)  
+- Septal myectomy  
+- Percutaneous alcohol ablation  
+- Cardiac Magnetic Resonance (CMR) imaging  
+- Echocardiography  
+- Late Gadolinium Enhancement (LGE)  
+- Sudden Cardiac Death (SCD)  
+- Implantable Cardioverter-Defibrillator (ICD) therapy  
+- Left Ventricular Hypertrophy (LVH)  
+- Systolic dysfunction  
+- Systolic Anterior Motion (SAM)  
+- Subvalvular apparatus  
+- Papillary muscles (abnormal positioning, insertion)  
+- Accessory muscle bundles  
+- Chordal connections  
+- Apical aneurysm  
+- Myocardial fibrosis  
+- Cardiac Computed Tomography (CT)  
+- CT angiography  
+- Coronary anatomy  
+- Coronary stenosis  
+- Anomalous origin of coronary arteries  
+- Radiation exposure (CT)  
+- Heart rhythm assessment  
+- 12‑lead Electrocardiogram (ECG)  
+- Ambulatory ECG monitoring (24–48 h)  
+- Extended (>24 h) ECG monitoring  
+- Event recording (for palpitations/light‑headedness)  
+- Atrial fibrillation (AF)  
+- Anticoagulation  
+- Risk score for AF  
+- First‑degree relatives (screening)  
+- Risk factors (e.g., for AF, SCD)  
+- Periodic longitudinal evaluation (CMR)  
+- LV wall‑thickness measurement  
+- Subaortic membrane  
+- Intracardiac thrombus  
+
+Page 19 Extracted Terms:
+- 12‑lead ECG  
+- LVH (left ventricular hypertrophy)  
+- Repolarization changes  
+- Wolff‑Parkinson‑White pattern  
+- Phenocopies of hypertrophic cardiomyopathy (HCM)  
+- Amyloidosis  
+- Low‑voltage ECG findings  
+- Conduction delays  
+- Pseudo‑myocardial‑infarction pattern  
+- HCM screening (family screening)  
+- Pre‑participation athletic screening  
+- Ambulatory electrocardiographic monitoring  
+- Ventricular tachyarrhythmias  
+- Non‑sustained ventricular tachycardia (NSVT)  
+- Sudden cardiac death (SCD)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Arrhythmias (general)  
+- Atrial fibrillation (AF)  
+- Stroke (as an AF complication)  
+- Left atrial dilatation  
+- NYHA functional class III–IV heart failure  
+- HCM‑AF risk score  
+- Angiography (coronary)  
+- Coronary atherosclerosis  
+- Surgical myectomy  
+- Invasive hemodynamic assessment (cardiac catheterization)  
+- LVOTO (left ventricular outflow tract obstruction)  
+- Myocardial ischemia  
+- Gene carriers (HCM genetics)  
+- Echocardiography (screening modality)
+
+Page 20 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Echocardiography (transthoracic echocardiography, TTE)  
+- Left‑ventricular outflow tract obstruction (LVOTO)  
+- LVOT gradient / LVOT peak gradient  
+- Invasive hemodynamic assessment  
+- Coronary artery disease (CAD)  
+- Coronary angiography  
+- Atherosclerosis / atherosclerotic risk factors  
+- Myocardial bridging  
+- Alcohol septal ablation  
+- Exercise stress testing / exercise TTE  
+- Cardiopulmonary exercise testing  
+- Heart failure (HF)  
+- New York Heart Association (NYHA) functional classes II–IV, III–IV, IV  
+- Valsalva maneuver  
+- Premature ventricular contraction (PVC)  
+- Brockenbrough‑Braunwald‑Morrow sign  
+- End‑hole pigtail catheter  
+- Halo catheter  
+- Left‑ventricular function / cardiac output  
+- Filling pressures (e.g., left‑systolic filling pressure)  
+- Pulmonary hypertension  
+- Concomitant valve disease  
+- Mechanical circulatory support (e.g., LVAD)  
+- Heart transplantation  
+- LVOT peak gradient ≥ 50 mm Hg  
+- Dynamic LVOTO detection and quantification  
+- Provocative maneuvers for LVOT gradient assessment  
+- Epicardial CAD assessment  
+- Non‑invasive testing (nuclear imaging, stress echo)  
+- Exercise TTE for functional capacity and prognostic information  
+
+Page 21 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Heart failure (HF)  
+- Ventricular arrhythmias  
+- Sudden cardiac death (SCD)  
+- Cardiopulmonary exercise test (CPET)  
+- Cardiovascular exercise capacity  
+- Myocardial ischemia  
+- Resting electrocardiogram (ECG)  
+- Wall motion abnormalities  
+- Myocardial perfusion imaging  
+- Single‑photon emission computed tomography (SPECT)  
+- Positron emission tomography (PET)  
+- Epicardial coronary artery disease (CAD)  
+- Coronary angiography (CT or invasive)  
+- Dobutamine stress testing  
+- Intracavitary gradients  
+- Left ventricular outflow tract (LVOT) obstruction (LVOTO)  
+- LVOT gradients  
+- Transthoracic echocardiography (TTE)  
+- Valsalva maneuver  
+- Stress echocardiography  
+- Postprandial exercise stress testing  
+- Pediatric exercise testing (≥ 7–8 years old)  
+- Cardiac transplantation evaluation  
+- Abnormal blood pressure response to exercise  
+- Transplant‑free survival  
+- Exercise‑induced ischemic electrocardiographic changes  
+- Chronotropic incompetence  
+- Heart rate reserve  
+- Peak oxygen consumption (peak VO₂)  
+- Peak VO₂ pre‑operative  
+- Peak VO₂ post‑operative  
+- Ventilatory efficiency  
+- Anaerobic threshold  
+- Advanced heart failure progression  
+- Septal myectomy  
+- Functional limitation (provocable LVOTO, abnormal BP response, arrhythmias, etc.)  
+- Functional capacity (age‑ and sex‑adjusted)  
+- Advanced therapies for LVOTO  
+- 3‑generation family history screening  
+- Genetic testing for HCM and HCM phenocopies  
+- Cascade genetic testing for family members  
+- Genetic counseling in cardiovascular disease.
+
+Page 22 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Genetic testing  
+- Cascade genetic testing  
+- Sudden unexplained death (SCD)  
+- Electrocardiogram (ECG)  
+- Two‑dimensional echocardiogram  
+- Postmortem genetic testing  
+- Variant reclassification  
+- Variant of uncertain significance (VUS)  
+- Genotype‑positive / genotype‑negative  
+- Sarcomere genes  
+- MYH7  
+- MYBPC3  
+- TNNI3  
+- TNNT2  
+- TPM1  
+- MYL2  
+- MYL3  
+- ACTC1  
+- PRKAG2 (glycogen‑storage disease)  
+- LAMP2 (Danon disease)  
+- GLA (Fabry disease)  
+- Transthyretin amyloid cardiomyopathy  
+- RASopathies  
+- Enzyme replacement therapy  
+- Pretest genetic counseling  
+- Posttest genetic counseling  
+
+These terms encapsulate the major heart‑disease concepts discussed in the guideline excerpt.
+
+Page 23 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Sarcomere variant  
+- Pathogenic variant  
+- Likely pathogenic variant  
+- Variant of Uncertain Significance (VUS)  
+- Cascade genetic testing  
+- Penetrance  
+- Sudden Cardiac Death (SCD)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Atrial Fibrillation (AF)  
+- Ventricular arrhythmias  
+- Heart Failure (HF)  
+- Genetic testing (including exome sequencing, targeted gene panel)  
+- Postmortem testing / Molecular autopsy  
+- Family screening / clinical surveillance  
+- Autosomal dominant inheritance  
+- Prenatal genetic counseling  
+- In vitro fertilization with preimplantation genetic diagnosis (PGD)  
+- Phenotypic heterogeneity
+
+These terms capture the core disease concepts, genetic considerations, diagnostic methods, and clinical interventions discussed in the guideline excerpt.
+
+Page 24 Extracted Terms:
+- **Hypertrophic Cardiomyopathy (HCM)**  
+- **Atrial Fibrillation (AF)**  
+- **Cardiovascular Magnetic Resonance (CMR)**  
+- **Cardiopulmonary Exercise Test (CPET)**  
+- **Electrocardiography / Electrocardiogram (ECG)**  
+- **Echocardiography / Echocardiogram (Echo)**  
+- **Heart Failure (HF)**  
+- **Implantable Cardioverter‑Defibrillator (ICD)**  
+- **Left Ventricular Outflow Tract Obstruction (LVOTO)**  
+- **Sudden Cardiac Death (SCD)**  
+- **Variant of Unknown Significance (VUS)**  
+- **Clinical Screening / Surveillance**
+
+Page 25 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Genotype‑positive, phenotype‑negative individuals  
+- Preclinical HCM  
+- Left ventricular hypertrophy (LVH)  
+- Myocardial strain abnormalities  
+- Left ventricular relaxation abnormalities  
+- Myocardial crypts  
+- Mitral valve leaflet abnormalities  
+- Abnormal trabeculae  
+- Myocardial scarring  
+- Electrocardiographic (ECG) abnormalities  
+- Serum NT‑proBNP concentrations  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Primary prevention  
+- Cardiac imaging  
+- Serial clinical assessment  
+- Electrocardiography  
+- Cardiac surveillance  
+- Competitive sports participation  
+- Pathogenic variant  
+- Likely pathogenic variant  
+- Variant of unknown significance (VUS)
+
+Page 26 Extracted Terms:
+**Key terms related to heart disease**
+
+- Hypertrophic cardiomyopathy (HCM)  
+- Genotype‑positive, phenotype‑negative individuals  
+- Sudden cardiac death (SCD)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Medical therapy (e.g., diltiazem)  
+- Surgical therapy  
+- Device therapy  
+- Clinical HCM onset  
+- Phenotype conversion  
+- Screening (genotype‑positive family members)  
+- Age‑related risk (≤18 years, >18 years, mid‑life ≈ 50 years)  
+- Family history of SCD  
+- Competitive sports participation  
+- Ambulatory electrocardiography (AECG)  
+- Exercise stress testing  
+- Non‑invasive SCD risk assessment  
+- Personal history of cardiac arrest or sustained ventricular arrhythmias  
+- Personal history of arrhythmic syncope  
+- Family history of premature HCM‑related sudden death, cardiac arrest, or sustained ventricular arrhythmias  
+- Maximal left ventricular (LV) wall thickness  
+- Left ventricular ejection fraction (EF)  
+- LV apical aneurysm  
+- Nonsustained ventricular tachycardia (NSVT) episodes  
+- Cardiac magnetic resonance (CMR) imaging  
+- Late gadolinium enhancement (LGE)  
+- Echocardiographic parameters: left atrial diameter, LV outflow tract (LVOT) gradient  
+- Estimated 5‑year sudden death risk  
+- Risk stratification for ICD placement  
+- Shared decision‑making  
+- SCD risk markers (clinical, imaging, electrophysiologic)  
+- Disease penetrance  
+- Age‑specific risk prediction models  
+- Clinical screening intervals (1–2 years)  
+
+These terms capture the central concepts, risk factors, diagnostic tools, treatment options, and patient management strategies discussed in the guideline excerpt.
+
+Page 27 Extracted Terms:
+**Key Heart‑Disease Terms (from the HCM guideline excerpt)**  
+
+- Hypertrophic Cardiomyopathy (HCM)  
+- Sudden Cardiac Death (SCD)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Ventricular tachyarrhythmias  
+- Nonsustained Ventricular Tachycardia (NSVT)  
+- Ventricular Tachycardia (VT)  
+- Left Ventricular (LV) wall thickness  
+- Left Ventricular Hypertrophy (LVH)  
+- Left Ventricular ejection fraction (EF)  
+- Late Gadolinium Enhancement (LGE)  
+- Cardiovascular Magnetic Resonance (CMR) imaging  
+- LV apical aneurysm  
+- LV systolic dysfunction (EF < 50 %)  
+- Family history of sudden death from HCM  
+- Syncope (unexplained, arrhythmia‑related)  
+- Genetic testing / genotype status (pathogenic/likely pathogenic variants)  
+- Predictive risk scores (5‑year SCD risk)  
+- Risk stratification (for ICD decision‐making)  
+- Ambulatory electrocardiographic monitoring (24‑48 h)  
+- Cardiac imaging (for maximal LV thickness, wall thickness, EF, LGE)  
+- Transmural scar (identified by LGE)  
+- Left Ventricular Outflow Tract Obstruction (LVOTO)  
+- Periodic reassessment of SCD risk  
+- Longitudinal evaluation of HCM patients  
+- Myocardial replacement fibrosis  
+- Extensive LGE (≥ 15 % LV mass)  
+- Pediatric HCM risk indicators (e.g., maximal wall thickness z‑score ≥ 20, age ≤ 50 yr for family history)
+
+Page 28 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Sudden Cardiac Death (SCD)  
+- Estimated 5‑year SCD risk  
+- Echocardiographic left atrial diameter  
+- Maximal instantaneous LVOT gradient  
+- Continuous‑wave Doppler technique  
+- Systolic dysfunction (EF < 50%)  
+- Ejection fraction (EF)  
+- Apical aneurysm  
+- Late Gadolinium Enhancement (LGE)  
+- Left ventricular (LV) wall thickness  
+- Left ventricular outflow tract (LVOT)  
+- LV posterior wall thickness  
+- Non‑sustained ventricular tachycardia (NSVT)  
+- Ambulatory electrocardiographic monitoring  
+- Non‑invasive SCD risk assessment  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Cardiac magnetic resonance (CMR) imaging  
+- Myocardial fibrosis  
+- Myocardial replacement fibrosis  
+- Genotype / genetic variants  
+- Syncope  
+- Family history of premature HCM‑related sudden death  
+- Personal history of cardiac arrest or sustained ventricular arrhythmias  
+- Body surface area–adjusted z‑score for LV wall thickness  
+- Risk prediction models for children with HCM  
+- Shared decision‑making for ICD placement  
+- Psychological impact of ICD implantation  
+- Inappropriate ICD shock  
+- Contrast‑enhanced CMR  
+- 24‑ to 48‑hour monitoring  
+- 5‑year risk estimate calculation  
+- Interventricular septal thickness in diastole  
+- LV wall thickness measurement in any segment  
+- Presence of apical aneurysm on imaging  
+- Extent of late gadolinium enhancement (LGE) on CMR  
+- Pediatric‑specific risk markers  
+- Clinical evaluation of risk factors (Figures 1, 3; Table 8)
+
+Page 29 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Hypertrophic Cardiomyopathy (HCM)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Sudden Cardiac Death (SCD)  
+- Left Ventricular Outflow Tract (LVOT) gradient  
+- Non‑Sustained Ventricular Tachycardia (NSVT)  
+- Late Gadolinium Enhancement (LGE)  
+- Left Ventricular Hypertrophy (LVH)  
+- Apical aneurysm (LV apical aneurysm)  
+- Left Ventricular ejection fraction (EF)  
+- Systolic dysfunction (EF < 50 %)  
+- Transmural scar  
+- Massive LVH (≥ 30 mm in any LV segment)  
+- Unexplained syncope  
+- Exercise‑induced ischemia  
+- Family history of early HCM‑related SCD  
+- Cardiac arrest (documented)  
+- Sustained ventricular tachycardia (VT)  
+- Ventricular tachyarrhythmias (VT/VF)  
+- Contrast‑enhanced Cardiac Magnetic Resonance (CMR) imaging  
+- Ambulatory monitoring (for NSVT)  
+- Competitive athletics (as a clinical consideration)  
+- Risk stratification  
+- Shared decision‑making (in ICD placement)  
+- Risk‑estimate calculator (5‑year SCD risk)  
+- SCD risk markers (e.g., LV apical aneurysm, LGE, EF < 50 %)  
+
+These terms capture the main clinical entities, diagnostic measures, risk factors, and therapeutic considerations discussed in the guideline.
+
+Page 30 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Sudden cardiac death (SCD)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Ventricular tachycardia (VT)  
+- Ventricular fibrillation (VF)  
+- Non‑sustained ventricular tachycardia (NSVT)  
+- Late gadolinium enhancement (LGE)  
+- Left ventricular systolic dysfunction (EF < 50 %)  
+- Left ventricular apical aneurysm  
+- Risk stratification  
+- Risk‑factor algorithm  
+- Primary‑prevention ICD  
+- Secondary‑prevention ICD  
+- Pediatric HCM  
+- Age‑appropriate risk factors  
+- Genotype status  
+- Left atrial diameter z‑score  
+- Ambulatory (Holter) monitoring  
+- SCD risk calculator  
+- Shared‑decision making  
+- Long‑term complications of ICD therapy
+
+Page 31 Extracted Terms:
+**Key heart‑disease terms extracted from the guideline text**
+
+- Hypertrophic Cardiomyopathy (HCM)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Transvenous ICD  
+- Subcutaneous ICD  
+- Single‑chamber ICD  
+- Dual‑chamber ICD  
+- Single‑coil ICD leads  
+- Dual‑coil ICD leads  
+- Defibrillation threshold  
+- Ventricular tachycardia (VT)  
+- Ventricular fibrillation (VF)  
+- Atrial tachycardia  
+- Atrial fibrillation (AF)  
+- Obstructive HCM  
+- Non‑obstructive HCM  
+- Cardiac resynchronization therapy (CRT)  
+- Left bundle branch block (LBBB)  
+- Left ventricular ejection fraction (LVEF)  
+- New York Heart Association (NYHA) class  
+- Nonsustained ventricular tachycardia (NSVT)  
+- Sudden cardiac death (SCD)  
+- Late gadolinium enhancement (LGE)  
+- Left ventricular hypertrophy (LVH)  
+- Bradycardia  
+- Conduction abnormalities  
+- Pediatric ICD implantation  
+- Epicardial leads  
+- Family history of HCM  
+- Massive LVH  
+- Unexplained syncope  
+- Cardiovascular magnetic resonance (CMR)  
+- Shared decision‑making (as a key process in risk assessment)
+
+Page 32 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Transvenous ICD  
+- Subcutaneous ICD  
+- ICD lead failure / lead infection  
+- Oversensing (post‑exercise)  
+- Inappropriate shock  
+- Bradycardia pacing  
+- Ventricular tachycardia (VT)  
+- Defibrillation threshold / testing  
+- Single‑coil ICD lead  
+- Dual‑coil ICD lead  
+- Left‑sided ICD implant  
+- Right‑sided ICD implant  
+- Epicardial ICD system  
+- Left ventricular outflow tract (LVOT)  
+- LVOT gradient (≥30 mm Hg)  
+- Dual‑chamber pacing system  
+- RV apical pacing  
+- Cardiac resynchronization therapy (CRT)  
+- CRT‑defibrillator  
+- Left ventricular assist device (LVAD)  
+- Heart transplantation  
+- New York Heart Association (NYHA) functional class  
+- Left ventricular ejection fraction (LVEF)  
+- QRS duration  
+- Left bundle branch block (LBBB)  
+- Beta blockers (non‑vasodilating)  
+- LVOT obstruction (LVOTO)  
+- Pharmacologic management of obstructive HCM  
+- AHA/ACC/HFSA guideline  
+- AHA/ACC/HRS guideline  
+- Atrial lead  
+- Supraventricular arrhythmia  
+- Ventricular arrhythmia  
+- Pediatric atrial tachyarrhythmia  
+
+These are the principal heart‑disease related terms extracted from the guideline text.
+
+Page 33 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Obstructive HCM  
+- Left ventricular outflow tract obstruction (LVOTO)  
+- Beta blockers  
+- Nondihydropyridine calcium channel blockers  
+- Verapamil  
+- Diltiazem  
+- Myosin inhibitor  
+- Mavacamten  
+- Disopyramide  
+- Septal reduction therapy (SRT)  
+- Phenylephrine  
+- Vasoconstrictors (non‑inotropic)  
+- Fluid administration  
+- Diuretics  
+- Low‑dose oral diuretics  
+- High‑dose diuretics  
+- Left‑sided filling pressures  
+- Volume overload  
+- Dyspnea  
+- Hypotension  
+- Acute hypotension  
+- Angiotensin‑converting enzyme inhibitors (ACE inhibitors)  
+- Angiotensin receptor blockers (ARBs)  
+- Dihydropyridine calcium channel blockers  
+- Digoxin  
+- Left ventricular ejection fraction (LVEF)  
+- Outflow tract gradient  
+- Dynamic LV obstruction  
+- Pharmacologic therapy  
+- Symptom relief  
+- Risk evaluation and mitigation strategy  
+- Comprehensive HCM centers  
+- Midventricular obstruction
+
+Page 34 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Left Ventricular Outflow Tract Obstruction (LVOTO)  
+- LVOT gradient  
+- Septal Reduction Therapy (SRT)  
+- Alcohol Septal Ablation  
+- Surgical Myectomy  
+- Mitral Valve Replacement  
+- Atrioventricular Node  
+- Atrial Fibrillation (AF)  
+- β‑Blocker  
+- Verapamil  
+- Diltiazem  
+- Disopyramide  
+- Phenylephrine (intravenous vasoconstrictor)  
+- Diuretics  
+- Vasoconstrictors  
+- Vasodilators  
+- Inotropic agents  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- New‑Guideline Recommendations (NG)  
+- Acute Hypotension  
+- Preload  
+- Afterload  
+- Contractility  
+- Heart Rate  
+- Supraventricular Tachycardia  
+- Congestive Heart Failure (HF)  
+- Pulmonary Hypertension  
+- Left Atrial Enlargement (LAE)  
+- Systolic Anterior Motion (SAM)  
+- Anomalous Papillary Muscle  
+- Elongated Anterior Mitral Leaflet  
+- Intrinsic Mitral Valve Disease  
+- Multivessel Coronary Artery Disease (CAD)  
+- Aortic Stenosis  
+- NYHA Functional Class  
+- Dynamic LVOT Gradient at Rest or Provocation  
+- Targeted Anterior Septal Thickness  
+- Comprehensive HCM Centers  
+- Symptom‑relief of LVOTO  
+- Hemodynamic Parameters (gradient ≥ 50 mm Hg)  
+- Clinical Eligibility Criteria  
+- Early Surgical Intervention (NYHA II)  
+- Risk Stratification (Serious Comorbidities, Advanced Age)  
+- Shared Decision‑Making in Treatment Choices  
+- Contraindication: High‑Dose Diuretics  
+- Contraindication: Pure Vasodilators  
+- Contraindication: Positive Inotropes  
+- Conduction System Modulation  
+- Pre‑operative Functional Capacity Assessment  
+- Treadmill Exercise Testing  
+- SRT Not Recommended in Asymptomatic Patients  
+- Mitral Regurgitation (MR) Associated with LVOTO  
+- SRT in Pediatric and Young Adult Patients (> 100 mm Hg gradient)  
+- Use of β‑Blockade with Vasoconstrictor to Reduce Heart Rate and Contractility  
+- Low‑Dose Diuretics for Congestion in HCM  
+- Aggressive Diuresis Leading to LVOTO Amplification  
+- High-Grade LVOT Gradients (80–100 mm Hg)  
+- Life‑threatening Bradycardia with Verapamil in Neonates  
+- Clinical Outcomes for SRT and Surgical Myectomy  
+- Safety Profile of Verapamil and Diltiazem in HCM  
+- Post-Treatment Surveillance of LVOT Gradients  
+- Role of Primary HCM Centers in Procedural Excellence  
+- Management of Concomitant Cardiac Conditions in HCM  
+- Use of Vasodilators in Hypertension and Renal Protection  
+- Treatment of Concomitant Coronary Artery Disease in HCM patients  
+- Pharmacologic Modulation of Preload and Afterload in HCM Therapy.
+
+Page 35 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Left Ventricular Outflow Tract Obstruction (LVOTO)  
+- Septal Myectomy (surgical)  
+- Transaortic Septal Myectomy / Extended Septal Myectomy (ESM)  
+- Alcohol Septal Ablation  
+- Septal Reduction Therapy (SRT)  
+- Atrial Fibrillation (AF) / Paroxysmal AF  
+- Pulmonary Vein Isolation  
+- Maze Procedure  
+- Anomalous Papillary Muscle  
+- Elongated Anterior Mitral Leaflet  
+- Mitral Regurgitation (MR)  
+- Coronary Artery Disease (CAD)  
+- Aortic Stenosis  
+- Left Ventricular Hypertrophy  
+- Pulmonary Hypertension  
+- Left Atrial Enlargement  
+- Arrhythmia (atrial, ventricular)  
+- Permanent Pacemaker  
+- New‑Onset AF Burden  
+- NYHA Functional Class  
+- HCM Center / Comprehensive Center  
+- Modified Konno Procedure  
+- Transapical Approach  
+- Combined Transaortic & Transapical Approach  
+- Gradient Relief (LVOT gradient)  
+- Post‑operative Hemodynamic Instability  
+- Recurrent Outflow Tract Obstruction  
+- Systolic Anterior Motion (SAM)  
+- Clinical Success Rate  
+- Operative Mortality Rate  
+- Pacemaker Implantation Risk  
+- Repeat Intervention Risk  
+- Surgical Myectomy Benefit (e.g., improvement in pulmonary hypertension, exercise tolerance, reverse atrial enlargement)
+
+Page 36 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Nonobstructive HCM  
+- Obstructive HCM  
+- Septal myectomy  
+- Septal reduction therapy (SRT)  
+- Systolic anterior motion (SAM)  
+- Mitral regurgitation (MR)  
+- Mitral valve replacement  
+- Mitral valve repair  
+- NYHA functional class  
+- Angina  
+- Dyspnea  
+- Heart failure (HF)  
+- Left ventricular (LV) dysfunction  
+- LV wall thickness  
+- LV end‑diastolic volume  
+- LV stroke volume  
+- Diastolic dysfunction  
+- Restrictive physiology  
+- Coronary artery disease (CAD)  
+- Beta blockers  
+- Nondihydropyridine calcium channel blockers (e.g., verapamil, diltiazem)  
+- Oral diuretics  
+- Angiotensin‑converting enzyme inhibitors (ACEi)  
+- Angiotensin receptor blockers (ARBs)  
+- Valsartan  
+- Procedural mortality  
+- Hospital morbidity/mortality  
+- Length of hospitalization  
+- Shared decision‑making  
+- Exercise tolerance  
+- Ventricular remodeling  
+- Pathogenic cardiac sarcomere genetic variant  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Hypertension  
+- Diabetes  
+- Obesity  
+- Obstructive sleep apnea  
+- Physical inactivity
+
+Page 37 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Obstructive HCM  
+- Non‑obstructive HCM  
+- LV outflow tract obstruction (LVOTO)  
+- Left ventricular ejection fraction (LVEF)  
+- Systolic dysfunction  
+- Diastolic dysfunction  
+- LV mass  
+- LV wall thickness  
+- LV end‑diastolic volume  
+- LV stroke volume  
+- LV end‑diastolic pressure  
+- Left atrial size  
+- Diastolic parameters  
+- Left ventricle (LV)  
+- Myocardial fibrosis  
+- Heart failure (HF)  
+- Heart failure with reduced ejection fraction (HFrEF)  
+- NYHA functional class I–IV  
+- NYHA class III–IV  
+- Guideline‑directed medical therapy (GDMT)  
+- Beta blockers  
+- Nondihydropyridine calcium‑channel blockers  
+- Verapamil  
+- Diltiazem  
+- Loop diuretics  
+- Thiazide diuretics  
+- Aldosterone antagonists  
+- Angiotensin‑converting enzyme inhibitors (ACEi)  
+- Angiotensin receptor blockers (ARBs)  
+- Losartan  
+- Valsartan  
+- Sarcomeric genetic variants  
+- Angina  
+- Refractory angina  
+- Dyspnea  
+- Ventricular arrhythmias  
+- Transapical myectomy  
+- Heart transplantation  
+- Mechanical circulatory support  
+- Cardiopulmonary exercise testing (CPET)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- ICD shocks (appropriate ICD shocks)  
+- Chronotropic incompetence  
+- Ambulatory ECG  
+- Stress test (exercise test)  
+- Bradycardia  
+- Atrioventricular conduction block  
+- LV end‑diastolic volume <50 mL/m² (small cavity definition)  
+- LV stroke volume <30 mL/m² (small cavity definition)
+
+Page 38 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Heart Failure (HF)  
+- Nonobstructive HCM  
+- Obstructive HCM / LVOTO (left ventricular outflow tract obstruction)  
+- New York Heart Association (NYHA) functional classes I–IV  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Reduced LVEF (<50%)  
+- Severely reduced LVEF (<35%)  
+- Generalized Disease‑Managing Therapy (GDMT)  
+- Cardiac resynchronization therapy (CRT)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Left Ventricular Assist Device (LVAD)  
+- Continuous‑flow LVAD  
+- Heart transplantation / transplant evaluation  
+- Life‑threatening ventricular arrhythmias  
+- Sudden Cardiac Death (SCD)  
+- Ventricular tachycardia/fibrillation (VT/VF)  
+- Ventricular arrhythmia monitoring  
+- Cardiopulmonary exercise testing (CPET)  
+- Peak oxygen consumption (VO₂ peak)  
+- Minute ventilation to CO₂ production (VE/VCO₂)  
+- Ventilatory anaerobic threshold  
+- Cardiac myosin inhibitors (e.g., mavacamten)  
+- Negative inotropes (verapamil, diltiazem, disopyramide)  
+- Restrictive physiology / restrictive cardiomyopathy phenotype  
+- Left Ventricular (LV) dilation / chamber size  
+- Coronary Artery Disease (CAD)  
+- Valvular heart disease  
+- Metabolic disorders affecting the heart  
+- AHA/ACC/HFSA heart failure guideline  
+- United Network for Organ Sharing (UNOS) heart transplant allocation policy  
+- Heart transplant listing criteria for HCM  
+- Mechanical circulatory support (MCS)  
+- Advanced heart failure therapies  
+- Clinical guideline classification (e.g., B‑NR, B‑R, C‑EO, C‑LD)  
+- Prognostic risk stratification tools  
+
+These terms capture the key concepts, diagnoses, therapeutic interventions, risk factors, diagnostic tools, and guideline references relevant to heart disease as discussed in the provided text.
+
+Page 39 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Cardiomyopathy  
+- Myocardial contractility  
+- Left Ventricular Ejection Fraction (LVEF)  
+- Mavacamten (myosin‑inhibitor drug)  
+- Heart transplantation  
+- Management of symptoms in HCM  
+- Clinical guideline (2024 Hypertrophic Cardiomyopathy Guideline)
+
+Page 40 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Heart failure algorithm  
+- Cardiac myosin inhibitor  
+- Left ventricular ejection fraction (LVEF) / ejection fraction (EF)  
+- Cardiac resynchronization therapy (CRT)  
+- Guideline‑directed medical therapy (GDMT)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Left ventricular assist device (LVAD)  
+- Left bundle branch block (LBBB)  
+- New York Heart Association (NYHA) classification  
+
+Page 41 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Left ventricular ejection fraction (LVEF)  
+- Systolic dysfunction  
+- Heart failure (HF)  
+- LVAD (left ventricular assist device)  
+- ICD (implantable cardioverter‑defibrillator)  
+- Cardiac resynchronization therapy (CRT)  
+- Atrial fibrillation (AF)  
+- Direct‑acting oral anticoagulants (DOACs)  
+- Vitamin K antagonists (e.g., warfarin)  
+- Beta‑blockers  
+- Verapamil  
+- Diltiazem  
+- Disopyramide  
+- Temporary mechanical circulatory support (e.g., biventricular support)  
+- Ventricular arrhythmias / malignant arrhythmias  
+- LV cavity size / dimensions (e.g., ≥46‑50 mm)  
+- QRS duration (≥150 ms)  
+- Left bundle branch block (LBBB)  
+- Malignant arrhythmia risk stratification (SHaRe score)  
+- Sudden cardiac death (SCD)  
+- AF burden / episode duration (>24 h or >5 min)  
+- Cardioversion and rhythm‑control strategies  
+- Catheter ablation for AF  
+- Surgical myectomy with concomitant AF ablation  
+- HF hospitalizations  
+- Survival outcomes in HF/HCM patients  
+- Anticoagulation strategy independent of CHA₂DS₂‑VASc score  
+- Systolic EF thresholds (≤35%, 35‑50%, ≤50%)  
+
+These terms capture the major heart‑disease concepts referenced in the guideline excerpts.
+
+Page 42 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Atrial fibrillation (AF)  
+- Clinically evident AF  
+- Asymptomatic/Subclinical AF (SCAF)  
+- Atrial flutter  
+- Thromboembolic events / thromboembolism  
+- Stroke risk / systemic embolization  
+- Anticoagulation therapy  
+- Vitamin K antagonists (e.g., warfarin)  
+- Direct oral anticoagulants (DOACs)  
+- Left atrial appendage occlusion devices  
+- CHA₂DS₂‑VASc score  
+- Rhythm‑control strategy  
+- Rate‑control strategy  
+- Antiarrhythmic drugs  
+- Catheter ablation  
+- Surgical atrial fibrillation ablation  
+- Myectomy (surgical myectomy)  
+- Supraventricular arrhythmias  
+- Cardiac devices / implantable devices  
+- Device‑detected AF  
+- Intracardiac electrocardiograms (ECGs)  
+- Cardiac imaging for monitoring AF burden  
+- Left ventricular outflow tract obstruction (LVOTO)  
+- Nondihydropyridine calcium channel blockers  
+- Beta‑blockers  
+- Digoxin  
+- Verapamil  
+- Atrioventricular node ablation  
+- Pacemaker implantation  
+- Stroke prevention measures  
+- Antithrombotic therapy effectiveness  
+- AF duration thresholds  
+- AF burden metrics  
+- Thromboembolism incidence in HCM  
+- Anticoagulation risk-benefit assessment in HCM.
+
+Page 43 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Atrial fibrillation (AF)  
+- Stroke  
+- CHADS2 score  
+- NYHA functional class  
+- Left atrial diameter  
+- Vascular disease  
+- Left ventricular (LV) wall thickness  
+- LV outflow tract obstruction (LVOTO)  
+- Diastolic dysfunction / impairment  
+- Mitral regurgitation (MR)  
+- Antiarrhythmic drugs  
+  - Amiodarone  
+  - Disopyramide  
+  - Flecainide  
+  - Propafenone  
+  - Sotalol  
+  - Dofetilide  
+  - Dronedarone  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Catheter ablation  
+- Electrophysiologic remodeling  
+- Structural remodeling  
+- Atrial remodeling  
+- Torsades de pointes (TdP)  
+- Prolonged QTc  
+- Proarrhythmia  
+- Bradycardia  
+- Fatigue  
+- Headache  
+- Hepatic toxicity (liver)  
+- Pulmonary toxicity (lung)  
+- Endocrine toxicity (thyroid)  
+- Dermatologic toxicity (skin)  
+- Neurologic toxicity (neurologic)
+
+Page 44 Extracted Terms:
+Hypertrophic Cardiomyopathy (HCM)  
+HCM  
+Atrial fibrillation (AF)  
+AF  
+Catheter ablation  
+Surgical AF ablation  
+Open heart surgery  
+Myectomy  
+Left ventricular outflow tract (LVOT) gradient  
+LVOT gradient  
+Mitral regurgitation (MR)  
+MR  
+Negative atrial remodeling  
+Atrial remodeling  
+Ventricular arrhythmias  
+Ventricular tachyarrhythmias  
+Life‑threatening ventricular tachyarrhythmia  
+Heart transplantation  
+Transplant assessment  
+Implantable cardioverter‑defibrillator (ICD)  
+ICD  
+Antiarrhythmic drug therapy  
+Amiodarone  
+Dofetilide  
+Mexiletine  
+Sotalol  
+Beta‑blockers  
+Propafenone  
+Flecainide  
+Antitachycardia pacing  
+Programming antitachycardia pacing  
+Sustained monomorphic VT  
+Ventricular flutter  
+ICD shocks  
+ICD programming  
+Arrhythmia burden  
+Left atrial size  
+AF recurrence  
+AF burden  
+Quality of life  
+Overall survival  
+Transplant referral  
+OPTIC trial (Optimal Pharmacological Therapy in Cardioverter Defibrillator Patients)  
+Heart failure (HF)  
+Advanced heart failure  
+Restrictive physiology  
+Intracardiac arrhythmias
+
+Page 45 Extracted Terms:
+**Key terms related to heart disease (as extracted from the provided text)**
+
+- Hypertrophic cardiomyopathy (HCM)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Sudden cardiac death (SCD)  
+- Ventricular fibrillation (VF)  
+- Ventricular tachycardia (VT)  
+- Ventricular flutter  
+- Anti‑arrhythmic agents / therapy  
+- Anti‑tachycardia pacing (ATP)  
+- Catheter ablation  
+- Epicardial ablation  
+- Endocardial ablation  
+- Combined epicardial‑endocardial ablation  
+- Apical aneurysm  
+- Aneurysmectomy (surgical aneurysmectomy)  
+- Sympathetic denervation  
+- Left cardiac sympathetic denervation (LCS)  
+- Proarrhythmia (drug‑induced arrhythmia)  
+- ICD shocks (appropriate and inappropriate)  
+- Recurrent ventricular arrhythmias  
+- Pharmacologic therapy (beta‑blockers, etc.)  
+- Psychological trauma related to ICD shocks  
+- Cardiorespiratory fitness  
+- Physical performance / endurance  
+- Recreational physical activity (moderate–vigorous intensity)  
+- Competitive sports participation  
+- Metabolic equivalents (METs) – light, moderate, vigorous  
+- Borg scale of perceived exertion  
+- Phenotype‑negative / genotype‑positive status for HCM  
+- Shared decision‑making (SDM) in sports/physical activity  
+- Comprehensive cardiac evaluation (annual reassessment)  
+- ICD placement for sports participation (contraindicated)  
+- Cardiac risk stratification for HCM patients  
+
+These terms capture the principal clinical concepts, interventions, and lifestyle considerations pertaining to heart disease as described in the guideline excerpt.
+
+Page 46 Extracted Terms:
+- Hypertrophic cardiomyopathy  
+- HCM  
+- Sudden cardiac death (SCD)  
+- Genotype‑positive, phenotype‑negative status  
+- Ventricular arrhythmias  
+- Arrhythmic events  
+- Exercise intensity  
+- METs (metabolic equivalents)  
+- Moderate‑intensity exercise  
+- Vigorous‑intensity exercise  
+- Peak oxygen consumption  
+- Nonlethal arrhythmias  
+- Risk prediction models for SCD  
+- Family history of SCD  
+- NYHA functional class I‑II  
+- Cardiovascular mortality  
+- Obstructive physiology  
+- Ambulatory electrocardiography  
+- Exercise stress testing  
+- Physical activity guidelines for adults and children  
+- Aerobic exercise  
+- Competitive sports participation  
+- Exercise training compliance  
+- Electrocardiographic monitoring (ECG)
+
+Page 47 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Implantable Cardioverter‑Defibrillator (ICD)  
+- Sudden Cardiac Death (SCD)  
+- Guideline‑Directed Medical Therapy (GDMT)  
+- Ventricular arrhythmias  
+- Competitive athletics / sports participation  
+- Arrhythmic events  
+- Arrhythmic risk  
+- ICD shock rates  
+- ICD utilization  
+- Risk stratification for SCD  
+- SCD risk assessment  
+- Low‑molecular‑weight heparin (anticoagulation)  
+- Vitamin K antagonists (anticoagulation)  
+- Federal Motor Carrier Safety Administration (FMCSA) guidelines  
+- Federal Aviation Administration (FAA) guidelines  
+- Clinical evaluation of occupational risk  
+- Shared decision‑making  
+- Commercial driving (occupational consideration)  
+- Piloting an aircraft (occupational consideration)  
+- Manual labor / heavy lifting occupational consideration  
+- High physical performance occupations (law enforcement, firefighters)  
+
+Page 48 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Left ventricular outflow tract obstruction (LVOTO)  
+- Beta‑blockers (e.g., metoprolol, bisoprolol, labetalol, pindolol, propranolol, atenolol)  
+- Arrhythmias (atrial fibrillation, ventricular arrhythmias)  
+- Cardioversion (for new or recurrent AF)  
+- General or epidural anesthesia (used during delivery)  
+- Echocardiography (serial maternal and fetal imaging)  
+- Fetal echocardiography (for diagnosis of fetal HCM)  
+- Maternal‑fetal medicine (specialist care coordination)  
+- Anticoagulation therapy  
+  - Low‑molecular‑weight heparin  
+  - Warfarin  
+  - Direct oral anticoagulants (DOACs)  
+- Stroke risk in HCM patients with AF  
+- Maternal mortality in HCM pregnancy (very low)  
+- Heart failure (HF) in the context of HCM  
+- Mavacamten (contraindicated in pregnancy)  
+- Guideline‑directed medical therapy (GDMT)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Surgical relief therapy (SRT) for refractory LVOTO  
+- Advanced heart failure therapies (considered pre‑conception)  
+- Valsalva maneuver (during labor)  
+- Vaginal delivery (preferred first‑choice delivery option)  
+- Cesarean section (reserved for obstetric or emergency cardiac indications)  
+- Pregnancy counseling  
+  - Preconceptional genetic counseling  
+  - Prenatal genetic counseling  
+  - Preimplantation genetic testing  
+  - Fetal screening  
+  - Postnatal genetic testing  
+- Maternal/fetal risk assessment  
+- Reproductive options (informed decision‑making)
+
+Page 49 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Left Ventricular Outflow Tract Obstruction (LVOTO)  
+- Left Ventricular Hypertrophy (LVH)  
+- Heart Failure (HF)  
+- Atrial Fibrillation (AF)  
+- Ventricular Arrhythmias  
+- Stroke  
+- Beta‑blockers  
+- Non‑dihydropyridine Calcium Channel Blockers  
+- Diuretics  
+- Vasodilators  
+- Anticoagulation  
+- Thromboembolism  
+- Cardioversion  
+- Sleep‑Disordered Breathing  
+- Obesity  
+- Hypertension  
+- Primary Prevention  
+- Myosin Inhibitors  
+- Fetal Echocardiography  
+- Echocardiography  
+- Pregnancy (obstetric considerations for HCM)  
+- Anesthesia (epidural, general)  
+- Gene Variant Carriers  
+- Sarcomere Gene Variant.
+
+Page 50 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Non‑obstructive HCM  
+- Obstructive HCM  
+- Sleep‑disordered breathing  
+- Obstructive sleep apnea  
+- Atrial fibrillation (AF)  
+- Non‑sustained ventricular tachycardia (NSVT)  
+- Left ventricular (LV) wall thickness  
+- Left ventricular hypertrophy (LVH)  
+- Diastolic abnormalities  
+- Restrictive physiology  
+- Myocardial energetics  
+- Cardiac myosin inhibitors  
+- Sodium‑glucose cotransporter‑2 inhibitors (SGLT2i)  
+- Mineralocorticoid receptor antagonists  
+- Heart failure with preserved ejection fraction (HF‑PEF)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Sudden cardiac death (SCD)  
+- Risk stratification  
+- Late gadolinium enhancement (LGE)  
+- 3‑dimensional strain (3D strain)  
+- Cardiac magnetic resonance (CMR)  
+- Troponin  
+- Genetic sarcomere variant  
+- Hypertension  
+- Valsartan  
+- Gene‑based therapy  
+- Cardiopulmonary rehabilitation  
+- Artificial intelligence (risk prediction)  
+- Arrhythmia management  
+- Thromboembolic complications  
+- Ablation therapy  
+- Left ventricular function  
+- Clinical guidelines  
+- Diagnostic criteria  
+- Phenotype  
+- Pathophysiology  
+- Molecular diagnosis  
+- Pathogenesis  
+- Predictors of disease progression  
+- Biomarkers
+
+Page 51 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Cardiac genetics  
+- Genetic evaluation  
+- Genetic counseling  
+- Genetic testing  
+- Variant of uncertain significance  
+- ClinGen (Clinical Genome Resource)  
+- National Institutes of Health (NIH)  
+- Polygenic risk scores  
+- Genotype‑phenotype correlation  
+- Clinical outcomes  
+- Family management of heart disease  
+- Tailored therapies  
+- Gene‑specific therapeutics  
+- Cardiomyopathy (general)  
+- Heart disease (general)  
+- Longitudinal cardiac screening  
+- Environmental factors influencing cardiomyopathy  
+- Precision medicine in cardiology  
+- Screening stratification risk prediction  
+
+Page 52 Extracted Terms:
+**Key heart‑disease terms mentioned in the text**
+
+- Hypertrophic Cardiomyopathy  
+- Atrial Fibrillation  
+- Heart Failure  
+- Cardiovascular Disease (and primary prevention)  
+- Cardiac Rhythm Abnormalities  
+- Device‑Based Therapy of Cardiac Rhythm Abnormalities  
+
+These terms capture the primary disease entities and therapeutic focus areas highlighted in the clinical guideline references.
+
+Page 53 Extracted Terms:
+- Hypertrophic cardiomyopathy  
+- Ventricular arrhythmias  
+- Sudden cardiac death  
+- Left ventricular outflow tract obstruction  
+- Bradycardia  
+- Cardiac conduction delay  
+- Coronary artery disease  
+- Atherosclerotic vascular disease  
+- Valvular heart disease  
+- Hypertension  
+- Genetic cardiomyopathy  
+- Phenotype  
+- Genotype  
+- Cardiovascular risk factors  
+- Atrial fibrillation  
+- Ischemic heart disease  
+- Heart failure  
+- Cardiac catheterization  
+- Echocardiography  
+- Exercise stress echocardiography  
+- Dobutamine stress echocardiography  
+- Valsalva maneuver  
+- Amyl nitrite  
+- Post‑prandial hemodynamics  
+- Respiratory‑related fluctuations  
+- Dynamic obstruction  
+- Genetic pathways  
+- Clinical guidelines  
+- Clinical practice guidelines  
+- AHA/ACC/HRS  
+- ACCF/AHA  
+- ESC  
+- Clinical diagnosis  
+- Cardiac risk assessment  
+- Secondary prevention  
+- Risk reduction therapy  
+- Obstructive physiology  
+- Intraventricular gradients  
+- Takotsubo syndrome  
+- Obstructive cardiomyopathy  
+- Dynamic intraventricular obstruction  
+- Exercise‑induced gradient  
+- Obliquely arranged myocytes  
+- Genotype‑based burden of disease  
+- Cardiovascular mortality  
+- Asymptomatic adult cardiac risk assessment  
+- Prevention of cardiovascular disease in women  
+- Genetic screening for cardiomyopathy  
+- Cardiac imaging  
+- Multimodal imaging  
+- Clinical course of hypertrophic cardiomyopathy  
+- Exercise echocardiography  
+- Stress‑induced gradient  
+- Genetic testing  
+- Clinical phenotype in hypertrophic cardiomyopathy  
+- Cardiac genetics  
+- Cardiovascular surveillance  
+- Prognosis of hypertrophic cardiomyopathy  
+
+(Note: Each line represents a distinct heart‑disease‑related term extracted from the source text.)
+
+Page 54 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Diastolic dysfunction  
+- Left ventricular (LV) outflow tract obstruction  
+- Mitral regurgitation  
+- Myocardial ischemia  
+- Autonomic dysfunction  
+- Ventricular tachycardia  
+- Myocardial bridging  
+- Epicardial coronary artery disease  
+- Small vessel (intramural) coronary disease  
+- Myocardial stiffness  
+- Echocardiographic strain imaging  
+- Cardiac magnetic resonance imaging (CMR)  
+- Left ventricular systolic‑diastolic coupling  
+- Septal myectomy  
+- Alcohol septal ablation  
+- Risk stratification for sudden cardiac death  
+- Heart rate recovery (post‑exercise)  
+- Blood pressure response during exercise  
+- Left ventricular hypertrophy (interventricular septum)  
+- Left atrial enlargement  
+- Valvular heart disease (mitral, aortic)  
+- Apical aneurysm  
+- Valve surgery (repair/replacement)  
+- Catheter ablation (ventricular tachycardia)  
+- Shared decision‑making in HCM management  
+- Multidisciplinary HCM centers  
+- Vascular dilator reserve impairment  
+- Coronary perfusion deficit  
+- Myocardial energy impairment during exercise  
+
+These terms capture the key cardiovascular disease concepts referenced in the provided clinical guideline excerpts.
+
+Page 55 Extracted Terms:
+- Hypertrophic cardiomyopathy  
+- Left ventricular hypertrophy  
+- Left ventricular outflow tract obstruction  
+- Septal myectomy  
+- Mitral valve replacement  
+- Valvular heart disease  
+- Advanced heart failure  
+- Advanced therapies (e.g., surgical, mechanical support)  
+- Heart transplant  
+- Myocardial fibrosis  
+- Cardiac magnetic resonance imaging  
+- Doppler echocardiography  
+- Transesophageal echocardiography  
+- Two‑dimensional echocardiography  
+- Three‑dimensional echodoppler imaging  
+- Multimodality cardiovascular imaging  
+- Systolic impairment  
+- Left ventricular remodeling  
+- Cardiac genetics  
+- Family screening for cardiomyopathy  
+- Genetic counseling  
+- Sudden cardiac death risk stratification  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Lethal arrhythmic events  
+- Valsalva maneuver (echo provocation)  
+- Amyl nitrite provocation  
+- Exercise echocardiography  
+- Upright treadmill exercise testing  
+- Semi‑supine bicycle exercise testing  
+- Appropriate use criteria for echocardiography  
+- Intraoperative echocardiographic guidance  
+- Intraoperative decision making  
+- Clinical staging of hypertrophic cardiomyopathy  
+- Clinical diagnosis and imaging protocols  
+- Cardiac catheterization (pressure measurement)  
+- ESC, ACC, AHA, AATS/ACC/ASE/SCAI/STS guidelines and consensus documents  
+
+---
+
+Page 56 Extracted Terms:
+- Hypertrophic cardiomyopathy  
+- Hypertrophic obstructive cardiomyopathy  
+- Apical hypertrophic cardiomyopathy  
+- Left ventricular outflow tract obstruction  
+- Transluminal septal ablation  
+- Alcohol septal ablation  
+- Transcoronary ablation of septal hypertrophy (TASH)  
+- Intraprocedural myocardial contrast echocardiography  
+- Echocardiographic monitoring  
+- Cardiovascular magnetic resonance imaging (CMR)  
+- Late gadolinium enhancement (LGE)  
+- Myocardial strain imaging  
+- Tissue Doppler imaging  
+- Diastolic dysfunction  
+- Myocardial necrosis  
+- Septal myectomy  
+- Aneurysm (left ventricular apical aneurysm)  
+- Mitral valve abnormalities  
+- Papillary muscle morphology  
+- Left ventricular wall thickness measurement  
+- Left ventricular remodeling  
+- Genetic counselling  
+- Genetic testing  
+- Family screening for hypertrophic cardiomyopathy  
+- Penetrance of hypertrophic cardiomyopathy  
+- Risk stratification of sudden cardiac death  
+- Ventricular septal thickness  
+- Intraprocedural echocardiography  
+- Ultrasound enhancing agents  
+- Post‑prandial upright exercise echocardiography  
+- Contrast‑enhanced cardiovascular magnetic resonance  
+- Subclinical hypertrophic cardiomyopathy  
+- Dilated cardiomyopathy (in genetic context)  
+- Arrhythmogenic right ventricular dysplasia/cardiomyopathy (ARVD/C)  
+
+Page 57 Extracted Terms:
+**Key Heart‑Disease–Related Terms Extracted**
+
+- Hypertrophic cardiomyopathy  
+- Left ventricular outflow tract obstruction  
+- Papillary muscle insertion (antero‑mitral leaflet)  
+- Myocardial fibrosis  
+- Late gadolinium enhancement  
+- Cardiac magnetic resonance imaging (CMR)  
+- Cardiac computed tomography (CT)  
+- Electrocardiogram (ECG)  
+- Ambulatory ECG monitoring (Holter)  
+- Atrial fibrillation (subclinical, device‑detected, silent episodes)  
+- Ventricular tachycardia / non‑sustained ventricular tachycardia  
+- Sudden cardiac death risk  
+- Coronary artery disease / epicardial coronary disease  
+- Left ventricular hypertrophy (LVH)  
+- Left ventricular filling pressures  
+- Isoproterenol challenge  
+- Doppler echocardiography (rest, exercise, upright)  
+- Valsalva maneuver / amyl nitrite provocation  
+- Cardiopulmonary exercise testing (CPET)  
+- Cardiac catheterization (direct pressure measurement, left atrial pressure)  
+- Surgical myectomy / papillary muscle surgical management  
+- Diagnostic predictive models (e.g., HCM‑AF Score)  
+- Exercise‑induced LV outflow tract gradient  
+- Heart‑rate reserve during exercise  
+- Pre‑operative coronary angiography assessment  
+- Athlete’s heart differential diagnosis  
+- Competitive athlete eligibility/disqualification criteria  
+- Heart‑failure progression in HCM  
+- Prognostic implications of arrhythmias  
+- Outflow tract gradient variability  
+- Late/ delayed myocardial enhancement quantification  
+- Echocardiographic assessment of obstruction severity  
+- Cardiometabolic stress testing (treadmill, semi‑supine bicycle)  
+
+These terms capture the major clinical entities, diagnostic modalities, physiological assessments, and therapeutic contexts discussed in the guideline excerpts.
+
+Page 58 Extracted Terms:
+- Hypertrophic cardiomyopathy  
+- Left ventricular outflow tract obstruction  
+- Left ventricular outflow tract gradient  
+- Amyl nitrite provocation  
+- Cardiopulmonary exercise test  
+- Exercise testing  
+- Septal myectomy  
+- Surgical myectomy  
+- Post‑prandial upright exercise echocardiography  
+- Long‑term survival  
+- Imaging phenotype  
+- Phenotypic expression  
+- Cardiac genotype  
+- LAMP2 cardiomyopathy  
+- Pediatric cardiomyopathy  
+- Family screening  
+- Cardiovascular genetics  
+- Genetic counselling  
+- Genetic testing  
+- Pathogenic variants  
+- Variant pathogenicity  
+- Clinically actionable variants  
+- Penetrance  
+- Sudden cardiac death  
+- Cardiomyopathy (general)  
+- Clinical outcome  
+- Prognostic relevance  
+- Risk stratification  
+- Clinical validity of genetic tests  
+- Variant interpretation  
+- Whole genome sequencing  
+- Genetic misdiagnosis  
+- Health disparities  
+- Compound and double mutations  
+- Non‑familial hypertrophic cardiomyopathy  
+- Disease burden  
+- Prevalence  
+- Anderson‑Fabry disease (in hypertrophic cardiomyopathy)  
+- Molecular autopsy  
+- Arrhythmias  
+- Psychosocial care for inherited cardiovascular disease  
+- Left ventricular hypertrophy  
+- Cardiovascular disease  
+- Clinical screening  
+- Clinical yield  
+- Cardiovascular genetics programs  
+- Risk of cardiomyopathy with family history  
+- Pediatric risk assessment  
+- Genetic testing outcomes  
+- Clinical screening for hypertrophic cardiomyopathy in first‑degree relatives  
+- Genetic counseling and testing guidelines  
+- Genetic counseling services  
+- Clinical screening paradigms  
+- Cardiovascular genetics consensus recommendations  
+- Clinical screening strategies  
+- Clinical testing in children and adolescents  
+- Molecular autopsy for sudden death  
+- Cardiovascular screening guidelines  
+- Cardio‑respirology exercise diagnostics  
+- Cardiovascular phenotyping  
+- Clinical predictors of genetic testing outcomes  
+- Genetic variant re‑analysis  
+- Genetic variant re‑contact guidelines  
+- Clinical outcome and phenotypic expression in LAMP2 cardiomyopathy  
+- Clinical outcome after septal myectomy  
+- Clinical outcome after surgical myectomy  
+- Clinical outcome in hypertrophic cardiomyopathy patients  
+- Clinical outcome of exercise capacity post‑septal myectomy
+
+Page 59 Extracted Terms:
+- Hypertrophic cardiomyopathy  
+- Left ventricular hypertrophy  
+- Left ventricular wall thickness  
+- Left ventricular outflow obstruction  
+- Left ventricular apical aneurysm  
+- Apical hypertrophic cardiomyopathy  
+- Left ventricular remodeling  
+- Ventricular tachycardia  
+- Non‑sustained ventricular tachycardia  
+- Sudden cardiac death  
+- Implantable cardioverter‑defibrillator  
+- Implantable defibrillator therapy  
+- Cardiac magnetic resonance imaging  
+- Late gadolinium enhancement  
+- Magnetic resonance imaging (MRI)  
+- Transthoracic echocardiography  
+- Echocardiography  
+- Sarcomere mutation  
+- Genotype positive  
+- Phenotype negative  
+- Family history of sudden death  
+- Risk stratification  
+- Risk prediction model  
+- HCM Risk‑SCD model  
+- HCM Risk‑Kids model  
+- Prognosis  
+- Prognostic value  
+- Clinical risk prediction  
+- Cardiovascular mortality  
+- Mortality rates  
+- Vigorous exercise  
+- Clinical outcomes  
+- Left ventricular systolic dysfunction  
+- Pediatric hypertrophic cardiomyopathy  
+- Adult‑onset hypertrophic cardiomyopathy  
+- Ventricular fibrillation (implied)  
+- Apical outpouching  
+- Left ventricular strain  
+- Sarcomere mutation carriers.
+
+Page 60 Extracted Terms:
+- Hypertrophic cardiomyopathy  
+- Left ventricular diastolic function  
+- Tissue Doppler imaging  
+- Clinical status  
+- Childhood / pediatric heart disease  
+- Adolescents / young adults  
+- Sudden cardiac death (SCD)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Risk stratification  
+- HCM Risk‑Kids model  
+- Genetic risk factors  
+- Late gadolinium enhancement (LGE)  
+- Cardiovascular magnetic resonance (CMR)  
+- Echocardiography  
+- Left ventricular wall thickness  
+- Left ventricular apical aneurysm  
+- Massive left ventricular hypertrophy  
+- Arrhythmic events  
+- Epidemiology of hypertrophic cardiomyopathy  
+- Clinical outcomes  
+- Prognostic value of CMR  
+- Exercise test abnormalities  
+- Contemporary management strategies  
+- Mortality and survival analysis  
+- Clinical features and outcomes, population‑based study  
+
+These are the key heart‑disease–related terms that emerge from the cited clinical guidelines and studies.
+
+Page 61 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Sudden cardiac death (SCD)  
+- Left ventricular hypertrophy (LVH)  
+- Left ventricular systolic dysfunction (LVSD)  
+- Left ventricular remodeling  
+- End‑stage hypertrophic cardiomyopathy  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Non‑sustained ventricular tachycardia (NSVT)  
+- Syncope  
+- Exercise test abnormalities  
+- Family history of sudden death  
+- Risk stratification  
+- Prognostic implications  
+- Late gadolinium enhancement (LGE)  
+- Cardiovascular magnetic resonance (CMR)  
+- Left ventricular apical aneurysm  
+- Left ventricular outflow obstruction  
+- Preventive ICD therapy  
+- Pediatric hypertrophic cardiomyopathy  
+- HCM Risk-SCD model  
+- HCM Risk‑Kids model  
+- Sudden death risk prediction  
+- Implantable defibrillator complications  
+- Adult HCM management strategies  
+- Pediatric HCM management strategies  
+- Pediatric arrhythmic events  
+- Clinical risk factors  
+- Echocardiographic assessment  
+- Electrocardiographic identification  
+- Contemporary management strategies  
+- Long‑term follow‑up outcomes  
+- Prognostic determinants  
+- Ventricular tachycardia outcomes  
+
+Page 62 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Obstructive hypertrophic cardiomyopathy  
+- Non‑obstructive hypertrophic cardiomyopathy  
+- End‑stage hypertrophic cardiomyopathy  
+- Dilated‑phase hypertrophic cardiomyopathy  
+- Hypertrophic subaortic stenosis  
+- Sudden death risk  
+- Sudden cardiac death  
+- Left ventricular outflow tract gradients  
+- Angina pectoris  
+- Late gadolinium enhancement (LGE)  
+- LGE‑CMR (late gadolinium‑enhanced cardiovascular magnetic resonance)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Subcutaneous ICD (S‑ICD)  
+- Dual‑chamber ICD  
+- Single‑chamber ICD  
+- Defibrillation threshold  
+- Dual‑chamber pacing  
+- Single‑coil defibrillator lead  
+- Cardiac resynchronization therapy (CRT)  
+- Biventricular pacing  
+- Cardiac remodeling  
+- Bradycardia  
+- Cardiac conduction delay  
+- Tachyarrhythmia detection algorithms  
+- Inappropriate ICD shock  
+- Beta‑adrenergic blockade (beta‑blockers)
+
+Page 63 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Obstructive hypertrophic cardiomyopathy  
+- Hypertrophic subaortic stenosis (SAS)  
+- Left ventricular outflow tract obstruction (LVOTO)  
+- Surgical septal myectomy  
+- Alcohol septal ablation (ASA)  
+- Verapamil therapy  
+- Diltiazem therapy  
+- Propranolol therapy  
+- Disopyramide therapy  
+- Mavacamten (myosin inhibitor)  
+- β‑blocker therapy  
+- Pulmonary hypertension  
+- Mitral valve abnormalities (mitral regurgitation, papillary muscle insertion)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Sudden cardiac death risk  
+- Resting LVOT gradient  
+- Exercise echocardiography  
+- Left atrial remodeling / enlargement  
+- Conduction abnormalities  
+- Acquired von Willebrand syndrome  
+- Transaortic myectomy  
+- Aortic valve replacement (SAVR) with concomitant septal myectomy  
+- Hospital volume outcomes  
+- Surgical management of LVOT obstruction  
+- Constrictive left ventricular hypertrophy  
+- Symptom status (NYHA class)  
+- Gradient resistant to first‑line therapy  
+- Vascular dysfunction (von Willebrand factor activity)  
+- Cardiac magnetic resonance imaging (MRI) for LVOT evaluation  
+- Percutaneous intervention in HCM  
+- Long‑term survival in HCM  
+- Guideline‑based referral for septal reduction therapy.
+
+Page 64 Extracted Terms:
+**Key terms related to heart disease**
+
+- Hypertrophic cardiomyopathy (HCM)  
+- Obstructive hypertrophic cardiomyopathy  
+- Non‑obstructive hypertrophic cardiomyopathy  
+- Ventricular septal myectomy  
+- Transaortic approach to septal myectomy  
+- Transapical approach to septal myectomy  
+- Apical myectomy  
+- Alcohol septal ablation (ASA)  
+- Mitral valve plication  
+- Anterior mitral leaflet extension  
+- Subvalvular mitral apparatus reconstruction  
+- Mitral valve abnormalities  
+- Papillary muscle abnormalities  
+- Papillary muscle morphology  
+- Left ventricular hypertrophy (LVH)  
+- Left ventricular outflow tract (LVOT) obstruction  
+- Pulmonary hypertension  
+- Atrial fibrillation (AF)  
+- Residual gradients  
+- Recurrent gradients  
+- Hemodynamic function  
+- Myocardial perfusion  
+- Left ventricular relaxation  
+- Prognosis  
+- Genotype (sarcomeric HCM)  
+- Sarcomeric human cardiomyopathy registry (SHaRE)  
+- Epicardial coronary artery disease  
+- Pharmacologic treatment options  
+- Beta‑blockers (e.g., propranolol, nadolol)  
+- Calcium‑channel blockers (e.g., verapamil, diltiazem)  
+- Angiotensin II receptor blocker (losartan)  
+- Angiotensin receptor blocker (valsartan)  
+- Echocardiography  
+- Doppler echocardiography  
+- Cardiac catheterization  
+- Catheter cardiovascular intervention  
+- AHA/ACC/HFSA guideline for heart failure management  
+- Heart failure with preserved ejection fraction (HFpEF)  
+- Modified Konno procedure (high‑risk children)  
+- Ventricular septal defect (VSD)  
+- Myocardial metabolism  
+- Randomized clinical trials  
+- Meta‑analysis  
+- Systematic review  
+- Clinical outcomes  
+- Long‑term follow‑up  
+- Survival analysis  
+- Risk factors  
+- Prognostic predictors  
+- Surgical outcomes  
+- Reoperation outcomes  
+- Myectomy outcomes  
+- Alcohol septal ablation outcomes  
+
+Page 65 Extracted Terms:
+Hypertrophic cardiomyopathy (HCM)  
+End‑stage hypertrophic cardiomyopathy  
+Dilated phase of hypertrophic cardiomyopathy  
+Hypokinetic hypertrophic cardiomyopathy  
+Restrictive cardiomyopathy  
+Heart failure  
+Advanced heart failure  
+Left ventricular remodeling  
+Left ventricular systolic dysfunction  
+Cardiopulmonary exercise testing  
+Cardiac resynchronization therapy (CRT)  
+Biventricular pacing  
+Left ventricular assist device (LVAD)  
+Mechanical circulatory support device  
+Heart transplantation  
+Orthotopic heart transplantation  
+International Society for Heart Lung Transplantation (ISHLT) listing criteria  
+Mavacamten  
+Angiotensin II receptor blocker losartan  
+Spironolactone  
+Non‑vitamin K antagonist oral anticoagulants (NOACs)  
+Anticoagulation  
+Atrial fibrillation (AF)  
+Thromboembolism  
+Stroke  
+Late gadolinium enhancement (LGE)  
+Cardiovascular magnetic resonance (CMR)  
+CMR assessment  
+CMR risk stratification  
+Molecular profiling  
+Single‑nucleus profiling  
+Clinical phenotype  
+Prognosis  
+Risk factors  
+Genetics  
+Cardiovascular imaging  
+Ventricular remodeling  
+INTERMACS  
+Berlin Heart EXCOR  
+COMPANION trial  
+Defibrillation  
+Implantable cardioverter‑defibrillator (ICD)  
+Management of HCM and AF  
+Stroke risk  
+Anticoagulation strategies  
+Clinical guidelines  
+2024 Hypertrophic Cardiomyopathy Guideline  
+Survival after transplantation  
+Waitlist outcomes  
+Cardiac outcomes  
+End‑stage heart disease
+
+Page 66 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Atrial fibrillation (AF)  
+- Subclinical atrial fibrillation  
+- Device‑detected atrial fibrillation  
+- Ventricular tachycardia (VT)  
+- Ventricular arrhythmia  
+- Implantable cardioverter‑defibrillator (ICD)  
+- ICD shock  
+- Catheter ablation  
+- Radiofrequency ablation  
+- Surgical ablation of atrial fibrillation  
+- Septal myectomy  
+- Heart transplant  
+- Beta‑blocker therapy  
+- Amiodarone  
+- Sotalol  
+- Disopyramide  
+- Dofetilide  
+- Mexiletine  
+- Encainide  
+- Flecainide  
+- Non‑vitamin K antagonist oral anticoagulant (NOAC)  
+- Warfarin  
+- Anticoagulation for atrial fibrillation  
+- Thromboembolic risk  
+- Stroke risk  
+- Ventricular tachycardia suppression  
+- HCM risk calculators (e.g., HCM‑Risk‑CVA)  
+- Sudden cardiac death (SCD)  
+- Atrial tachyarrhythmia  
+- Rhythm‑control strategies  
+- Device‑detected arrhythmia duration  
+- Implantable cardioverter‑defibrillator programming and testing  
+- Ventricular tachycardia triggers  
+- Pre‑operative arrhythmia management  
+- Advanced heart failure with preserved ejection fraction (HFpEF) in HCM  
+- Congestive heart failure outcomes  
+
+These terms capture the principal heart‑disease entities, arrhythmias, therapies, and risk factors referenced in the provided guideline excerpts.
+
+Page 67 Extracted Terms:
+- Hypertrophic cardiomyopathy (HCM)  
+- Ventricular arrhythmia  
+- Ventricular tachycardia  
+- Sudden cardiac death (SCD)  
+- Implantable cardioverter‑defibrillator (ICD)  
+- Radiofrequency catheter ablation  
+- Exercise training (structured)  
+- Physical activity (moderate‑intensity, vigorous)  
+- Competitive sports participation  
+- Genetically inherited heart diseases  
+- Long QT syndrome  
+- Risk factors for sudden death  
+- Cardiac arrest (sudden cardiac arrest, SCA)  
+- Cardiac screening (genetic testing, imaging)  
+- Cardiopulmonary exercise testing  
+- Exercise intensity (MET values)  
+- Exercise-induced arrhythmia  
+- Cardiac rehabilitation  
+- Electrophysiology interventions  
+- AHA/ACC guideline for HCM  
+- ESC guideline for HCM  
+- Aeronautical medical certification for heart disease  
+- Physical activity guidelines for Americans  
+- Shared decision‑making in HCM care  
+- Return‑to‑play protocols for athletes with heart disease  
+- Sports‑related sudden death epidemiology  
+- Structural heart disease (apical aneurysm, mid‑ventricular obstruction)  
+- Inherited channelopathies (e.g., Brugada, catecholaminergic polymorphic ventricular tachycardia)  
+- Cardiac genetics and mutation carriers  
+- Barriers to physical activity in HCM patients  
+- Emergency action plans for sudden cardiac arrest in sport.
+
+Page 68 Extracted Terms:
+- Hypertrophic Cardiomyopathy (HCM)  
+- Pregnancy‑related cardiac risk in HCM  
+- Atrial fibrillation  
+- Thromboembolism  
+- Stroke  
+- Mechanical heart valves  
+- Anticoagulation therapy (including DOACs)  
+- Valvular heart disease  
+- ACC/AHA clinical practice guidelines  
+- ESC guidelines for cardiovascular diseases in pregnancy  
+- Obesity & cardiac remodeling in HCM  
+- Exercise tolerance / capacity  
+- Left ventricular morphology / wall thickness  
+- Sleep‑disordered breathing (obstructive sleep apnea)  
+- Nocturnal oximetry abnormalities  
+- Ventricular tachycardia (nonsustained)  
+- Myocardial fibrosis  
+- Cardiac magnetic resonance imaging (CMR)  
+- Implantable cardioverter‑defibrillators (ICDs)  
+- Sudden cardiac death (SCD) prevention  
+- Genotype‑based risk stratification in HCM  
+- Phenotype‑specific risk algorithms  
+- Valsartan (Angiotensin II receptor blocker) for early HCM  
+- Mavacamten (myosin inhibitor) for obstructive HCM  
+- Aficamten (myosin inhibitor) clinical trials  
+- Sarcomere contractility inhibitors  
+- Early‑stage HCM biomarkers  
+- Maximal left‑ventricular wall‑thickness measurement  
+- HCM risk score (eg., HCM Risk‑CVA, HCM Risk‑SCD)  
+- Obstructive vs. non‑obstructive HCM classification  
+- Cardiogenic risk in primary prevention of cardiovascular disease  
+- Sleep‑disordered breathing interaction with atrial fibrillation  
+- Pregnancy‑focused obstetric–cardiologic outcomes  
+- Registry data (e.g., ROPAC, SHaRE) in HCM research  
+- Clinical trial design for HCM therapeutics  
+- Cardio‑thoracic surgery considerations in HCM  
+- Left‑ventricular hypertrophy pathophysiology  
+- Genetic mutations in MYL2, sarcomeric proteins, and HCM susceptibility  
+
+These terms capture the core heart‑disease concepts highlighted in the provided guideline excerpts.
+
+Page 69 Extracted Terms:
+Hypertrophic Cardiomyopathy  
+Atrial Fibrillation  
+Arrhythmia Management  
+Catheter Ablation  
+Pulmonary Vein Isolation  
+Pulsed Field Ablation  
+Genetic Variants in Cardiomyopathy  
+MYH7 Gene  
+Dilated Cardiomyopathy  
+Late Gadolinium Enhancement  
+Myocardial Scar  
+Radiomics  
+3‑Dimensional Strain Analysis  
+Cardiac Imaging  
+Electrophysiology  
+Heart Failure  
+Cardiomyopathy  
+Cardiac Rhythm Disorders  
+Ventricular Tachycardia  
+Ventricular Fibrillation  
+Dofetilide Therapy  
+Rhythm Control  
+Heart Rate Management  
+Cardiovascular Genetics  
+Inheritable Cardiomyopathies  
+ACMG/AMP Variant Classification  
+National Heart, Lung, and Blood Institute (NHLBI)  
+Heart and Lung Institute (HCI)  
+Hypertrophic Cardiomyopathy Registry (HCMR)  
+Clinical Guidelines for HCM  
+Heart and Blood Vessel Disease  
+Cardiac Electrophysiology  
+Catheter‑Based Ablation of Atrial Fibrillation  
+Pulmonary Vein Isolation Techniques  
+Myocardial Scar Heterogeneity  
+Genetic Architecture of HCM  
+Cardiovascular Institute  
+Pediatric Electrophysiology  
+Translational Research in Cardiovascular Medicine  
+Cardiovascular Clinic  
+Genetic Pathways in Cardiac Disease  
+Cardiovascular Research Institution  
+Evidence‑Based Management of HCM  
+Efficacy of Rhythm‑Control Medications  
+Outcomes of Ablation in HCM Patients  
+Predictors of Major AF Endpoints  
+Systolic Dysfunction  
+Cardiac Structural Assessment  
+Biomarker Analysis  
+Clinical Decision Support in Cardiomyopathy  
+Pharmacologic Management of Atrial Fibrillation  
+Heart‑Disease Risk Factors  
+Family Screening for Cardiomyopathy  
+Myocardial Strain Imaging  
+Late Gadolinium Enhancement Imaging  
+Radiomics in Cardiac Imaging  
+Heart‑Disease Genetic Counseling  
+Heart‑Disease Clinical Trials  
+Heart‑Disease Registry Data  
+Heart‑Disease Pathophysiology  
+Heart‑Disease Prognosis  
+Heart‑Disease Management Strategies
+
+Page 70 Extracted Terms:
+- Hypertrophic Cardiomyopathy
+- Congenital Heart Surgery
+- Cardiovascular Imaging
+- Clinical Cardiac Electrophysiology
+- Heart Failure
+- Transplantation
+- Cardiovascular Medicine
+- Radiology
+- Pacing
+- Pediatric Cardiology
+- Sports Cardiology
+- Cardiomyopathy Program
+- Cardiovascular Research
+- Heart Function
+- Heart Function and Transplant Program
+- Heart Failure Research
+- Heart Failure and Transplantation
+- Cardiovascular Research
+- Cardiovascular 
+- Cardiac 
+- Heart Failure Programme (if inferred)
+
+Page 71 Extracted Terms:
+- Hypertrophic Cardiomyopathy  
+- HCM (Hypertrophic Cardiomyopathy)  
+- Cardiology  
+- Cardiovascular medicine  
+- Heart  
+- Cardiac cath labs (cardiac catheterization)  
+- Heart rhythm  
+- Heart disease management  
+- Clinical guidelines for heart disease  
+- Clinical trial enrolment in cardiac research  
+- Cardiovascular research  
+- Cardiovascular magnetic resonance (JCMR reference)  
+- Heart rhythm society (HRS)  
+- Pediatric & congenital electrophysiology (PACES) – related to cardiac conduction  
+- National Heart, Lung, and Blood Institute (NHLBI) – heart disease funding  
+- Heart disease disclosure policies (ACC/AHA)  
+
+Page 72 Extracted Terms:
+- Hypertrophic Cardiomyopathy  
+- Heart Disease  
+- Heart Failure  
+- Chest Pain  
+- Heart Rhythm Disorders  
+- Cardiomyopathy  
+- Cardiac  
+- Heart  
+- HCM (Hypertrophic Cardiomyopathy)  
+- HRS (Heart Rhythm Society)  
+- HFSA (Heart Failure Society of America)  
+- AHA/ACC (American Heart Association / American College of Cardiology)  
+- AMSSM (American Society of Sports Medicine)  
+- NIH (National Institutes of Health)  
+- Heart Hospital  
+- Heart Centre  
+- Heart Rhythm Institute  
+- National Center for Catastrophic Sports Injury Research  
+- Medtronic (device manufacturer for heart conditions)  
+- Abbott (device manufacturer for heart conditions)  
+- Biosense Webster (device manufacturer for cardiac rhythm management)
+
+Page 73 Extracted Terms:
+- Hypertrophic Cardiomyopathy  
+- Cardiomyopathy  
+- Heart Failure  
+- Heart Rhythm  
+- HCM Guidelines (Hypertrophic Cardiomyopathy Guideline)  
+- AHA (American Heart Association)  
+- ACC (American College of Cardiology)  
+- HFSA (Heart Failure Society of America)  
+- HRS (Heart Rhythm Society)
+
