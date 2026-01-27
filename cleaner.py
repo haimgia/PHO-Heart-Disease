@@ -45,7 +45,7 @@ def split_by_alphabet(words):
             groups[word[0].upper()].append(word)
     return dict(groups)
 
-def semantic_matching(terms, output_file):
+def semantic_matching(terms, use_case, output_file):
 
     # groups the terms by alphabetical order
     grouped_terms = split_by_alphabet(terms)
@@ -65,19 +65,27 @@ def semantic_matching(terms, output_file):
             response = client.chat.completions.create(
                     model="gpt-oss:120b",
                     messages=[
-                        {"role": "system", "content": 
-                        "You are a clinical terminology normalization expert. "
+                        {"role": "system", "content":
+                        "You are a clinical terminology normalization and relevance-filtering expert. "
                         "You specialize in cardiovascular disease concepts from clinical guidelines. "
-                        "You map raw extracted terms to a minimal set of canonical heart-disease concepts. "
+                        "You normalize raw extracted terms into a minimal set of canonical concepts. "
                         "A canonical concept is the most standard, widely accepted clinical term "
                         "(e.g., 'Atrial Fibrillation', not 'AF', 'atrial fib', or 'AF (paroxysmal)'). "
                         "You merge synonyms, spelling variants, abbreviations, and minor wording differences. "
-                        "You do NOT invent new concepts and you exclude non-cardiovascular terms."
+                        "You do NOT invent new concepts. "
+                        "You MUST filter concepts based on the provided use case and exclude any concept "
+                        "that is not directly relevant to fulfilling the use case objective."
                         },
-                        {"role": "user", "content": 
+                        {"role": "user", "content":
                         f"""
-                        Given the following extracted terms from clinical guidelines:
+                        Use Case:
+                        {use_case}
 
+                        Definition of relevance:
+                        A concept is relevant ONLY IF it directly supports, informs, diagnoses,
+                        monitors, stratifies risk for, or guides treatment related to the use case.
+
+                        Extracted terms from clinical guidelines:
                         {grouped_terms[letter]}
 
                         Task:
@@ -85,18 +93,20 @@ def semantic_matching(terms, output_file):
                         2. Resolve abbreviations into their full canonical form.
                         3. Remove qualifiers such as severity, timing, or measurement details
                         unless they define a distinct disease entity.
-                        4. Return ONLY the canonical heart-disease concepts.
+                        4. FILTER the concepts so that ONLY those relevant to the use case remain.
+                        5. Exclude all other cardiovascular concepts, even if they are valid in general.
 
                         Output format:
                         - Return a Python-style list of strings
                         - One canonical concept per item
                         - No explanations, no duplicates, no numbering
+                        - Return an empty list [] if no concepts satisfy the use case
                         """
                         }
                     ]
             )
 
-            response = response.choice[0].message
+            response = response.choices[0].message
 
             canonical_terms = response.content
             print(f"Canonical terms for letter {letter} are\n{canonical_terms}")
