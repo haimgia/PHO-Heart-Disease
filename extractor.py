@@ -43,7 +43,7 @@ def extract_concepts(text):
 
     # API call to extract concepts
     response = client.chat.completions.create(
-            model="gpt-oss:latest",
+            model="gpt-oss:120b",
     messages=[
             {"role": "system", "content": "You are an expert at extracting terms related to heart disease from clinical guidelines."},
             {"role": "user", "content": f"Extract key terms related to heart disease from the following text:\n\n{text}\n\nFormat the output as a list of terms."}

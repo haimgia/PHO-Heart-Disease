@@ -1,12 +1,12 @@
 from extractor import extract_text, clean_extracted_terms
 import os
 
-EXTRACT_TERMS = False
-CLEAN_TERMS = True
+EXTRACT_TERMS = True
+CLEAN_TERMS = False
 
 #PDF = "AHA_clinical_guidelines\Heart Failure Clinical Guidelines.pdf"
 CLINICAL_GUIDELINES_FOLDER = "AHA_clinical_guidelines"
-EXTRACTED_TERMS_FOLDER = "extracted_terms"
+EXTRACTED_TERMS_FOLDER = "extracted_terms_1.txt"
 COMBINED_TERMS_FILE = "combined_extracted_terms.txt"
 FINAL_TERMS_FILE = "final_terms.txt"
 
