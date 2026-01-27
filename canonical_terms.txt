@@ -4542,3 +4542,394 @@ GUSTO trial / GUSTO-I trial (global utilization of streptokinase and tPA) / GUST
 
 GWTG-HF (Get With The Guidelines – Heart Failure) registry / risk score
 G-protein–coupled receptor blockers (ARNI)
+H/CL ratio (heart-to-contralateral chest ratio)
+
+H2FPEF score
+
+HFA-PEFF diagnostic algorithm
+
+HAS-BLED bleeding risk score
+
+HATCH score
+
+Hazard ratio
+
+Hazard–benefit ratio
+
+HbA1c variability
+
+Heart failure survival score
+
+Health ABC heart failure score
+HACEK organisms
+
+Drug half-life
+Handheld ECG device
+
+Portable / hand-carried echocardiography
+
+Halo catheter
+HARMONIZE trial (sodium zirconium cyclosilicate)
+
+HEAAL study
+
+HOPE trial / HOPE-3 trial
+
+Heart Protection Study (HPS)
+
+Heart Failure Action Study
+Hypertrophic cardiomyopathy (HCM)
+
+HCM with atrial fibrillation
+
+HCM with ventricular arrhythmias
+
+Advanced HCM with heart failure
+
+HCM specialty / comprehensive centers
+
+HCM clinical guidelines
+
+HCM risk prediction models
+
+Stroke risk (HCM-Risk-CVA)
+
+Sudden cardiac death risk (HCM-Risk-SCD)
+
+Pediatric risk models (HCM Risk-Kids)
+HDL cholesterol
+Headache
+
+Heart murmur
+
+Heart block / conduction disorders
+
+Heart arrest
+
+Heart attack (myocardial infarction)
+Heart failure (HF)
+Acute heart failure
+
+Chronic heart failure
+
+Advanced heart failure
+
+Congestive heart failure
+
+Heart failure with reduced ejection fraction (HFrEF)
+
+Heart failure with preserved ejection fraction (HFpEF)
+
+Heart failure with mildly reduced ejection fraction (HFmrEF)
+
+Heart failure with improved / recovered ejection fraction
+
+Right ventricular failure
+
+Systemic right ventricular failure
+
+Heart failure secondary to myocardial infarction
+
+Heart failure in pregnancy
+
+Heart failure associated with atrial fibrillation
+
+Heart failure related to congenital heart disease
+
+Heart failure in diabetes mellitus
+Heart failure stages (A–D)
+
+NYHA functional class II–IV
+
+Heart failure symptoms
+
+Heart failure hospitalization
+
+Heart failure mortality
+
+Heart failure survival
+
+Heart failure remission
+
+Heart failure prognostic markers
+
+Heart failure outcomes
+Heart failure health disparities
+
+Heart failure in women
+
+Heart failure in older adults
+
+Heart failure in racial and ethnic minority populations
+Health behaviors
+
+Healthy diet / dietary patterns
+
+Healthy lifestyle behaviors
+
+Health education
+
+Health coaching
+
+Health literacy
+
+Health numeracy
+
+Health information technology
+
+Health services research
+
+Healthcare access
+
+Healthcare utilization
+
+Healthcare resource utilization
+
+Healthcare cost burden
+
+Health disparities / health inequities
+
+Health equity initiatives
+
+Health policy and quality metrics
+Health-related quality of life (HRQoL)
+
+Quality-of-life assessment instruments (e.g., SF-36)
+
+Health-status outcomes
+Heart disease
+
+Cardiovascular disease
+
+Heart disease risk factors
+
+Heart disease prevention
+
+Heart disease management
+
+Heart disease imaging
+
+Heart disease statistics
+Heart rate
+
+Resting heart rate
+
+Target heart rate
+
+Heart rate control
+
+Heart rate management
+
+Heart rate recovery
+
+Heart rate reserve
+
+Heart rate variability (HRV)
+
+Heart rhythm
+
+Heart rhythm assessment
+
+Arrhythmia / heart rhythm disorder
+
+Heart rhythm management
+Septal defects (ASD/VSD)
+
+Heart valve
+
+Heart valve disease
+
+Heart valve dysfunction
+
+Heart valve repair
+
+Heart valve replacement
+
+Heart valve prosthesis
+
+Heart valve surgery
+
+Heart valve programs
+
+Heart valve centers of excellence
+Heart transplantation
+
+Heart transplant evaluation
+
+Heart transplant candidacy
+
+Heart transplant listing
+
+Heart transplant allocation policy
+
+Heart transplant rejection
+
+Heart transplant outcomes
+
+Multi-organ transplantation
+
+Heart–kidney transplantation
+
+Heart–liver transplantation
+
+Heart–lung transplantation
+
+Mechanical circulatory support devices
+
+HeartMate 3
+
+HeartWare HVAD
+Heart failure
+
+Heart failure hospitalization
+
+Heart failure morbidity and mortality
+
+Heart failure prevention
+
+Heart failure progression
+
+Heart failure readmission
+
+Heart failure biomarkers
+
+Heart failure pharmacologic therapy
+Heart disease
+
+Heart disease risk factors
+
+Heart disease pathophysiology
+
+Heart disease prognosis
+
+Cardiovascular clinical trials
+
+Cardiovascular registry data
+
+Heart-related morbidity and mortality
+
+Heart-related quality of life (HRQoL)
+Heat exposure
+
+Heat-related hospitalization
+
+Alcohol misuse
+
+Heart-healthy diet
+
+Heart-healthy lifestyle behaviors
+Height
+
+Body size–indexed cardiovascular measurements
+Helical computed tomography
+
+CT grading of aortic injury
+
+HeartFlow (FFR-CT platform)
+Hematocrit
+
+Hemoglobin
+
+Anemia
+
+Hemolysis
+
+Hemolytic anemia
+
+Hematologic abnormalities
+
+Hematoma
+
+Hemorrhage
+
+Hemorrhagic shock
+
+Hemorrhagic stroke
+
+Hemostasis
+
+Bleeding risk
+Heparin
+
+Unfractionated heparin
+
+Heparin infusion
+
+Heparin-induced thrombocytopenia (HIT)
+
+Antiplatelet therapy
+
+Hematology-guided antithrombotic management
+Hemodialysis
+
+Dialysis-dependent cardiovascular disease
+
+Hemodynamics
+
+Hemodynamic assessment
+
+Hemodynamic monitoring
+
+Hemodynamic instability
+
+Hemodynamic compromise
+
+Hemodynamic decompensation
+
+Hemodynamic overload
+
+Hemodynamic stress
+
+Hemodynamic severity
+
+Hemodynamic significance
+
+Hemodynamically significant lesion
+
+Hemodynamically stable patient
+
+Hemodynamically unstable patient
+
+Hemodynamic outcomes
+
+Hemodynamic response
+
+Hemodynamic progression
+
+Hemodynamic durability
+
+Hemodynamic success
+Heritable thoracic aortic disease (HTAD)
+
+Heritable thoracic aortic aneurysm
+
+Heritable bicuspid aortic valve
+
+Heterotaxy syndrome
+
+Congenital heart disease hemodynamics
+Hemochromatosis
+
+Hemochromatosis-related heart failure
+
+Familial hypercholesterolemia (heterozygous)
+Hepatic dysfunction
+
+Congestive hepatopathy
+
+Fontan-associated liver disease
+
+Hepatic fibrosis / cirrhosis
+
+Hepatocellular carcinoma
+
+Hepatorenal syndrome
+
+Hepatotoxicity
+
+Transplant hepatology
+Hemoptysis
+
+Hemothorax
+
+Hemopericardium

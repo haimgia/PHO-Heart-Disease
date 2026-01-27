@@ -5,7 +5,6 @@ from tqdm import tqdm
 from dotenv import load_dotenv
 import os
 import ollama
-import re
 
 
 OUTPUT_DIR = "extracted_terms"
@@ -83,31 +82,4 @@ def extract_concepts_ollama(text):
 
     return terms
 
-def clean_extracted_terms(terms):
 
-    
-    # removes extra dashes and spaces
-    removed_dashes = [term.strip("- ").strip() for term in terms if term.strip()]
-
-    removed_leading_numbers = [strip_leading_numbers(term) for term in removed_dashes]
-
-    removed_stars = [strip_leading_trailing_stars(term) for term in removed_leading_numbers]
-
-    # lowercases all terms
-    lower_case_terms = [term.lower() for term in removed_stars]
-
-    # removes duplicates
-    cleaned_terms = list(set(lower_case_terms))
-
-    cleaned_terms.sort()
-
-    print(f"Cleaned {len(terms)} terms to {len(cleaned_terms)} unique terms.")
-
-    return cleaned_terms
-
-
-def strip_leading_numbers(text: str) -> str:
-    return re.sub(r'^\s*\d+\.\s*', '', text, flags=re.MULTILINE)
-
-def strip_leading_trailing_stars(text: str) -> str:
-    return re.sub(r'^\*+|\*+$', '', text, flags=re.MULTILINE)

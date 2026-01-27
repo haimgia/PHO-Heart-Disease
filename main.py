@@ -1,14 +1,17 @@
-from extractor import extract_text, clean_extracted_terms
+from extractor import extract_text
+from cleaner import clean_extracted_terms, semantic_matching
 import os
 
-EXTRACT_TERMS = True
+EXTRACT_TERMS = False
 CLEAN_TERMS = False
+SEMANTIC_MATCHING = True
 
 #PDF = "AHA_clinical_guidelines\Heart Failure Clinical Guidelines.pdf"
 CLINICAL_GUIDELINES_FOLDER = "AHA_clinical_guidelines"
 EXTRACTED_TERMS_FOLDER = "extracted_terms_1.txt"
 COMBINED_TERMS_FILE = "combined_extracted_terms.txt"
-FINAL_TERMS_FILE = "final_terms.txt"
+FINAL_TERMS_FILE = "final_terms_1.5.txt"
+CANONICAL_TERMS_FILE = "canonical_terms_1.5.txt"
 
 FINISHED_FILES = ["Acute Myocarditis Clinical Guidelines.pdf",
                   "Aortic Disease Clinical Guidelines.pdf",
@@ -43,3 +46,9 @@ if __name__ == "__main__":
         with open(FINAL_TERMS_FILE, "w", encoding="utf-8") as f:
             for term in cleaned_terms:
                 f.write(f"{term}\n")
+
+    if SEMANTIC_MATCHING:
+        with open(FINAL_TERMS_FILE, "r", encoding="utf-8") as f:
+            terms = [line.strip() for line in f.readlines() if line.strip()]
+
+        semantic_matching(terms, CANONICAL_TERMS_FILE)
