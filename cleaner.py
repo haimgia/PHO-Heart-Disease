@@ -59,7 +59,7 @@ def semantic_matching(terms, use_case, output_file):
     # opens the output file to write canonical concepts
     with open(output_file, "w", encoding="utf-8") as f:
 
-        for letter in grouped_terms:
+        for letter in tqdm(grouped_terms):
 
             # API call semantic matching canonical concepts
             response = client.chat.completions.create(

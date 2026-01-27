@@ -1,0 +1,50 @@
+['Hypertension', 'Hyperlipidemia', 'Hypercholesterolemia', 'Hypertriglyceridemia', 'High cardiovascular risk', 'High risk ASCVD', 'High risk cardiovascular profile', 'History of stroke', 'History of transient ischemic attack', 'HIV infection', 'High risk drinking']
+
+['Ischemic cardiomyopathy', 'Ischemic heart disease', 'Ischemic heart failure', 'Ischemic mitral regurgitation', 'Ischemia with nonobstructive coronary arteries', 'Intracardiac thrombus', 'Intracardiac abscess', 'Intracardiac shunt', 'Aortic intramural hematoma', 'Ventricular septal defect', 'Pulmonary regurgitation', 'Pulmonary stenosis', 'Tricuspid regurgitation', 'Pulmonary artery stenosis']
+
+['Alcohol consumption', 'Physical activity', 'Statin therapy for primary prevention']
+
+['Chronic kidney disease']
+
+['atrial fibrillation', 'aortic stenosis', 'low-flow low-gradient aortic stenosis', 'low-gradient aortic stenosis', 'mitral stenosis', 'myocardial infarction', 'heart failure', 'heart failure with reduced ejection fraction', 'myocarditis', 'lyme carditis', 'lysosomal storage disease', 'left ventricular hypertrophy', 'left ventricular outflow tract obstruction']
+
+[]
+
+['coronary artery disease', 'myocardial infarction', 'stroke', 'peripheral artery disease', 'hypertension', 'atherosclerotic cardiovascular disease']
+
+['Obesity', 'Overweight', 'Metabolic syndrome', 'Obstructive sleep apnea', 'Older age', 'Older adults', 'Substance use', 'Opioid use']
+
+["aortic aneurysm","aortic dissection","aortic regurgitation","aortic stenosis","aortic valve disease","bicuspid aortic valve","coarctation of the aorta","congenital heart disease","atrial septal defect","ventricular septal defect","patent ductus arteriosus","patent foramen ovale","tetralogy of fallot","pulmonary hypertension","pulmonary arterial hypertension","pulmonary embolism","pulmonary valve disease","pulmonary valve stenosis","pulmonary valve regurgitation","atrial fibrillation","atrial flutter","ventricular tachycardia","ventricular fibrillation","supraventricular tachycardia","sick sinus syndrome","heart failure","cardiogenic shock","cardiac arrest","coronary artery disease","myocardial infarction","stable angina","unstable angina","stroke","transient ischemic attack","ischemic stroke","hemorrhagic stroke","peripheral artery disease","critical limb ischemia","mitral regurgitation","mitral stenosis","mitral valve prolapse","mitral valve disease","tricuspid regurgitation","tricuspid stenosis","tricuspid valve disease","infective endocarditis","myocarditis","pericarditis","cardiomyopathy","dilated cardiomyopathy","hypertrophic cardiomyopathy","restrictive cardiomyopathy","arrhythmogenic right ventricular cardiomyopathy","left ventricular noncompaction","cardiac amyloidosis","cardiac sarcoidosis"]
+
+['Cardiovascular risk estimation']
+
+['renal failure', 'rheumatic heart disease', 'aortopathy', 'aortic rupture', 'aortic root aneurysm', 'right ventricular dysfunction', 'right ventricular failure', 'right ventricular hypertrophy', 'right ventricular dilation', 'right ventricular hypertension', 'right ventricular outflow tract obstruction', 'right-to-left shunt']
+
+['atrial fibrillation', 'atrial flutter', 'ventricular tachycardia', 'ventricular fibrillation', 'cardiac arrest', 'myocardial infarction', 'coronary artery disease', 'angina', 'heart failure', 'hypertrophic cardiomyopathy', 'dilated cardiomyopathy', 'myocarditis', 'aortic stenosis', 'aortic regurgitation', 'mitral stenosis', 'mitral regurgitation', 'tricuspid regurgitation', 'tricuspid stenosis', 'pulmonary stenosis', 'pulmonary regurgitation', 'subaortic stenosis', 'supravalvar aortic stenosis', 'coarctation of the aorta', 'bicuspid aortic valve', 'ventricular septal defect', 'atrial septal defect', 'patent ductus arteriosus', 'tetralogy of Fallot', 'double outlet right ventricle', 'transposition of the great arteries', 'ebstein anomaly', 'cor triatriatum', 'truncus arteriosus', 'pulmonary atresia', 'pulmonary valve stenosis', 'aortic aneurysm', 'aortic dissection', 'peripheral arterial disease', 'deep vein thrombosis', 'pulmonary embolism', 'stroke', 'systemic embolism', 'thromboembolism', 'hypertension', 'hypotension', 'cardiomyopathy']
+
+["abdominal aortic aneurysm","thoracic aortic aneurysm","ascending aortic aneurysm","descending thoracic aortic aneurysm","aortic arch aneurysm","aortic root aneurysm","aortic aneurysm"]
+
+['Hypertension', 'Diabetes mellitus', 'Unhealthy diet', 'Tobacco use', 'Physical activity', 'Unsaturated fatty acids', 'Hemoglobin A1c']
+
+['atherosclerotic cardiovascular disease', 'coronary artery disease', 'myocardial infarction', 'stroke', 'peripheral arterial disease', 'atherosclerosis', 'vascular risk factor', 'visceral adiposity', 'healthy diet', 'physical activity']
+
+['Waist circumference', 'Waist-hip ratio', 'Body mass index', 'Weight assessment', 'Weight loss', 'Weight management', 'Dietary patterns', 'Whole-grain diet', 'Smoking', 'Cardiovascular risk classification', 'Sex (gender)']
+
+[]
+
+[]
+
+['Hypertension']
+
+[]
+
+[]
+
+[]
+
+['Heart Failure']
+
+['Coronary Artery Disease', 'Myocardial Ischemia']
+
+[]
+
