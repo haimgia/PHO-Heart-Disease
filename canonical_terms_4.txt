@@ -1,0 +1,225 @@
+10-year ascvd risk
+20-year ascvd risk
+5 a's behavior change framework
+abdominal aortic aneurysm
+air pollution exposure
+alcohol consumption
+angina
+aortic aneurysm
+aortic arch aneurysm
+aortic dissection
+aortic intramural hematoma
+aortic regurgitation
+aortic root aneurysm
+aortic rupture
+aortic stenosis
+aortic valve disease
+aortopathy
+arrhythmogenic right ventricular cardiomyopathy
+ascending aortic aneurysm
+ascvd risk
+atherosclerosis
+atherosclerotic cardiovascular disease
+atherosclerotic cardiovascular disease risk
+atrial fibrillation
+atrial flutter
+atrial septal defect
+bicuspid aortic valve
+biomarkers
+blood pressure
+body mass index
+c-reactive protein
+cardiac amyloidosis
+cardiac arrest
+cardiac sarcoidosis
+cardiogenic shock
+cardiomyopathy
+cardiovascular disease
+cardiovascular disease prevention
+cardiovascular risk assessment
+cardiovascular risk classification
+cardiovascular risk estimation
+cardiovascular risk factors
+cardiovascular risk management
+cardiovascular risk prediction
+cardiovascular risk scores
+cardiovascular risk stratification
+cardiovascular screening
+central adiposity
+central obesity
+cholesterol
+chronic kidney disease
+coarctation of the aorta
+congenital heart disease
+cor triatriatum
+coronary artery disease
+critical limb ischemia
+deep vein thrombosis
+depression
+descending thoracic aortic aneurysm
+diabetes management
+diabetes mellitus
+diet
+dietary patterns
+dilated cardiomyopathy
+double outlet right ventricle
+dyslipidemia
+early age of disease onset
+early menopause
+ebstein anomaly
+electrocardiogram
+electronic cigarette use
+elevated glucose
+elevated triglycerides
+excessive alcohol consumption
+familial cardiomyopathy
+familial hypercholesterolemia
+family history of cardiovascular disease
+fatigue
+female sex
+financial strain
+fish oil supplementation
+food access
+food insecurity
+food security
+frailty
+functional capacity
+gender-specific risk models
+genetic predisposition
+hdl cholesterol
+health behaviors
+healthy diet
+healthy lifestyle behaviors
+heart disease
+heart disease prevention
+heart disease risk factors
+heart failure
+heart failure with reduced ejection fraction
+hemoglobin a1c
+hemorrhagic stroke
+high cardiovascular risk
+high risk ascvd
+high risk cardiovascular profile
+high risk drinking
+high-fat diet
+high-sensitivity c-reactive protein
+history of stroke
+history of transient ischemic attack
+hiv infection
+hypercholesterolemia
+hyperlipidemia
+hypertension
+hypertriglyceridemia
+hypertrophic cardiomyopathy
+hypotension
+infective endocarditis
+intracardiac abscess
+intracardiac shunt
+intracardiac thrombus
+ischemia with nonobstructive coronary arteries
+ischemic cardiomyopathy
+ischemic heart disease
+ischemic heart failure
+ischemic mitral regurgitation
+ischemic stroke
+left ventricular hypertrophy
+left ventricular noncompaction
+left ventricular outflow tract obstruction
+low-flow low-gradient aortic stenosis
+low-gradient aortic stenosis
+lyme carditis
+lysosomal storage disease
+mace score
+major adverse cardiovascular events
+major adverse coronary events
+metabolic syndrome
+mitral regurgitation
+mitral stenosis
+mitral valve disease
+mitral valve prolapse
+myocardial infarction
+myocardial ischemia
+myocarditis
+n-terminal pro–b-type natriuretic peptide
+nonsteroidal anti-inflammatory drugs
+nutrition counseling
+obesity
+obstructive sleep apnea
+older adults
+older age
+opioid use
+overweight
+patent ductus arteriosus
+patent foramen ovale
+pericarditis
+peripheral arterial disease
+peripheral artery disease
+physical activity
+physical inactivity
+poor glycemic control
+pulmonary arterial hypertension
+pulmonary artery stenosis
+pulmonary atresia
+pulmonary embolism
+pulmonary hypertension
+pulmonary regurgitation
+pulmonary stenosis
+pulmonary valve disease
+pulmonary valve regurgitation
+pulmonary valve stenosis
+race/ethnicity
+renal failure
+resting heart rate
+restrictive cardiomyopathy
+rheumatic heart disease
+right ventricular dilation
+right ventricular dysfunction
+right ventricular failure
+right ventricular hypertension
+right ventricular hypertrophy
+right ventricular outflow tract obstruction
+right-to-left shunt
+risk estimate
+risk reduction strategies
+sedentary lifestyle
+serum creatinine
+sex
+sex (gender)
+sick sinus syndrome
+smoking
+social and environmental risk factors
+socioeconomic status
+stable angina
+statin therapy for primary prevention
+stroke
+subaortic stenosis
+substance use
+supravalvar aortic stenosis
+supraventricular tachycardia
+systemic embolism
+tetralogy of fallot
+thoracic aortic aneurysm
+thromboembolism
+tobacco use
+transient ischemic attack
+transposition of the great arteries
+tricuspid regurgitation
+tricuspid stenosis
+tricuspid valve disease
+truncus arteriosus
+type 1 diabetes mellitus
+type 2 diabetes mellitus
+unhealthy diet
+unsaturated fatty acids
+unstable angina
+vascular risk factor
+ventricular fibrillation
+ventricular septal defect
+ventricular tachycardia
+visceral adiposity
+waist circumference
+waist-hip ratio
+weight assessment
+weight loss
+weight management
+whole-grain diet
