@@ -96,6 +96,6 @@ if __name__ == "__main__":
 
     if SEMANTIC_MATCHING:
         with open(FINAL_TERMS_FILE, "r", encoding="utf-8") as f:
-            terms = [line.strip() for line in f.readlines() if line.strip()]
+            terms = [line.strip() for line in f.readlines()]
 
         semantic_matching(terms, USE_CASE, CANONICAL_TERMS_FILE)

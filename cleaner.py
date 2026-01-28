@@ -48,7 +48,7 @@ def split_by_alphabet(words):
 
 def semantic_matching(terms, use_case, output_file):
 
-    terms = []
+    concepts = []
 
     # groups the terms by alphabetical order
     grouped_terms = split_by_alphabet(terms)
@@ -58,8 +58,8 @@ def semantic_matching(terms, use_case, output_file):
         base_url=GPT_OSS_ENDPOINT,
         api_key="dummy-key"
     )
-
-    
+    print(f"size of terms {len(terms)}")
+    # print(f"grouped_terms {grouped_terms}")    
 
     for letter in tqdm(grouped_terms):
 
@@ -115,9 +115,9 @@ def semantic_matching(terms, use_case, output_file):
 
         list_of_canonical_terms = ast.literal_eval(canonical_terms)
 
-        terms.extend(list_of_canonical_terms)
+        concepts.extend(list_of_canonical_terms)
 
     # opens the output file to write canonical concepts
     with open(output_file, "w", encoding="utf-8") as f:
-        for term in terms:
-            f.write(f"{term}\n")
+        for concept in concepts:
+            f.write(f"{concept}\n")

@@ -1,0 +1,126 @@
+10-year ASCVD risk
+Electrocardiogram
+20-year ASCVD risk
+MACE score
+Family history of cardiovascular disease
+Coronary artery disease
+Atherosclerotic cardiovascular disease risk
+5 A's behavior change framework
+risk estimate
+Hypertension
+Dyslipidemia
+Diabetes mellitus
+Body mass index
+Smoking
+Alcohol consumption
+Physical inactivity
+Cardiovascular disease
+Atherosclerotic cardiovascular disease
+Coronary artery disease
+Cardiovascular risk factors
+Cardiovascular risk assessment
+Cardiovascular risk scores
+Cardiovascular risk stratification
+Cardiovascular risk prediction
+Cardiovascular risk management
+Cardiovascular screening
+Cardiovascular disease prevention
+Hypertension
+Hyperlipidemia
+Dyslipidemia
+Cholesterol
+Diabetes mellitus
+Obesity
+Central obesity
+Central adiposity
+Smoking
+Alcohol consumption
+Sedentary lifestyle
+Unhealthy diet
+C-reactive protein
+Biomarkers
+Family history of cardiovascular disease
+Diabetes mellitus
+Dyslipidemia
+Depression
+Diet
+Electronic cigarette use
+Early age of disease onset
+Early menopause
+Hypertension
+Diabetes mellitus
+Obesity
+Elevated triglycerides
+Elevated glucose
+Excessive alcohol consumption
+Physical inactivity
+Socioeconomic status
+Race/Ethnicity
+ASCVD risk
+High-sensitivity C-reactive protein
+Air pollution exposure
+Familial hypercholesterolemia
+Familial cardiomyopathy
+Female sex
+Frailty
+Financial strain
+Fish oil supplementation
+Food insecurity
+Food security
+Food access
+High-fat diet
+Functional capacity
+Fatigue
+Sex
+Gender-specific risk models
+Genetic predisposition
+Diabetes mellitus
+Heart disease
+Heart disease risk factors
+Heart disease prevention
+Hypertension
+Hyperlipidemia
+Hypercholesterolemia
+Hypertriglyceridemia
+HDL cholesterol
+Hemoglobin A1c
+Healthy diet
+Healthy lifestyle behaviors
+Health behaviors
+High cardiovascular risk
+High risk ASCVD
+High risk cardiovascular profile
+Ischemic heart disease
+Ischemic cardiomyopathy
+Ischemic heart failure
+Metabolic syndrome
+Major adverse cardiovascular events
+Major adverse coronary events
+Nonsteroidal anti-inflammatory drugs
+N-terminal pro–B-type natriuretic peptide
+Nutrition counseling
+Obesity
+Obstructive sleep apnea
+Older age
+Physical Activity
+Poor Glycemic Control
+Diabetes Management
+Peripheral Arterial Disease
+Renal Failure
+Resting Heart Rate
+Risk Reduction Strategies
+Smoking
+Substance use
+Social and environmental risk factors
+Sex
+Blood pressure
+Serum creatinine
+Tobacco Use
+Type 1 Diabetes Mellitus
+Type 2 Diabetes Mellitus
+Unhealthy diet
+Vascular Risk Factor
+Visceral Adiposity
+central obesity
+weight management
+whole-grain diet
