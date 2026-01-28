@@ -1,0 +1,2739 @@
+0/3-hour esc algorithm
+1-year mortality
+1-year survival
+10-year ascvd risk
+10-year follow-up
+10-year survival
+12-lead electrocardiogram (ecg)
+18f-fdg pet
+2-d echocardiography
+2-vessel disease with proximal lad involvement
+2-year survival
+20-year ascvd risk
+22q11 deletion syndrome
+22q11.2 deletion syndrome
+2mace score
+3-d cardiovascular magnetic resonance (cmr) imaging
+3-d ct scanning
+3-dimensional echocardiography
+3-dimensional strain analysis
+3-dimensional transesophageal echocardiography (tee)
+3-generation family history
+3-vessel coronary artery disease
+3-year survival free of heart transplant
+30-day mortality
+30-day readmission
+30-year ascvd risk
+4-d computed tomography
+4-d flow mri
+4-factor prothrombin complex concentrate (4-pcc)
+4d ct imaging
+5 a’s behavior change framework
+5-year amputation-free survival
+5-year risk estimate
+5-year survival
+5-year survival after aortic repair
+6-minute walk distance (6mwd)
+6-minute walk test (6mwt)
+99mtc-pyp scintigraphy
+99th percentile upper reference limit
+a to z trial (aggrastat to zocor study)
+a-heft trial (african-american heart failure trial)
+a2/p2 mitral valve scallops
+aaa growth rate
+aaa management strategies
+aaa repair
+aaa-related mortality
+aaa-related rupture
+aacvpr (american association of cardiovascular and pulmonary rehabilitation)
+aapa (american academy of physician assistants)
+aats (american association for thoracic surgery)
+abbott (cardiovascular device manufacturer)
+abbott laboratories
+abbott vascular
+abbvie
+abc (association of black cardiologists)
+abcd trial (appropriate blood pressure control in diabetes)
+abciximab
+abdominal adiposity
+abdominal aortic aneurysm
+abdominal aortic aneurysm (aaa)
+abdominal aortic aneurysm screening
+abdominal aortic ultrasound
+abdominal distention
+abdominal pain
+abi surveillance intervals
+abiomed
+ablation complications
+ablation efficacy
+ablation failure
+ablation in adult congenital heart disease
+ablation outcomes
+ablation safety
+ablation therapy
+ablation vs antiarrhythmic drug therapy for atrial fibrillation
+ablation-related adverse events
+abnormal ankle–brachial index (abi)
+abnormal blood pressure response to exercise
+abnormal cardiovascular function
+abnormal electrocardiogram
+abscess
+absolute ascvd risk
+absolute risk reduction
+academic research consortium high bleeding risk criteria
+acc (american college of cardiology)
+acc/aha aortic disease guidelines
+acc/aha atrial fibrillation guideline
+acc/aha clinical practice guidelines
+acc/aha coronary revascularization guidelines
+acc/aha guideline recommendations
+acc/aha heart failure guidelines
+acc/aha hypertension guidelines
+acc/aha joint guideline committees
+acc/aha peripheral artery disease guidelines
+acc/aha pooled cohort equations
+acc/aha primary prevention guidelines
+acc/aha secondary prevention guidelines
+acc/aha valvular heart disease guideline
+access to cardiovascular care
+access to care
+accessory atrioventricular pathways
+accessory pathway ablation
+accf (american college of cardiology foundation)
+accp antithrombotic therapy guidelines
+accreditation council for graduate medical education (acgme)
+ace (angiotensin-converting enzyme)
+ace inhibitor intolerance
+ace inhibitor therapy for hfref
+ace inhibitors
+ace inhibitor–induced cough
+ace2-mediated viral tropism
+acetylcholine coronary function testing
+achd cardiologist care
+achd clinical classification
+achd guideline-directed management
+achd mortality risk scores
+achd specialist / program / fellowship / management strategies
+achd specialty centers
+acquired heart disease
+acquired von willebrand syndrome
+acromegaly-associated heart failure
+acromegaly-related cardiomyopathy
+acs differential diagnosis
+acs guideline / management / toolkit / algorithm
+acs management algorithms
+acs management guidelines
+acta2 mutation–associated aortopathy
+actc1 gene
+action icu risk score
+action trial
+activated clotting time
+activated partial thromboplastin time
+activated prothrombin complex concentrate
+active bleeding on anticoagulation
+active malignancy
+active systemic infection
+activin signaling inhibitors
+activity monitoring and tracking
+acuity trial (acute catheterization and urgent intervention trial)
+acute and chronic heart failure diagnosis guidelines
+acute and chronic heart failure in congenital heart disease (acc/aha statement)
+acute angle of coronary artery takeoff
+acute angulation of the left coronary artery
+acute aortic disease
+acute aortic dissection
+acute aortic dissection diagnostic imaging
+acute aortic intramural hematoma (imh)
+acute aortic pathology
+acute aortic regurgitation (ar)
+acute aortic rupture
+acute aortic syndrome (aas)
+acute aortic syndrome classification (irad system)
+acute aortic syndrome imaging criteria
+acute atrial fibrillation (af)
+acute cardiac care
+acute cardiovascular events
+acute cardioversion
+acute chest pain
+acute congenital heart disease (achd)
+acute coronary event
+acute coronary event classification (stemi vs. nstemi/acs)
+acute coronary event complications
+acute coronary intervention
+acute coronary syndrome (acs)
+acute coronary syndromes
+acute covid-19 cardiovascular syndrome
+acute decompensated heart failure (adhf)
+acute decompensation of chronic heart failure (hf)
+acute heart failure
+acute heart failure (hf)
+acute hf with preserved vs. reduced ejection fraction
+acute hypotension
+acute illnesses
+acute inflammatory milieu
+acute kidney injury (aki)
+acute kidney injury as a cardiovascular complication
+acute limb ischemia (ali)
+acute lower extremity / lower-limb ischemia
+acute management of cardiogenic shock
+acute medical management of aortic dissection
+acute mitral regurgitation (mr)
+acute myocardial dysfunction without prior hf
+acute myocardial infarction
+acute myocardial infarction (mi / ami)
+acute myocardial infarction with heart failure
+acute myocardial ischemia
+acute myocarditis
+acute non-ischemic myocardial injury
+acute outcomes
+acute pancreatitis (risk from hypertriglyceridemia)
+acute pericarditis
+acute phlebotomy (250–500 ml blood removal)
+acute presentation
+acute pulmonary edema
+acute pulmonary hypertension
+acute rate control
+acute renal failure
+acute respiratory distress syndrome (ards)
+acute reversibility studies during cardiac catheterization
+acute severe ar surgical emergency
+acute severe symptomatic mr
+acute stroke
+acute type a aortic dissection
+acute type b aortic dissection
+acute versus chronic ischemia
+acute vs chronic valve disease
+acute vs delayed inadequate laao occlusion
+ad (type a) aortic dissection with distal extent
+ada (american diabetes association)
+adam trial (aneurysm detection and management)
+adamts19 gene mutation
+adaptive cardiac resynchronization therapy (adaptive crt)
+adaptive servo-ventilation
+adaptive trials
+added fats
+added fats / added sugar / added sugars (risk factor for heart disease)
+added sugar
+added sugar (risk factor for cardiovascular disease)
+added sugars
+addiction therapy
+additional surgical or device therapy
+adjunctive catheter ablation
+adjunctive therapy
+adjuvant (adjunctive) revascularization procedures
+administration route (iv, oral, continuous infusion)
+administrative / claims data for cardiovascular research
+administrative and accreditation terms
+adolescence to young adulthood (13–18 years) chd care
+adolescents / young adults
+adonis study (american-australian-african trial)
+adrenergic agonists
+adrenergic receptor stimulation
+adrenomedullin
+adsorb trial (acute dissection: stent graft or best medical therapy)
+adult care hospitals
+adult congenital aortic valve interventions
+adult congenital cardiac clinic
+adult congenital heart association (acha)
+adult congenital heart disease (achd)
+adult hcm management strategies
+adult icd decision-making
+adult single ventricle clinic
+adult-onset hypertrophic cardiomyopathy
+adulthood (18–80+ years) chd care
+adults with eisenmenger syndrome clinical characteristics
+advance care planning / directives in heart failure
+advanced (stage d) heart failure
+advanced age (≥75 y)
+advanced cardiac imaging
+advanced cardiac therapies
+advanced care modalities
+advanced congenital cardiac therapies
+advanced cvd (severe cardiovascular disease)
+advanced dementia
+advanced echocardiographic imaging
+advanced hcm with heart failure
+advanced heart failure
+advanced heart failure (hf)
+advanced heart failure and transplant cardiologist
+advanced heart failure position statements (esc, aha)
+advanced heart failure therapies
+advanced hf therapies (pre-conception, intra-pump, transplant referral)
+advanced hf with preserved ejection fraction (hfpef) in hcm
+advanced imaging endpoints
+advanced imaging for lv strain and strain-rate
+advanced imaging markers of disease progression
+advanced kidney disease (non-dialysis / in cad context)
+advanced lipid disorders program
+advanced liver fibrosis
+advanced nyha class (iii or iv)
+advanced practice provider(s) (nurse practitioners, physician assistants)
+advanced reperfusion strategies (e.g., arrest trial, cares registry)
+advanced screening strategies for hf (cost-effectiveness, risk prediction)
+advanced therapies (surgical, mechanical support, transplant, mechanical circulatory support, lvoto relief)
+advanced treatments (lvad, heart transplant)
+advancing age
+adventitia
+adventitial inflammation
+adverse aortic events
+adverse cardiac events
+adverse cardiovascular events (hospitalization, mortality)
+adverse cardiovascular outcomes (stroke, bleeding, mortality)
+adverse drug effects
+adverse event risk (mortality, hf, stroke, arrhythmia)
+adverse events (e.g., tendon rupture, uric acid increase, af)
+adverse maternal and fetal outcomes
+adverse outcomes (stroke, thromboembolism)
+advised risk score
+advocacy priorities
+aerobic exercise
+aerobic exercise (moderate / vigorous intensity)
+aerobic exercise safety
+aerobic interval training
+aerobic training
+af (atrial fibrillation)
+af ablation / on uninterrupted oral anticoagulation
+af and stroke risk / mortality / quality of life / ventricular fibrosis / weight management
+af as comorbidity in hf
+af burden / metrics / monitoring / duration / episode duration (>24 h or >5 min)
+af burden / recurrence / progression / early-onset, “lone” af
+af catheter ablation / af ablation
+af classification / clinical outcomes / economic evaluation / follow-up investigation (affirm)
+af detection from atrial lead
+af diagnostic accuracy
+af duration thresholds
+af episode / frequency / duration
+af in adult congenital heart disease / pediatric and young adult populations
+af in valvular heart disease (vhd) / non-valvular / obesity / post-operative / subclinical / device-detected / silent
+af incidence in cancer subtypes
+af initiation triggers
+af management / guidelines
+af management / guidelines (aha/acc/hrs) / strategies / therapy outcomes / prevention
+af prognosis in obesity
+af progression / prevention
+af recurrence / post-ablation / post-treatment
+af recurrence predictors / prediction
+af risk
+af surveillance
+af symptoms
+af-chf study / trial
+af-mediated / af-induced cardiomyopathy
+af-related morbidity
+af-related mortality
+af-related stroke risk / thromboembolic risk
+affirm study / affirm trial (substudy)
+affirm-ahf trial
+aficamten clinical trials
+afl (atrial flutter)
+aftr trial (ablate and pace trial)
+age (general / advanced / ≥60 y / ≥65 y / ≥70 y / ≥75 y / >80 y)
+age at aortic event / age at repair (<6.5 y)
+age of af onset (<45 y, <66 y)
+age stratification in valve choice (<50, 50–65, >65 y)
+age threshold (≥75 y)
+age- and lesion-related comorbidity burden in chd
+age- and sex-based st-elevation thresholds
+age-adjusted hf mortality
+age-appropriate risk factors
+age-based recommendations (≤65, 65–80, >80 y)
+age-dependent valve choice (≤50, 50–65, >65 y)
+age-related longevity and valve selection
+age-related risk categories (≥85, 75–84, 65–74, <65 y)
+age-related susceptibility to af
+age-specific risk assessment (20–39, 40–59, 60–75, >75 y)
+age-specific risk prediction models
+age-standardized global prevalence rates of af / afl
+aggressive aortopathy
+aggressive blood-pressure control
+aggressive cardiovascular phenotype of aneurysms-osteoarthritis syndrome
+aggressive decongestion
+aggressive diuresis leading to lvoto amplification
+agranulocytosis
+ahre (atrial high-rate episodes)
+ai and machine learning in cardiology
+ai for atrial fibrillation management
+ai risk prediction
+ai-based perfusion mapping
+ai-guided atrial fibrillation screening
+ai-powered imaging analysis for early pad detection
+aim‑high trial
+air embolism (intraoperative)
+air pollution / ambient air pollution / ambient particulate matter exposure / ambient temperature exposure – cardiovascular risk factors
+air versus oxygen therapy in stemi
+airway compression symptoms (stridor, wheezing)
+ai–ecg (ai-ecg)
+aki after coronary procedures
+akinetic rvot length ≥55 mm
+al amyloidosis
+alagille syndrome (jag1) – peripheral/branch pa stenosis, coarctation, aortic stenosis, septal defects, mid-aortic narrowing
+albiglutide
+albumin / albuminuria (≥30 µg albumin/mg creatinine) – renal function as cvd predictor
+alcohol (risk factor for cvd / tobacco-related risk factor)
+alcohol abuse / alcoholic cardiomyopathy
+alcohol consumption
+alcohol consumption / use / moderation / abstinence / reduction (light, moderate, binge, ≤1 drink/day women, ≤2 drinks/day men)
+alcohol misuse
+alcohol septal ablation (asa) / outcomes
+alcohol-induced cardiac toxicity
+alcohol-related af episodes
+aldactone (spironolactone)
+aldosterone antagonist therapy / blockade / pathway blockade / mineralocorticoid receptor blockade
+aldosterone antagonists (e.g., spironolactone, eplerenone)
+alirocumab (pcsk9 monoclonal antibody)
+all-cause mortality
+all-in cluster randomized trial (integrated af management)
+allogeneic hematopoietic cell transplantation
+allograft / allograft cryopreservation / tissue exposure / cryopreserved aorta
+alogliptin
+alteplase (tpa)
+ambrisentan (endothelin receptor antagonist / therapy)
+amica trial (atrial fibrillation management in congestive heart failure with ablation)
+amino-terminal pro-bnp (nt-probnp)
+amiodarone (antiarrhythmic drug / therapy / rate- or rhythm-control / iv / preoperative prophylaxis)
+amiodarone-associated thyroid dysfunction (hyperthyroidism, hypothyroidism, thyrotoxicosis)
+amlodipine
+amyloid cardiomyopathy (al-cm)
+amyloid heart disease
+amyloidosis (cardiac / infiltrative cardiomyopathy / involvement)
+anaphylactic reactions to beta-blockers
+anatomic assessment of disease severity
+anatomic characteristics / complexity / lesions / variants / variability / etiology / pattern / or ischemic testing
+anatomical evaluation of disease / repairs / physiologic classification system
+ancillary imaging in achd (e.g., ct-ffr)
+anderson-fabry disease (in hypertrophic cardiomyopathy)
+andexanet alfa (anti-xa antidote / factor xa inhibitor reversal agent)
+andromeda trial (anti-arrhythmic trial with dronedarone)
+anemia
+anemia (cardiovascular impact / in acs / in heart failure / management with folic acid, iron, transfusions)
+anesthesia (epidural / general / local vs. general in aortic surgery)
+anesthesia collaboration / management in achd
+anesthesia-related cardiac risk (e.g., qtc prolongation)
+anesthesiologist with chd expertise
+anesthetic planning / pharmacology / management for cardiac surgery / pregnancy
+aneurysm (aortic / lv apical / related to dissection / cause)
+aneurysm growth / rate / dilation (≥0.5 cm/yr, >0.5 cm in 6 months)
+aneurysm neck diameter / sac / sac enlargement / thrombosis prevention
+aneurysm repair / aneurysmectomy / surgical aneurysmectomy
+aneurysm rupture
+aneurysm screening / surveillance / size thresholds (≥5.5 cm men, ≥5.0 cm women, ≥6.0 cm)
+aneurysm-related mortality / reintervention / events / death
+aneurysmal aorta / segment / area / degeneration / disease / extension (proximal arch, ascending, descending thoracic aorta)
+aneurysmal pulmonary arteries / sac / segment replacement
+aneurysmal threshold (≥1.5× reference diameter)
+aneurysms-osteoarthritis syndrome
+angina
+angina / angina pectoris / chest pain / anginal pain
+angina frequency / baseline angina frequency
+angina ongoing / angina under-recognition
+angina pectoris
+angina prevalence (including provider evaluation study)
+angina quality of life / angina-related qol
+angina symptoms / anginal symptoms (dyspnea, arm pain with exertion)
+angina types: stable angina / unstable angina / refractory angina
+anginal episodes / anginal symptom burden
+angiogenesis
+angiogram / angiography (coronary / contrast-enhanced / invasive / vascular imaging)
+angiographic assessment (stenosis ≥50 %, complexity, chronic coronary disease, progression, patterns, hemodynamic significance)
+angiography grade (1–4)
+angiography-guided pci / angiography-guided strategy
+angiology (clinical specialty)
+angioplasty / percutaneous coronary angioplasty / angioplasty-first vs. bypass-first strategy
+angiosafe / angiosome / angiosome-targeted revascularization / direct pulsatile flow
+angiosomal revascularization strategies
+angiotensin ii receptor blockade / antagonists
+angiotensin ii receptor blockers (arb / arbs / examples: losartan, valsartan, candesartan)
+angiotensin receptor blockers / therapy for hfref / general use
+angiotensin receptor–neprilysin inhibitors (arni / sacubitril-valsartan) / therapy in hfref or achd / pre-hf stage b
+angiotensin-converting enzyme inhibition
+angiotensin-converting enzyme inhibitors (acei / ace-i / examples: enalapril, ramipril, captopril, fosinopril, lisinopril, perindopril, quinapril, trandolapril)
+angiotensin-ii-dependent tgf-β signaling
+angiotensin-neprilysin inhibition / antagonist
+ankle pulse volume recordings (pvr)
+ankle-brachial index (abi) / measurement / interpretation / diagnostic thresholds (<0.80, ≤0.90, <0.9)
+ankle–brachial index (abi)
+annular abscess / dilation / hypoplasia
+annular-to-coronary ostial distance (ct measurement for tavi planning)
+annuloplasty / annuloplasty repair / ring(s)
+annulus area / size / shape / washer technique / rupture
+anomalous aortic origin of coronary artery (aaoca) / from opposite sinus
+anomalous left coronary artery (alca / alcapa) / from pulmonary artery
+anomalous origin of coronary arteries / opposite sinus of valsalva
+anomalous papillary muscle / insertion
+anomalous pulmonary venous connection / return (partial or total) / apvc
+anomalous right coronary artery (arca / arcapa) / from pulmonary artery / left sinus of valsalva
+antegrade cerebral perfusion / antegrade perfusion
+antegrade propagation / antegrade propagation of dissection
+antegrade stenting of descending thoracic aorta / proximal descending thoracic aorta
+anterior aortoiliac disease
+anterior free wall
+anterior mitral leaflet extension
+anterior stemi / antero-apical infarction
+anterior-lateral thoracotomy
+anterior-posterior (annular) dilation
+anthracycline cardiotoxicity / induced cardiomyopathy / anthracycline-related cardiotoxicity
+anthracyclines (doxorubicin, epirubicin, idarubicin, mitoxantrone)
+anthracyclines (from previous list, if including anticancer drugs)
+anti-anginal drugs / therapy (e.g., β-blockers, nitrates, ranolazine, nifedipine)
+anti-arrhythmic agents / drugs / medication / therapy / follow-up / risk/benefit analysis
+anti-arrhythmic drug examples → amiodarone, dofetilide, digoxin
+anti-arrhythmic drug therapy (aad) / therapy for rhythm control
+anti-arrhythmic effects
+anti-cyclic citrullinated peptide (anti-ccp)
+anti-double-stranded dna (anti-dsdna)
+anti-her2 agents
+anti-human leukocyte antigen (anti-hla) antibodies
+anti-hypertensive drug examples (beta-blockers, calcium-channel blockers, diuretics)
+anti-impulse therapy (beta-blockade, antihypertensive therapy)
+anti-inflammatory therapy / diet
+anti-ischemic effects
+anti-rna polymerase iii
+anti-scl-70
+anti-ssa (ro) / anti-ssb (la)
+anti-tachycardia pacing (atp) / atp algorithms
+anti-xa activity / anti-xa agents / direct oral anticoagulants / monitoring / levels
+antianginal medications
+antiarrhythmic agents / drugs / therapy / follow-up / dosing / maintenance of sinus rhythm (examples: amiodarone, metoprolol)
+antiarrhythmic drug therapy (aad) / medical therapy / therapy in ckd
+antibiotic therapy / prophylaxis / duration / sensitivity data
+antibiotics for lyme carditis
+anticoagulant dosing / adjustment / interruption / resumption / titration / drug absorption
+anticoagulant therapy / anticoagulation (oral, oacs, doacs, vkas, warfarin)
+anticoagulation / anti-coagulation therapy
+anticoagulation and antiplatelet therapy
+anticoagulation bridging / strategies / safety profile / target inr (2–3)
+anticoagulation during pregnancy (including mechanical valves / trimesters)
+anticoagulation in amyloidosis / vte prophylaxis / cancer
+anticoagulation in atrial fibrillation (valvular / non-valvular / stroke prevention)
+anticoagulation in coronary disease
+anticoagulation monitoring (inr / last dose / accessibility)
+anticoagulation reversal agents / effectiveness / bleeding risk / risk-benefit assessment
+anticoagulation strategies
+anticoagulation-naïve patients / therapy guidance / strategy independent of cha₂ds₂‑vasc
+anticoagulation-related intracerebral hemorrhage / surveillance / anticoagulation-sparing strategies
+antidepressant effects
+antidepressants (e.g., escitalopram)
+antiepileptic drugs
+antifungal therapy
+antigen-presenting cells (apcs)
+antihypertensive agents / drugs / medication / therapy / treatment
+antihypertensive medication burden (≥2 drugs / ≥3 classes)
+antihypertensive therapy for aortic injury
+antimetabolites (clofarabine, cytarabine, 5-fluorouracil, capecitabine, gemcitabine)
+antimicrobial agents / therapy / regimens / duration
+antimicrobial stewardship / stewardship for prosthetic vascular infections
+antimicrobial therapy duration (48 hrs – 1 week / prolonged iv antibiotics)
+antimicrobial therapy examples (e.g., cloxacillin, gentamicin)
+antimicrobial therapy for aortic infections / foot infections
+antimicrotubule agents
+antineoplastic drug interactions
+antineutrophil cytoplasmic antibody (anca) / anca-related vasculitis / anca-related disease
+antinuclear antibody (ana)
+antioxidant therapy (vitamin c, beta-carotene, multivitamins)
+antioxidants (ascorbic acid, polyunsaturated fatty acids [pufa] for af risk in hf)
+antiphospholipid antibody syndrome / antiphospholipid syndrome
+antiplatelet agents / drugs / therapy / regimen / response / efficacy / strategy / guidelines
+antiplatelet and anticoagulant therapy
+antiplatelet therapy
+antiplatelet therapy (apt / dual therapy / aspirin / clopidogrel / dapt)
+antiplatelet therapy strategies
+antithrombin / antithrombin agents
+antithrombotic agents / drugs / therapy / regimens / strategies / prophylaxis / safety / efficacy
+antithyroid treatment
+anxiety / anxiety in achd / anxiety in perioperative aaa patients
+aorta
+aortic afterload
+aortic aneurysm
+aortic aneurysm (general, aa, aaa, ascending, thoracic, abdominal, saccular, pseudoaneurysm, infra-inguinal/popliteal)
+aortic aneurysm growth / growth rate / sac diameter / surveillance / rupture risk / rupture / diameter thresholds
+aortic arch / arch anatomy / arch zones (0–5)
+aortic arch aneurysm
+aortic ascending aorta
+aortic atheroma / atherosclerosis / plaques / calcification / sclerosis
+aortic balloon valvuloplasty
+aortic bifurcation
+aortic biomechanics / geometry / contour defects / knob disruption
+aortic branches / branch vessels / branch vessel involvement / arch branch vessels
+aortic coarctation (native, repaired)
+aortic complications / adverse events / mortality / outcomes
+aortic cross-clamping / cross-sectional area / cross-section-to-height ratio
+aortic diameter
+aortic diameter thresholds for intervention
+aortic dilation / dilatation / root dilation / aortopathy / enlargement
+aortic disease (clinical statements, guidelines, tad, natural history, epidemiology, pregnancy-specific risk)
+aortic disease complications
+aortic disease management in pregnancy
+aortic dissection
+aortic dissection (general, type a, type b, acute, chronic, distal to graft, tad, debakey classifications)
+aortic dissection at small diameter
+aortic dissection flap
+aortic dissection risk / risk assessment / thresholds / detection scores (add-rs)
+aortic ectasia / elongation / expansion
+aortic events (dissection, rupture, aneurysm growth, surgery)
+aortic gradient
+aortic imaging (ct angiography, mri, fdg-pet, echocardiography, tee)
+aortic imaging techniques / standards / surveillance schedule / monitoring frequency
+aortic injury (blunt traumatic, classification schemes, management)
+aortic intimal flap
+aortic intramural hematoma
+aortic involvement in systemic conditions (connective-tissue disorders, familial hypercholesterolemia, turner’s syndrome)
+aortic isthmus / isthmus ratio / stenosis / rupture
+aortic lumen / orifice
+aortic measurement standards / diameter measurement / size / indexing / size index (asi / ahi) / diameter-height ratio
+aortic pressure / diastolic pressure equilibration
+aortic pseudoaneurysm / anastomotic pseudoaneurysm
+aortic pseudoaneurysm / sac thrombosis
+aortic pulmonary collaterals / transposition
+aortic registry / quality initiative data
+aortic regurgitation
+aortic repair / reconstruction / replacement / resection / grafting / endovascular repair / endografting
+aortic repair types: open surgery, endovascular repair, prophylactic, urgent
+aortic replacement / replacement indications / surgical criteria / timing / techniques
+aortic root / sinus segment / root anatomy / root dimensions / root area / cross-sectional area / indexed area / aortic area-height ratio
+aortic root aneurysm
+aortic root repair / remodeling / reconstruction / valve-sparing procedures (david procedure, reimplantation)
+aortic rupture
+aortic rupture / rupture risk / incidence / free vs. contained
+aortic sarcoma / tumor
+aortic size thresholds / growth thresholds
+aortic stenosis
+aortic stiffness / stiffness index
+aortic stump oversewing
+aortic surgical zones / landing zone definitions (0–4)
+aortic surveillance / monitoring / post-repair follow-up / imaging intervals
+aortic thrombus / mural thrombosis / thromboembolism
+aortic translocation
+aortic valve (av) anatomy / leaflets / cusp prolapse / adhesion / tethering
+aortic valve disease
+aortic valve disease (stenosis, insufficiency/regurgitation, calcification, congenital)
+aortic valve hemodynamics (flow velocity, gradient, vmax)
+aortic valve intervention / replacement / repair / prosthetic choice (mechanical, bioprosthetic)
+aortic valve pathology / molecular genetics / complications / endocarditis
+aortic valve surgery / repair / replacement / valve-sparing operations / savr / avr
+aortic valve surgical planning / indications / timing / durability / reoperation
+aortic velocity / vmax / transvalvular gradient
+aortic volume
+aortic wall / medial layer / wall abnormalities / wall integrity / wall remodeling / wall biomechanics / wall stress / wall thickening / wall false lumen
+aortitis
+aortitis / aortic inflammation / involvement in giant cell arteritis / takayasu arteritis
+aortobifemoral bypass
+aortocaval fistula / aortocavitary fistula
+aortoenteric fistula / aorto‑enteric fistula
+aortoiliac arterial segment / aortoiliac-femoral occlusive disease
+aortoiliac disease / occlusive disease / lesions / pad involvement / femoropopliteal / infrapopliteal segments
+aortopathy
+aortopathy (general) / aortopathic conditions / associated with bicuspid aortic valve / ≥5 cm diameter / connective-tissue disorders
+aortopathy management during pregnancy
+aortopulmonary collaterals / aortopulmonary arteriovenous shunt / fistula / shunt closure
+aorto‑aortic tube grafting
+aorto‑iliac arterial intervention / appropriate use
+ap (accessory pathway) / ap classification (ia, ic–d, etc.)
+apical hypertrophy / apical hypertrophic cardiomyopathy / apical aneurysm / apical outpouching / apical myectomy / apex-ami trial / apical site pacing / apical sparing of lv longitudinal strain / apically displaced papillary muscles / apical point of maximal impulse
+apixaban (artesia trial)
+apixaban / artesia trial
+appropriate use criteria (auc) for cardiac imaging / echocardiography / vascular diagnostics / multimodality imaging / congenital heart disease
+apt – antiplatelet therapy
+arb – angiotensin receptor blocker (losartan, valsartan)
+arb – angiotensin receptor blocker / agents / class (losartan, valsartan)
+arc-hf trial (ablation vs. rate control in persistent af + hf)
+area under the curve (auc, pharmacology / clinical scoring)
+aric study / aric risk score (atherosclerosis risk in communities)
+aric study / aric risk score / atherosclerosis risk in communities
+aristotle trial (apixaban efficacy)
+arni – angiotensin receptor–neprilysin inhibitor
+arrest trial
+arrhythmia (general) / atrial / ventricular / tachyarrhythmias / bradyarrhythmias / post-operative / post-cardioversion
+arrhythmia / heart rhythm disorder
+arrhythmia burden / detection / monitoring / progression / recurrence / substrate identification / management / treatment / strategies
+arrhythmia surgery (maze procedures)
+arrhythmia-induced cardiomyopathy
+arrhythmias during exercise testing / during pregnancy / post-fontan / in adults after rastelli surgery
+arrhythmic events / life-threatening arrhythmias / arrhythmic death / arrhythmic phenotypes / arrhythmic risk / risk scores / risk stratification
+arrhythmogenic cardiomyopathy (acm) / arrhythmogenic right ventricular cardiomyopathy (arvc) / arrhythmogenic right ventricular dysplasia/cardiomyopathy (arvd/c) / arrhythmogenic substrate
+arrhythmogenic right ventricular cardiomyopathy
+arterial aneurysm
+arterial embolism / thromboembolism / thrombosis / occlusion
+arterial intermittent pneumatic compression devices
+arterial lactate (≥2.5 mmol/l)
+arterial line / vascular access
+arterial load / stiffness / tortuosity
+arterial phase imaging
+arterial revascularization / stenosis
+arterial switch operation (d-tga / jatene procedure)
+arteriopathy clinic / arteriovenous malformations / arteriovenous fistula-related hf
+artificial intelligence (ai)
+as – aortic stenosis / asymptomatic as / severe as
+asap study / asap-too trial
+ascending aorta
+ascending aorta aneurysm / thoracic aneurysm (taa) / aaa
+ascending aorta dilation / dimensions
+ascending aorta procedures / repair / replacement / root replacement surgery
+ascending aortic aneurysm
+ascending aortic aneurysm outcomes / surgery
+ascending aortic calcification (porcelain aorta)
+ascending aortic cannulation / complications
+ascending aortic dilation
+ascending thoracic aorta / thoracic aortic graft
+ascvd event risk / events / risk / risk calculator / high-risk clinical factors / prediction models / estimate / risk factors
+ascvd – atherosclerotic cardiovascular disease
+asd – atrial septal defect / closure
+aspirin (acetylsalicylic acid, asa)
+aspirin (antiplatelet therapy / monotherapy / for primary prevention / low-dose 75–100 mg, 81 mg daily)
+aspirin dosing: low-dose (81 mg) vs high-dose (162–325 mg) / maintenance dose (75–100 mg/day) / loading dose (162–325 mg)
+aspirin for asymptomatic atherosclerosis (aaa trial)
+aspirin hypersensitivity / desensitization / contraindications / induced hemorrhage / discontinuation strategy
+aspirin therapy for pericarditis
+aspirin use (cardiovascular prevention, pre-hospital, transplant patients)
+assent-3 trial
+assessment of cardiovascular risk / chest pain for cad / ischemic myocardium in af patients
+asymptomatic adult cardiac risk assessment
+asymptomatic aortic regurgitation / severe ar / ar with normal lv function
+at – atrial tachycardia
+atenolol
+atherogenic lipoproteins
+atheroma / atherosclerosis / vascular calcification (in ckd) / peripheral arteries / lower extremities
+atherosclerosis
+atherosclerotic cardiovascular disease
+atherosclerotic disease / cardiovascular disease / heart disease / occlusive disease / risk / pathways / plaque / burden / instability / volume
+atherosclerotic taa / atherosclerotic vascular disease / atherothrombosis / atherothrombotic events
+athlete / athlete population / competitive athletes / athlete’s heart / differential diagnosis / activity restrictions
+atlas study (lisinopril low vs high dose)
+atorvastatin (10–80 mg, ≥40 mg)
+atorvastatin and other statin analogues were covered in previous batches
+atria risk score
+atria stroke-risk score
+atrial annular dilation
+atrial arrhythmia (general, including flutter / post-closure / recurrent)
+atrial arrhythmia burden / recurrence / detection / suppression (drug trials)
+atrial cardiomyopathy / contraction / dysfunction / ectopic beats / electromechanical delay / electrophysiology / electrophysiology abnormalities / enlargement / fatty infiltration
+atrial fenestration
+atrial fibrillation
+atrial fibrillation (af) / afib
+atrial fibrillation conversion to sinus rhythm
+atrial fibrillation in critical illness
+atrial fibrillation–associated thromboembolism
+atrial flutter
+atrial flutter (afl) / typical & atypical / atypical non-cavotricuspid macroreentrant
+atrial flutter (clockwise)
+atrial flutter (typical and atypical)
+atrial functional mitral regurgitation
+atrial high-rate episode (ahre / device-detected)
+atrial overdrive pacing / atrial pacing / algorithms / lead / pacemaker lead
+atrial septal defect
+atrial septal defect (asd) / asd closure / asd / patent foramen ovale (pfo) / atrial septal dilation / atrial septal defects
+atrial size / dilation / structural abnormalities / stunning
+atrial switch (senning/mustard procedures / surgically induced / operation / repair)
+atrial tachyarrhythmia–related av arrhythmias (refractory)
+atrial tachycardia (at) / atrial tachyarrhythmias / atypical atrial arrhythmias
+atrial tissue / myocyte hypertrophy / interstitial collagen / fibrosis / scarring / substrate
+atriclip device / atricure
+atrio-ventricular junction ablation / av junctional radiofrequency ablation
+atrioesophageal fistula
+atriopulmonary fontan / atriotomy scars
+attest trial
+attr-cm (transthyretin amyloid cardiomyopathy) / attr-v (variant) / attr-wt (wild-type)
+augustus trial (antithrombotic therapy after acs/pci in af)
+autogenous vein / autogenous vein graft / bypass / conduit / surgery / femoral vein autograft
+autograft aortic root replacement
+autologous vein graft
+automated algorithm detection of af / automated algorithms for af detection
+autonomic disorders / dysfunction in amyloidosis / hyperinnervation
+autonomic nervous system (ans) / dysfunction / dysregulation / modulation / nerve sprouting / denervation / neuropathy
+autosomal dominant inheritance / transmission of taa
+av block / av nodal block / high-grade av block
+av junction ablation / av nodal ablation / av nodal blockers / av nodal blocking agents / av nodal ablation strategies
+av node / displacement / ablation (avna)
+av septal defect (avsd) – partial / complete
+av synchrony / av dyssynchrony / av conduction / av conduction abnormalities / av conduction block
+av valve dysfunction / failure / function / regurgitation / replacement / surgery (systemic av valve repair)
+avid trial (antiarrhythmics versus implantable defibrillators)
+avoid trial (air versus oxygen in stemi)
+avr – aortic valve replacement
+axillary / axillofemoral bypass / cannulation
+azathioprine (dmard)
+azygous vein / azygous continuation of inferior vena cava
+b braun medical
+b vitamins and omega‑3 fatty acids (cardiovascular effects)
+b-natriuretic peptide (bnp)
+b-type natriuretic peptide (bnp / nt-probnp)
+b-type natriuretic peptide (bnp) / bnp testing / natriuretic peptides
+b-type natriuretic peptide ≥127 ng/l
+back pain
+bacteremia
+bacterial aortitis
+bacterial endocarditis
+bacterial sepsis (cardiovascular impact)
+baffle leak / obstruction / stenosis / closure / intervention (e.g., intratrial)
+ball-in-cage valve
+balloon angioplasty / dilatation / valvuloplasty / occlusion / test occlusion
+balloon aortic valvuloplasty (bav) / balloon dilation of the aortic valve
+balloon catheter
+balloon mitral commissurotomy / valvotomy / valvuloplasty (bmv)
+balloon occlusion of the aorta / balloon test occlusion
+balloon-expandable percutaneous valves / prostheses / pulmonary valve / valve (e.g., sapien 3)
+balloon-expandable prostheses / valves
+balloon-expanded stent
+bare metal stent (bms) / bare-metal femoropopliteal stent / stents
+bari 2d trial results
+bariatric procedures / surgery (gastric bypass, sleeve gastrectomy, adjustable gastric banding)
+barlow’s valve
+barriers to care (geographic, insurance, socioeconomic)
+barriers to physical activity in hcm patients
+basal anterior septum / basal septal hypertrophy
+baseline aortic imaging / coronary imaging / mri/ct / tee / tte
+basil-2 trial (bypass vs angioplasty for severe leg ischemia)
+basket trials (device / procedural studies)
+bbmeta-hf (beta-blockers meta-analysis)
+bcl2-like protein 12 (bcl2l12)
+beautiful trial (ivabradine in cad with lv dysfunction)
+behavior modification / therapy / behavioral coaching / counseling / change techniques
+behavioral interventions for tobacco cessation / support
+behçet disease / behçet’s disease
+bempedoic acid / atp citrate lyase inhibitor / bempedoic acid + ezetimibe combination therapy
+benchmarking across centers / performance measures
+bendopnea
+benefit assessment / benefit-risk assessment
+bentall procedure
+benzphetamine
+berlin heart excor
+best trial (beta-blocker evaluation of survival)
+best-cli trial
+beta-2 agonists
+beta-adrenergic blockade / beta-adrenergic blocker therapy
+beta-blocker (b-blocker)
+beta-blockers (non-vasodilating, cardioselective, av-nodal blockers)
+beta-blockers / therapy / medications / optimal doses / uptitration
+beta-blockers as adjunct to arb therapy
+beta-blockers in aortic dissection
+beta-blockers in pregnancy / postpartum
+beta-carotene supplementation
+beta-myosin heavy chain 7 (myh7)
+bgn (biglycan, extracellular matrix protein)
+bi-directional cavo-pulmonary shunt
+bicarbonate
+bicuspid aortic valve
+bicuspid aortic valve (bav) / bav disease / bicuspid valve phenotype / bav-associated aneurysm / bicuspid vs tricuspid aortic valve outcomes / bicuspidoid aortic valve phenotyping
+bicycle exercise testing
+bidirectional cavopulmonary shunt (glenn shunt) / bidirectional shunt / shunting / anastomosis
+bifid uvula
+bifurcated grafting / bifurcation lesion / bifurcation lesion management
+bilateral antegrade cerebral perfusion / bilateral cerebral perfusion
+bilateral aortic injury (baai)
+biliary excretion (liver metabolism of amiodarone)
+binge drinking
+bioavailability / pharmacokinetics / pharmacodynamics of diuretics
+biochemical cardiac biomarkers
+biochemical screening
+bioimage study (personalized statin allocation)
+bioimpedance
+biologic disease-modifying antirheumatic drugs (dmards)
+biologic prosthetic valve / biological prosthesis / biological valve / biological valved conduit
+biologic-targeted therapy for takayasu arteritis
+biologics / immune-modulating therapies
+biomarker analysis / assay / domain / testing / utilization in acs
+biomarker-guided therapy
+biomarkers for af and stroke prediction
+biomarkers for aortic risk stratification
+biomarkers for heart failure (b-type natriuretic peptide, nt-probnp)
+biomarkers for risk stratification in heart disease
+biomarkers in asymptomatic aortic valve disease
+biomarkers in hf therapy optimization
+biomarkers of cardiac damage, injury, inflammation, strain
+biomarkers: bnp, nt-probnp, troponin, high-sensitivity troponin, desmosine, proteomics, hs-crp
+bioprosthesis / bioprosthetic valve / bioprosthetic prostheses
+bioprosthetic aortic valve / mitral valve / pulmonary valves
+bioprosthetic aortic valve durability / leaflet degeneration / stenosis / regurgitation / thrombosis / dysfunction / replacement / surgical or transcatheter
+bioprosthetic tavi
+bioprosthetic valve degeneration (leaflet calcification, non-coaptation, tear, perforation)
+bioprosthetic valve replacement / bilateral bioprosthetic valve replacement
+bioprosthetic valve thrombosis prevention (aspirin, warfarin, low-dose warfarin)
+bioresorbable polymer-coated stent / bio-absorbable stent implantation
+biosense webster (device manufacturer for cardiac rhythm management)
+biotronik (device manufacturer)
+biphasic cardioversion / energy (≥200 j) / waveform
+birth prevalence of congenital heart defects
+bisleaflet mechanical avr (aortic valve replacement)
+bisoprolol
+biventricular (bi-v) pacing / cardiac resynchronization therapy (crt) / biv pacing
+biventricular circulation / dysfunction / function / global-function index / interaction
+biventricular defibrillators (crt-d)
+biventricular outflow tract reconstruction / repair / surgical strategy
+biventricular vs right-ventricular pacing (block-hf)
+blalock–taussig–thomas shunt
+bleeding / anticoagulation-related bleeding / complications
+bleeding academic research consortium (barc)
+bleeding risk
+bleeding risk assessment (scores: has-bled, hemorr2hages, atria)
+bleeding risk factors / management / reduction / contraindications
+bleeding risk in hf, acs, gi bleeding, intracranial bleeding
+bleeding vs ischemic event risk
+bleeding vs ischemic risk balance
+blood cholesterol / dyslipidemia / management / lipid levels
+blood clot / flow / distribution efficiency / volume / viscosity
+blood culture / diagnostic standards / positivity / negativity / persistently positive
+blood glucose / hba1c
+blood pressure (bp) / hypertension / control / management / targets
+blood pressure (bp) / hypertension / management / targets / measurement / control
+blood transfusion / guidelines (aabb, cochrane review)
+blood-flow metrics
+blood-pressure-related vascular mortality
+blowing (major/minor) bleeding
+blue-toe syndrome
+blunt abdominal aortic injury (baai)
+blunt chest trauma
+blunt thoracic aortic injury (btt-ai)
+blunt traumatic abdominal aortic injury
+blunt traumatic aortic injury (btai)
+bmi as a risk factor (<21 kg/m² for thyrotoxicosis, bmi-adjusted hazard ratios for af)
+bnp / b-type natriuretic peptide / brain natriuretic peptide
+bnp level >300 pg/ml
+body composition
+body mass index
+body mass index (bmi)
+body size / habitus / perception / misperception
+body size–indexed cardiovascular measurements
+body surface area (bsa)
+body surface area (bsa) indexed parameters
+body temperature regulation
+body weight
+body-mass-index effects on transplant outcomes
+body-size normalization of aortic dimensions / body-size–adjusted normal limits
+boehringer ingelheim
+bosentan (endothelin receptor antagonist) / therapy
+bovine arch (common innominate and left carotid artery)
+bowel ischemia (mesenteric ischemia)
+bp control
+bp control including intensive sbp <120 mm hg
+bp lowering / bp-lowering therapy / bp-lowering treatment / drugs (β-blockers, ace inhibitors, calcium antagonists, diuretics)
+bp lowering drugs / raas inhibitors / beta-blockers
+bp management (general, hypertension, diabetes)
+bp measurement (home, office, electronic)
+bp reduction / trajectories / variation
+bp response during exercise / homeostasis / cuff gradients / upper vs lower extremity
+bp targets (<130/80 mm hg; 120–129/<80 mm hg; ≤130 mm hg systolic / ≤80 mm hg diastolic)
+brady-tachycardia
+bradyarrhythmia / bradyarrhythmias
+bradycardia / bradycardia pacing / rate control
+braf inhibitor (vemurafenib) / cardiotoxicity
+brain abscess
+brain arteriovenous malformation
+brain infarction / brain stem infarctions
+branch artery aneurysm
+branch artery dilation or narrowing
+branch artery occlusion
+branch artery stenosis
+branch endovascular therapy
+branch pulmonary artery (pa) stenosis
+branch pulmonary artery reintervention
+branch pulmonary artery size and flow
+branch stenting
+branch vessel anatomy of the aorta
+branch vessel aneurysm / aneurysmal disease
+branch vessel ostia
+branch vessel perfusion
+branch vessel stenosis
+branched endovascular aortic repair
+branched graft
+branched stent graft
+breastfeeding-safe medications (acei, beta-blockers, diuretics)
+bridge procedure
+bridge therapy
+bridge to cure
+bridge to decision / bridge-to-decision strategy
+bridge to recovery
+bridge to surgery
+bridge to transplant / bridge-to-transplant (btt) strategy
+bridge trial
+bridging / replacement anticoagulation strategies
+bridging anticoagulation / bridging therapy
+brisk physical activity
+brockenbrough–braunwald–morrow sign
+bromocriptine / bromocriptine therapy
+brompton risk score
+bronchial artery erosion
+brugada syndrome
+brugada syndrome / arrhythmogenic disorders
+bruise-control trial
+bruton tyrosine kinase inhibitors (btk inhibitors)
+bsa indexing for aortic dimensions
+bsa–adjusted z-score (general & lv wall thickness)
+bucindolol
+built environment
+bumetanide
+buprenorphine treatment
+bupropion (treatment / nicotine replacement / nicotinic antagonist) / bupropion therapybreastfeeding in heart failure
+buttock claudication
+bypass / vascular bypass
+bypass angioplasty revascularization investigation 2 diabetes (bari 2d)
+bypass graft / conduit
+bypass graft failure / occlusion
+bypass graft patency
+bypass graft surgery / cabg
+bypass grafting (open or vascular surgery, including internal mammary arteries)
+bypass grafts
+bypass surgery / cabg
+bypass time
+bypass versus angioplasty (basil trial)
+c-reactive protein as cardiovascular risk marker
+c2hest score (coronary artery disease, hypertension, elderly, systolic hf, etc.)
+cabg / coronary artery bypass grafting / cabg patch trials / study identifiers
+cabg in cardiogenic shock
+cabg indications and outcomes
+cabg vs pci decision-making
+cabg-associated complications
+cad / coronary artery disease
+caffeine consumption / abstention / triggers
+cahp score (cardiac arrest hospital prognosis)
+calcific aortic stenosis / calcific aortic valve disease
+calcific mitral stenosis
+calcific valve disease / calcific valvar stenosis / calcification of aortic wall or valves
+calcineurin inhibitor therapy / elimination (e.g., cyclosporine, tacrolimus)
+calcium channel blockers
+calcium handling / ca²⁺ mishandling / overload / signaling / sensitization / supplementation
+calibrated risk scores
+canadian implantable defibrillator studies (cids)
+cancer risk related to cardiac imaging or alcohol
+cancer therapy–related cardiac disease
+cancer-associated atrial fibrillation / cardiovascular risk
+cancer-therapy–related cardiomyopathy / cardiotoxicity
+car t-cell therapies (tisagenlecleucel, axicabtagene ciloleucel)
+car-t cell therapy
+carcinoid heart disease / carcinoid syndrome
+cardiac amyloidosis
+cardiac amyloidosis / al amyloidosis / ttr amyloidosis
+cardiac amyloidosis / transthyretin amyloid cardiomyopathy
+cardiac anticoagulation
+cardiac arrest
+cardiac arrest (documented, sudden, post-cpr, during transport)
+cardiac arrest resuscitation guidelines
+cardiac arrest studies (e.g., cash)
+cardiac arrest study hamburg (cash trial)
+cardiac arrhythmia suppression trial (cast)
+cardiac arrhythmias / arrhythmia risk factors / arrhythmia suppression trial (cast / cats)
+cardiac arrhythmias / rhythm control / re-entry circuits
+cardiac bio-markers (general)
+cardiac biomarkers
+cardiac biomarkers of stretch, injury, or strain
+cardiac biomarkers → nt-probnp, bnp
+cardiac cachexia
+cardiac care / critical care / icu outcomes / intensivist involvement
+cardiac catheter ablation (including af with hf)
+cardiac catheterization / catheter-based interventions / angiocardiography / coronary angiography
+cardiac catheterization / catheter-based procedures / angiocardiography / coronary angiography
+cardiac catheterization laboratory / interventional team / procedures / icu support
+cardiac catheterization laboratory activation
+cardiac chamber quantification
+cardiac chamber quantification / size / function / guidelines
+cardiac chamber size and geometry
+cardiac chambers / chamber size / volume / structure / function
+cardiac complications (myocardial injury, arrhythmias, ischemia, failure, death)
+cardiac computed tomography (ct / cct / cta)
+cardiac conduction / conduction system / conduction delay
+cardiac conduits and grafts
+cardiac contractility
+cardiac contractility / contractility modulation (ccm)
+cardiac contractility / performance metrics
+cardiac device endocarditis
+cardiac device implantation
+cardiac device implantation / implantable electronic devices (cied)
+cardiac device therapy
+cardiac devices
+cardiac dysfunction / heart failure / post-exercise cardiac dysfunction
+cardiac electrophysiology / procedures / fellowship / ambulatory rhythm monitoring
+cardiac embolization / thromboembolic disease (e.g., atrial thrombus, valvular vegetations, intracardiac shunts)
+cardiac fibrosis
+cardiac fibrosis / maladaptive structural changes
+cardiac function / baseline assessment / monitoring / metrics (ef, stroke volume, systolic function)
+cardiac hemodynamics (resting and exercise)
+cardiac hypertrophy / chamber enlargement / pulmonary venous congestion
+cardiac hypertrophy / remodeling / reverse remodeling / maladaptive structural changes
+cardiac imaging (echocardiography, mri, ct, ct angiography, pet)
+cardiac imaging for monitoring af burden
+cardiac imaging guidelines / committees
+cardiac imaging markers for cardiomyopathy
+cardiac imaging modalities (invasive vs. non-invasive)
+cardiac imaging parameters / metrics (e.g., lvesd, ef, wall thickness, lge)
+cardiac index
+cardiac intensive care unit (cicu)
+cardiac interventions / myectomy / icd placement / surgical repairs
+cardiac ischemia / acute or chronic ischemia
+cardiac magnetic resonance (cmr / mri / perfusion imaging / lvot evaluation / myocardial mapping)
+cardiac magnetic resonance imaging (cmr)
+cardiac management strategies / decision-making
+cardiac medication during pregnancy
+cardiac monitoring (baseline, longitudinal, intermittent, continuous, echocardiography)
+cardiac morphology / phenotypic spectrum
+cardiac murmur
+cardiac myosin (s2 region, alpha-myosin)
+cardiac myosin inhibitors (e.g., mavacamten)
+cardiac output / monitoring / augmentation / reserve / demands
+cardiac pacemaker / atrial leads
+cardiac pacing / physiological pacing / lv pacing / crt / conduction-system pacing
+cardiac perfusion / myocardial oxygen delivery
+cardiac pharmacokinetics (loading vs maintenance doses)
+cardiac prevention / cardioprotective management strategies / cardioprotective exercise / cardioprotective effects (e.g., light-moderate alcohol)
+cardiac procedural outcomes / surgical outcomes / operative risk
+cardiac radiation exposure
+cardiac rehab program / attendance / completion / access
+cardiac rehabilitation
+cardiac rehabilitation (cr) – center-based, home-based, virtual, exercise-based, cardio-oncology, post-mi/angina/scad, hfpef/hfmref, congenital heart disease, post-aortic surgery
+cardiac repolarization abnormalities
+cardiac resynchronization therapy (crt / crt-d / crt implantation / reverse remodeling)
+cardiac resynchronization therapy (crt)
+cardiac rhythm / rhythm abnormalities / rhythm disorder / rhythm monitoring / rhythm restoration / rhythm conversion time
+cardiac rhythm management devices (pacemakers, defibrillators, crt devices)
+cardiac risk assessment / risk index / risk score / risk stratification (including hcm, pregnancy)
+cardiac safety / monitoring / safety assessment
+cardiac sarcoidosis
+cardiac shock / cardiogenic shock (classification, diagnostic criteria, management, protocols)
+cardiac stress testing / stress imaging / stress laboratory
+cardiac surgery (open-heart, cabg, valve replacement, repair, stenting, transcatheter intervention, post-operative arrhythmias, achd expertise)
+cardiac surgical care / expertise / decision-making / education
+cardiac sympathetic activity
+cardiac symptoms / pulmonary-related cardiac symptoms (dyspnea, pulmonary edema)
+cardiac tamponade
+cardiac therapy adherence / cardiac therapies / cardiac toxicity
+cardiac tissue destruction / infiltration / viral infiltrate
+cardiac tolerance / long-term cardiac tolerance
+cardiac transplant / transplantation (including bridge with mechanical assist device, muscular dystrophy, adult congenital heart disease, amyloidosis, valve regurgitation)
+cardiac troponin
+cardiac troponin (ctn, ctni, ctnt, assay, normalization)
+cardiac ultrasound
+cardiac valves / valvular pathology / valve disease / valve dysfunction / valve replacement / valve implantation / valve surgery
+cardiac-related pharmacology / substance-specific cardiac effects
+cardio-obstetrics
+cardio-obstetrics care team
+cardio-oncology
+cardio-protective diet
+cardio-renal considerations
+cardiogenic limb emboli / cardioembolic events / cardioembolic stroke / cardioembolic risk / cardioembolic source
+cardiogenic risk in primary prevention of cardiovascular disease
+cardiogenic shock
+cardiogenic shock / cardio-gic shock
+cardiogenic shock revascularization strategy
+cardioimmunology / cardiogenetics / inherited cardiac disease / genetic screening
+cardiologist / achd cardiologist / aortic specialist / heart failure expert / maternal-fetal medicine specialist
+cardiology / cardiology fellowship / guidelines / practice / editorial work / specialist roles
+cardiometrics / cardiac performance / cardiac power output
+cardiomyopathy
+cardiomyopathy (dilated, idiopathic, ischemic, anthracycline-induced, trastuzumab-induced, peripartum, familial, af-induced, arrhythmia-induced, general, unresponsive)
+cardiomyopathy genes / etiology / surveillance / program
+cardiopulmonary bypass (including in pregnancy)
+cardiopulmonary exercise testing (cpet)
+cardiopulmonary exercise testing (cpet, treadmill, semi-supine bicycle, ventilatory efficiency, aerobic capacity, functional capacity, exercise tolerance)
+cardiopulmonary magnetic resonance
+cardiorenal syndrome
+cardiorespiratory fitness
+cardiorespiratory training
+cardiorheumatology (cardiac involvement in systemic rheumatic disease)
+cardioselective beta-blockers
+cardiothoracic (ct)
+cardiothoracic imaging / cardiovascular imaging / imaging modalities (tte, ct, mri, cmr)
+cardiothoracic magnetic resonance imaging (cmr)
+cardiothoracic surgeon / surgery / surgical specialties / surgical team
+cardiothoracic surgery in hypertrophic cardiomyopathy
+cardiotoxic anticancer therapies
+cardiotoxicity / cardiotoxicity risk stratification
+cardiovascular & metabolic sciences
+cardiovascular & pulmonary rehabilitation
+cardiovascular abnormalities / malformations / complications (e.g., turner’s syndrome, pregnancy, hiv, vasculitis, cancer therapy)
+cardiovascular ageing
+cardiovascular anesthesiologist / anesthesiologists
+cardiovascular burden / morbidity / mortality / morbidity and mortality outcomes
+cardiovascular catheterization / angiography / angioplasty / interventions
+cardiovascular clinical trials
+cardiovascular collapse
+cardiovascular considerations (pregnancy, hiv, aortic care)
+cardiovascular consultative services
+cardiovascular device / implantable electronic device (cied) / device infection
+cardiovascular disease
+cardiovascular disease (cvd)
+cardiovascular disease (cvd) / cardiovascular complications / risk / endpoints
+cardiovascular disease epidemiology
+cardiovascular disease prevention
+cardiovascular disease prevention / primary & secondary prevention / preventive strategies / preventive guidelines (acc/aha, esc)
+cardiovascular drug-drug interaction recommendations (e.g., statins)
+cardiovascular drugs / pharmacotherapy / medication safety
+cardiovascular effects (cocaine, ends, marijuana, opioids, second-hand smoke)
+cardiovascular endpoints
+cardiovascular event metrics / future ascvd events
+cardiovascular events
+cardiovascular events / event prevention / event reduction / event risk (mi, stroke, pad, arrhythmias, hf)
+cardiovascular fellowship / fellowship program / interventional fellows
+cardiovascular fitness / exercise capacity / rehabilitation (acvpr, aha, center-based, home-based, post-mi/scad/hf, cardio-oncology, pulmonary rehab)
+cardiovascular functional class (nyha)
+cardiovascular health / promotion / interventions / management / outcomes / equity / disparities / astronaut-specific outcomes
+cardiovascular institute / research group / research institution / research network
+cardiovascular magnetic resonance / cmr techniques / studies / imaging terms (dyssynchrony, remodeling, cone reconstruction)
+cardiovascular mortality
+cardiovascular operations / service line / services / status
+cardiovascular or cv / cvd (general domain)
+cardiovascular outcomes
+cardiovascular outcomes / outcome metrics / outcomes research / trials
+cardiovascular outcomes research / quality and outcomes research
+cardiovascular phenotype / phenotyping
+cardiovascular policy (e.g., smoke-free workplace)
+cardiovascular procedures (general)
+cardiovascular registry data
+cardiovascular rehabilitation
+cardiovascular research / research network / research programs
+cardiovascular risk / risk assessment / risk prediction / risk profile / risk factor / risk reduction / risk management / risk stratification / risk amplifiers
+cardiovascular risk classification
+cardiovascular risk estimation
+cardiovascular risk factors (bp, lipids, bmi, diabetes, smoking, alcohol, second-hand smoke, hyperlipidemia, dyslipidemia, comorbidities)
+cardiovascular risk in smokers / e-cigarette users / pregnancy / autoimmune disorders
+cardiovascular risk scores (framingham, cha₂ds₂-vasc, charge-af)
+cardiovascular risk stratification
+cardiovascular safety / safety assessment / toxicity
+cardiovascular screening / screening guidelines
+cardiovascular specialist / specialists / nurses / team-based care
+cardiovascular stroke / cardio-embolic stroke
+cardiovascular surgery indications
+cardiovascular system / systems (including company names)
+cardiovascular therapies (pharmacologic agents, device therapies)
+cardiovascular-glycemic management (glp-1, sglt2 agents)
+cardioversion (electrical, pharmacologic, direct-current, safety, energy delivery, la stunning)
+cardioverter-defibrillator therapy
+care coordination
+care settings (inpatient / outpatient)
+caregiver support
+carotid artery disease
+carotid atherosclerosis
+carotid revascularization
+carpal tunnel syndrome
+carpentier–edwards pericardial bioprosthesis
+carpreg ii risk score
+carvedilol
+cascade genetic testing
+cascade screening of at-risk relatives
+case management
+case volume (center and surgeon)
+cast-ii trial
+castle-af trial
+catecholamine spillover
+catheter ablation
+catheter ablation for atrial fibrillation
+catheter ablation for ventricular arrhythmias
+catheter-based cardiac interventions
+catheter-based mechanical thrombectomy
+catheter-based revascularization
+catheter-based therapies
+catheter-derived imaging
+catheter-directed thrombolysis
+catheter-related infection
+causative factors of aortic aneurysm
+cavopulmonary shunt
+cavotricuspid isthmus ablation
+cavotricuspid isthmus–dependent atrial flutter
+ca²⁺/calmodulin-dependent protein kinase ii (camkii) activation / signaling / ryr2 hyperphosphorylation
+cd4⁺ t cells
+celecoxib
+celiac artery
+celiac artery coverage
+cell and gene therapy
+center for heart disease prevention
+centerline measurement technique
+centers for disease control and prevention (cdc)
+centers for medicare & medicaid services (cms)
+central adiposity
+central aortic cannulation
+central cannulation (aortic arch)
+central nervous system event
+central obesity
+central sleep apnea
+central venous access
+central venous oxygen saturation
+central venous pressure
+cephalic vein
+cephalosporins
+cerebral abscess
+cerebral amyloid angiopathy
+cerebral aneurysm
+cerebral embolism / thromboembolism
+cerebral hemorrhage
+cerebral infarction
+cerebral ischemia
+cerebral malperfusion
+cerebral perfusion
+cerebral protection strategies
+cerebrospinal fluid drainage
+cerebrospinal fluid pressure management
+cerebrovascular complications
+cerebrovascular disease
+cerebrovascular events (stroke)
+cervical artery abnormalities
+cesarean delivery in cardiac or aortic disease
+cesarean section
+cessation counseling
+chads₂ score
+chamber dilation (ra, rv, lv)
+chamber dilation / enlargement
+chamber function
+cha₂ds₂-vasc score
+chelation therapy
+chemotherapy-induced arrhythmias
+chemotherapy-related cardiac monitoring
+chemotherapy-related cardiotoxicity
+chest pain
+chest pain centers
+chest pain evaluation
+chest radiation therapy
+chest radiography
+chest tube output
+chest x-ray
+childhood / pediatric heart disease
+childhood obesity
+children’s heart foundation
+cholesterol
+cholesterol clinical practice guidelines
+cholesterol management
+cholesterol treatment trialists (ctt) collaboration
+cholesterol-lowering therapy
+chordal rupture
+chordal-sparing mitral valve replacement
+chromosomal abnormalities
+chronic anticoagulation
+chronic aortic dissection
+chronic aortic regurgitation
+chronic atrial fibrillation
+chronic congestive heart failure
+chronic coronary disease (ccd / cad)
+chronic coronary disease (ccd)
+chronic coronary syndrome (ccs)
+chronic cyanosis
+chronic disease management
+chronic disease risk behaviors
+chronic embolism risk
+chronic heart failure
+chronic hypertension
+chronic hypoxemia
+chronic inflammatory cardiomyopathy
+chronic inflammatory disease
+chronic kidney disease
+chronic kidney disease (ckd)
+chronic kidney disease stage 3–4
+chronic limb-threatening ischemia (clti)
+chronic lung disease
+chronic management after scad
+chronic mitral regurgitation
+chronic myocardial infarction
+chronic obstructive pulmonary disease (copd)
+chronic obstructive pulmonary disease (copd) as cardiovascular comorbidity
+chronic primary mitral regurgitation
+chronic pulmonary regurgitation
+chronic right ventricular pacing
+chronic secondary mitral regurgitation
+chronic severe aortic regurgitation
+chronic stable angina
+chronic stable ischemic heart disease
+chronic symptomatic heart failure
+chronic symptomatic peripheral artery disease
+chronic tachycardia
+chronic total occlusion (cto)
+chronic type b aortic dissection
+chronotropic incompetence
+cibis trials (bisoprolol in heart failure)
+cigarette smoking
+cilostazol
+cine cardiac imaging
+cine ct imaging
+circulating biomarkers
+clarithromycin
+clarity–timi 28 trial
+class i antiarrhythmic drugs
+class ia antiarrhythmics
+class ib antiarrhythmics
+class ic antiarrhythmics
+class iii antiarrhythmic drugs
+claudication
+clear outcomes trial
+cleft mitral valve
+clevidipine
+climate change–related cardiovascular risk
+clingen (clinical genome resource)
+clinical arrhythmias
+clinical assessment
+clinical atherosclerotic cardiovascular disease (ascvd)
+clinical atrial fibrillation
+clinical cardiac electrophysiology
+clinical care pathways
+clinical complications
+clinical congestion
+clinical consensus guidelines
+clinical decision pathway (cdp)
+clinical decision support for atrial fibrillation (cds-af tool)
+clinical decompensation
+clinical evaluation
+clinical genetics
+clinical heart failure assessment
+clinical outcomes
+clinical phenotyping of cardiomyopathy
+clinical practice settings
+clinical presentation
+clinical registries and registry outcomes
+clinical stability
+clinical surveillance programs
+clinical trials / randomized controlled trials
+clinical utility of genetic testing
+clinically actionable genetic variants
+clinically evident atrial fibrillation
+clonidine
+clopidogrel therapy
+closed mitral commissurotomy
+clti management guidelines
+cmr risk stratification
+cmr tissue mapping
+cmr-measured regurgitant fraction
+coach trial
+coact trial
+coagulation cascade
+coagulation monitoring (inr)
+coagulopathy
+coapt trial
+coaptation length
+coarctation of the aorta
+cocaine use
+cocaine-associated cardiomyopathy
+coenzyme q10
+cognitive disorders
+cognitive impairment
+colchicine therapy
+colcot trial
+collaborative / team-based cardiovascular care
+collateral circulation
+collateral vessel formation
+color doppler imaging
+color flow doppler
+combined heart–liver transplantation
+commander-hf trial
+commissural calcification
+commissural fusion
+commit trial
+common atrioventricular valve
+community health workers
+community-based cardiovascular care
+community-based exercise therapy
+compass trial
+competing cardiovascular risks / outcomes
+competitive sports participation in cardiovascular disease
+complete atrioventricular septal defect (complete avsd)
+complete heart block
+complete revascularization
+complex congenital heart disease
+complex coronary / structural lesions
+complex coronary artery disease
+complicated aortic syndromes
+composite bypass / valve–graft conduits
+composite cardiovascular outcomes
+composite clinical endpoints
+comprehensive ascvd prevention
+comprehensive atrial fibrillation care
+comprehensive cardiac imaging
+comprehensive cardiovascular care
+compression stockings
+computed tomographic angiography (cta)
+computed tomography (ct)
+computed tomography (ct) imaging
+concentric left ventricular hypertrophy
+concomitant cardiac conditions
+conduction system disease
+conduction system pacing
+cone procedure for tricuspid valve repair
+confirmatory diagnostic evaluation
+congenital aortic valve disease
+congenital cardiac anatomy variants
+congenital cardiovascular abnormalities
+congenital coarctation repair residual gradient
+congenital coronary artery abnormalities
+congenital heart disease
+congenital heart disease (chd / achd)
+congenital heart disease hemodynamics
+congenital mitral valve disease
+congenitally corrected transposition of the great arteries (cctga)
+congestion and volume overload
+congestive heart failure
+congestive heart failure / heart failure
+congestive hepatopathy
+connective tissue disorders
+connexins and cardiac gap junctions
+conotruncal defects
+conservative management strategies
+constrictive pericarditis
+consumer ecg devices
+contained aortic rupture
+contemporary cardiovascular management strategies
+continuous anticoagulation therapy
+continuous disease monitoring
+continuous ecg monitoring
+continuous intravenous inotropic therapy
+continuous patient education
+continuous positive airway pressure (cpap) therapy
+continuous rhythm assessment
+continuous rhythm monitoring
+continuous st-segment monitoring
+continuous-flow ventricular assist devices (lvads)
+continuous-wave doppler
+continuous-wave doppler ultrasound
+contractile reserve
+contraindications in cardiovascular therapy
+contrast risk stratification (mehran score)
+contrast-associated acute kidney injury
+contrast-enhanced cardiovascular imaging
+contrast-induced nephropathy (cin / ci-aki)
+conventional cardiac pacing
+conventional catheter ablation
+conventional disease-modifying antirheumatic drugs (csdmards)
+conventional treatment approaches
+copy-number variants and de novo mutations
+cor pulmonale
+cor triatriatum
+coronary angiography
+coronary angiography (invasive and ct-based)
+coronary artery anatomy
+coronary artery anomalies
+coronary artery bypass grafting (cabg)
+coronary artery disease
+coronary artery disease (cad / ischemic heart disease)
+coronary artery disease (cad)
+coronary artery stenosis >50%
+coronary atherosclerosis
+coronary atherosclerosis progression
+coronary calcium scoring (cac)
+coronary compression syndromes
+coronary computed tomography angiography (ccta / cta)
+coronary ct angiography (ccta)
+coronary decision aids
+coronary disease clinical outcomes
+coronary dissection
+coronary fistulas
+coronary flow reserve (cfr)
+coronary hemodynamics
+coronary imaging
+coronary imaging follow-up
+coronary ischemia
+coronary microvascular dysfunction
+coronary physiology assessment (ffr / ct-ffr)
+coronary plaque assessment
+coronary plaque instability
+coronary reintervention
+coronary revascularization
+coronary revascularization strategy selection
+coronary risk factors
+coronary risk modification
+coronary risk scores
+coronary risk stratification
+coronary stent implantation
+coronary thrombosis
+coronary vasomotor disorders
+corticosteroid therapy
+cost and value considerations in cardiovascular care
+cost estimation
+cost of care
+cost-effective medical management
+cost-effective prevention strategies
+cost-effective screening
+cost-effectiveness
+cost-effectiveness analysis
+cost-effectiveness of aortic screening and intervention
+cost-effectiveness of atrial fibrillation treatment
+cost-effectiveness of cardiovascular devices
+cost-effectiveness of cardiovascular therapies
+cost-effectiveness of mechanical circulatory support
+cost-related medication nonadherence
+cost-saving healthcare strategies
+cost-utility analysis
+cost–value analysis of cardiovascular interventions
+covered stents
+covid-19 (coronavirus disease 2019)
+covid-19 (sars-cov-2 infection)
+covid-19 cardiovascular complications
+covid-19 vaccination
+covid-19 vaccination for cardiovascular risk reduction
+covid-19–associated myocarditis
+covid-19–associated thrombosis
+covid-19–related myocardial injury
+cox-2 selective inhibitors
+crawford classification of thoracoabdominal aortic aneurysm
+creatine kinase
+creatine kinase-mb (ck-mb)
+creatine kinase–mb
+creatinine clearance
+critical care atrial fibrillation
+critical care cardiology
+critical illness
+critical limb ischemia
+critical limb-threatening ischemia (clti)
+critical time-to-treatment metrics
+cross-clamp time
+cross-clamp use
+cross-sectional aortic area–to–height ratio
+cross-sectional imaging
+crossover rate in clinical trials
+crt cost-effectiveness
+crt with defibrillator (crt-d)
+crt with pacemaker (crt-p)
+cryoablation
+cryoballoon ablation
+cryptogenic stroke
+ct angiography
+ct aortic valve calcium scoring
+ct grading of aortic injury
+culprit lesion
+culprit vessel
+culprit-only percutaneous coronary intervention
+cultural humility in healthcare
+culture-negative endocarditis
+cumulative radiation exposure
+cumulative survival
+current cardiovascular literature
+current tobacco smoking
+customized footwear for ischemia prevention
+customized grafts
+cyanosis
+cyanosis-associated exercise limitation
+cyanotic congenital heart disease
+cyclooxygenase (cox) inhibitors
+cyclophosphamide therapy
+cyp-mediated drug metabolism
+cyp2c19 polymorphisms
+cystatin c
+cytochrome p450 enzyme system
+cytochrome p450–mediated interactions
+cytokinetics
+d-dimer
+d-dimer threshold (<500 ng/ml)
+d-sotalol
+d-tga after arterial switch operation
+d-tga after atrial switch (mustard/senning)
+d-tga after rastelli operation
+dabigatran therapy
+danish trial (ischemic context excluded; scd comparator)
+dapt duration
+dapt duration after cabg
+dapt risk stratification
+de novo coronary lesions
+de-escalation of dual antiplatelet therapy (dapt)
+debranching (hybrid coronary/aortic context)
+decongestion strategies
+decopi trial
+deep hypothermic circulatory arrest (surgical support technique)
+deep vein thrombosis
+deferred revascularization (ffr-guided strategy)
+degenerative coronary disease
+delayed coronary angiography
+delayed hyperenhancement (myocardial infarction)
+delayed invasive strategy in acs
+delayed revascularization
+delayed-enhancement cardiac magnetic resonance (ischemic scar imaging)
+delta troponin change
+demand-induced myocardial infarction (type 2 mi)
+dense continuous-wave doppler signal (coronary hemodynamics context)
+dental-related bacteremia (coronary risk in ie context)
+depression
+depression and heart failure outcomes
+depression as a cardiovascular comorbidity
+depression as a cardiovascular risk factor
+depression as a risk amplifier
+depression impacting heart failure prognosis
+depression in cardiac populations (hf, achd, aortic disease)
+depression, anxiety, and stress as cardiovascular risk factors
+dermatologic toxicity
+descending aorta
+descending aortic aneurysm
+descending aortic dilation
+descending aortic replacement
+descending thoracic aorta
+descending thoracic aortic aneurysm
+desmoplakin (dsp)
+desmoplakin cardiomyopathy
+desmoplakin gene variants / mutations
+desmosomal gene mutations
+destination therapy
+destination therapy strategy
+determinants of myocardial infarction onset
+device bridging to transplant
+device erosion
+device extraction
+device indications
+device infection
+device management (pacemakers, icds, crt)
+device migration
+device placement and selection
+device surgery
+device-based cardiac therapy
+device-detected arrhythmia duration
+device-detected atrial arrhythmias
+device-detected atrial fibrillation
+device-detected atrial high-rate episodes (ahre)
+device-detected subclinical atrial fibrillation
+device-related complications
+device-related endocarditis
+device-related thrombosis
+device-related thrombus
+dextro-transposition of the great arteries (d-tga)
+diabetes as a cardiovascular risk factor
+diabetes as a cardiovascular risk modifier
+diabetes as a comorbidity in cardiovascular disease
+diabetes care standards
+diabetes in coronary artery disease
+diabetes in heart failure
+diabetes in peripheral artery disease (pad)
+diabetes management
+diabetes management as cardiovascular risk reduction
+diabetes mellitus
+diabetes-associated microvascular complications
+diabetes-related ascvd risk
+diabetes-related cardiovascular prevention
+diabetes-related vascular disease
+diabetic coronary artery disease
+diabetic foot ulcer
+diabetic neuropathy
+diabetic retinopathy
+diagnosis
+diagnosis and management of atrial fibrillation
+diagnosis and management of coronary artery disease
+diagnosis and management of heart failure
+diagnosis of chest pain
+diagnosis of infective endocarditis
+diagnosis of peripheral artery disease
+diagnostic accuracy
+diagnostic algorithms
+diagnostic criteria
+diagnostic evaluation
+diagnostic imaging
+diagnostic laboratory testing
+diagnostic monitoring
+diagnostic risk assessment models
+diagnostic sensitivity and specificity
+diagnostic testing (cardiovascular)
+diagnostic thresholds
+diagnostic workup for cryptogenic stroke
+dialysis-dependent cardiovascular disease
+diamond–forrester probability model
+diastolic blood pressure
+diastolic dysfunction
+diastolic filling parameters
+diastolic flow abnormalities
+diastolic function
+diet as a cardiovascular risk factor
+diet quality
+dietary fat intake
+dietary fiber intake
+dietary modification
+dietary patterns
+dietary patterns (e.g., mediterranean diet)
+dietary potassium intake
+dietary sodium intake
+dietary sodium restriction
+dietary supplementation
+diffuse aortic dilation
+diffuse atherosclerotic disease
+diffuse coronary lesions
+diffuse myocardial fibrosis
+dig trial (digitalis investigation group)
+digital care transformation
+digital health
+digital health interventions
+digital health monitoring
+digital health platforms and tools
+digoxin (digitalis)
+digoxin toxicity
+dihydropyridine calcium channel blockers
+dilated cardiomyopathy
+dilated cardiomyopathy (dcm)
+dilated-phase hypertrophic cardiomyopathy
+diltiazem
+dinamit trial
+direct current cardioversion
+direct oral anticoagulants (doacs)
+direct thrombin inhibitors
+direct-current ablation
+discharge planning and education
+discharge risk prediction models
+discharge risk stratification
+discrete coronary lesions
+disease burden
+disease management programs
+disease progression
+disease-modifying antirheumatic drugs (dmards)
+disease-related morbidity and mortality
+disopyramide
+disparities in cardiovascular care and outcomes
+dispersion of repolarization
+disproportionate functional mitral regurgitation
+dissecting aneurysm
+distal aorta
+distal aortic arch
+distal aortic enlargement
+distal aortic extension
+distal ascending aorta
+distal branch perfusion
+distal convoluted tubule
+distal embolization
+distal flow reversal
+distal pulmonary artery
+distal subclavian artery
+distention
+distribution of aortic size
+diuretic administration strategies (continuous vs bolus)
+diuretic dose escalation
+diuretic resistance
+diuretic synergism
+diuretic therapy
+diuretic-refractory congestion
+dizziness
+doac pharmacokinetics and pharmacodynamics
+dobutamine
+dobutamine challenge
+dobutamine stress echocardiography
+docosahexaenoic acid (dha)
+dofetilide
+dominant vertebral artery
+donor heart allocation
+donor–recipient size matching
+door-in–door-out time
+door-to-balloon time
+dopamine
+doppler echocardiography
+doppler hemodynamics
+doppler ultrasound
+doppler-based valve area
+doppler-derived gradients
+dormant conduction
+dorsalis pedis pulse
+dose adjustment
+dose relationships
+dose-adjusted anticoagulation
+dose–response relationship
+double outlet right ventricle
+double valve replacement
+double-chambered right ventricle (dcrv)
+double-density sign of aortic dissection
+double-orifice mitral valve
+double-outlet right ventricle (dorv)
+double-switch operation
+down syndrome (trisomy 21)
+downstream consequences of atrial fibrillation
+doxazosin
+dpp-4 inhibitors
+dressler syndrome
+dronedarone
+drug classification
+drug half-life
+drug interactions
+drug therapy
+drug tolerability
+drug-coated balloon angioplasty
+drug-eluting stents
+drug-eluting stents (des)
+drug-induced arrhythmias
+drug-induced heart failure
+drug-induced lung toxicity
+drug-induced torsades de pointes
+drug-use–associated endocarditis
+drug–drug interactions
+dual antiplatelet therapy (aspirin + clopidogrel)
+dual antiplatelet therapy (dapt)
+dual antithrombotic therapy
+dual antithrombotic therapy (dat)
+dual therapy (oral anticoagulant + antiplatelet)
+dual-chamber implantable cardioverter-defibrillator
+dual-chamber pacing
+dual-coil icd leads
+dual-energy x-ray absorptiometry (dxa)
+dual-organ transplantation
+dual-site ventricular pacing
+ductus arteriosus
+duke criteria
+duke treadmill score
+dulaglutide
+duplex ultrasound
+duplex ultrasound surveillance
+durability beyond 5–6 years
+durability of repair or replacement
+durable left ventricular assist device (lvad)
+durable lvad or transplant pathways
+durable mcs / destination therapy
+durable mcs for lv or biventricular support
+durable mechanical circulatory support (mcs)
+durable prosthetic valves (tavi & surgical)
+duration of atrial fibrillation / ahre
+dynamic intraventricular obstruction
+dynamic left ventricular (lv) obstruction
+dynamic lv outflow tract (lvot) gradient / obstruction
+dynamic lvoto detection and quantification
+dynamic obstruction
+dynamic resistance exercise
+dynamic st-segment changes
+dyskinesia
+dyskinetic area
+dyslipidemia
+dyslipidemia management
+dysmorphic features
+dysphagia
+dysphagia aortica
+dysplastic pulmonary valve cusps
+dyspnea / shortness of breath
+dyspnea from tracheal compression or heart failure
+dyspnea on exertion
+e-cigarettes / e-cigarette use / electronic nicotine delivery systems (ends) / vascular remodeling
+e/e′ ratio (diastolic function parameter)
+early (<1 year) vs late (>1 year) aspirin initiation
+early (<2 years) vs late (>2 years) statin initiation
+early advance notification to pci-capable hospital
+early age of disease onset
+early aggressive invasive intervention for af (early-af)
+early aldosterone blockade
+early and late survival after valve replacement
+early anticoagulation strategies (short-term, long-term)
+early antihypertensive drug treatment
+early aortic valve replacement
+early change to oral antibiotic therapy for stable ie
+early childhood (0–12 years) chd care
+early childhood cognitive and sensory impairments (associated with phenocopies)
+early clinical course
+early corrective surgery
+early death reduction
+early detection of cardiomyopathy
+early detection of subclinical myocardial injury
+early developmental outcome in single-ventricle reconstruction
+early discharge after pci / angioplasty
+early discharge strategy
+early eplerenone therapy
+early follow-up (within 7 days of discharge)
+early follow-up and lipid testing
+early graft infection (≤3 months)
+early initiation of oral beta-blocker therapy
+early intervention / invasive strategy / surgical intervention
+early invasive vs conservative strategy
+early markers of myocardial dysfunction
+early menopause
+early onset sporadic tad
+early post-discharge follow-up
+early post-mi period
+early postoperative atrial fibrillation
+early postoperative complications
+early predictors of poor outcome after cardiac arrest (e.g., neurological recovery)
+early presenters (≤3 hours after symptom onset)
+early repair strategy
+early reperfusion / revascularization strategy
+early repolarization pattern
+early rhythm control / rhythm-control therapy in atrial fibrillation
+early satiety
+early surgery / surgical intervention (including severe aortic stenosis, nyha ii, post-mi)
+early thrombosis / thrombotic events
+early transfer to specialized center
+early vhd
+early vs delayed coronary angiography
+early vs staged pci in cardiogenic shock
+early-acs trial
+early-age percutaneous balloon dilatation
+early-onset stroke
+early-stage hcm biomarkers
+east-afnet 4 trial / study
+ebstein anomaly
+ebstein anomaly / ebstein’s anomaly
+eccentric hypertrophy
+ecg (electrocardiogram / 12-lead ecg)
+ecg algorithm (r'' wave in v1 & terminal qrs vector in avf)
+ecg changes (st-segment elevation, ischemia, infarction)
+ecg conduction and repolarization abnormalities
+ecg findings (pr-segment depression, concave st elevation, dynamic t-wave changes)
+ecg interpretation / monitoring / follow-up
+ecg interpretation criteria (st depression, st elevation, t-wave changes)
+ecg lead placement for posterior ischemia
+ecg monitoring / serial monitoring for nondiagnostic stemi
+ecg qrs duration, fragmentation, voltage
+ecg-gated acquisition
+ecg-gated imaging / coronary ct angiography
+echo-based assessment of valve function
+echocardiographic assessment (2d, 3d, doppler)
+echocardiographic assessment of obstruction severity / valve stenosis
+echocardiographic diastolic parameters
+echocardiographic doppler assessment
+echocardiographic evaluation / features / imaging / indices
+echocardiographic left atrial diameter
+echocardiographic measures (velocity, pressure gradients)
+echocardiographic predictors of outcome
+echocardiographic quantification / quantitative assessment of valve disease
+echocardiographic screening in first-degree relatives
+echocardiographic sensitivity / specificity
+echocardiographic strain imaging
+echocardiography (2d, 3d, doppler, m-mode, strain imaging, tee, tte)
+echocardiography (cardiac structure & function assessment)
+echocardiography (screening modality, serial imaging, exercise echo)
+echocardiography / echocardiogram (echo)
+ecls-shock trial
+ecmo-cs trial / randomized clinical trial
+economic analysis of heart failure treatments
+economic evaluation of pci vs medical therapy
+economic stability / financial strain
+economic value (intermediate, therapy, cost per qaly, icer)
+economic value indicators: cost per qaly, icer
+economic value of cardiomems / cardiovascular therapies
+ectopia lentis (clinical sign of marfan)
+edacs (emergency department assessment of chest pain score)
+educational interventions / training for providers or patients
+educational status
+ef <50 % / ef ≤40 %
+ef assessment / measurement / improvement / recovery
+effective orifice area
+effective refractory period (erp)
+effective regurgitant area / orifice (ero / eroa, including ≥0.40 cm²)
+egfr (estimated glomerular filtration rate)
+egfr <15 ml/min/1.73 m²
+eggs
+ehlers-danlos syndrome (vascular type)
+ejection fraction (ef / lvef / rv / lv)
+elective aortic root replacement
+elective ascending aortic replacement
+elective cabg
+elective non-cardiac surgery
+elective repair / elective surgery
+elective thoracic aortic repair
+electrical cardioversion
+electrical cardioversion / direct-current cardioversion
+electrical dyssynchrony / fractionation / instability / remodeling
+electrical posterior box isolation
+electrocardiogram (ecg / ekg / 12-lead ecg)
+electrocardiographic abnormalities (arrhythmias, av block, irregular r-r, absent p waves, fibrillatory waves)
+electrocardiographic biomarkers
+electrocardiographic left ventricular hypertrophy
+electrocardiographic tracing interpretation
+electrocardiography / electrocardiographic imaging of cardiac structures
+electrocardiography implied by diagnostic context
+electrode vector / electrode vector orientation (anterior-posterior, anterior-lateral)
+electrogenic action of the sodium-calcium exchanger
+electrogram frequency analysis
+electrolyte abnormalities / balance / management
+electrolyte monitoring (general, in af, in diuretic therapy)
+electrolytes monitoring
+electromechanical atrial function / dissociation
+electronic cigarette effects / cardiovascular risk
+electronic cigarettes / e-cigarettes / vaping / electronic nicotine delivery systems (ends)
+electronic clinical decision support systems
+electronic consults
+electronic health record (ehr / emr / integration, cardiovascular assessment)
+electronic health record (ehr)
+electronic point-of-care reminders (for gdmt)
+electrophysiologic / electrophysiological remodeling and structural remodeling of the atria
+electrophysiologic determinants of conversion efficacy
+electrophysiologic studies (eps) / programmed ventricular stimulation / inducibility testing
+electrophysiologist
+electrophysiology (ep) / electrophysiologic interventions / procedures / evaluation
+electrophysiology ablation / endocardial ablation / catheter ablation
+elevated ascvd risk / lifetime ascvd risk
+elevated blood pressure / hypertension
+elevated bnp / nt-probnp / natriuretic peptides
+elevated cardiovascular biomarkers
+elevated esr >50 mm/h
+elevated filling pressures / right heart pressure
+elevated glucose / transaminases / liver-function tests
+elevated heart rate / jugular venous pressure (jvp)
+elevated high-sensitivity crp (hs-crp)
+elevated pre-therapy troponin ≥14 ng/l (>0.07 ng/ml)
+elevated triglyceride levels
+elevated white-blood-cell count
+elevated-risk non-cardiac surgery
+elite study (evaluation of losartan in the elderly)
+emboli / embolism / embolization / embolic events (stroke, recurrent, systemic)
+embolic risk / potential / prevention / of thrombi
+embolic stroke of undetermined source
+emerge trial
+emergency action plans for sudden cardiac arrest in sport
+emergency cardiovascular care / emergency surgery / emergency aortic repair / emergency coronary angiography
+emergency department (ed) / ed management / triage / visits / length of stay
+emergency medical services (ems) / transport / personnel (paramedics)
+emergency revascularization / emergency invasive strategy (<2 hours from admission)
+empa-preserved / empa-cardio / empa-reduced trial
+empa-reg outcome trial
+emperor-preserved / emperor-reduced study
+end-diastolic pressure
+end-of-life care
+end-organ criteria (hepatic failure, renal failure, cardiac, low cardiac output, right/left ventricular dysfunction)
+end-organ damage / dysfunction / hypoperfusion / ischemia / malperfusion / performance / perfusion
+end-stage heart disease / heart failure / hypertrophic cardiomyopathy
+end-stage kidney disease (eskd / dialysis dependence / extreme ckd stage linked to vascular disease)
+end-stage renal disease (esrd / eskd)
+end-stage renal function (egfr < 25 ml/min/1.73 m²)
+end-systolic dimension (esd)
+end-systolic volume index (esvi)
+end-to-end anastomosis
+endarterectomy (common femoral) / endarteritis
+endo-tronic / endovascular therapy
+endocardial ablation / biopsies / endomyocardial biopsy (emb)
+endocardial imaging / involvement / leads / voltage mapping (evm) / healing / cushion tissue
+endocarditis (diagnosis, classification, guidelines, prophylaxis, mortality, prosthetic valve risk)
+endocrine / metabolic conditions (diabetes, obesity, acromegaly, pheochromocytoma)
+endocrine therapy / endocrine toxicity (thyroid)
+endograft (branched, fenestrated, endovascular repair, failure, migration, fracture, stenosis, sizing)
+endografting / endovascular repair
+endoleak (types i–v, early, late, proximal/distal, branch vessels, graft defects, endotension)
+endoluminal aortic aneurysm repair / endoluminal revascularization
+endothelial function / dysfunction / injury / disruption / endothelialization / tests
+endothelin system / endothelin receptor antagonists / therapy (eras)
+endovascular abdominal aortic aneurysm repair (evar / aaa repair)
+endovascular aneurysm repair complications / follow-up / outcomes / vs open repair
+endovascular aortic repair (including stent-graft, revar, thoracic stent-graft)
+endovascular approach / techniques / technology / expertise / era outcomes / management
+endovascular balloon occlusion (reboa)
+endovascular devices (balloon angioplasty, drug-coated balloon angioplasty, atherectomy, stents)
+endovascular femoropopliteal intervention
+endovascular fenestration / stenting (first strategy)
+endovascular infection / injury
+endovascular limb revascularization / peripheral artery disease interventions
+endovascular procedures / interventions / therapy
+endovascular repair (evar / tevar / thoracic evar / thoracic aortic repair / stent grafting)
+endovascular stent exclusion
+endovascular stent graft / stent-grafting / stent-graft complications / delivery systems
+endovascular therapy for pad, type b dissection, penetrating ulcers
+endovascular thromboembolectomy
+endovascular vs. open repair outcomes / surgical management
+endowed chair in cardiology
+endurance exercise
+engage af–timi 48 trial
+enoxaparin (low-molecular-weight heparin)
+enrichd trial
+environmental exposures / risk factors (air pollution, pm₂.₅, noise, heat waves)
+environmental factors influencing cardiomyopathy
+enzyme replacement therapy (e.g., agalsidase β)
+enzyme-inducing antiseizure medications
+epa/dha plasma levels
+epicardial ablation / epicardial leads / icd system / pacemaker leads
+epicardial coronary artery disease / spasm / obstruction / compression / fat / diameter reduction / apical site pacing / laa clipping
+epicardial vessel / cad assessment
+epidemiology / epidemiological studies (hf, hfref, hfpef, hcm, aneurysms, moderate-to-severe vhd)
+eplerenone (emphasis-hf, ephesus trials)
+epoprostenol therapy
+eptifibatide
+equity, disparities, and cost-effective long-term management / equitable care and training opportunities
+ertugliflozin
+esophageal compression / symptoms (dysphagia) / atrial fistula / lesion / varices
+esp-cad trial
+estimated 5-year sudden cardiac death risk
+estimated glomerular filtration rate (egfr <60 ml/min/1.73 m² / <25 ml/min/1.73 m²)
+estimated pulmonary pressures
+estrogen-containing contraceptives / oral contraceptives (thromboembolic risk) / estrogen-only hormone regimens
+ethnic disparities / ethnically and racially diverse populations
+euclid trial (ticagrelor in pad / peripheral artery disease)
+euthyroid state / euvolemia
+event monitor / event recording (palpitations, light-headedness)
+event-free survival
+everest trial
+everolimus-eluting stents
+evidence
+evidence gaps / future directions / research directions
+evidence gaps in hf management
+evidence grade / level of evidence (cor, loe, c-ld, b-nr, c-eo, etc.)
+evidence review committee / evidence-based guideline implementation
+evidence table / guideline recommendations
+evidence-based care / guidelines / interventions / therapy / management / medicine / pharmacotherapy / methodology / methodologies / recommendations / terminology
+evidence-based risk–benefit ratio (e.g., set in pad)
+evm – endocardial voltage mapping
+evolocumab (pcsk9 monoclonal antibody)
+evopacs trial
+ewolution trial
+ex-dhf pilot study
+exacerbation of hfref
+examine trial (alogliptin outcomes)
+excel trial
+excessive alcohol intake
+exenatide
+exercise / physical activity (aerobic, resistance, modifiable risk factor, cardiovascular health)
+exercise abi testing / treadmill abi
+exercise adherence / compliance / counseling / rehabilitation / therapy / prescription / programs
+exercise capacity / functional capacity / assessment / decline / improvement / preservation / metrics (vo₂ max) / testing / performance / exercise time / tolerance / pre-op / post-transplant / guidelines for chd athletes
+exercise ecg / doppler echocardiography / echocardiography / stress echocardiography / treadmill / test / stress testing / tte / graded exercise test (gxt)
+exercise hemodynamics / intensity (low, moderate, high, met values) / session duration / frequency / volume
+exercise intolerance / limitation / restriction (including in desmosomal cardiomyopathy, fontan, myocarditis, hypertrophic cardiomyopathy)
+exercise prescription parameters (treadmill walking, 6mwt)
+exercise-based cardiac rehabilitation / telerehabilitation / cr programs / therapy for cvd, pad, aortic disease / supervised / home-based / structured / continuous / interval / resistance training / high-intensity aerobic / moderate-intensity / extreme exercise
+exercise-induced cardiovascular events / ischemia / arrhythmia / lvot gradient / mitral regurgitation / angina / dyspnea / myocarditis / hypoxemia
+exercise-induced desaturation
+exercise-limiting cvd
+exercise-related inflammation / acute cardiovascular events / exercise-induced lv pressure assessment
+exertional angina / dyspnea / leg disorders / symptoms / performance / exercise capacity
+expert consensus decision pathways for tobacco cessation
+exposure to adversity (violence, trauma)
+exposure to cardiotoxic agents
+extended aortic repair
+extended cardiac monitoring / ecg / external cardiac monitors
+extended dapt / extended therapy beyond 1 year post-acs
+extended septal myectomy (esm)
+extended-release niacin
+extensive lvot calcification
+extent of late gadolinium enhancement (lge) on cmr / extensive lge ≥15% lv mass
+extracardiac conduit / fontan conversion
+extracellular matrix expansion / remodeling / proteins / extracellular volume / fraction
+extracorporeal life support (ecls) / ecmo / ventricular assist devices
+extract-timi 25 trial
+extreme heat / temperature exposure
+ezetimibe (npc1l1 inhibitor, add-on therapy, first strategy, ldl-c lowering)
+fabry disease / fabry’s disease cardiomyopathy
+factor xa / factor xa inhibitor / factor xa inhibitors (doacs: apixaban, rivaroxaban, edoxaban, enoxaparin)
+factor xa inhibitors
+failed reperfusion
+failed surgical bioprosthetic valves
+failing left ventricle / failing right ventricle
+failure to rescue
+fald (fontan-associated liver disease) / fenestration-associated liver disease
+fall risk
+false lumen / false lumen expansion / flow / hemorrhage / diameter >20–22 mm / thrombosis
+fame study / fame-2 trial (fractional flow reserve vs angiography for multivessel evaluation)
+familial aneurysm risk / familial thoracic aneurysm / familial thoracic aortic aneurysm (no identified gene) / familial thoracic aortic aneurysm and dissection (ftad) / familial thoracic aortic dilatation / familial thoracic aortic disease (tad) / familial thoracic aortic disease genetics
+familial cardiomyopathy / familial cardiomyopathies
+familial hypercholesterolemia (fh)
+familial hypercholesterolemia (heterozygous)
+familial inheritance (autosomal dominant pattern)
+fast-mi program
+fatigue
+faust trial (femoral arterial access with ultrasound)
+fda adverse event reporting in anticoagulation therapy
+fdg-pet / fdg-pet/ct / fluorodeoxyglucose positron emission tomography / fluorodeoxyglucose–positron emission tomography
+felodipine
+female sex / female predominance / sex-specific differences / female under-diagnosis of hcm / female-sex cardiovascular risk
+femoral access / femoral artery access / femoral cannulation / femoral endarterectomy / femoral pulse / femoral pulse delay / femoral vascular access
+femoropopliteal arterial disease / segment / bypass / lesions / angioplasty / disease
+fenestrated aortic repair / fenestrated closure / fenestrated endovascular aortic repair / fenestrated endovascular device / fenestrated stent graft / fenestrated surgical repair / fenestrated transcatheter device / fenestrated/branched endovascular procedures (fevar/bevar) / fenestrated/endovascular aneurysm repair (fevar/evar) / fenestrated/obstructive membrane orifice / fenestrated-branched endograft / fenestrated-branched endovascular aortic repair (fevar)
+fenofibrate
+fentanyl
+ferric carboxymaltose (iron therapy in hf with iron deficiency)
+fertility / family planning in achd patients
+fetal complications / counseling / death / echocardiography / growth effects / growth retardation / intracranial bleeding / malformations / monitoring / outcome / screening
+ffr – fractional flow reserve / ffr-derived from ct angiography (ffr-ct) / ffr-guided pci / ffr-guided pci (≤0.8)
+fibrates
+fibrin / fibrinogen / fibrinolysis / fibrinolytic therapy / fibrinolytic agents / fibrin-specific fibrinolytic agents / fibrinolytics
+fick cardiac output / fick method
+filling pressure / filling pressures (e.g., left-systolic filling pressure)
+financial strain
+fincv study
+fint-stemi trial
+fish oil / supplementation
+fixed radiographic imaging system and flat-panel fluoroscopy / fluoroscopy
+flail leaflet / flail tricuspid leaflet
+flecainide / flecainide (antiarrhythmic) / flexenide / flec-sl trial (short- vs long-term antiarrhythmic)
+flow assessment / flow quantification / flow diagrams / flow diagrams for cardiac decision pathways
+fluid administration / balance / management / input-output monitoring / restriction / removal rate / resuscitation / overload / retention / shifts / status / fluid-retention risk factors in diabetes treatment
+fluvacs study (flu vaccination in acute coronary syndromes)
+fluvastatin (40–80 mg, oral, xl, bid)
+focal aortic aneurysm / pseudoaneurysm / dissection / focal atherosclerotic lesions / focal atrial tachycardias / focal impulse modulation / focal intimal disruption / focused intimal disruption (fid)
+follow-up after discharge
+follow-up and monitoring
+follow-up and monitoring of bicuspid aortic valve
+follow-up aneurysm-related mortality
+follow-up appointments
+follow-up arrhythmia monitoring
+follow-up assessment
+follow-up echocardiography
+follow-up exercise testing restriction
+follow-up imaging in myocarditis
+follow-up imaging intervals (1 month, 6 months, 12 months, annually, every 5 years)
+follow-up interval recommendations (e.g., 3‑month cmr, 196‑day imaging)
+follow-up intervals (physiological stages a–d, asymptomatic severe/moderate as, isolated branch pulmonary artery stenosis)
+follow-up intervals / outpatient, ecg, tte
+follow-up studies / treatment outcomes
+fondaparinux
+fontan circulation / fontan surgery / univentricular physiology
+fontan circulatory failure / fontan failure / obstruction / pathway stenosis
+fontan completion / procedure / revision / conversion / total cavopulmonary fontan
+fontan conduit stent-angioplasty / pathway conduit (extracardiac conduit)
+fontan palliation / fontan physiology / fontan patient / fontan pressure / fontan outcomes network
+fontan-adult brompton clinical score
+fontan-associated complications / thrombosis / thrombus / liver disease (fald) / portal hypertension / transplantation indications / screening
+fontan-associated liver disease
+food access / food security / food effect (high-fat, high-calorie meal)
+food access / food security / nutrition considerations
+food insecurity / screeners
+forced expiratory volume in 1 second (fev1)
+forward cardiac output / forward stroke volume
+four-dimensional ct imaging (4d ct) / 4d flow mri
+four-factor prothrombin complex concentrate (pcc)
+fourier study / trial (pcsk9 inhibition in high-risk patients)
+fourier study – cardiovascular outcomes research
+fourth heart sound
+fourth primitive dorsal aortic arch
+fractional area change
+fractional flow reserve (ffr) / ffr vs angiography / ffr-guided pci / trials: fame, fame-2, frame-ami, famous-nstemi
+fractional shortening
+fragmented qrs complex
+frailty / frailty assessment / frailty indices / frailty score
+frailty as risk factor for poor self-care / impacting survival <1 year / predictor of outcomes in cad / immobility / fragile tissue integrity / sarcopenia (muscle loss)
+frailty in achd / chronic heart failure
+free wall rupture
+freedom from recurrent moderate/severe mr / freedom from reoperation
+freedom study / trial
+fresh frozen plasma (ffp) / in over-anticoagulation
+fried foods
+friedewald equation (ldl-c estimation)
+frozen elephant trunk (fet) / procedure / repair / technique
+functional assessment / structural cardiac assessment / functional and anatomic testing modalities
+functional assessment in elderly mi patients with multivessel disease (fire trial)
+functional capacity (exercise capacity, age- and sex-adjusted, peak vo₂, dyspnea on exertion, improvement, assessment)
+functional capacity assessment
+functional class (nyha/who, assessment, improvement post-pulmonary valve replacement)
+functional coronary assessment / functional ischemic mitral regurgitation / functional tricuspid regurgitation (secondary to chronic af) / functional stenosis / functional vs structural valve causes
+functional domain / functional impairment / functional decline / functional exercise capacity
+functional indices (e.g., nyha class)
+functional limitation / functional limitation grading / of claudication / provocable lvoto, abnormal bp response, arrhythmias, etc.
+functional mitral regurgitation
+functional outcome / functional outcomes / functional status (decreased, exercise tolerance, hf, mobility limitations, walking performance metrics) / functional status and limitation / functional status decline in pad / functional status improvement / functional status measures in elderly cardiac patients
+fungal aortitis / fungal endocarditis / fungal prosthetic valve endocarditis / fungal infection
+furosemide / oral loop diuretic
+fusiform aneurysm
+future baffle occlusion
+future directions in pad treatment
+future research directions (hf)
+future research needs (ccd)
+g-protein–coupled receptor blockers (arni)
+gadolinium enhancement (cardiac mri)
+gadolinium-based contrast agents / media
+galectin-3
+galileo trial / gauss-3 trial / gissi-hf trial / gissi-prevenzione trial / global leaders trial / get with the guidelines (gwtg) registry / gwtg-hf registry / goals study
+gangrene / gluteal ischemia
+garfield-af risk score / score
+gastric / intestinal absorption of p2y12 inhibitors
+gastric bypass surgery
+gastrointestinal bleeding / gastric bleeding / intestinal bleeding
+gastrointestinal malignancy
+gated cardiac ct
+gcm – giant cell myocarditis / giant-cell myocarditis / giant cell aortitis / giant cell arteritis (gca)
+gdf-15 (growth differentiation factor-15)
+gender / sex / gender differences / gender disparities / gender-identity disparities
+gender differences in aortic aneurysm growth and outcomes / rupture risk / imaging limits
+gender-affirming therapies (impact on arrhythmia, achd)
+gender-specific risk models
+gene carriers (hcm genetics) / gene variant carriers
+gene expression profiling / gene-expression profiling (cardiac)
+gene therapy (cardiac) / gene-based therapy / gene-specific therapeutics / gene-based management
+general anesthesia / general or epidural anesthesia (peri-operative risk / during delivery)
+general cardiologists / geographic availability of achd cardiologists
+genetic and pathobiological causes of valve dysfunction
+genetic aortopathy / genetic aortic disorder / genetic aortopathies
+genetic associations / genetic determinants / genetic factors / gene-by-environment interaction
+genetic compound or double mutations
+genetic counseling (pre-pregnancy / preconception / for inherited aortopathies / for myocarditis / for congenital heart disease / cascade screening)
+genetic dilated cardiomyopathy
+genetic evaluation / referral / genetic evaluation for high-risk phenotypes / cardiomyopathy / thoracic aortic disease
+genetic predisposition / risk / penetrance / susceptibility / triggers
+genetic sarcomere variants / mutations (lox, smad6, acta2, mylk, myh11, prkg1, mly2, titin, lamin a/c, ttr, other hcm or aneurysm-related genes)
+genetic testing (cardiogenetics / multigene panel / exome sequencing / syndromic features / family history / hcm-associated variants / ttr mutation / inherited cardiovascular disease / thoracic aortic disease / cardiomyopathy / arrhythmia genes / ion-channel disorders)
+genetic testing outcomes / genetic variant re-analysis / re-contact guidelines
+genetically inherited heart diseases / genetics / heritability / genetics-mediated risk stratification
+genital / genitourinary infections / mycotic infection
+genomic/locus identification for af / gwas for af / polygenic risk score / genetic susceptibility loci
+genotype / genotype-positive / genotype-negative / genotype-phenotype correlation / genotype-positive screening of family members / genotype-based risk stratification
+geographic disparities (urban vs rural, clinician shortages, isolation)
+geriatric 5ms (mentation, mobility, medications, multicomplexity, what matters)
+geriatric depression scale (gds ≥ 6)
+geriatric nutritional risk index (gnri)
+geriatric syndromes (frailty, mobility impairment, multicomplexity, depression, nutrition risk, etc.)
+global and regional myocardial blood flow
+global burden of disease (gbd) cardiovascular studies / references / data on coronary disease
+global longitudinal strain (gls)
+global use of strategies to open coronary arteries (gusto) / gusto classification
+global vascular guidelines on chronic limb-threatening ischemia
+glomerular filtration rate (gfr) / glomerulonephritis
+glp-1 receptor agonists
+glp-1 receptor agonists / glucagon-like peptide-1 receptor agonists (e.g., liraglutide, semaglutide, exenatide, lixisenatide, tirzepatide) / glp-1 ra cardiovascular outcome agents
+glucose control / glycemic control / hba1c targets / abnormal glucose / diabetes management
+glucose-lowering medical therapy (gdmt / guideline-directed therapy / glucose-directed therapy / glycemic-controlled disease management)
+glycated hemoglobin (hba1c)
+glycemic treatment strategies / guidelines / agents affecting hf risk (metformin, insulin, sulfonylureas)
+goals of care (symptom relief, qol, life prolongation)
+gorlin equation / formula (mitral area calculation)
+gout / gout and gallstones (e.g., bempedoic acid adverse effect)
+grace risk score / grace >140
+graft failure / graft dysfunction / graft defect / graft misalignment / graft migration / graft porosity / graft infection / graft-related complications / graft enteric erosion / graft explant / graft revision / graft site inflammation
+graft patency (primary, assisted primary, secondary) / graft thrombectomy / graft surveillance
+graft type comparison (prosthetic vs autogenous)
+green tea extract (observational therapy)
+group-oriented arterial leg study (goals)
+growth rate of aneurysm / aaa / aortic aneurysms (mm/year, ≥0.3–0.5 cm/year)
+guide-hf trial / study
+guide-it (guiding evidence-based therapy using biomarker-intensified treatment) / predictive model
+gusto trial / gusto-i trial (global utilization of streptokinase and tpa) / gusto moderate or severe bleeding
+gwtg-hf (get with the guidelines – heart failure) registry / risk score
+h/cl ratio (heart-to-contralateral chest ratio)
+h2fpef score
+hacek organisms
+halo catheter
+handheld ecg device
+harmonize trial (sodium zirconium cyclosilicate)
+has-bled bleeding risk score
+hatch score
+hazard ratio
+hazard–benefit ratio
+hba1c variability
+hcm clinical guidelines
+hcm risk prediction models
+hcm specialty / comprehensive centers
+hcm with atrial fibrillation
+hcm with ventricular arrhythmias
+hdl cholesterol
+heaal study
+headache
+health abc heart failure score
+health behaviors
+health coaching
+health disparities / health inequities
+health education
+health equity initiatives
+health information technology
+health literacy
+health numeracy
+health policy and quality metrics
+health services research
+health-related quality of life (hrqol)
+health-status outcomes
+healthcare access
+healthcare cost
+healthcare cost burden
+healthcare disparities
+healthcare resource utilization
+healthcare utilization
+healthy diet
+healthy diet / dietary patterns
+healthy lifestyle behaviors
+heart allocation policy
+heart arrest
+heart attack (myocardial infarction)
+heart block / conduction disorders
+heart disease
+heart disease imaging
+heart disease management
+heart disease pathophysiology
+heart disease prevention
+heart disease prognosis
+heart disease risk factors
+heart disease statistics
+heart failure
+heart failure (hf)
+heart failure action study
+heart failure associated with atrial fibrillation
+heart failure biomarkers
+heart failure diagnosis
+heart failure disease staging
+heart failure health disparities
+heart failure hospitalization
+heart failure in diabetes mellitus
+heart failure in older adults
+heart failure in pregnancy
+heart failure in racial and ethnic minority populations
+heart failure in women
+heart failure morbidity and mortality
+heart failure mortality
+heart failure outcomes
+heart failure pharmacologic therapy
+heart failure prevention
+heart failure prognostic markers
+heart failure progression
+heart failure readmission
+heart failure related to congenital heart disease
+heart failure remission
+heart failure secondary to myocardial infarction
+heart failure stages (a–d)
+heart failure survival
+heart failure survival score
+heart failure symptoms
+heart failure with improved / recovered ejection fraction
+heart failure with mildly reduced ejection fraction (hfmref)
+heart failure with preserved ejection fraction (hfpef)
+heart failure with reduced ejection fraction
+heart failure with reduced ejection fraction (hfref)
+heart murmur
+heart protection study (hps)
+heart rate
+heart rate control
+heart rate management
+heart rate recovery
+heart rate reserve
+heart rate variability (hrv)
+heart rhythm
+heart rhythm assessment
+heart rhythm management
+heart transplant allocation policy
+heart transplant candidacy
+heart transplant evaluation
+heart transplant listing
+heart transplant outcomes
+heart transplant rejection
+heart transplantation
+heart valve
+heart valve centers of excellence
+heart valve disease
+heart valve dysfunction
+heart valve programs
+heart valve prosthesis
+heart valve repair
+heart valve replacement
+heart valve surgery
+heart-healthy diet
+heart-healthy lifestyle behaviors
+heart-related morbidity and mortality
+heart-related quality of life (hrqol)
+heartflow (ffr-ct platform)
+heartmate 3
+heartware hvad
+heart–kidney transplantation
+heart–liver transplantation
+heart–lung transplantation
+heat exposure
+heat-related hospitalization
+height
+helical computed tomography
+hematocrit
+hematologic abnormalities
+hematology-guided antithrombotic management
+hematoma
+hemochromatosis
+hemochromatosis-related heart failure
+hemodialysis
+hemodynamic assessment
+hemodynamic compromise
+hemodynamic decompensation
+hemodynamic durability
+hemodynamic instability
+hemodynamic monitoring
+hemodynamic outcomes
+hemodynamic overload
+hemodynamic progression
+hemodynamic response
+hemodynamic severity
+hemodynamic significance
+hemodynamic stress
+hemodynamic success
+hemodynamically significant coarctation
+hemodynamically significant lesion
+hemodynamically stable patient
+hemodynamically unstable patient
+hemodynamics
+hemoglobin
+hemoglobin a1c
+hemolysis
+hemolytic anemia
+hemopericardium
+hemoptysis
+hemorrhage
+hemorrhagic shock
+hemorrhagic stroke
+hemostasis
+hemothorax
+heparin
+heparin infusion
+heparin-induced thrombocytopenia (hit)
+hepatic dysfunction
+hepatic fibrosis / cirrhosis
+hepatocellular carcinoma
+hepatorenal syndrome
+hepatotoxicity
+heritable bicuspid aortic valve
+heritable thoracic aortic aneurysm
+heritable thoracic aortic disease (htad)
+heterotaxy syndrome
+hfa-peff diagnostic algorithm
+high cardiovascular risk
+high risk ascvd
+high risk cardiovascular profile
+high risk drinking
+high-sensitivity cardiac troponin dynamics
+history of stroke
+history of transient ischemic attack
+hiv infection
+hope trial / hope-3 trial
+hypercholesterolemia
+hyperlipidemia
+hyperlipidemia / high cholesterol / triglycerides / ldl-c / hdl-c
+hypertension
+hypertriglyceridemia
+hypertrophic cardiomyopathy
+hypertrophic cardiomyopathy (hcm)
+hypotension
+ibrutinib and other anticancer therapies with cardiac toxicity
+implantable and wearable cardiac monitors
+incremental cost-effectiveness ratio (icer)
+infective endocarditis
+infective endocarditis with coronary complications
+intracardiac abscess
+intracardiac or paravalvular abscess
+intracardiac shunt
+intracardiac thrombus
+ischemia with nonobstructive coronary arteries
+ischemic cardiomyopathy
+ischemic heart disease
+ischemic heart failure
+ischemic mitral regurgitation
+ischemic risk stratification
+ischemic stroke
+lead-related tricuspid valve dysfunction
+left ventricular hypertrophy
+left ventricular noncompaction
+left ventricular outflow tract obstruction
+loop diuretics
+low-flow low-gradient aortic stenosis
+low-gradient aortic stenosis
+low-molecular-weight heparin
+low-weight vs high-weight
+lyme carditis
+lysosomal storage disease
+major adverse cardiovascular events (mace)
+major adverse coronary events
+major, moderate, minor, life-threatening
+management of multivessel cad in stemi
+maze procedure
+mechanical circulatory support devices
+mechanical complications
+mechanical complications of mi
+metabolic syndrome
+mitral commissurotomy
+mitral regurgitation
+mitral stenosis
+mitral valve disease
+mitral valve prolapse
+mortality and morbidity outcomes
+multi-organ transplantation
+multimodality aortic imaging
+multivessel vs culprit-only revascularization
+myocardial infarction
+myocardial ischemia
+myocarditis
+myocarditis (complicated)
+neurocognitive dysfunction
+nondihydropyridine calcium channel blockers
+nonsteroidal anti-inflammatory drugs (e.g., diclofenac)
+non–vitamin k oral anticoagulants
+nt-probnp appears in previous batches under biomarkers
+nutrition counseling / dietitian involvement
+nyha functional class ii–iv
+obesity
+obstructive sleep apnea
+older adults
+older age
+opioid use
+overweight
+p-glycoprotein interactions
+p2y12 inhibitor de-escalation strategies
+paroxysmal dyspnea
+patent ductus arteriosus
+patent foramen ovale
+pediatric risk models (hcm risk-kids)
+percutaneous coronary intervention (pci)
+perfusion reserve
+pericarditis
+peripheral arterial disease
+peripheral artery disease
+peripheral artery disease (pad)
+permanent cardiac devices
+pharmacogenomics in cardiovascular therapy
+pharmacologic diabetes management
+physical activity
+poor glycemic control as a modifiable cardiovascular risk factor
+portable / hand-carried echocardiography
+post-infarction ventricular septal rupture (vsr)
+post-procedural complications
+post–myocardial infarction management
+pregnancy and conception in aortic disease
+prothrombotic states associated with chemotherapy
+pulmonary arterial hypertension
+pulmonary artery dilation
+pulmonary artery intervention complications
+pulmonary artery stenosis
+pulmonary atresia
+pulmonary embolism
+pulmonary hypertension
+pulmonary regurgitation
+pulmonary stenosis
+pulmonary valve disease
+pulmonary valve regurgitation
+pulmonary valve stenosis
+pulmonary vein isolation
+quality of life outcomes
+quality-adjusted life years (qalys)
+quality-of-life assessment instruments (e.g., sf-36)
+radial artery, ulnar artery, distal radial artery
+reentrant atrial flutter circuits
+renal failure
+renal function–guided drug dosing
+reproductive planning and contraception in cardiovascular disease
+resting heart rate
+restrictive cardiomyopathy
+revascularization in acs with cardiogenic shock
+rheumatic heart disease
+right ventricular dilation
+right ventricular dysfunction
+right ventricular failure
+right ventricular hypertension
+right ventricular hypertrophy
+right ventricular outflow tract obstruction
+right-to-left shunt
+right-to-left shunting
+risk discrimination metrics (c-index)
+risk reduction strategies
+secondary prevention of coronary disease
+septal defects (asd/vsd)
+serum creatinine
+sex (gender)
+sglt2 inhibitors
+shared decision-making in coronary revascularization
+sick sinus syndrome
+smoking
+social and environmental cardiovascular risk factors
+specialized cardiovascular centers
+stable angina
+statin therapy for primary prevention
+statistical confidence intervals
+stroke
+stroke risk (hcm-risk-cva)
+stroke risk stratification in atrial fibrillation
+subaortic stenosis
+substance use
+sudden cardiac arrest
+sudden cardiac death (ischemic etiology)
+sudden cardiac death risk (hcm-risk-scd)
+supplemental oxygen therapy in acute mi (deto2x-ami trial)
+supravalvar aortic stenosis
+supraventricular tachycardia
+systemic embolism
+systemic right ventricular failure
+systolic bp (sbp) and diastolic bp (dbp)
+t-cell exhaustion marker (cd69)
+target heart rate
+tetralogy of fallot
+thoracic aortic aneurysm
+thoracic aortopathy genetic variants
+thresholds (<60 kg)
+thromboembolism
+thrombosis
+timing of intervention in acute coronary syndromes
+tobacco use
+transient ischemic attack
+transplant hepatology
+transposition of the great arteries
+transthyretin amyloidosis disease-modifying therapies
+travel distance to care
+tricuspid regurgitation
+tricuspid stenosis
+tricuspid valve disease
+truncus arteriosus
+ttr disruptors
+ttr silencers
+ttr stabilizers
+type 1 diabetes mellitus
+type 2 diabetes mellitus (t2dm)
+ultrafiltration / aquapheresis
+unfractionated heparin
+unhealthy diet
+unsaturated fatty acids
+unstable angina
+value assessment in cardiovascular guidelines
+vascular risk factor
+ventricular fibrillation
+ventricular septal defect
+ventricular tachycardia
+visceral adiposity
+visceral artery involvement in aortic aneurysm (celiac, sma, renal)
+waist circumference
+waist-hip ratio
+warfarin
+weight assessment
+weight loss
+weight management
+whole-grain diet
