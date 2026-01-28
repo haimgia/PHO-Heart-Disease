@@ -10,8 +10,8 @@ SEMANTIC_MATCHING = True
 CLINICAL_GUIDELINES_FOLDER = "AHA_clinical_guidelines"
 EXTRACTED_TERMS_FOLDER = "extracted_terms_1.txt"
 COMBINED_TERMS_FILE = "combined_extracted_terms.txt"
-FINAL_TERMS_FILE = "final_terms_1.5.txt"
-CANONICAL_TERMS_FILE = "canonical_terms_1.5.txt"
+FINAL_TERMS_FILE = "canonical_terms_2.txt"
+CANONICAL_TERMS_FILE = "canonical_terms_3.txt"
 
 FINISHED_FILES = ["Acute Myocarditis Clinical Guidelines.pdf",
                   "Aortic Disease Clinical Guidelines.pdf",
