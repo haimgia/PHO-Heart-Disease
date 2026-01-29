@@ -10,6 +10,7 @@ DEFINING_CONCEPTS = True
 
 #PDF = "AHA_clinical_guidelines\Heart Failure Clinical Guidelines.pdf"
 CLINICAL_GUIDELINES_FOLDER = "AHA_clinical_guidelines"
+TERMINOLOGY_FOLDER = "terminology"
 EXTRACTED_TERMS_FOLDER = "extracted_terms_1.txt"
 COMBINED_TERMS_FILE = "combined_extracted_terms.txt"
 FINAL_TERMS_FILE = "canonical_terms_2.txt"
@@ -104,7 +105,7 @@ if __name__ == "__main__":
         semantic_matching(terms, USE_CASE, CANONICAL_TERMS_FILE)
 
     if DEFINING_CONCEPTS:
-        with open(DEFINITIONS_FILE, "r", encoding="utf-8") as f:
+        with open(os.path.join(TERMINOLOGY_FOLDER, CANONICAL_TERMS_FILE), "r", encoding="utf-8") as f:
             terms = [line.strip() for line in f.readlines()]
 
         generate_definitions(terms, DEFINITIONS_FILE)
