@@ -1,0 +1,225 @@
+Disease
+Disorder
+Arrhythmia
+Aortic Disease
+Abdominal aortic aneurysm
+Thoracic aortic aneurysm
+Ascending aortic aneurysm
+Descending thoracic aortic aneurysm
+Aortic arch aneurysm
+Aortic root aneurysm
+Aortic dissection
+Aortic intramural hematoma
+Aortic rupture
+Aortopathy
+Peripheral Vascular Disease
+Peripheral arterial disease
+Peripheral artery disease
+Critical limb ischemia
+Large-Vessel Atherosclerotic Disease
+Atherosclerosis
+Atrial Arrhythmias
+Atrial fibrillation
+Atrial flutter
+Supraventricular Arrhythmias
+Supraventricular tachycardia
+Ventricular Arrhythmias
+Ventricular tachycardia
+Ventricular fibrillation
+Conduction System Disorder
+Sick sinus syndrome
+Coronary Ischemic Disease
+Coronary artery disease
+Ischemic heart disease
+Ischemia with nonobstructive coronary arteries
+Myocardial ischemia
+Acute Coronary Syndrome
+Unstable angina
+Myocardial infarction
+Chronic Ischemic Syndrome
+Stable angina
+Cerebrovascular Ischemic Disease
+Ischemic stroke
+Hemorrhagic stroke
+Atherosclerosis
+Ischemic disease
+Heart Failure
+Heart failure with reduced ejection fraction
+Ischemic heart failure
+Cardiogenic shock
+Cardiomyopathy
+Primary Cardiomyopathy
+Dilated cardiomyopathy
+Hypertrophic cardiomyopathy
+Restrictive cardiomyopathy
+Arrhythmogenic right ventricular cardiomyopathy
+Left ventricular noncompaction
+Secondary Cardiomyopathy
+Ischemic cardiomyopathy
+Cardiac amyloidosis
+Cardiac sarcoidosis
+Familial Cardiomyopathy
+Ventricular Structural Disorder
+Ventricular Hypertrophy
+Left ventricular hypertrophy
+Right ventricular hypertrophy
+Ventricular Noncompaction
+Left Ventricular Noncompaction
+Right Ventricular Noncompaction
+Ventricular Functional Disorder
+Ventricular Dysfunction
+Left Ventricular Dysfunction
+Right Ventricular Dysfunction
+Ventricular Failure
+Left Ventricular Failure
+Right Ventricular Failure
+Valvular Heart Diseases
+Aortic Valve Disease
+Aortic valve disease
+Aortic stenosis
+Low-gradient aortic stenosis
+Low-flow low-gradient aortic stenosis
+Aortic regurgitation
+Mitral Valve Disease
+Mitral regurgitation
+Mitral stenosis
+Mitral valve prolapse
+Tricuspid valve disease
+Tricuspid regurgitation
+Tricuspid stenosis
+Pulmonary Valve Disease
+Pulmonary stenosis
+Pulmonary regurgitation
+Congenital Heart Disease
+Septal defect
+Cardiac Shunt
+Atrial septal defect
+Ventricular septal defect
+Patent foramen ovale
+Intracardiac shunt
+Right-to-left shunt
+Congenital Heart Defect
+Patent ductus arteriosus
+Outflow Tract Obstruction
+Subaortic stenosis
+Supravalvar aortic stenosis
+Pulmonary artery stenosis
+Pulmonary atresia
+Great Vessel Structural Anomaly
+Coarctation of the aorta
+Complex Congenital Heart Disease
+Tetralogy of Fallot
+Transposition of the great arteries
+Truncus arteriosus
+Double outlet right ventricle
+Valvular Malformation
+Ebstein anomaly
+Non-Valvular Structural Malformation
+Cor triatriatum
+Metric
+Risk Estimation
+Prediction Metric
+10-year ASCVD risk
+20-year ASCVD risk
+ASCVD risk
+Atherosclerotic cardiovascular disease risk
+Risk estimate
+High cardiovascular risk
+High-risk ASCVD
+High-risk cardiovascular profile
+Cardiovascular risk assessment
+Cardiovascular risk estimation
+Cardiovascular risk prediction
+Cardiovascular risk scores
+Cardiovascular risk stratification
+MACE score
+Gender-specific risk models
+Risk Factor
+Behavioral Risk Factor
+Tobacco Use
+Alcohol consumption
+Substance use
+Electronic Cigarette Use
+Lifestyle Risk Factors
+Physical Activity
+Diet
+High-fat diet
+Whole-grain diet
+Healthy diet
+Unhealthy diet
+Weight management
+Social Determinants of Health
+Socioeconomic status
+Food access
+Food insecurity
+Food security
+Environmental Determinants of Health
+Air pollution exposure
+Demographic Risk Factor
+Age
+Sex
+Male
+Female
+Gender
+Man
+Woman
+Non-binary
+Ethnicity
+Race
+Biological Risk Factors
+Early menopause
+Early age of disease onset
+Genetic predisposition
+Family history of cardiovascular disease
+Glycemic Disorder
+Diabetes Mellitus
+Type 1 diabetes mellitus
+Type 2 diabetes mellitus
+Glycemic control
+Glucose Level
+Metabolic Risk Factor
+Lipid Disorder
+Dyslipidemia
+Hyperlipidemia
+Hypercholesterolemia
+Hypertriglyceridemia
+Adiposity
+Overweight
+Obesity
+Central Adiposity
+Visceral Adiposity
+Central Obesity
+Physiologic Risk Factor
+Hypertension
+Hypotension
+Chronic kidney disease
+Renal failure
+Obstructive sleep apnea
+Frailty
+Biomarker
+C-reactive protein
+N-terminal pro–B-type natriuretic peptide (NT-proBNP)
+Hemoglobin A1c
+Serum creatinine
+Clinical Measurement
+Physiologic Measurement
+Blood pressure
+Resting heart rate
+Anthropometric Measurements
+Body mass index
+Waist circumference
+Waist-hip ratio
+Electrocardiogram
+Functional Capacity
+Functional Test
+Diagnostic Test
+Intervention
+Lifestyle Intervention
+Therapeutic Intervention
+Nutrition counseling
+Weight Management
+Weight Loss
+Clinical Management
+Diabetes management
+Weight assessment
+Statin therapy
