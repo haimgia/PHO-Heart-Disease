@@ -1,17 +1,20 @@
 from extractor import extract_text
 from cleaner import clean_extracted_terms, semantic_matching
+from classifier import generate_definitions
 import os
 
 EXTRACT_TERMS = False
 CLEAN_TERMS = False
-SEMANTIC_MATCHING = True
+SEMANTIC_MATCHING = False
+DEFINING_CONCEPTS = True
 
 #PDF = "AHA_clinical_guidelines\Heart Failure Clinical Guidelines.pdf"
 CLINICAL_GUIDELINES_FOLDER = "AHA_clinical_guidelines"
 EXTRACTED_TERMS_FOLDER = "extracted_terms_1.txt"
 COMBINED_TERMS_FILE = "combined_extracted_terms.txt"
 FINAL_TERMS_FILE = "canonical_terms_2.txt"
-CANONICAL_TERMS_FILE = "canonical_terms_3.txt"
+CANONICAL_TERMS_FILE = "canonical_terms_5.txt"
+DEFINITIONS_FILE = "definitions.txt"
 
 FINISHED_FILES = ["Acute Myocarditis Clinical Guidelines.pdf",
                   "Aortic Disease Clinical Guidelines.pdf",
@@ -99,3 +102,9 @@ if __name__ == "__main__":
             terms = [line.strip() for line in f.readlines()]
 
         semantic_matching(terms, USE_CASE, CANONICAL_TERMS_FILE)
+
+    if DEFINING_CONCEPTS:
+        with open(DEFINITIONS_FILE, "r", encoding="utf-8") as f:
+            terms = [line.strip() for line in f.readlines()]
+
+        generate_definitions(terms, DEFINITIONS_FILE)
